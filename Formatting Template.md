@@ -50,9 +50,12 @@ $$
 Above is LaTeX
 
 $$
-\\begin{array}{cc}
-
-\end{array}{cc}
+\begin{bmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{bmatrix}
 $$
+
 
 Continued...
