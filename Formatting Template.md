@@ -44,4 +44,4 @@ Here is a way to sync notes across devices through [Github](https://youtu.be/Imr
 
 ![[Pasted image 20250825033024.png]]
 
-Continued...w
+Continued...
