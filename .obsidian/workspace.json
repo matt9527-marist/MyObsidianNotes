@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formatting Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formatting Template"
+              "title": "README"
             }
           }
         ]
@@ -170,13 +170,13 @@
   },
   "active": "958b84762ec39887",
   "lastOpenFiles": [
+    "Formatting Template.md",
+    "README.md",
     "Sec Prot and Algorithms",
     "Parallel Processing",
     "Machine Learning",
     "Assets/Pasted image 20250825020445.png",
     "Assets/Pasted image 20250825020441.png",
-    "Assets",
-    "README.md",
-    "Formatting Template.md"
+    "Assets"
   ]
 }
