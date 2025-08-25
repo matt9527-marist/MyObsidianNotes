@@ -32,7 +32,6 @@ If on your system, we have a GPU available, we have various architectures that a
 13. GPU Profiling and Tools 
 
 Introductory C++ program:
-
 ```c++
 #include <iostream>
 
@@ -41,4 +40,5 @@ int main() {
 }
 
 ```
+When compiling our code, we want to explicitly call c++23 in the command. 
 
