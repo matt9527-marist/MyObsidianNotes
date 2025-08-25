@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formatting Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Formatting Template"
-            }
-          },
-          {
-            "id": "0ec93037c80f4507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Machine Learning/8.25 - Intro.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "8.25 - Intro"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,14 +170,14 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "0ec93037c80f4507",
+  "active": "f881cc404dcdb8c3",
   "lastOpenFiles": [
+    "Formatting Template.md",
+    "Machine Learning/8.25 - Intro.md",
     "Assets/Pasted image 20250825172417.png",
     "Assets/Pasted image 20250825172310.png",
     "Assets/Pasted image 20250825172207.png",
     "Assets/Pasted image 20250825172007.png",
-    "Formatting Template.md",
-    "Machine Learning/8.25 - Intro.md",
     "Assets/Pasted image 20250825171112.png",
     "Assets/Pasted image 20250825170834.png",
     "Assets/Pasted image 20250825170340.png",
@@ -201,7 +186,6 @@
     "Assets/Pasted image 20250825033024.png",
     "Assets/Pasted image 20250825032959.png",
     "Assets/Pasted image 20250825020445.png",
-    "Assets/Pasted image 20250825020441.png",
     "Machine Learning/Test.md",
     "Parallel Processing/Test.md",
     "Sec Prot and Algorithms/Test.md",
