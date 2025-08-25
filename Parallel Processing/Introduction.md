@@ -19,8 +19,8 @@ Not using all of C++, only the components and libraries relevant to parallel pro
 5. Parallel algorithms and patterns.
 **CPU: Parallel Workhorse**
 Exploring how to write code on multi-core systems with computers that have multiple CPUs in clusters.
-6. Vectorization: FLOPs for free
-7. OpenMP: Performs
+6. Vectorization: FLOPs for free. How can we represent commands/program executions as vectors?
+7. OpenMP: Performs with multithreading
 8. MPI: Parallel Backbone
 **GPUs: For Acceleration**
 9. GPU Architectures and Concepts
