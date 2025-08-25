@@ -6,4 +6,6 @@ Not using all of C++, only the components and libraries relevant to parallel pro
 - C++ 
 - CMake and Catch 2
 	- Used for providing us structure for writing and deploying applications. 
-	- Makes 
+	- Makes things significantly easier. 
+- Object Oriented Programming
+
