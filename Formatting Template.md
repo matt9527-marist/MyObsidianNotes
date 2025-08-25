@@ -64,7 +64,6 @@ $$
 1 & 2 & 3 & 4
 \end{matrix}$$
 
-Above 
-
+Above are LaTeX matrices
 
 Continued...

@@ -180,7 +180,8 @@
       "bases:Create new base": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
   "active": "f881cc404dcdb8c3",
