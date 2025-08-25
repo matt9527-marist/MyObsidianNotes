@@ -11,6 +11,7 @@ Not using all of C++, only the components and libraries relevant to parallel pro
 	- Not typically for parallel processing, but libraries still use them to build upon baseline C++. The basic program structure is all C++.
 
  **Introduction to Parallel Computing**
+ We will begin by writing C++ programs
 1. Parallel Computing
 2. Planning for Parallelization
 3. Performance Limits and Profiling
