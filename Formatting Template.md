@@ -49,4 +49,10 @@ $$
 $$
 Above is LaTeX
 
+$$
+\[
+
+]
+$$
+
 Continued...
