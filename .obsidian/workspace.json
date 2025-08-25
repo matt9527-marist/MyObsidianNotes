@@ -35,8 +35,7 @@
               "title": "8.25 - Intro"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "74b09e6a1e59676f",
+  "active": "f881cc404dcdb8c3",
   "lastOpenFiles": [
-    "Formatting Template.md",
     "Machine Learning/8.25 - Intro.md",
+    "Formatting Template.md",
     "Machine Learning",
     "README.md",
     "Assets/Pasted image 20250825033024.png",
