@@ -12,7 +12,8 @@
   "knownTags": {
     "java": 1,
     "help": 2,
-    "tag": 3
+    "tag": 3,
+    "SupervisedLearning": 4
   },
   "_version": 3
 }
