@@ -1,0 +1,45 @@
+---
+
+---
+^ This is the note title
+
+This is some text
+# This is Heading 1
+
+## This is Heading 2
+
+This is **bold**
+This is *italics
+- Bullet
+	- Bullet 2
+		- Bullet 3
+
+> This is a block. 
+> This can also be a list
+
+`This is code text`
+
+```
+This is a code block
+```
+
+```java
+public class JavaClass{
+  protected JavaClass(int x){}
+  public void main(String[] args){
+  }
+}
+``` 
+Above is an embedded block of **Java** code. 
+
+This is a #tag
+Clicking on a #tag will search Obsidian for other notes with the tag.
+
+New notes can be encased in "[[]]" and will automatically be linked.
+
+This is the link for [MermaidJS Charts](https://mermaid.js.org/intro/)
+
+Here is a way to sync notes across devices through [Github](https://youtu.be/ImrLbomFYA0)
+
+
+
