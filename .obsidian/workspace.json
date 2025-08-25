@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formatting Template.md",
+                "file": "Machine Learning/8.25 - Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formatting Template"
+              "title": "8.25 - Intro"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,10 +185,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "bb591b961291a489",
   "lastOpenFiles": [
-    "Machine Learning/8.25 - Intro.md",
     "Formatting Template.md",
+    "Machine Learning/8.25 - Intro.md",
     "Machine Learning",
     "README.md",
     "Assets/Pasted image 20250825033024.png",
