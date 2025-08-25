@@ -50,9 +50,9 @@ $$
 Above is LaTeX
 
 $$
-\[
+\\begin{array}{cc}
 
-]
+\end{array}{cc}
 $$
 
 Continued...
