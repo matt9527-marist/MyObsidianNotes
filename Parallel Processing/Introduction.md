@@ -8,4 +8,4 @@ Not using all of C++, only the components and libraries relevant to parallel pro
 	- Used for providing us structure for writing and deploying applications. 
 	- Makes things significantly easier. 
 - Object Oriented Programming
-	- Not typically for parallel processing, but libraries still use them to build upon baseline C++.
+	- Not typically for parallel processing, but libraries still use them to build upon baseline C++. The basic program structure is all C++
