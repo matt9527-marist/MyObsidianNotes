@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "ad49942a80e3933e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ba420906173e8ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "957902c8f47caa68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4eca86df483cc2c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2097a63b53d6a25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2898f0d8b2a5eb1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74029426b9b18857",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f88782073debebb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "c06fa84e1b93712d",
+    "type": "split",
+    "children": [
+      {
+        "id": "488761eec8d1affb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73c89d71d47ee34d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Formatting Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Formatting Template"
+            }
+          },
+          {
+            "id": "342a5f7aedc5ba8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Formatting Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Formatting Template"
+            }
+          },
+          {
+            "id": "29f386a2d31a8d95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "651c8f0407997227",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "school/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "957902c8f47caa68",
+  "lastOpenFiles": [
+    "school/Formatting Template.md",
+    "school/README.md",
+    "school",
+    "Untitled",
+    "Bug.md",
+    "wjw.md",
+    "kava.md",
+    "All.md",
+    "school/Parallel Processing",
+    "school/Sec Prot and Algorithms",
+    "school/Machine Learning",
+    "school/Assets/Pasted image 20250825020445.png",
+    "school/Assets/Pasted image 20250825020441.png",
+    "school/Assets"
+  ]
+}

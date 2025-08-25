@@ -1,0 +1,19 @@
+{
+  "editor:insert-horizontal-rule": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ]
+}
