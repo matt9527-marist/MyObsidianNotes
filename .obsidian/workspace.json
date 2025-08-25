@@ -163,11 +163,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f881cc404dcdb8c3",
+  "active": "bb6cd15ae1c6427b",
   "lastOpenFiles": [
+    "Untitled",
     "README.md",
     "Formatting Template.md",
     "Assets/Pasted image 20250825033024.png",
