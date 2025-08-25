@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +184,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "bb591b961291a489",
+  "active": "f881cc404dcdb8c3",
   "lastOpenFiles": [
     "Formatting Template.md",
     "Machine Learning/8.25 - Intro.md",
