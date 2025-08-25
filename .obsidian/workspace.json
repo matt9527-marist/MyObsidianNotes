@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "ad49942a80e3933e",
+    "id": "cda57c98c781cc08",
     "type": "split",
     "children": [
       {
-        "id": "3ba420906173e8ba",
+        "id": "d8b69ca68302d9ef",
         "type": "tabs",
         "children": [
           {
-            "id": "957902c8f47caa68",
+            "id": "958b84762ec39887",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formatting Template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Formatting Template"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4eca86df483cc2c1",
+    "id": "dab4155a4d6b2b14",
     "type": "split",
     "children": [
       {
-        "id": "2097a63b53d6a25f",
+        "id": "36eff45a727868c4",
         "type": "tabs",
         "children": [
           {
-            "id": "2898f0d8b2a5eb1f",
+            "id": "bb6cd15ae1c6427b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "74029426b9b18857",
+            "id": "bb591b961291a489",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "1f88782073debebb",
+            "id": "4d49f8d4e361436c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 300
   },
   "right": {
-    "id": "c06fa84e1b93712d",
+    "id": "b493296e4a3c26cd",
     "type": "split",
     "children": [
       {
-        "id": "488761eec8d1affb",
+        "id": "5475577e46f8df65",
         "type": "tabs",
         "children": [
           {
-            "id": "73c89d71d47ee34d",
+            "id": "d01affadac9a0efe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formatting Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Formatting Template"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "342a5f7aedc5ba8a",
+            "id": "91c97a73a0b0a151",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formatting Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Formatting Template"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "29f386a2d31a8d95",
+            "id": "2debd0b98bc02ac5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +131,20 @@
             }
           },
           {
-            "id": "651c8f0407997227",
+            "id": "3dd329923112fa81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,32 +153,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "957902c8f47caa68",
+  "active": "958b84762ec39887",
   "lastOpenFiles": [
-    "school/Formatting Template.md",
-    "school/README.md",
-    "school",
-    "Untitled",
-    "Bug.md",
-    "wjw.md",
-    "kava.md",
-    "All.md",
-    "school/Parallel Processing",
-    "school/Sec Prot and Algorithms",
-    "school/Machine Learning",
-    "school/Assets/Pasted image 20250825020445.png",
-    "school/Assets/Pasted image 20250825020441.png",
-    "school/Assets"
+    "Sec Prot and Algorithms",
+    "Parallel Processing",
+    "Machine Learning",
+    "Assets/Pasted image 20250825020445.png",
+    "Assets/Pasted image 20250825020441.png",
+    "Assets",
+    "README.md",
+    "Formatting Template.md"
   ]
 }
