@@ -10,6 +10,7 @@ Not using all of C++, only the components and libraries relevant to parallel pro
 - Object Oriented Programming
 	- Not typically for parallel processing, but libraries still use them to build upon baseline C++. The basic program structure is all C++.
 
+Course Content:
  **Introduction to Parallel Computing**
  We will begin by writing C++ programs and then planning how to make them parallel by observing the most expensive parts of the programs and balancing how they operate together. 
 1. Parallel Computing
@@ -29,3 +30,4 @@ If on your system, we have a GPU available, we have various architectures that a
 11. Directive-based GPU Programming
 12. GPU Languages
 13. GPU Profiling and Tools 
+
