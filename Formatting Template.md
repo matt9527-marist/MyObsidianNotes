@@ -42,5 +42,6 @@ This is the link for [MermaidJS Charts](https://mermaid.js.org/intro/)
 Here is a way to sync notes across devices through [Github](https://youtu.be/ImrLbomFYA0)
 **When using this method, the video specifies using a single folder inside of the root vault itself for cloning the repo. After cloning the repo, you can get around this simply by moving the .obsidian file denoting the vault inside of that folder, and then replacing the folder that the vault is originally contained in with the folder.**
 
-The image here is an asset. It is stored in /assets
 ![[Pasted image 20250825033024.png]]
+
+Continued...
