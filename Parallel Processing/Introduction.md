@@ -31,3 +31,14 @@ If on your system, we have a GPU available, we have various architectures that a
 12. GPU Languages
 13. GPU Profiling and Tools 
 
+Introductory C++ program:
+
+```c++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World\n";
+}
+
+```
+
