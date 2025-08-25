@@ -23,6 +23,7 @@ Exploring how to write code on multi-core systems with computers that have multi
 7. OpenMP: Performs with multithreading
 8. MPI: Parallel Backbone
 **GPUs: For Acceleration**
+If on your system, we have a GPU available, we have various architectures that allow us to accelerate the processes. We do profiling to check if the programs are using the available resources. 
 9. GPU Architectures and Concepts
 10. GPU Programming Model
 11. Directive-based GPU Programming
