@@ -18,7 +18,7 @@ Not using all of C++, only the components and libraries relevant to parallel pro
 4. Data design and performance models
 5. Parallel algorithms and patterns.
 **CPU: Parallel Workhorse**
-
+Exploring how to write code on multi-core sy
 6. Vectorization: FLOPs for free
 7. OpenMP: Performs
 8. MPI: Parallel Backbone
