@@ -78,4 +78,8 @@ Suppose we have a problem:
 We have two countries, *Posistan* and *Negaland*, with two major cities *Positiville* and *Negapolis*. How do we determine the border between these two countries using just these two major cities' locations. 
 
 Of course, we cannot know for sure, but we can use the nearest neighbor algorithm to generalize. 
-- Assume that a point on the map is in Posistan if it is closer to some positive ci
+- Assume that a point on the map is in Posistan if it is closer to some positive city than to any negative city
+- Divide the map into the neighborhood of each city, and Posistan will be the UNION of neighborhoods of the positive cities. 
+- As a result, we can find a jagged straight line frontier.
+
+
