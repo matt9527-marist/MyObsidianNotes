@@ -21,4 +21,8 @@ Most of the knowledge in the world in the future may be extracted by machines.
 
 Five Tribes of Machine Learning:
 ![[Pasted image 20250826170819.png]]
-Each of these master algo
+Each of these master algorithms has a mathematical proof claiming that, given enough data, the machine can learn anything. 
+
+### Symbolists
+Think of learning as being the inverse of deduction. Learning is *induction* of knowledge. *Deduction* is going from general rules to specific facts. 
+
