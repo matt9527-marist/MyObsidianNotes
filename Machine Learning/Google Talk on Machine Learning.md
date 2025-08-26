@@ -50,4 +50,8 @@ To do this *we compute the derivative of each neuron going backwards in the netw
 If we want to learn very powerful things, we want to understand evolution and apply it to the computer. 
 This is **Genetic Algorithms**
 
-Consider a population of individuals, each of which is described by its **genome**. In the computer this will
+Consider a population of individuals, each of which is described by its **genome**. In the computer this will be base pairs, 0 and 1. Each individual will go out in the world and be evaluated in the task that it is meant to complete. Individuals that do better will have a higher fitness and have a higher chance at being parents of the next generation. 
+
+We will have random mutation on the base pairs. 
+
+Once we have enough generations of th
