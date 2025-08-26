@@ -65,5 +65,6 @@ Functions must be declared in the right order they are being called, or they mus
 These are .h files. This is one solution we can implement to have all function declarations inherited. 
 • Prevent clutter by housing function declarations separate  
 from .cpp definitions.  
-• .h file to include function declarations and  
-• .cpp to include function definitions.
+	• .h file to include function declarations and  
+	• .cpp to include function definitions.
+
