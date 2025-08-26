@@ -57,4 +57,7 @@ We will have random mutation on the base pairs.
 Once we have enough generations of this, the machine can be observed to perform certain tasks a lot better. 
 
 ### Bayesians
-Root computer learning in statistics. 
+Root computer learning in statistics. Everything that we learn is uncertain, so we have to compute the probability of each one of our hypotheses and update it as new evidence comes on. 
+
+**Bayes' Theorem**
+$\frac{A}{#}
