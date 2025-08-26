@@ -59,4 +59,11 @@ int main() {
 	std::cout << GenerateWelcomeMessage(userName) << "\n";  
 }
 ```
-Functions must be declared in the right order they are being called, or they must be all declared 
+Functions must be declared in the right order they are being called, or they must be all declared as prototypes at the top of the code. 
+
+**Header Files**
+These are .h files. This is one solution we can implement to have all function declarations inherited. 
+• Prevent clutter by housing function declarations separate  
+from .cpp definitions.  
+• .h file to include function declarations and  
+• .cpp to include function definitions.
