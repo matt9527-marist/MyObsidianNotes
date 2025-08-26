@@ -25,4 +25,7 @@ Each of these master algorithms has a mathematical proof claiming that, given en
 
 ### Symbolists
 Think of learning as being the inverse of deduction. Learning is *induction* of knowledge. *Deduction* is going from general rules to specific facts. 
+In this same manner, we can approach this idea with mathematics, in the same way that subtraction is the inverse of addition. 
+
+![[Pasted image 20250826171044.png]]
 
