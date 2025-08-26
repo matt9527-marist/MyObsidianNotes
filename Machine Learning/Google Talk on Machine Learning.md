@@ -54,4 +54,4 @@ Consider a population of individuals, each of which is described by its **genome
 
 We will have random mutation on the base pairs. 
 
-Once we have enough generations of this. 
+Once we have enough generations of this, the machine
