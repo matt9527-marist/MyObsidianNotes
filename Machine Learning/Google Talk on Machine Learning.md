@@ -9,4 +9,8 @@ Each form of knowledge discovery is orders of magnitude faster than the previous
 Most of the knowledge in the world in the future may be extracted by machines.
 
 **How do computers discover new knowledge?**
-1) 
+1) Filling gaps in existing knowledge
+	- We make observations and then find ways to adapt them and explain them
+2) Simulating the brain
+3) Simulating evolution
+	- By some standards, evolution is even greater learning algorithm 
