@@ -39,3 +39,7 @@ Build a mathematical model of how a single neuron works. The strength of human l
 
 With artificial neurons, we will use a weighted combination of inputs. Depending on how strong the synpase is for that input, the neuron will "fire" as 1, and otherwise it will be 0.
 
+What problem is there here? Suppose we have a very large, messy network. Think of one neuron in one area of the network leading to a network. This is the **Error-Assignment Problem**
+
+This is solved using **Backpropagation**
+
