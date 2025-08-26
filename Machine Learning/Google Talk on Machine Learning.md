@@ -56,3 +56,5 @@ We will have random mutation on the base pairs.
 
 Once we have enough generations of this, the machine can be observed to perform certain tasks a lot better. 
 
+### Bayesians
+Root computer learning in statistics. 
