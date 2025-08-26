@@ -68,4 +68,6 @@ How does this work?
 Suppose we have all of our hypotheses.
 1) We have a prior probability - how much we believe in the hypothesis before seeing anything. 
 2) As the evidence comes in, we update the probability of each hypothesis. The hypothesis consistent with the data will see its probability go up, and the hypothesis inconsistent with data vice versa. 
-3) 
+3) The product of the likelihood and the prior is the posterior, which is how much we believe the hypothesis after seeing the evidence. 
+4) The marginal ensures the probabilities sum to 1. 
+
