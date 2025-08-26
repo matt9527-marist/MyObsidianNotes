@@ -74,3 +74,5 @@ Suppose we have all of our hypotheses.
 ## Analogizers 
 Everything that we do and learn is reasoning by analogy. Look at similarities between the new situation that we need to make a decision in and situations that we already familiar with.
 
+Suppose we have a problem:
+We have two major cities,
