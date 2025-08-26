@@ -66,4 +66,6 @@ $$
 How does this work?
 ![[Pasted image 20250826175852.png]]
 Suppose we have all of our hypotheses.
-1) We have a prior probability - how much we beli
+1) We have a prior probability - how much we believe in the hypothesis before seeing anything. 
+2) As the evidence comes in, we update the probability of each hypothesis. The hypothesis consistent with the data will see its probability go up, and the hypothesis inconsistent with data vice versa. 
+3) 
