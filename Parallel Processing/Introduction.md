@@ -59,3 +59,4 @@ int main() {
 	std::cout << GenerateWelcomeMessage(userName) << "\n";  
 }
 ```
+Functions must be declared in the right order they are being called, or they must be all declared 
