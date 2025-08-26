@@ -90,7 +90,9 @@ Recommendation systems are a common real life example of analogy-based systems.
 Each tribe has its own solution that best deals with one of five problems. 
 We want to look for a single algorithm for machine learning that can solve all 5 of these problems at the same time. 
 
+**Putting the Pieces Together**
 
+*Repres*
 
 
 
