@@ -92,7 +92,11 @@ We want to look for a single algorithm for machine learning that can solve all 5
 
 **Putting the Pieces Together**
 
-*Repres*
-
-
-
+*Representation* 
+- Probabilistic logic
+- Weighted formulas --> distribution over states
+*Evaluation*
+- Posterior probability
+- User-defined objective function 
+*Optimization*
+- 
