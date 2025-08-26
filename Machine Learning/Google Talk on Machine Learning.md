@@ -43,3 +43,5 @@ What problem is there here? Suppose we have a very large, messy network. Think o
 
 This is solved using **Backpropagation**
 
+Consider the difference between the actual output and our desired output. How do we know what to tweak in the weights to reduce the cumulative error. 
+To do this *we compute the derivative of each neuron going backwards in the network to the input*. 
