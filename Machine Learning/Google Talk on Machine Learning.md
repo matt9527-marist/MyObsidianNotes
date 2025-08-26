@@ -82,4 +82,7 @@ Of course, we cannot know for sure, but we can use the nearest neighbor algorith
 - Divide the map into the neighborhood of each city, and Posistan will be the UNION of neighborhoods of the positive cities. 
 - As a result, we can find a jagged straight line frontier.
 
+Recommendation systems are a common real life example of analogy-based systems. 
+
+
 
