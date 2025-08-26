@@ -47,4 +47,7 @@ Consider the difference between the actual output and our desired output. How do
 To do this *we compute the derivative of each neuron going backwards in the network to the input*. We are propagating back the errors and then progressively changing the weights to get the desired output. 
 
 ### Evolutionaries 
-If we want to learn very powerful things, we want to understand 
+If we want to learn very powerful things, we want to understand evolution and apply it to the computer. 
+This is **Genetic Algorithms**
+
+Consider a population of individuals, each of which is described by its **genome**. In the computer this will
