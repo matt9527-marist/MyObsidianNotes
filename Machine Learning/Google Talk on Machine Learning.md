@@ -72,4 +72,5 @@ Suppose we have all of our hypotheses.
 4) The marginal ensures the probabilities sum to 1. 
 
 ## Analogizers 
-Everything that we do and learn is reasoning by analogy. Look at similarities between the new situation that we need to make a decision in and th
+Everything that we do and learn is reasoning by analogy. Look at similarities between the new situation that we need to make a decision in and situations that we already familiar with.
+
