@@ -63,3 +63,7 @@ Root computer learning in statistics. Everything that we learn is uncertain, so 
 $$
 P(A|B) = \frac{P(B|A) P(A)}{P(B)}
 $$
+How does this work?
+![[Pasted image 20250826175852.png]]
+Suppose we have all of our hypotheses.
+1) We have a prior probability - how much we beli
