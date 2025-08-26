@@ -75,4 +75,4 @@ Suppose we have all of our hypotheses.
 Everything that we do and learn is reasoning by analogy. Look at similarities between the new situation that we need to make a decision in and situations that we already familiar with.
 
 Suppose we have a problem:
-We have two major cities,
+We have two countries, *Posistan* and *Negaland*, with two major cities *Positiville* and *Negapolis*. How do we determine the border between these two countries using just these two major cities
