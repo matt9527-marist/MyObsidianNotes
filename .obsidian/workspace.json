@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "128c9ad3e2df981b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Parallel Processing/Introduction.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,37 +157,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "bases:Create new base": false
     }
   },
-  "active": "128c9ad3e2df981b",
+  "active": "f881cc404dcdb8c3",
   "lastOpenFiles": [
-    "Machine Learning/Introduction.md",
-    "Parallel Processing/Introduction.md",
-    "Parallel Processing",
     "Formatting Template.md",
+    "Parallel Processing/Introduction.md",
+    "Machine Learning/Introduction.md",
     "Assets/Pasted image 20250825174542.png",
     "Assets/Pasted image 20250825173609.png",
     "Assets/Pasted image 20250825173048.png",
-    "Assets/Pasted image 20250825173041.png",
-    "Assets/Pasted image 20250825173024.png",
-    "Assets/Pasted image 20250825172751.png",
-    "Assets/Pasted image 20250825172417.png",
-    "Assets/Pasted image 20250825172310.png",
-    "Assets/Pasted image 20250825172207.png",
-    "Assets/Pasted image 20250825172007.png",
-    "Machine Learning",
     "README.md",
+    "Assets/Pasted image 20250825033024.png",
+    "Assets/Pasted image 20250825032959.png",
+    "Assets/Pasted image 20250825020445.png",
+    "Assets/Pasted image 20250825020441.png",
     "Machine Learning/Test.md",
     "Parallel Processing/Test.md",
     "Sec Prot and Algorithms/Test.md",
