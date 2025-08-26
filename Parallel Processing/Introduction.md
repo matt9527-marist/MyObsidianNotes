@@ -46,13 +46,13 @@ Initial greeting program to further test:
 ```c++
 #include <iostream>  
 #include <string>  
+std::string CreateGreeting(const std::string userName){  
+	return "Hello, " + userName + "!";  
+}  
 std::string GenerateWelcomeMessage(const std::string userName){  
 	std::string greeting = CreateGreeting(userName);  
 	greeting += " Welcome to the class!";  
 	return greeting;  
-}  
-	std::string CreateGreeting(const std::string userName){  
-	return "Hello, " + userName + "!";  
 }  
 int main() {  
 	std::string userName = "MSCS 679L”;  
