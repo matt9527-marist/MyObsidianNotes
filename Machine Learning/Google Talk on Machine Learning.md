@@ -32,3 +32,8 @@ Of course, we will use many more examples than just one data point (Socrates).
 Also, this is in English, but we can extend this principle to logic or other natural languages. 
 This is the closest to the studies of computer scientists. 
 
+### Connectionists 
+Simulating the brain, founded ideas with neuroscience. 
+
+Build a mathematical model of how a single neuron works. 
+**Neuron** - 
