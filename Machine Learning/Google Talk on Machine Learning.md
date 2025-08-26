@@ -17,4 +17,8 @@ Most of the knowledge in the world in the future may be extracted by machines.
 4) Systematically reduce uncertainty
 	- Realize that all knowledge learned is necessarily uncertain.
 5) Reason by analogy
-		1) 
+	- Transfer situations that we know to situations we are faced with
+
+Five Tribes of Machine Learning:
+![[Pasted image 20250826170819.png]]
+Each of these master algo
