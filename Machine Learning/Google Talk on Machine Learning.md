@@ -28,4 +28,5 @@ Think of learning as being the inverse of deduction. Learning is *induction* of 
 In this same manner, we can approach this idea with mathematics, in the same way that subtraction is the inverse of addition. 
 
 ![[Pasted image 20250826171044.png]]
-
+Of course, we will use many more examples than just one data point (Socrates).
+Also, this is in English, but we can extend this princ
