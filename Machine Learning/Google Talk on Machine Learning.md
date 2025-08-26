@@ -37,4 +37,5 @@ Simulating the brain, founded ideas with neuroscience.
 
 Build a mathematical model of how a single neuron works. The strength of human learning is encoded in the synpases between the neurons. 
 
-With artificial neurons, we will use a weighted combination of the inputs. 
+With artificial neurons, we will use a weighted combination of inputs. Depending on how strong the synpase is for that input, the neuron will "fire" as 1, and otherwise it will be 0.
+
