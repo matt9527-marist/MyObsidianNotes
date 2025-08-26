@@ -35,5 +35,5 @@ This is the closest to the studies of computer scientists.
 ### Connectionists 
 Simulating the brain, founded ideas with neuroscience. 
 
-Build a mathematical model of how a single neuron works. 
-**Neuron** - 
+Build a mathematical model of how a single neuron works. The strength of human learning is encoded in the synpases between the neurons. 
+
