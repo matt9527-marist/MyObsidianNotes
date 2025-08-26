@@ -37,3 +37,4 @@ Simulating the brain, founded ideas with neuroscience.
 
 Build a mathematical model of how a single neuron works. The strength of human learning is encoded in the synpases between the neurons. 
 
+With artificial neurons, we will use a weighted combination of the inputs. 
