@@ -42,3 +42,21 @@ int main() {
 ```
 When compiling our code, we want to explicitly call c++23 in the command. 
 
+Initial greeting program to further test:
+```c++
+#include <iostream>  
+#include <string>  
+std::string GenerateWelcomeMessage(const std::string userName){  
+	std::string greeting = CreateGreeting(userName);  
+	greeting += " Welcome to the class!";  
+	return greeting;  
+}  
+	std::string CreateGreeting(const std::string userName){  
+	return "Hello, " + userName + "!";  
+}  
+int main() {  
+	std::string userName = "MSCS 679L”;  
+	std::cout << GenerateWelcomeMessage(userName) << "\n";  
+}
+```
+
