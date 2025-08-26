@@ -84,5 +84,7 @@ Of course, we cannot know for sure, but we can use the nearest neighbor algorith
 
 Recommendation systems are a common real life example of analogy-based systems. 
 
+![[Pasted image 20250826181637.png]]
+
 
 
