@@ -99,4 +99,6 @@ We want to look for a single algorithm for machine learning that can solve all 5
 - Posterior probability
 - User-defined objective function 
 *Optimization*
-- 
+- Formula discovery: Genetic Programming 
+- Weighted Learning: Backpropagation
+
