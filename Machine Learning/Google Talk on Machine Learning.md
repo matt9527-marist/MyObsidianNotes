@@ -14,3 +14,7 @@ Most of the knowledge in the world in the future may be extracted by machines.
 2) Simulating the brain
 3) Simulating evolution
 	- By some standards, evolution is even greater learning algorithm 
+4) Systematically reduce uncertainty
+	- Realize that all knowledge learned is necessarily uncertain.
+5) Reason by analogy
+		1) 
