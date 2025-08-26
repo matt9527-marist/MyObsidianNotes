@@ -60,4 +60,6 @@ Once we have enough generations of this, the machine can be observed to perform 
 Root computer learning in statistics. Everything that we learn is uncertain, so we have to compute the probability of each one of our hypotheses and update it as new evidence comes on. 
 
 **Bayes' Theorem**
-$\frac{A}{#}
+$$
+P(A|B) = \frac{P(B|A) P(A)}{P(B)}
+$$
