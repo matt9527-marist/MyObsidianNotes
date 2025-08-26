@@ -71,3 +71,5 @@ Suppose we have all of our hypotheses.
 3) The product of the likelihood and the prior is the posterior, which is how much we believe the hypothesis after seeing the evidence. 
 4) The marginal ensures the probabilities sum to 1. 
 
+## Analogizers 
+Everything that we do and learn is reasoning by analogy. Look at similarities between the new situation that we need to make a decision in and th
