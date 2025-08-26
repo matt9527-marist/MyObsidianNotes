@@ -29,4 +29,6 @@ In this same manner, we can approach this idea with mathematics, in the same way
 
 ![[Pasted image 20250826171044.png]]
 Of course, we will use many more examples than just one data point (Socrates).
-Also, this is in English, but we can extend this princ
+Also, this is in English, but we can extend this principle to logic or other natural languages. 
+This is the closest to the studies of computer scientists. 
+
