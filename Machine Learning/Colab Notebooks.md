@@ -4,4 +4,9 @@
 
 [Visualization ](https://gist.github.com/eitellauria/93e37772e059825f04f4d7179f006812)
 
-Pandas (shortened)
+[Pandas (shortened)](https://gist.github.com/eitellauria/39dd4624cbf507548f09781aa3a0b0d3)
+
+[Pandas (comprehensive)](https://gist.github.com/eitellauria/39dd4624cbf507548f09781aa3a0b0d3)
+
+[Vectors and Matrices](https://gist.github.com/eitellauria/73a3a7156d37e637e2f33175a7786db5)
+
