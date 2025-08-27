@@ -25,3 +25,8 @@ As an additional application of a dot product.
 **Rank** is involved in dimensionality reduction (PCA). Models can suffer from redundancy in features, which can mean the wasting of resources for computation. 
 
 These relations are also present in Backpropagation.
+
+$$
+(A B)^T = B^T A^T
+(A + B)^T = A^T + B^T
+$$
