@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Introduction.md",
+                "file": "Machine Learning/Google Talk on Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Google Talk on Machine Learning"
             }
           }
         ]
@@ -170,10 +170,17 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "f881cc404dcdb8c3",
   "lastOpenFiles": [
-    "Parallel Processing/Introduction.md",
     "Machine Learning/Introduction.md",
+    "conflict-files-obsidian-git.md",
+    "Machine Learning/Google Talk on Machine Learning.md",
+    "Machine Learning/000 Introduction.md",
+    "Assets/Pasted image 20250826181637.png",
+    "Assets/Pasted image 20250826175852.png",
+    "Assets/Pasted image 20250826171044.png",
+    "Assets/Pasted image 20250826170819.png",
+    "Parallel Processing/Introduction.md",
     "Parallel Processing",
     "Formatting Template.md",
     "Assets/Pasted image 20250825174542.png",
@@ -182,10 +189,6 @@
     "Assets/Pasted image 20250825173041.png",
     "Assets/Pasted image 20250825173024.png",
     "Assets/Pasted image 20250825172751.png",
-    "Assets/Pasted image 20250825172417.png",
-    "Assets/Pasted image 20250825172310.png",
-    "Assets/Pasted image 20250825172207.png",
-    "Assets/Pasted image 20250825172007.png",
     "Machine Learning",
     "README.md",
     "Machine Learning/Test.md",
