@@ -140,30 +140,22 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Machine Learning/001 Linear Algebra Review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "bb6051e35fcf1ef2",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "title": "Outline of 001 Linear Algebra Review"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +173,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bb6051e35fcf1ef2",
+  "active": "f29898b3cbbf644f",
   "lastOpenFiles": [
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
