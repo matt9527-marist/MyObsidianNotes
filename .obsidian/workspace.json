@@ -35,8 +35,7 @@
               "title": "001 Linear Algebra Review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +184,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f29898b3cbbf644f",
+  "active": "f881cc404dcdb8c3",
   "lastOpenFiles": [
-    "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/001 Linear Algebra Review.md",
+    "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/Introduction.md",
     "conflict-files-obsidian-git.md",
     "Machine Learning/000 Introduction.md",
