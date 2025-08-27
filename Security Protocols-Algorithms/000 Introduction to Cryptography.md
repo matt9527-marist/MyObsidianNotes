@@ -7,7 +7,8 @@ The main goals surrounding cybersecurity are centered on access. We do not want 
 This is not the only thing we need to be focused on. The security of our systems are dependent on strongest vs. weakest link.
 1. Cryptography is useless without security mechanisms that go along with it.
 	- Cryptography can be deployed within a larger ecosystem, not just by itself.
-	- Many 
+	- Many organizations implement cryptography, but fail in incorporating other security strategies with it. 
 2. Access Management
 3. Why is the major focus on it?
+	- From an app development standpoint, it is one of the most important aspects 
 
