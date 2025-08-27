@@ -147,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "bb6051e35fcf1ef2",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +181,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f29898b3cbbf644f",
+  "active": "bb6051e35fcf1ef2",
   "lastOpenFiles": [
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
