@@ -59,7 +59,7 @@ $$
 \end{bmatrix}
 =
 \begin{bmatrix}
-19 & 22 \\
+1(5)+2(7) & 22 \\
 43 & 50
 \end{bmatrix}
 $$
