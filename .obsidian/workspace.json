@@ -171,10 +171,11 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "5b3690dfb6c562c5",
   "lastOpenFiles": [
-    "Machine Learning/000 Introduction.md",
+    "Parallel Processing/000 Introduction.md",
     "Security Protocols-Algorithms/000 Introduction.md",
+    "Machine Learning/000 Introduction.md",
     "Security Protocols-Algorithms",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Matrix Operations Sheet.md",
@@ -206,7 +207,6 @@
     "Machine Learning/Colab Notebooks.md",
     "Machine Learning/Introduction.md",
     "conflict-files-obsidian-git.md",
-    "Parallel Processing/Introduction.md",
     "Parallel Processing",
     "Formatting Template.md",
     "Machine Learning",
