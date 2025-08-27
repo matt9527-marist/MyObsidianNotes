@@ -21,3 +21,6 @@ As an additional application of a dot product.
 
 ![[Pasted image 20250827121825.png]]
 ![[Pasted image 20250827121850.png]]
+
+**Rank** is involved in dimensionality reduction (PCA). Models can suffer from redundancy in features, which can mean the wasting of resources for computation. 
+
