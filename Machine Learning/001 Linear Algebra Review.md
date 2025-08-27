@@ -85,3 +85,32 @@ $$
 $$
 
 
+*Matrix Determinant*
+$$
+\det\!\left(
+\begin{bmatrix}
+1 & 2 \\
+3 & 4
+\end{bmatrix}\right)
+= 1 \cdot 4 - 2 \cdot 3 = -2
+$$
+
+*Matrix Inverse*
+$$
+\begin{bmatrix}
+1 & 2 \\
+3 & 4
+\end{bmatrix}^{-1}
+=
+\frac{1}{-2}
+\begin{bmatrix}
+4 & -2 \\
+-3 & 1
+\end{bmatrix}
+=
+\begin{bmatrix}
+-2 & 1 \\
+1.5 & -0.5
+\end{bmatrix}
+$$
+
