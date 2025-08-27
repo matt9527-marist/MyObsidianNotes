@@ -4,4 +4,10 @@ Can also be defined as the process of converting human readable information into
 The main goals surrounding cybersecurity are centered on access. We do not want unauthorized agents to be able to read or write to private data. 
 
 **Role of Cryptography**
+This is not the only thing we need to be focused on. The security of our systems are dependent on strongest vs. weakest link.
+1. Cryptography is useless without security mechanisms that go along with it.
+	- Cryptography can be deployed within a larger ecosystem, not just by itself.
+	- Many 
+2. Access Management
+3. Why is the major focus on it?
 
