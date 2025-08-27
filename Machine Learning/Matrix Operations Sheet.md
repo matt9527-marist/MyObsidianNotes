@@ -56,7 +56,6 @@ $$
 \end{bmatrix}
 $$
 
-
 *Matrix Determinant*
 $$
 \det\!\left(
@@ -86,4 +85,51 @@ $$
 \end{bmatrix}
 $$
 
-*Eigenvalues and*
+*Eigenvalues and Eigenvectors*
+
+$$
+% Eigenvalue problem
+A v = \lambda v
+
+% Example
+\begin{bmatrix}
+2 & 1 \\
+1 & 2
+\end{bmatrix}
+\begin{bmatrix}
+1 \\
+1
+\end{bmatrix}
+=
+3 \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}
+
+% So eigenvalue \lambda = 3, eigenvector v = [1,1]^T
+$$
+*Projection*
+$$
+% Projection matrix onto column space of A
+P = A (A^T A)^{-1} A^T
+
+% Example: projecting y onto span of A
+A =
+\begin{bmatrix}
+1 \\
+1
+\end{bmatrix},
+\quad
+y =
+\begin{bmatrix}
+2 \\
+3
+\end{bmatrix}
+
+\hat{y} = P y =
+\begin{bmatrix}
+2.5 \\
+2.5
+\end{bmatrix}
+
+$$
