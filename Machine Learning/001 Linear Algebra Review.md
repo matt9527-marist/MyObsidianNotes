@@ -26,7 +26,22 @@ As an additional application of a dot product.
 
 These relations are also present in Backpropagation.
 
+Matrix Operations Examples:
+
+*Matrix Addition*
 $$
-(A B)^T = B^T A^T
-(A + B)^T = A^T + B^T
+\begin{bmatrix}
+1 & 2 \\
+3 & 4
+\end{bmatrix}
++
+\begin{bmatrix}
+5 & 6 \\
+7 & 8
+\end{bmatrix}
+=
+\begin{bmatrix}
+6 & 8 \\
+10 & 12
+\end{bmatrix}
 $$
