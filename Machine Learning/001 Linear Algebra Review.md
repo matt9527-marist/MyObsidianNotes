@@ -2,6 +2,9 @@
 ![[Pasted image 20250827121644.png]]
 
 ![[Pasted image 20250827121655.png]]
+
+There is also the **outer product** of vectors, where we take two vectors v<sub>0</sub> and v<sub>1</sub> and 
+
 ![[Pasted image 20250827121709.png]]
 
 **Similar Equation for a plane**
