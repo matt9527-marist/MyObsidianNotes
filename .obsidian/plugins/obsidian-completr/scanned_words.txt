@@ -13,6 +13,9 @@ MAE
 Maximum
 MAP
 Master
+Models
+Matrix
+Multiplication
 Learning
 Learn
 Let
@@ -36,6 +39,7 @@ Reason
 Root
 Recommendation
 Representation
+Rank
 libraries
 learn
 learning
@@ -87,6 +91,7 @@ Simulating
 Systematically
 Symbolists
 Socrates
+Similar
 Keras
 TensorFlow
 Task
@@ -101,6 +106,8 @@ Transfer
 Think
 To
 Together
+These
+Transpose
 ISLP
 Iris
 Instance
@@ -111,6 +118,7 @@ Index
 IF
 If
 Individuals
+Inverse
 and
 ability
 approximation
@@ -151,6 +159,8 @@ area
 actual
 apply
 after
+additional
+application
 Applications
 AI
 Analysis
@@ -166,6 +176,8 @@ As
 Analogizers
 Assume
 Algorithm
+Additional
+Addition
 with
 without
 want
@@ -188,6 +200,8 @@ works
 weighted
 weights
 work
+where
+wasting
 Python
 Performance
 Principle
@@ -200,6 +214,7 @@ Pieces
 Probabilistic
 Posterior
 Programming
+PCA
 What
 We
 With
@@ -231,6 +246,7 @@ idea
 ideas
 inconsistent
 into
+involved
 Field
 For
 Find
@@ -264,6 +280,8 @@ one
 otherwise
 own
 over
+objects
+outer
 study
 simplified
 something
@@ -313,6 +331,8 @@ systems
 solution
 solve
 states
+space
+suffer
 giving
 good
 generalizable
@@ -381,6 +401,7 @@ cannot
 closer
 city
 common
+computation
 the
 to
 training
@@ -434,6 +455,7 @@ better
 believe
 before
 border
+both
 explicitly
 experience
 error
@@ -504,6 +526,7 @@ posterior
 probabilities
 positive
 problems
+plane
 Detecting
 Deepmind
 Dataset
@@ -511,6 +534,7 @@ DT
 Deduction
 Depending
 Divide
+Determinant
 regularities
 respect
 recognizing
@@ -537,6 +561,10 @@ random
 reasoning
 result
 real
+respectively
+redundancy
+resources
+relations
 model
 mostly
 machine
@@ -579,6 +607,9 @@ mutation
 marginal
 major
 map
+matrix
+material
+mean
 hypothesis
 handwritten
 have
@@ -605,6 +636,7 @@ English
 Evolutionaries
 Everything
 Evaluation
+Equation
 using
 utility
 use
@@ -615,6 +647,7 @@ uncertainty
 uncertain
 understand
 update
+useful
 data
 driven
 dataset
@@ -647,6 +680,9 @@ described
 determine
 deals
 distribution
+direction
+dimensions
+dot
 future
 from
 feed
@@ -692,6 +728,7 @@ vector
 very
 vice
 versa
+vectors
 numerical
 no
 need
@@ -714,7 +751,9 @@ nearest
 neighbor
 neighborhood
 neighborhoods
+norm
 yes
+yield
 How
 Hinge
 Not
@@ -739,3 +778,4 @@ Bayesians
 Bayes
 just
 jagged
+Vectors
