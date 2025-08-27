@@ -11,5 +11,7 @@ This is not the only thing we need to be focused on. The security of our systems
 2. Access Management
 3. Why is the major focus on it?
 	- From an app development standpoint, it is one of the most important aspects as one of the most natural points of access for an attacker. 
-	- 
+	- If an attacker gets around encryption, the risk is very high, as it is extremely easy to impersonate actors when in possession of their encryption keys. 
+
+
 
