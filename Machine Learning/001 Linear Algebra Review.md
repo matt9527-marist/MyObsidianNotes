@@ -5,9 +5,8 @@
 
 There is also the **outer product** of vectors, where we take two vectors v<sub>0</sub> and v<sub>1</sub>, which both have dimensions n and m respectively, and we yield an n x m matrix. 
 
-$$
-ab^T = ma
-$$
+![[Pasted image 20250827122431.png]]
+
 
 ![[Pasted image 20250827121709.png]]
 
