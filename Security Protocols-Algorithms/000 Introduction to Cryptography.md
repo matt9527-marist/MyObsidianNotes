@@ -10,5 +10,6 @@ This is not the only thing we need to be focused on. The security of our systems
 	- Many organizations implement cryptography, but fail in incorporating other security strategies with it. 
 2. Access Management
 3. Why is the major focus on it?
-	- From an app development standpoint, it is one of the most important aspects 
+	- From an app development standpoint, it is one of the most important aspects as one of the most natural points of access for an attacker. 
+	- 
 
