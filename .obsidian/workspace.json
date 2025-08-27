@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/000 Introduction.md",
+                "file": "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Introduction"
+              "title": "000 Introduction to Cryptography"
             }
           }
         ]
@@ -174,7 +174,7 @@
   "active": "5b3690dfb6c562c5",
   "lastOpenFiles": [
     "Parallel Processing/000 Introduction.md",
-    "Security Protocols-Algorithms/000 Introduction.md",
+    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/000 Introduction.md",
     "Security Protocols-Algorithms",
     "Machine Learning/001 Linear Algebra Review.md",
