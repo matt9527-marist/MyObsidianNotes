@@ -7,6 +7,7 @@ There is also the **outer product** of vectors, where we take two vectors v<sub>
 
 ![[Pasted image 20250827122431.png]]
 
+Additional useful material about the vector **norm**:
 
 ![[Pasted image 20250827121709.png]]
 
