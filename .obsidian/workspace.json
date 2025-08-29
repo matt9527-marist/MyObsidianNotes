@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Google Talk on Machine Learning"
             }
+          },
+          {
+            "id": "9c2408bce1b6d01b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9b09f3517435af8",
+  "active": "9c2408bce1b6d01b",
   "lastOpenFiles": [
     "Assets/Pasted image 20250826181637.png",
     "Machine Learning/000 Introduction.md",
