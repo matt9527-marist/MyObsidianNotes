@@ -19,6 +19,8 @@ Multiplication
 Makes
 MPI
 Model
+Many
+Management
 Learning
 Learn
 Let
@@ -45,6 +47,7 @@ Root
 Recommendation
 Representation
 Rank
+Role
 libraries
 learn
 learning
@@ -66,6 +69,8 @@ line
 life
 look
 limitations
+link
+larger
 Graphing
 Google
 Game
@@ -92,6 +97,8 @@ Computing
 CPU
 CPUs
 Concepts
+Cryptography
+Can
 Scikit
 Statistical
 Statistics
@@ -186,6 +193,14 @@ available
 architectures
 allow
 accelerate
+access
+agents
+along
+app
+aspects
+attacker
+around
+actors
 Applications
 AI
 Analysis
@@ -205,6 +220,8 @@ Additional
 Addition
 Acceleration
 Architectures
+Art
+Access
 with
 without
 want
@@ -231,6 +248,8 @@ where
 wasting
 writing
 write
+weakest
+within
 Python
 Performance
 Principle
@@ -258,6 +277,7 @@ Where
 Weighted
 Workhorse
 When
+Why
 is
 in
 if
@@ -288,6 +308,10 @@ involved
 implement
 inherited
 include
+information
+incorporating
+important
+impersonate
 Field
 For
 Find
@@ -301,6 +325,7 @@ Formula
 FLOPs
 Functions
 Files
+From
 of
 or
 optimize
@@ -329,6 +354,7 @@ outer
 order
 observing
 operate
+organizations
 study
 simplified
 something
@@ -384,6 +410,12 @@ shared
 structure
 significantly
 still
+science
+specifically
+security
+strongest
+strategies
+standpoint
 giving
 good
 generalizable
@@ -404,6 +436,7 @@ generation
 generations
 generalize
 greeting
+gets
 computers
 computer
 can
@@ -465,6 +498,11 @@ call
 command
 clutter
 cpp
+converting
+cyphertext
+cybersecurity
+centered
+cryptography
 the
 to
 training
@@ -503,6 +541,7 @@ typically
 they
 together
 top
+thing
 being
 be
 by
@@ -560,6 +599,10 @@ efficient
 easier
 expensive
 executions
+encryption
+ecosystem
+extremely
+easy
 programmed
 patterns
 program
@@ -613,6 +656,11 @@ parts
 processes
 profiling
 prototypes
+process
+preventing
+private
+points
+possession
 Detecting
 Deepmind
 Dataset
@@ -655,6 +703,9 @@ resources
 relations
 relevant
 right
+readable
+read
+risk
 model
 mostly
 machine
@@ -704,6 +755,8 @@ multi
 memory
 multiple
 multithreading
+main
+mechanisms
 hypothesis
 handwritten
 have
@@ -745,6 +798,8 @@ understand
 update
 useful
 upon
+unauthorized
+useless
 data
 driven
 dataset
@@ -785,6 +840,8 @@ deploying
 declared
 declarations
 definitions
+deployed
+development
 future
 from
 feed
@@ -816,6 +873,8 @@ free
 further
 files
 file
+focused
+fail
 Optimziation
 Operations
 Once
@@ -832,6 +891,7 @@ OpenMP
 kind
 know
 knowledge
+keys
 value
 various
 variable
@@ -840,6 +900,7 @@ very
 vice
 versa
 vectors
+vs
 numerical
 no
 need
