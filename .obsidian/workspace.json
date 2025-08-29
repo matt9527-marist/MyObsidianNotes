@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Matrix Operations Sheet.md",
+                "file": "Parallel Processing/000 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Operations Sheet"
+              "title": "000 Introduction"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "a9b09f3517435af8",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
+    "Machine Learning/Matrix Operations Sheet.md",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/Colab Notebooks.md",
     "Machine Learning/001 Linear Algebra Review.md",
@@ -179,9 +181,7 @@
     "Formatting Template.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "Machine Learning/Matrix Operations Sheet.md",
     "Parallel Processing/000 Introduction.md",
-    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Security Protocols-Algorithms",
     "Assets/Pasted image 20250827122431.png",
     "Assets/Pasted image 20250827122029.png",
