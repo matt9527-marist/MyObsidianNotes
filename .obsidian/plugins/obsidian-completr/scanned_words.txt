@@ -71,6 +71,8 @@ look
 limitations
 link
 larger
+list
+listed
 Graphing
 Google
 Game
@@ -99,6 +101,7 @@ CPUs
 Concepts
 Cryptography
 Can
+Conflicts
 Scikit
 Statistical
 Statistics
@@ -115,6 +118,7 @@ Systematically
 Symbolists
 Socrates
 Similar
+Source
 Keras
 TensorFlow
 Task
@@ -146,6 +150,7 @@ Inverse
 Introduction
 Introductory
 Initial
+Instructions
 and
 ability
 approximation
@@ -201,6 +206,8 @@ aspects
 attacker
 around
 actors
+automatically
+above
 Applications
 AI
 Analysis
@@ -270,6 +277,7 @@ Parallelization
 Profiling
 Performs
 Prevent
+Please
 What
 We
 With
@@ -355,6 +363,8 @@ order
 observing
 operate
 organizations
+obsidian
+occurrence
 study
 simplified
 something
@@ -416,6 +426,9 @@ security
 strongest
 strategies
 standpoint
+scanned
+strongly
+simple
 giving
 good
 generalizable
@@ -503,6 +516,10 @@ cyphertext
 cybersecurity
 centered
 cryptography
+commit
+completr
+conflicted
+conflicts
 the
 to
 training
@@ -542,6 +559,8 @@ they
 together
 top
 thing
+txt
+text
 being
 be
 by
@@ -568,6 +587,8 @@ baseline
 basic
 begin
 balancing
+below
+blocks
 explicitly
 experience
 error
@@ -661,6 +682,7 @@ preventing
 private
 points
 possession
+plugins
 Detecting
 Deepmind
 Dataset
@@ -706,6 +728,9 @@ right
 readable
 read
 risk
+resolve
+recommend
+replace
 model
 mostly
 machine
@@ -757,6 +782,7 @@ multiple
 multithreading
 main
 mechanisms
+mode
 hypothesis
 handwritten
 have
@@ -842,6 +868,7 @@ declarations
 definitions
 deployed
 development
+deleted
 future
 from
 feed
@@ -875,6 +902,8 @@ files
 file
 focused
 fail
+followed
+following
 Optimziation
 Operations
 Once
@@ -901,6 +930,7 @@ vice
 versa
 vectors
 vs
+viewing
 numerical
 no
 need
