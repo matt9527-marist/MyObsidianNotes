@@ -56,6 +56,8 @@ locations
 line
 life
 look
+list
+listed
 Graphing
 Google
 Game
@@ -72,6 +74,7 @@ Culture
 Computers
 Connectionists
 Consider
+Conflicts
 Scikit
 Statistical
 Statistics
@@ -87,6 +90,7 @@ Simulating
 Systematically
 Symbolists
 Socrates
+Source
 Keras
 TensorFlow
 Task
@@ -111,6 +115,7 @@ Index
 IF
 If
 Individuals
+Instructions
 and
 ability
 approximation
@@ -151,6 +156,9 @@ area
 actual
 apply
 after
+automatically
+available
+above
 Applications
 AI
 Analysis
@@ -166,6 +174,7 @@ As
 Analogizers
 Assume
 Algorithm
+Additional
 with
 without
 want
@@ -200,6 +209,7 @@ Pieces
 Probabilistic
 Posterior
 Programming
+Please
 What
 We
 With
@@ -264,6 +274,8 @@ one
 otherwise
 own
 over
+obsidian
+occurrence
 study
 simplified
 something
@@ -313,6 +325,9 @@ systems
 solution
 solve
 states
+scanned
+strongly
+simple
 giving
 good
 generalizable
@@ -381,6 +396,11 @@ cannot
 closer
 city
 common
+commit
+commands
+completr
+conflicted
+conflicts
 the
 to
 training
@@ -414,6 +434,8 @@ things
 two
 tribe
 time
+txt
+text
 being
 be
 by
@@ -434,6 +456,8 @@ better
 believe
 before
 border
+below
+blocks
 explicitly
 experience
 error
@@ -504,6 +528,7 @@ posterior
 probabilities
 positive
 problems
+plugins
 Detecting
 Deepmind
 Dataset
@@ -537,6 +562,9 @@ random
 reasoning
 result
 real
+resolve
+recommend
+replace
 model
 mostly
 machine
@@ -579,6 +607,7 @@ mutation
 marginal
 major
 map
+mode
 hypothesis
 handwritten
 have
@@ -647,6 +676,7 @@ described
 determine
 deals
 distribution
+deleted
 future
 from
 feed
@@ -674,6 +704,10 @@ familiar
 frontier
 five
 formulas
+followed
+file
+files
+following
 Optimziation
 Operations
 Once
@@ -692,6 +726,7 @@ vector
 very
 vice
 versa
+viewing
 numerical
 no
 need
