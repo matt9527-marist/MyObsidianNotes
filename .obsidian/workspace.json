@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1275f9f399a9ac6b",
+        "id": "b56a69da67f46c02",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b09f3517435af8",
+            "id": "4005a02a3c71196f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Processing/000 Introduction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "000 Introduction"
+              "title": "New tab"
             }
           }
         ]
@@ -170,7 +166,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9b09f3517435af8",
+  "active": "4005a02a3c71196f",
   "lastOpenFiles": [
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/Matrix Operations Sheet.md",
