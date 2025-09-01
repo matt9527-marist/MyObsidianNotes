@@ -31,5 +31,6 @@ These relations are also present in Backpropagation.
 ### Linear Independence 
 
 ![[Pasted image 20250901160348.png]]
+A matrix that does not have an inverse is called a **singular matrix**.
 
 
