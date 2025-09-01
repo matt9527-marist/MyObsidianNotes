@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Google Talk on Machine Learning.md",
+                "file": "Machine Learning/001 Linear Algebra Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Talk on Machine Learning"
+              "title": "001 Linear Algebra Review"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "a1fa0d59494cba93",
   "lastOpenFiles": [
-    "Machine Learning/Colab Notebooks.md",
     "Machine Learning/Google Talk on Machine Learning.md",
+    "Machine Learning/Colab Notebooks.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Parallel Processing/000 Introduction.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
