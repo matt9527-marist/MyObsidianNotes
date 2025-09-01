@@ -1,3 +1,4 @@
+#vectors #matrices
 **Vectors** are mathematical objects that have magnitude and direction. 
 ![[Pasted image 20250827121644.png]]
 

@@ -14,7 +14,9 @@
     "help": 2,
     "tag": 3,
     "SupervisedLearning": 4,
-    "derivativeRules": 5
+    "derivativeRules": 5,
+    "vectors": 6,
+    "matrices": 7
   },
   "_version": 3
 }

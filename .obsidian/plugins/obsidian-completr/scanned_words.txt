@@ -453,6 +453,7 @@ strategies
 standpoint
 space
 suffer
+singular
 giving
 good
 generalizable
@@ -922,6 +923,7 @@ direction
 dimensions
 dot
 descent
+derivativeRules
 future
 from
 feed

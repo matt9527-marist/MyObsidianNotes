@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/002 Vector and Matrix Calculus.md",
+                "file": "Machine Learning/001 Linear Algebra Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Vector and Matrix Calculus"
+              "title": "001 Linear Algebra Review"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "fd42d8d2fa68dc35",
   "lastOpenFiles": [
-    "Machine Learning/Colab Notebooks.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
+    "Machine Learning/Colab Notebooks.md",
+    "Machine Learning/Google Talk on Machine Learning.md",
     "Assets/Pasted image 20250901165354.png",
     "Assets/Pasted image 20250901164453.png",
     "Assets/Pasted image 20250901160921.png",
@@ -197,7 +198,6 @@
     "Parallel Processing/000 Introduction.md",
     "Formatting Template.md",
     "Assets/Pasted image 20250901160348.png",
-    "Machine Learning/Google Talk on Machine Learning.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/000 Introduction.md",
     "conflict-files-obsidian-git.md",
