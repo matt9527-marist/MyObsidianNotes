@@ -9,4 +9,9 @@ Instantaneous Rate of Change
 
 The gradient plays a fundamental role in **optimization** theory, and therefore in machine learning, where it is used to maximize a function by gradient ascent (or by its inverse, minimize a loss function by gradient descent)
 
+**Gradient Visualization**
+![[Pasted image 20250901165354.png]]
 
+[Gradient Visualization Applet](https://www.geogebra.org/m/sWsGNs86)
+
+Matrix Calculus Calculator
