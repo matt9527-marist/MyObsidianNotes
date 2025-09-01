@@ -32,10 +32,4 @@ These relations are also present in Backpropagation.
 
 ![[Pasted image 20250901160348.png]]
 
-Assume matrix A:
-$$
-\begin{bmatrix}
-1  2  \\
-2  3
-\end{matrix}
-$$
+

@@ -33,6 +33,7 @@ Look
 Limits
 Languages
 LaTeX
+Linear
 Relevant
 Reading
 Research
@@ -156,6 +157,7 @@ Introduction
 Introductory
 Initial
 Inverse
+Independence
 and
 ability
 approximation
