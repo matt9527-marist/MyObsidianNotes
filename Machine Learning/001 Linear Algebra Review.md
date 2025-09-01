@@ -26,3 +26,5 @@ As an additional application of a dot product.
 
 These relations are also present in Backpropagation.
 
+
+
