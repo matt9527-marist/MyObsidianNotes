@@ -1,5 +1,6 @@
 ## Scalar Derivatives 
 
+#derivativeRules
 Instantaneous Rate of Change
 ![[Pasted image 20250901160921.png]]
 
@@ -14,4 +15,6 @@ The gradient plays a fundamental role in **optimization** theory, and therefore 
 
 [Gradient Visualization Applet](https://www.geogebra.org/m/sWsGNs86)
 
-Matrix Calculus Calculator
+[Matrix Calculus Calculator](http://www.matrixcalculus.org/matrixCalculus)
+
+

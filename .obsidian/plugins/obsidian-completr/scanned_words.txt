@@ -84,6 +84,7 @@ Gini
 Genetic
 GPUs
 GPU
+Gradient
 Charting
 Control
 Common
@@ -108,6 +109,7 @@ Clicking
 Continued
 Cryptography
 Can
+Change
 Scikit
 Statistical
 Statistics
@@ -125,6 +127,7 @@ Symbolists
 Socrates
 Source
 Similar
+Scalar
 Keras
 TensorFlow
 Task
@@ -158,6 +161,7 @@ Introductory
 Initial
 Inverse
 Independence
+Instantaneous
 and
 ability
 approximation
@@ -216,6 +220,7 @@ attacker
 actors
 additional
 application
+ascent
 Applications
 AI
 Analysis
@@ -334,6 +339,8 @@ incorporating
 important
 impersonate
 involved
+increase
+increases
 Field
 For
 Find
@@ -467,6 +474,7 @@ generations
 generalize
 greeting
 gets
+gradient
 computers
 computer
 can
@@ -583,6 +591,8 @@ title
 tag
 through
 thing
+toward
+therefore
 being
 be
 by
@@ -709,6 +719,7 @@ private
 points
 possession
 plane
+plays
 Detecting
 Deepmind
 Dataset
@@ -719,6 +730,7 @@ Divide
 Data
 Directive
 Determinant
+Derivatives
 regularities
 respect
 recognizing
@@ -760,6 +772,9 @@ risk
 respectively
 redundancy
 relations
+represents
+rate
+role
 model
 mostly
 machine
@@ -860,6 +875,7 @@ upon
 unauthorized
 useless
 useful
+used
 data
 driven
 dataset
@@ -905,6 +921,7 @@ development
 direction
 dimensions
 dot
+descent
 future
 from
 feed
@@ -941,6 +958,9 @@ further
 folder
 focused
 fail
+fastest
+funtion
+fundamental
 Optimziation
 Operations
 Once
@@ -996,6 +1016,7 @@ neighborhoods
 note
 notes
 norm
+non
 yes
 your
 you
@@ -1015,6 +1036,7 @@ Negapolis
 New
 quality
 question
+quickly
 Unsupervised
 UNION
 User
@@ -1034,4 +1056,6 @@ jagged
 json
 Vectorization
 Vectors
+Visualization
 Java
+zero

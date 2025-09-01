@@ -13,7 +13,8 @@
     "java": 1,
     "help": 2,
     "tag": 3,
-    "SupervisedLearning": 4
+    "SupervisedLearning": 4,
+    "derivativeRules": 5
   },
   "_version": 3
 }
