@@ -7,4 +7,6 @@ Instantaneous Rate of Change
 
 ![[Pasted image 20250901164453.png]]
 
-The gradient plays a fundamental role in **optimization** theory, and therefore in machine learning, where it is used to maximize a function by gradient ascent (or by its inverse, minimize a loss functio)
+The gradient plays a fundamental role in **optimization** theory, and therefore in machine learning, where it is used to maximize a function by gradient ascent (or by its inverse, minimize a loss function by gradient descent)
+
+
