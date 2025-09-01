@@ -26,5 +26,12 @@ As an additional application of a dot product.
 
 These relations are also present in Backpropagation.
 
+---
+
+### Linear Independence 
+
+![[Pasted image 20250901160348.png]]
+
+Assume matrix A:
 
 
