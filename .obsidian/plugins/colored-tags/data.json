@@ -16,7 +16,8 @@
     "SupervisedLearning": 4,
     "vectors": 5,
     "matrices": 6,
-    "derivativeRules": 7
+    "derivativeRules": 7,
+    "ScalarDerivativeRules": 8
   },
   "_version": 3
 }
