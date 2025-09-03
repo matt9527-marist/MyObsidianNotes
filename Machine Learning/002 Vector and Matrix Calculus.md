@@ -63,3 +63,7 @@ In the more general case of vector / vector, this results in a matrix, but in ot
 
 We will use the *Mixed Layout* ruleset, which treats gradients as column vectors.
 
+![[Pasted image 20250903121458.png]]
+
+See[ MatrixCalculusCalculator](http://www.matrixcalculus.org/).
+
