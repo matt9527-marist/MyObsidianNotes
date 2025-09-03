@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Overview.md",
+                "file": "Security Protocols-Algorithms/Linux Overview.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,12 +200,12 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "966a2d986961a836",
+  "active": "bb6cd15ae1c6427b",
   "lastOpenFiles": [
     "Assets/Pasted image 20250903134623.png",
     "Assets/Pasted image 20250903134505.png",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
-    "Linux Overview.md",
+    "Security Protocols-Algorithms/Linux Overview.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Assets/Pasted image 20250903121656.png",
