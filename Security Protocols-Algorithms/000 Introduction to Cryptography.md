@@ -20,7 +20,9 @@ Looking at a threat model of breaking into a bank vault:
 Solution:
 1. Risk Management
 2. Attack Trees 
-3. Defense-in Depth 
+3. Defense-in-Depth 
+*Defense-in-Depth* - Adding layers of security to protect against certain attack methods, the idea of layered security measures and additional steps to minimize potential damages. 
+
 
 
 
