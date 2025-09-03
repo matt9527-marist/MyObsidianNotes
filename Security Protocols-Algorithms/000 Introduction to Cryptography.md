@@ -103,6 +103,6 @@ The certificate we see in websites is using a public key. We are taking this key
 
 **Types of Attacks**
 > Cyphertext-Only Attack - Only given cyphertext, basically unbreakable. 
-> Known-Plaintext Attack - We know the plaintext that was used
-> Chosen Plaintext Attack 
+> Known-Plaintext Attack - We know the plaintext that was used, and we can see the cyphertext generated from that plaintext. We then try to figure out how the plaintext became the cyphertext, popular for communications around email systems and headers. 
+> Chosen Plaintext Attack - 
 > Chosen Ciphertext Model 
