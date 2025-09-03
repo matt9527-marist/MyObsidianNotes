@@ -101,6 +101,4 @@ We see this model used a lot in **public key infrastructure (PKI)**
 ![[Pasted image 20250903154325.png]]
 The certificate we see in websites is using a public key. We are taking this key that is posted to verify the website. 
 
-
-
-
+**Types of Attacks**
