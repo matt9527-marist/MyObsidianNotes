@@ -29,4 +29,7 @@ What is a "proper" level of security?
 1. Focus on threats and assets
 2. Match security controls to risks
 ![[Pasted image 20250903143055.png]]
+Prioritize and determine the level of security that we want to use. 
+
+
 
