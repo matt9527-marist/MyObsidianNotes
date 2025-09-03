@@ -102,3 +102,7 @@ We see this model used a lot in **public key infrastructure (PKI)**
 The certificate we see in websites is using a public key. We are taking this key that is posted to verify the website. 
 
 **Types of Attacks**
+> Cyphertext-Only Attack - Only given cyphertext, basically unbreakable. 
+> Known-Plaintext Attack - We know the plaintext that was used
+> Chosen Plaintext Attack 
+> Chosen Ciphertext Model 
