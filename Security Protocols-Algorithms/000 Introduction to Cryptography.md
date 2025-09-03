@@ -76,7 +76,8 @@ What are some major weaknesses in our encryption model?
 This is the process for the recipient to verify whether or not a message is legitimate. 
 This is how **hashing** works, maintaining the integrity of the message *m* by checking it with an authenticating function H(K<sub>a</sub>, m). This is not secrecy of the message, but rather authentication of the message. This does not protect against sequencing of messages. Usually to fix that, we add sequencing numbers to messages. 
 
-
+> Public Key Encryption
+> Also known as asymmetric Encryption, where two keys are being used, 
 
 
 
