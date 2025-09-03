@@ -22,6 +22,9 @@ Multiplication
 Many
 Management
 Models
+Maximizing
+Meaning
+Mixed
 Learning
 Learn
 Let
@@ -34,6 +37,7 @@ Limits
 Languages
 LaTeX
 Linear
+Layout
 Relevant
 Reading
 Research
@@ -77,6 +81,8 @@ limitations
 linked
 link
 larger
+linear
+likewise
 Graphing
 Google
 Game
@@ -110,6 +116,8 @@ Continued
 Cryptography
 Can
 Change
+Calculus
+Considering
 Scikit
 Statistical
 Statistics
@@ -128,6 +136,10 @@ Socrates
 Source
 Similar
 Scalar
+ScalarDerivativeRules
+Series
+See
+So
 Keras
 TensorFlow
 Task
@@ -145,6 +157,8 @@ Together
 Tools
 These
 Transpose
+Taylor
+Then
 ISLP
 Iris
 Instance
@@ -221,6 +235,8 @@ actors
 additional
 application
 ascent
+approximate
+applied
 Applications
 AI
 Analysis
@@ -244,6 +260,9 @@ After
 Addition
 Art
 Access
+Approximation
+Allows
+And
 with
 without
 want
@@ -273,6 +292,9 @@ within
 where
 wasting
 workspace
+written
+wTx
+wrt
 Python
 Performance
 Principle
@@ -295,6 +317,7 @@ Performs
 Prevent
 Projection
 PCA
+Partial
 What
 We
 With
@@ -303,6 +326,7 @@ Weighted
 Workhorse
 When
 Why
+Will
 is
 in
 if
@@ -341,6 +365,8 @@ impersonate
 involved
 increase
 increases
+involve
+inner
 Field
 For
 Find
@@ -454,6 +480,10 @@ standpoint
 space
 suffer
 singular
+such
+superscript
+sup
+scalar
 giving
 good
 generalizable
@@ -476,6 +506,8 @@ generalize
 greeting
 gets
 gradient
+gives
+gradients
 computers
 computer
 can
@@ -548,6 +580,13 @@ cybersecurity
 centered
 cryptography
 computation
+constants
+condition
+change
+calculus
+case
+constant
+component
 the
 to
 training
@@ -594,6 +633,10 @@ through
 thing
 toward
 therefore
+taking
+treated
+transpose
+treats
 being
 be
 by
@@ -624,6 +667,7 @@ balancing
 bold
 block
 both
+because
 explicitly
 experience
 error
@@ -732,6 +776,8 @@ Data
 Directive
 Determinant
 Derivatives
+Directional
+Derivative
 regularities
 respect
 recognizing
@@ -776,6 +822,9 @@ relations
 represents
 rate
 role
+results
+ruleset
+recall
 model
 mostly
 machine
@@ -831,6 +880,8 @@ mechanisms
 matrix
 material
 mean
+multivariate
+maximized
 hypothesis
 handwritten
 have
@@ -845,6 +896,7 @@ has
 higher
 hypotheses
 housing
+horizontally
 Execution
 Examples
 Economics
@@ -862,6 +914,8 @@ Exploring
 Eigenvalues
 Eigenvectors
 Equation
+Essentially
+Expansion
 using
 utility
 use
@@ -924,6 +978,9 @@ dimensions
 dot
 descent
 derivativeRules
+drop
+denote
+derivatives
 future
 from
 feed
@@ -981,6 +1038,8 @@ kind
 know
 knowledge
 keys
+known
+kx
 value
 various
 variable
@@ -993,6 +1052,8 @@ vectors
 video
 vault
 vs
+vicinity
+variables
 numerical
 no
 need
@@ -1028,6 +1089,7 @@ Hinge
 Header
 Heading
 Here
+Hessian
 Not
 NOTHING
 No
@@ -1036,6 +1098,8 @@ NO
 Negaland
 Negapolis
 New
+NOT
+Note
 quality
 question
 quickly
@@ -1059,5 +1123,6 @@ json
 Vectorization
 Vectors
 Visualization
+Vector
 Java
 zero
