@@ -74,6 +74,10 @@ with respect to the components of x.
 Consider:
 
 $$
-w
+w = \begin{bmatrix}
+w_{1} & \\
+w_{2} &
+\end{bmatrix}
+
 $$
 
