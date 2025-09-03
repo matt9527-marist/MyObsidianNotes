@@ -47,5 +47,8 @@ No conversation should prioritize EVERYTHING, especially in a business environme
 Key:
 *m* => message in cleartext
 *c* => encrypted text, cyphertext
-- Created utilizing an **encryption function** E(K<sub>e</sub>, m)
-- *K*
+- Created utilizing an **encryption function** *E*(K<sub>e</sub>, m)
+- *K*<sub>e</sub> => encryption key 
+Actors Alice and Bob, bad actor Eve. 
+Bob will receive *c* and feed it into a *deri*
+
