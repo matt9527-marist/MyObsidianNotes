@@ -23,6 +23,9 @@ Solution:
 3. Defense-in-Depth 
 *Defense-in-Depth* - Adding layers of security to protect against certain attack methods, the idea of layered security measures and additional steps to minimize potential damages. 
 
+What is a "proper" level of security?
+1. Focus on threats and assets
+2. Match security controls to risks
 
 
 
