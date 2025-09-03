@@ -58,4 +58,8 @@ This gives us a linear approximation of the vector function *f*
 Assume we have a vector **x** = [x<sub>1</sub>, x<sub>2</sub>, ... x<sub>m</sub>]
 and a vector function **y** = [y<sub>1</sub>(x), y<sub>2</sub>(x), ... y<sub>n</sub>(x)]<sup>T</sup>
 
-We want to compute the derivative of **y** with respect to 
+We want to compute the derivative of **y** with respect to **x**:
+In the more general case of vector / vector, this results in a matrix, but in other cases it can result in a vector or a scalar. 
+
+We will use the *Mixed Layout* ruleset, which treats gradients as column vectors.
+
