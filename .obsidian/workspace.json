@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f272c14f36ed65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "000 Introduction to Cryptography"
-            }
-          },
-          {
             "id": "c7287b7a04cacdff",
             "type": "leaf",
             "state": {
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
