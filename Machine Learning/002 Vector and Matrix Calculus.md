@@ -44,9 +44,15 @@ This is the maximized rate of change, or the goal of gradient descent/ascent.
 ![[Pasted image 20250903120544.png]]
 Allows us to approximate a point on a function in the vicinity of a given point x<sub>0</sub>
 
+This is the Taylor Series Approximation for two variables:
+![[Pasted image 20250903120951.png]]
+
 When applied in vector calculus:
 ![[Pasted image 20250903120710.png]]
 This gives us a linear approximation of the vector function *f*
 **H** is known as the Hessian matrix:
 ![[Pasted image 20250903120827.png]]
 
+## Vector Derivatives
+
+Assume we have a vector = [x1, x2, ]
