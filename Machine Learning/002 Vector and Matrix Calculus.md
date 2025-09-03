@@ -34,3 +34,7 @@ $$
 ||M||||\nabla f||\cos \theta
 $$
 Will involve the condition that:
+$$
+\cos \theta = 1
+$$
+Meaning that the vector **u** and the gradient of *f* are parallel
