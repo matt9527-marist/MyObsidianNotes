@@ -73,7 +73,8 @@ What are some major weaknesses in our encryption model?
 
 **Authentication**
 ![[Pasted image 20250903152940.png]]
-
+This is the process for the recipient to verify whether or not a message is legitimate. 
+This is how **hashing** works, maintaining the integrity of the message *m* by checking it with an authentic
 
 
 
