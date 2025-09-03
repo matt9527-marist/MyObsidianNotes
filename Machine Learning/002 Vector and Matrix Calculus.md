@@ -44,3 +44,6 @@ This is the maximized rate of change, or the goal of gradient descent/ascent.
 ![[Pasted image 20250903120544.png]]
 Allows us to approximate a point on a function in the vicinity of a given point x<sub>0</sub>
 
+When applied in vector calculus:
+![[Pasted image 20250903120710.png]]
+This gives us a linear approximation of the vector functioh 
