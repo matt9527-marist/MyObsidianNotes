@@ -15,5 +15,5 @@ b_{2} \\
 $$
 Prove that:
 $$
-(a^Tx)\dot
+(a^Tx)(b^Tx) = (a^Tx)b + (b^Tx)
 $$
