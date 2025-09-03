@@ -75,9 +75,14 @@ Consider:
 
 $$
 w = \begin{bmatrix}
-w_{1} & \\
-w_{2} &
+w_{1} \\
+w_{2} 
 \end{bmatrix}
 
+\space
+
+x = \begin{bmatrix}
+
+\end{bmatrix}
 $$
 
