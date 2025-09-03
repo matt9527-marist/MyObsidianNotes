@@ -18,3 +18,4 @@ The gradient plays a fundamental role in **optimization** theory, and therefore 
 [Matrix Calculus Calculator](http://www.matrixcalculus.org/matrixCalculus)
 
 
+
