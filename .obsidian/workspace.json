@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
+                "file": "Formatting Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Introduction to Cryptography"
+              "title": "Formatting Template"
             }
           }
         ],
@@ -188,6 +188,7 @@
   },
   "active": "966a2d986961a836",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Assets/Pasted image 20250903143055.png",
     "Assets/Pasted image 20250903141327.png",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
@@ -198,11 +199,9 @@
     "Assets/Pasted image 20250903135004.png",
     "Assets/Pasted image 20250903134623.png",
     "Assets/Pasted image 20250903134505.png",
-    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Assets/Pasted image 20250903121656.png",
     "Assets/Pasted image 20250903121529.png",
-    "Assets/Pasted image 20250903121458.png",
     "Machine Learning/000 Introduction.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Google Talk on Machine Learning.md",

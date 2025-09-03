@@ -42,3 +42,4 @@ This is why we **balance security** with efficiency and performance in mind.
 - The evolution of tehcnology adds to this complexity. 
 - Performance is often the primary objective (especially for application developers)
 No conversation should prioritize EVERYTHING, especially in a business environment where we want to minimize costs.
+

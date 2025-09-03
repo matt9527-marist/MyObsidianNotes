@@ -36,6 +36,7 @@ Limits
 Languages
 Linear
 Layout
+LaTeX
 Relevant
 Reading
 Research
@@ -80,6 +81,7 @@ list
 listed
 linear
 likewise
+linked
 Graphing
 Google
 Game
@@ -113,6 +115,8 @@ Conflicts
 Change
 Calculus
 Considering
+Clicking
+Continued
 Scikit
 Statistical
 Statistics
@@ -231,6 +235,7 @@ above
 ascent
 approximate
 applied
+across
 Applications
 AI
 Analysis
@@ -255,6 +260,8 @@ Access
 Approximation
 Allows
 And
+Above
+After
 with
 without
 want
@@ -356,6 +363,8 @@ increase
 increases
 involve
 inner
+italics
+inside
 Field
 For
 Find
@@ -401,6 +410,7 @@ operate
 organizations
 obsidian
 occurrence
+originally
 study
 simplified
 something
@@ -470,6 +480,8 @@ such
 superscript
 sup
 scalar
+sync
+specifies
 giving
 good
 generalizable
@@ -571,6 +583,8 @@ calculus
 case
 constant
 component
+cloning
+contained
 the
 to
 training
@@ -618,6 +632,9 @@ taking
 treated
 transpose
 treats
+title
+tag
+through
 being
 be
 by
@@ -647,6 +664,8 @@ balancing
 below
 blocks
 because
+bold
+block
 explicitly
 experience
 error
@@ -682,6 +701,8 @@ encryption
 ecosystem
 extremely
 easy
+embedded
+encased
 programmed
 patterns
 program
@@ -799,6 +820,9 @@ role
 results
 ruleset
 recall
+root
+repo
+replacing
 model
 mostly
 machine
@@ -854,6 +878,8 @@ mode
 matrices
 multivariate
 maximized
+method
+moving
 hypothesis
 handwritten
 have
@@ -949,6 +975,8 @@ descent
 drop
 denote
 derivatives
+devices
+denoting
 future
 from
 feed
@@ -987,6 +1015,7 @@ following
 fastest
 funtion
 fundamental
+folder
 Optimziation
 Operations
 Once
@@ -1000,6 +1029,7 @@ OOP
 Object
 Oriented
 OpenMP
+Obsidian
 kind
 know
 knowledge
@@ -1018,6 +1048,8 @@ vs
 viewing
 vicinity
 variables
+video
+vault
 numerical
 no
 need
@@ -1042,13 +1074,18 @@ neighborhood
 neighborhoods
 norm
 non
+note
+notes
 yes
 yield
 your
+you
 How
 Hinge
 Header
 Hessian
+Heading
+Here
 Not
 NOTHING
 No
@@ -1058,6 +1095,7 @@ Negaland
 Negapolis
 NOT
 Note
+New
 quality
 question
 quickly
@@ -1074,6 +1112,7 @@ Build
 Bayesians
 Bayes
 Backbone
+Bullet
 just
 jagged
 json
@@ -1082,3 +1121,4 @@ Vectorization
 Visualization
 Vector
 zero
+Java
