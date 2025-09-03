@@ -50,5 +50,9 @@ Key:
 - Created utilizing an **encryption function** *E*(K<sub>e</sub>, m)
 - *K*<sub>e</sub> => encryption key 
 Actors Alice and Bob, bad actor Eve. 
-Bob will receive *c* and feed it into a *deri*
+Bob will receive *c* and feed it into a **decryption function** *D*(K<sub>e</sub>, c)
+- Bob will get the plaintext message *m* decrypted by the function with the shared key. 
+
+**Kirchhoffs Principle**
+1. 
 
