@@ -72,6 +72,7 @@ What are some major weaknesses in our encryption model?
 2. Algorithms are embedded in the system.
 
 **Authentication**
+![[Pasted image 20250903152940.png]]
 
 
 
