@@ -52,6 +52,10 @@ Key:
 Actors Alice and Bob, bad actor Eve. 
 Bob will receive *c* and feed it into a **decryption function** *D*(K<sub>e</sub>, c)
 - Bob will get the plaintext message *m* decrypted by the function with the shared key. 
+What are some major weaknesses in our encryption model?
+- Add noise to confuse the recipient
+- Repeat *c* 
+- Insert new message
 
 **Kirchhoffs Principle**
 1. Security depends on the security of the encryption key, not the encryption algorithm. 
@@ -59,5 +63,7 @@ Bob will receive *c* and feed it into a **decryption function** *D*(K<sub>e</sub
 	- The key input needs to remain secret. 
 	- This is important because this allows us to do public peer reviews on the algorithms that we are using. Secure algorithms are not only difficult to create, but they are also difficult to implement in existing systems. 
 2. Algorithms are embedded in the system.
-	- 
+
+
+
 
