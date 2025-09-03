@@ -25,4 +25,7 @@ When taking the derivative of a multivariate function f(x, y), all components wh
 ![[Pasted image 20250903120007.png]]
 
 **Directional Derivative**
-Essentially the gradient of the function, 
+Essentially the gradient of the function.
+![[Pasted image 20250903120104.png]]
+**Note that we denote the transpose T superscript of the vector when written horizontally just because it is easier to write it as such.
+
