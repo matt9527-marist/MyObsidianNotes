@@ -45,7 +45,7 @@ No conversation should prioritize EVERYTHING, especially in a business environme
 
 
 ---
-
+## Introduction to Cryptography
 
 ![[Pasted image 20250903145844.png]]
 Key:
@@ -99,6 +99,8 @@ Alice will encrypt, or SIGN, the message with her secret key. This signature is 
 
 We see this model used a lot in **public key infrastructure (PKI)**
 ![[Pasted image 20250903154325.png]]
-The certificate we see in websites is using a public key. We are taking this key that is posted to verify the 
+The certificate we see in websites is using a public key. We are taking this key that is posted to verify the website. 
+
+
 
 
