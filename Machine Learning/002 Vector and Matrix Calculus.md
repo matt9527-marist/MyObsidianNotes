@@ -37,4 +37,6 @@ Will involve the condition that:
 $$
 \cos \theta = 1
 $$
-Meaning that the vector **u** and the gradient of *f* are parallel
+Meaning that the vector **u** and the gradient of *f* are parallel. 
+This is the maximized rate of change, or the goal of gradient descent/ascent. 
+
