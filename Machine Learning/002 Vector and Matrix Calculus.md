@@ -56,4 +56,6 @@ This gives us a linear approximation of the vector function *f*
 ## Vector Derivatives
 
 Assume we have a vector **x** = [x<sub>1</sub>, x<sub>2</sub>, ... x<sub>m</sub>]
-and a vector function 
+and a vector function **y** = [y<sub>1</sub>(**x**), y<sub>2</sub>(**x), ... y<sub>n</sub>(**x**)]<sup>T</sup>
+
+
