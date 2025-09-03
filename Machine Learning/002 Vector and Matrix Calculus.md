@@ -40,3 +40,7 @@ $$
 Meaning that the vector **u** and the gradient of *f* are parallel. 
 This is the maximized rate of change, or the goal of gradient descent/ascent. 
 
+**Taylor Expansion and Approximation**
+![[Pasted image 20250903120544.png]]
+Allows us to approximate a point on a function in the vicinity of a given point x<sub>0</sub>
+
