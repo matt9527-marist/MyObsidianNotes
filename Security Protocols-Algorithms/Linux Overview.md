@@ -10,3 +10,6 @@
 **Add a Path to the PATH variable**
 ![[Pasted image 20250903135030.png]]
 
+![[Pasted image 20250903135057.png]]
+![[Pasted image 20250903135110.png]]
+
