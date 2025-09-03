@@ -93,7 +93,14 @@ $$
 So:
 $$
 \frac{d(w^Tx)}{dx} = \begin{bmatrix}
-\frac{\partial f(x)}{\partial x_{1}}
+\frac{\partial f(x)}{\partial x_{1}} \\
+\frac{\partial f(x)}{\partial x_{2}}
 \end{bmatrix}
+= 
+\nabla(w^Tx) = \begin{bmatrix}
+w_{1} \\
+w_{2}
+\end{bmatrix} = x
 $$
+
 
