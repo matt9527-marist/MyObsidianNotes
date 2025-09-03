@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/001 Linear Algebra Review.md",
+                "file": "Machine Learning/000 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 Linear Algebra Review"
+              "title": "000 Introduction"
             }
           }
         ],
@@ -187,13 +187,13 @@
   },
   "active": "fd42d8d2fa68dc35",
   "lastOpenFiles": [
+    "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/Colab Notebooks.md",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Assets/Pasted image 20250901165354.png",
     "Assets/Pasted image 20250901164453.png",
     "Assets/Pasted image 20250901160921.png",
-    "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Matrix Operations Sheet.md",
     "Parallel Processing/000 Introduction.md",
     "Formatting Template.md",
