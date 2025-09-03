@@ -95,6 +95,6 @@ The authentication piece for symmetric encryption.
 4. Main limitations of digital signatures
 
 ![[Pasted image 20250903154138.png]]
-Alice will encrypt 
+Alice will encrypt, or SIGN, the message with her secret key. 
 
 
