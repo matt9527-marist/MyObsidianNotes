@@ -113,5 +113,6 @@ $$
 $$
 Because the component we are not taking the derivative wrt. to will drop out. 
 
+Examples:
 
 
