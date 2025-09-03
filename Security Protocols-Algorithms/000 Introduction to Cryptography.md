@@ -37,4 +37,5 @@ Prioritize and determine the level of security that we want to use.
 - Cryptography itself is hard. Implementation is easy. 
 - There exists more generic attacks.
 
-
+This is why we **balance security** with efficiency and performance in mind. 
+- Complexity is our worst 
