@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/000 Introduction.md",
+                "file": "Machine Learning/002 Vector and Matrix Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Introduction"
+              "title": "002 Vector and Matrix Calculus"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "1f272c14f36ed65e",
   "lastOpenFiles": [
+    "Machine Learning/000 Introduction.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Google Talk on Machine Learning.md",
     "conflict-files-obsidian-git.md",
@@ -183,7 +184,6 @@
     "Assets/Pasted image 20250901160348.png",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Parallel Processing/000 Introduction.md",
-    "Machine Learning/000 Introduction.md",
     "Security Protocols-Algorithms",
     "Machine Learning/Matrix Operations Sheet.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
