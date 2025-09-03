@@ -48,3 +48,5 @@ When applied in vector calculus:
 ![[Pasted image 20250903120710.png]]
 This gives us a linear approximation of the vector function *f*
 **H** is known as the Hessian matrix:
+![[Pasted image 20250903120827.png]]
+
