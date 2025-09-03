@@ -82,7 +82,12 @@ w_{2}
 \space
 
 x = \begin{bmatrix}
-
+x_{1} \\
+x_{2} \\
 \end{bmatrix}
+$$
+Then:
+$$
+w^Tx = w_{1}x_{1}  + w_{2}x_{2} = f(x_{1}, x_{2}) = f(x): R^2 \to R
 $$
 
