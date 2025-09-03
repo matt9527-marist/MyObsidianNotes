@@ -5,4 +5,10 @@ A=\begin{bmatrix}
 4 & 1
 \end{bmatrix}
 $$
-and a vector 
+and a vector **b** given as:
+$$
+b=\begin{bmatrix}
+2  \\
+7
+\end{bmatrix}
+$$
