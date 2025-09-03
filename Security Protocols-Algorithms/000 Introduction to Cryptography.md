@@ -95,6 +95,10 @@ The authentication piece for symmetric encryption.
 4. Main limitations of digital signatures
 
 ![[Pasted image 20250903154138.png]]
-Alice will encrypt, or SIGN, the message with her secret key. 
+Alice will encrypt, or SIGN, the message with her secret key. This signature is then used to verify the message integrity. 
+
+We see this model used a lot in **public key infrastructure (PKI)**
+![[Pasted image 20250903154325.png]]
+The certificate we see in websites is using a public key. We are taking this key that is posted to verify the 
 
 
