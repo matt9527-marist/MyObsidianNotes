@@ -16,6 +16,12 @@ This is not the only thing we need to be focused on. The security of our systems
 **Threat Models**
 *A security system is only as strong as its weakest link.*
 Looking at a threat model of breaking into a bank vault:
+![[Pasted image 20250903141327.png]]
+Solution:
+1. Risk Management
+2. Attack Trees 
+3. Defense-in Depth 
+
 
 
 
