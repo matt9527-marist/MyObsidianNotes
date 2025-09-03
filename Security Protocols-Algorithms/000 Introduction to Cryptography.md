@@ -13,5 +13,103 @@ This is not the only thing we need to be focused on. The security of our systems
 	- From an app development standpoint, it is one of the most important aspects as one of the most natural points of access for an attacker. 
 	- If an attacker gets around encryption, the risk is very high, as it is extremely easy to impersonate actors when in possession of their encryption keys. 
 
+**Threat Models**
+*A security system is only as strong as its weakest link.*
+Looking at a threat model of breaking into a bank vault:
+![[Pasted image 20250903141327.png]]
+Solution:
+1. Risk Management
+2. Attack Trees 
+3. Defense-in-Depth 
+*Defense-in-Depth* - Adding layers of security to protect against certain attack methods, the idea of layered security measures and additional steps to minimize potential damages. 
 
+There is also the question of who is beyond attack vectors. This brings us to risk assessment. 
+
+What is a "proper" level of security?
+1. Focus on threats and assets
+2. Match security controls to risks
+![[Pasted image 20250903143055.png]]
+Prioritize and determine the level of security that we want to use. 
+
+**Encryption is not the answer**
+- It can make things worse.
+- There is no one solution. 
+- Cryptography itself is hard. Implementation is easy. 
+- There exists more generic attacks.
+
+This is why we **balance security** with efficiency and performance in mind. 
+- Complexity is our worst enemy. 
+- The evolution of tehcnology adds to this complexity. 
+- Performance is often the primary objective (especially for application developers)
+No conversation should prioritize EVERYTHING, especially in a business environment where we want to minimize costs.
+
+
+---
+## Introduction to Cryptography
+
+![[Pasted image 20250903145844.png]]
+Key:
+*m* => message in cleartext
+*c* => encrypted text, cyphertext
+- Created utilizing an **encryption function** *E*(K<sub>e</sub>, m)
+- *K*<sub>e</sub> => encryption key 
+Actors Alice and Bob, bad actor Eve. 
+Bob will receive *c* and feed it into a **decryption function** *D*(K<sub>e</sub>, c)
+- Bob will get the plaintext message *m* decrypted by the function with the shared key. 
+
+What are some major weaknesses in our encryption model?
+- Add noise to confuse the recipient
+- Repeat *c* 
+- Insert new message
+- Change the order of messages
+- Intercept and delay the message
+
+**Kirchhoffs Principle**
+1. Security depends on the security of the encryption key, not the encryption algorithm. 
+	- The encryption algorithms used by Alice and Bob are NOT secret. It is public information how they work. 
+	- The key input needs to remain secret. 
+	- This is important because this allows us to do public peer reviews on the algorithms that we are using. Secure algorithms are not only difficult to create, but they are also difficult to implement in existing systems. 
+2. Algorithms are embedded in the system.
+
+**Authentication**
+![[Pasted image 20250903152940.png]]
+This is the process for the recipient to verify whether or not a message is legitimate. 
+This is how **hashing** works, maintaining the integrity of the message *m* by checking it with an authenticating function H(K<sub>a</sub>, m). This is not secrecy of the message, but rather authentication of the message. This does not protect against sequencing of messages. Usually to fix that, we add sequencing numbers to messages. 
+
+> **Public Key Encryption**
+> Also known as **asymmetric Encryption,** where two keys are being used.![[Pasted image 20250903153331.png]]
+1. Bob generates a pair of keys (*Sbob, Pbob*) which are his private and  
+public key.  
+2. He publishes his public key  
+3. Alice obtains public key from a website, etc. and uses it to encrypt her  
+message and send it to Bob
+4. Bob uses his secret key to decrypt the message
+
+This allows scalability of encrypted messaging and helps significantly with key distribution. How can we get K<sub>e</sub> to people securely? This solves that issue by separating the keys and letting anyone we want use the public key. 
+
+**Digitial Signatures**
+The authentication piece for symmetric encryption. 
+1. Alice generates a key pair (*Salice, Palice*)  
+2. Alice sends both *m* and *s* to Bob  
+3. Bob uses function v to verify Alice  
+4. Main limitations of digital signatures
+
+![[Pasted image 20250903154138.png]]
+Alice will encrypt, or SIGN, the message with her secret key. This signature is then used to verify the message integrity. 
+
+We see this model used a lot in **public key infrastructure (PKI)**
+![[Pasted image 20250903154325.png]]
+The certificate we see in websites is using a public key. We are taking this key that is posted to verify the website. 
+
+**Types of Attacks**
+> Cyphertext-Only Attack - Only given cyphertext, basically unbreakable. 
+> Known-Plaintext Attack - We know the plaintext that was used, and we can see the cyphertext generated from that plaintext. We then try to figure out how the plaintext became the cyphertext, popular for communications around email systems and headers. 
+> Chosen Plaintext Attack - Where we choose different plaintexts and see what cyphertext is produced. This is what is actually used to crack passwords. 
+> Chosen Ciphertext Model - The easiest to implement. We can choose cyphertext and find associated plaintext. 
+
+**Highlighted Attack**
+• The *birthday paradox*: If you have 23 people in a room, the chances of them having the same birthday exceed 50%. 
+• A birthday attack depends on collisions, or duplicate values. 
+• You can wait for duplicate keys, and then switch messages in transactions with duplicate keys 
+• If there are N different values, you can expect the first collision after √N random elements
 
