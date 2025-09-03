@@ -20,4 +20,9 @@ The gradient plays a fundamental role in **optimization** theory, and therefore 
 ## Calculus
 
 **Partial Derivatives**
-When taking the derivative of a multivariate function f(x, y), all components which we are NOT taking the derivative with respect to will be treated as constants. In most such cases,
+When taking the derivative of a multivariate function f(x, y), all components which we are NOT taking the derivative with respect to will be treated as constants. In most such cases, they will simply drop to 0. 
+
+![[Pasted image 20250903120007.png]]
+
+**Directional Derivative**
+Essentially the gradient of the function, 
