@@ -46,4 +46,6 @@ No conversation should prioritize EVERYTHING, especially in a business environme
 ![[Pasted image 20250903145844.png]]
 Key:
 *m* => message in cleartext
-
+*c* => encrypted text, cyphertext
+- Created utilizing an **encryption function** E(K<sub>e</sub>, m)
+- *K*
