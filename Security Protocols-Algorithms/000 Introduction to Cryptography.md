@@ -78,11 +78,11 @@ This is how **hashing** works, maintaining the integrity of the message *m* by c
 
 > **Public Key Encryption**
 > Also known as **asymmetric Encryption,** where two keys are being used.![[Pasted image 20250903153331.png]]
-1. Bob generates a pair of keys (Sbob, Pbob) which are his private and  
+1. Bob generates a pair of keys (*Sbob, Pbob*) which are his private and  
 public key.  
 2. He publishes his public key  
 3. Alice obtains public key from a website, etc. and uses it to encrypt her  
-message and send it to BOB  
+message and send it to Bob
 4. Bob uses his secret key to decrypt the message
 
 
