@@ -67,3 +67,13 @@ We will use the *Mixed Layout* ruleset, which treats gradients as column vectors
 
 See[ MatrixCalculusCalculator](http://www.matrixcalculus.org/).
 
+**Derivative of a dot (inner) product of 2 vectors with respect to one of them:**
+The derivative of a dot product wTx  with respect to x is a vector of derivatives 
+with respect to the components of x.
+
+Consider:
+
+$$
+w
+$$
+
