@@ -43,3 +43,7 @@ This is why we **balance security** with efficiency and performance in mind.
 - Performance is often the primary objective (especially for application developers)
 No conversation should prioritize EVERYTHING, especially in a business environment where we want to minimize costs.
 
+![[Pasted image 20250903145844.png]]
+Key:
+*m* => message in cleartext
+

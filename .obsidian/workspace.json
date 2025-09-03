@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formatting Template.md",
+                "file": "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formatting Template"
+              "title": "000 Introduction to Cryptography"
             }
           }
         ],
@@ -188,11 +188,13 @@
   },
   "active": "966a2d986961a836",
   "lastOpenFiles": [
+    "Assets/Pasted image 20250903145844.png",
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
+    "Security Protocols-Algorithms/Linux Overview.md",
+    "Formatting Template.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Assets/Pasted image 20250903143055.png",
     "Assets/Pasted image 20250903141327.png",
-    "Security Protocols-Algorithms/001 Block Ciphers.md",
-    "Security Protocols-Algorithms/Linux Overview.md",
     "Assets/Pasted image 20250903135110.png",
     "Assets/Pasted image 20250903135057.png",
     "Assets/Pasted image 20250903135030.png",
@@ -224,7 +226,6 @@
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "Machine Learning/Colab Notebooks.md",
-    "Machine Learning/Introduction.md",
     "Parallel Processing",
     "Machine Learning",
     "Sec Prot and Algorithms",

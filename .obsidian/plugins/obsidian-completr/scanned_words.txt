@@ -24,6 +24,8 @@ Management
 Maximizing
 Meaning
 Mixed
+Modes
+Match
 Learning
 Learn
 Let
@@ -37,6 +39,8 @@ Languages
 Linear
 Layout
 LaTeX
+Linux
+Looking
 Relevant
 Reading
 Research
@@ -54,6 +58,7 @@ Recommendation
 Representation
 Rank
 Role
+Risk
 libraries
 learn
 learning
@@ -82,6 +87,9 @@ listed
 linear
 likewise
 linked
+layers
+layered
+level
 Graphing
 Google
 Game
@@ -117,6 +125,9 @@ Calculus
 Considering
 Clicking
 Continued
+Ciphers
+Cipher
+Complexity
 Scikit
 Statistical
 Statistics
@@ -139,6 +150,8 @@ ScalarDerivativeRules
 Series
 See
 So
+Structure
+Solution
 Keras
 TensorFlow
 Task
@@ -158,6 +171,8 @@ Transpose
 Tools
 Taylor
 Then
+Threat
+Trees
 ISLP
 Iris
 Instance
@@ -175,6 +190,7 @@ Initial
 Instructions
 Independence
 Instantaneous
+Implementation
 and
 ability
 approximation
@@ -236,6 +252,12 @@ ascent
 approximate
 applied
 across
+attack
+assessment
+assets
+answer
+attacks
+adds
 Applications
 AI
 Analysis
@@ -262,6 +284,9 @@ Allows
 And
 Above
 After
+Add
+Attack
+Adding
 with
 without
 want
@@ -294,6 +319,10 @@ workspace
 written
 wTx
 wrt
+who
+worse
+why
+worst
 Python
 Performance
 Principle
@@ -316,6 +345,10 @@ Performs
 Prevent
 Please
 Partial
+Path
+Permissions
+PATH
+Prioritize
 What
 We
 With
@@ -379,6 +412,8 @@ FLOPs
 Functions
 Files
 From
+File
+Focus
 of
 or
 optimize
@@ -482,6 +517,7 @@ sup
 scalar
 sync
 specifies
+steps
 giving
 good
 generalizable
@@ -506,6 +542,7 @@ gets
 gradient
 gives
 gradients
+generic
 computers
 computer
 can
@@ -585,6 +622,11 @@ constant
 component
 cloning
 contained
+cipher
+controls
+complexity
+conversation
+costs
 the
 to
 training
@@ -635,6 +677,9 @@ treats
 title
 tag
 through
+threat
+threats
+tehcnology
 being
 be
 by
@@ -666,6 +711,12 @@ blocks
 because
 bold
 block
+breaking
+bank
+beyond
+brings
+balance
+business
 explicitly
 experience
 error
@@ -703,6 +754,10 @@ extremely
 easy
 embedded
 encased
+exists
+efficiency
+enemy
+especially
 programmed
 patterns
 program
@@ -763,6 +818,11 @@ points
 possession
 plugins
 plays
+protect
+potential
+proper
+primary
+prioritize
 Detecting
 Deepmind
 Dataset
@@ -776,6 +836,9 @@ Directive
 Derivatives
 Directional
 Derivative
+Determination
+Defense
+Depth
 regularities
 respect
 recognizing
@@ -823,6 +886,7 @@ recall
 root
 repo
 replacing
+risks
 model
 mostly
 machine
@@ -880,6 +944,7 @@ multivariate
 maximized
 method
 moving
+mind
 hypothesis
 handwritten
 have
@@ -895,6 +960,7 @@ higher
 hypotheses
 housing
 horizontally
+hard
 Execution
 Examples
 Economics
@@ -912,6 +978,8 @@ Equation
 Exploring
 Essentially
 Expansion
+Encryption
+EVERYTHING
 using
 utility
 use
@@ -977,6 +1045,8 @@ denote
 derivatives
 devices
 denoting
+damages
+developers
 future
 from
 feed
@@ -1113,6 +1183,7 @@ Bayesians
 Bayes
 Backbone
 Bullet
+Block
 just
 jagged
 json
