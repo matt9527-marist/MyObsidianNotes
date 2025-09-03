@@ -57,6 +57,6 @@ Bob will receive *c* and feed it into a **decryption function** *D*(K<sub>e</sub
 1. Security depends on the security of the encryption key, not the encryption algorithm. 
 	- The encryption algorithms used by Alice and Bob are NOT secret. It is public information how they work. 
 	- The key input needs to remain secret. 
-	- This is important because this allows us to do public peer reviews on the algorithms tha
+	- This is important because this allows us to do public peer reviews on the algorithms that we are using. 
 2. Algorithms are embedded in the system.
 
