@@ -29,3 +29,8 @@ Essentially the gradient of the function.
 ![[Pasted image 20250903120104.png]]
 **Note that we denote the transpose T superscript of the vector when written horizontally just because it is easier to write it as such.
 
+Maximizing the above function:
+$$
+||M||||\nabla f||\cos \theta
+$$
+Will involve the condition that:
