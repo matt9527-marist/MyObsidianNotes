@@ -30,10 +30,3 @@ What is a "proper" level of security?
 2. Match security controls to risks
 ![[Pasted image 20250903143055.png]]
 
-
-
-
-
-
-
-
