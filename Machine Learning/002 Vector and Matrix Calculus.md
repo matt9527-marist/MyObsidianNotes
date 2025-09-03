@@ -90,4 +90,10 @@ Then:
 $$
 w^Tx = w_{1}x_{1}  + w_{2}x_{2} = f(x_{1}, x_{2}) = f(x): R^2 \to R
 $$
+So:
+$$
+\frac{d(w^Tx)}{dx} = \begin{bmatrix}
+\frac{\partial f(x)}{\partial x_{1}}
+\end{bmatrix}
+$$
 
