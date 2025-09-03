@@ -13,7 +13,10 @@
     "java": 1,
     "help": 2,
     "tag": 3,
-    "SupervisedLearning": 4
+    "SupervisedLearning": 4,
+    "vectors": 5,
+    "matrices": 6,
+    "derivativeRules": 7
   },
   "_version": 3
 }

@@ -10,3 +10,8 @@
 
 [Vectors and Matrices](https://gist.github.com/eitellauria/73a3a7156d37e637e2f33175a7786db5)
 
+[Vectors and Matrices](https://gist.github.com/eitellauria/73a3a7156d37e637e2f33175a7786db5)
+
+[Plotting Surfaces and Gradients](https://gist.github.com/eitellauria/0b46e9a4c8b369197fa78d944b516537)
+
+
