@@ -31,5 +31,10 @@ What is a "proper" level of security?
 ![[Pasted image 20250903143055.png]]
 Prioritize and determine the level of security that we want to use. 
 
+**Encryption is not the answer**
+- It can make things worse.
+- There is no one solution. 
+- Cryptography itself is hard. Implementation is easy. 
+- There exists more generic attacks.
 
 
