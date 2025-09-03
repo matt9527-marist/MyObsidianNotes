@@ -87,8 +87,14 @@ message and send it to Bob
 
 This allows scalability of encrypted messaging and helps significantly with key distribution. How can we get K<sub>e</sub> to people securely? This solves that issue by separating the keys and letting anyone we want use the public key. 
 
+**Digitial Signatures**
+The authentication piece for symmetric encryption. 
+1. Alice generates a key pair (*Salice, Palice*)  
+2. Alice sends both *m* and *s* to Bob  
+3. Bob uses function v to verify Alice  
+4. Main limitations of digital signatures
 
-
-
+![[Pasted image 20250903154138.png]]
+Alice will encrypt 
 
 
