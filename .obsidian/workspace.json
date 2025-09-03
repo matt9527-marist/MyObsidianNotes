@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Scratch.md",
+                "file": "Machine Learning/001 Linear Algebra Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTeX Scratch"
+              "title": "001 Linear Algebra Review"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "18bc8b73fb778f4d",
   "lastOpenFiles": [
-    "Machine Learning/Colab Notebooks.md",
     "LaTeX Scratch.md",
+    "Machine Learning/Colab Notebooks.md",
     "Machine Learning/Matrix Operations Sheet.md",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
