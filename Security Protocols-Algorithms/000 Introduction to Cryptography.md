@@ -85,7 +85,10 @@ public key.
 message and send it to Bob
 4. Bob uses his secret key to decrypt the message
 
-	This allows scalability of encrypted messaging. 
+This allows scalability of encrypted messaging. 
+
+
+
 
 
 
