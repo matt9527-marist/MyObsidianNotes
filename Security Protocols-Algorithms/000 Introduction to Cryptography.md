@@ -108,3 +108,8 @@ The certificate we see in websites is using a public key. We are taking this key
 > Chosen Ciphertext Model - The easiest to implement. We can choose cyphertext and find associated plaintext. 
 
 **Highlighted Attack**
+• The *birthday paradox*: If you have 23 people in a room, the chances of them having the same birthday exceed 50%. 
+• A birthday attack depends on collisions, or duplicate values. 
+• You can wait for duplicate keys, and then switch messages in transactions with duplicate keys 
+• If there are N different values, you can expect the first collision after √N random elements
+
