@@ -102,5 +102,13 @@ w_{1} \\
 w_{2}
 \end{bmatrix} = x
 $$
+But recall derivatives in the scalar world: Considering a function f(x) = kx where k is any constant:
 
+$$
+\frac{d(kx)}{dx} = k
+$$
+And likewise:
+$$
+
+$$
 
