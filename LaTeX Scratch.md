@@ -28,6 +28,6 @@ b_{2} \\
 $$
 Expand and simplify the following expression:
 $$
-(a^Tx) \bullet (b^Tx)
+(a^Tx)\bullet b + (b^Tx) \bullet a 
 $$
 Where the dot represents standard multiplication.
