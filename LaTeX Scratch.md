@@ -30,4 +30,4 @@ Expand and simplify the following expression:
 $$
 (a^Tx) \bullet (b^Tx)
 $$
-Where 
+Where the dot represents standard multiplication.
