@@ -16,7 +16,13 @@ Has **3 compilation steps**
 **Efficiency of Incremental Compilation vs. Manual Tracking:**
 - Compiling only changed files reduces build time significantly in larger projects. 
 - Challenges to manual processing:
-	- Tedious to track and manage multiple files
+	- Tedious to track and manage multiple changed files manually. 
+	- Risk of human error in forgetting to compile some modified files. 
+*Solution*: Use a build system to automate all of this.
+
+![[Pasted image 20250905174444.png]]
+
+
 
 
 
