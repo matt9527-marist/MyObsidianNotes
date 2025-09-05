@@ -30,3 +30,22 @@ A variable that stores the memory address
 }
 ```
 
+Example of Pointer Usage:
+```C++
+#include <cassert>  
+	int main() {  
+	int i{5};  
+	
+	int& ref_i{i}; // reference, another name & on LHS  
+	int* ptr_i{&i}; // mem add & RHS  
+	
+	assert(i == ref_i); // ref_i is another name of i  
+	assert(i == *ptr_i); // * dereference on RHS  
+	
+	assert(&i == &ref_i); assert(&i == ptr_i); // hexadecimal  
+	
+	i++;  
+	assert(i == ref_i); assert(i == *ptr_i);  
+	assert(&i == &ref_i); assert(&i == ptr_i);  
+}
+```
