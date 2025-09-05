@@ -17,7 +17,8 @@
     "derivativeRules": 5,
     "vectors": 6,
     "matrices": 7,
-    "ScalarDerivativeRules": 8
+    "ScalarDerivativeRules": 8,
+    "CMake": 9
   },
   "_version": 3
 }
