@@ -32,8 +32,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # used internally by CMake to identify your project  
 project(greeting)  
+
 # Include the directory headers are located  
 include_directories(${CMAKE_SOURCE_DIR}/include)  
+
 # Add the main executable  
 add_executable(greeting src/main.cpp src/greeting.cpp)
 ```

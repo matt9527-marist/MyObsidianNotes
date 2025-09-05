@@ -25,6 +25,8 @@ Models
 Maximizing
 Meaning
 Mixed
+Makefiles
+Manual
 Learning
 Learn
 Let
@@ -38,6 +40,7 @@ Languages
 LaTeX
 Linear
 Layout
+Linux
 Relevant
 Reading
 Research
@@ -55,6 +58,7 @@ Recommendation
 Representation
 Role
 Rank
+Risk
 libraries
 learn
 learning
@@ -83,6 +87,8 @@ link
 larger
 linear
 likewise
+linking
+like
 Graphing
 Google
 Game
@@ -118,6 +124,10 @@ Can
 Change
 Calculus
 Considering
+Compilation
+Compiling
+Challenges
+CMakeLists
 Scikit
 Statistical
 Statistics
@@ -140,6 +150,8 @@ ScalarDerivativeRules
 Series
 See
 So
+Studio
+Solution
 Keras
 TensorFlow
 Task
@@ -159,6 +171,8 @@ These
 Transpose
 Taylor
 Then
+Tracking
+Tedious
 ISLP
 Iris
 Instance
@@ -176,6 +190,8 @@ Initial
 Inverse
 Independence
 Instantaneous
+Instead
+Incremental
 and
 ability
 approximation
@@ -237,6 +253,8 @@ application
 ascent
 approximate
 applied
+appropriate
+automate
 Applications
 AI
 Analysis
@@ -327,6 +345,7 @@ Workhorse
 When
 Why
 Will
+Windows
 is
 in
 if
@@ -413,6 +432,7 @@ originally
 organizations
 objects
 outer
+options
 study
 simplified
 something
@@ -484,6 +504,14 @@ such
 superscript
 sup
 scalar
+source
+scripts
+since
+settings
+small
+suffice
+scalability
+steps
 giving
 good
 generalizable
@@ -508,6 +536,9 @@ gets
 gradient
 gives
 gradients
+generator
+generates
+grows
 computers
 computer
 can
@@ -587,6 +618,13 @@ calculus
 case
 constant
 component
+cumbersome
+cross
+complexity
+compiler
+compilation
+changed
+compile
 the
 to
 training
@@ -637,6 +675,8 @@ taking
 treated
 transpose
 treats
+thousands
+track
 being
 be
 by
@@ -668,6 +708,7 @@ bold
 block
 both
 because
+becomes
 explicitly
 experience
 error
@@ -705,6 +746,8 @@ encryption
 ecosystem
 extremely
 easy
+especially
+external
 programmed
 patterns
 program
@@ -765,6 +808,9 @@ points
 possession
 plane
 plays
+projects
+platform
+project
 Detecting
 Deepmind
 Dataset
@@ -825,6 +871,9 @@ role
 results
 ruleset
 recall
+rather
+rely
+reduces
 model
 mostly
 machine
@@ -882,6 +931,11 @@ material
 mean
 multivariate
 maximized
+manage
+makes
+manual
+manually
+modified
 hypothesis
 handwritten
 have
@@ -897,6 +951,9 @@ higher
 hypotheses
 housing
 horizontally
+hundreds
+header
+host
 Execution
 Examples
 Economics
@@ -916,6 +973,7 @@ Eigenvectors
 Equation
 Essentially
 Expansion
+Efficiency
 using
 utility
 use
@@ -981,6 +1039,8 @@ derivativeRules
 drop
 denote
 derivatives
+developers
+describe
 future
 from
 feed
@@ -1020,6 +1080,7 @@ fail
 fastest
 funtion
 fundamental
+forgetting
 Optimziation
 Operations
 Once
@@ -1090,6 +1151,7 @@ Header
 Heading
 Here
 Hessian
+Has
 Not
 NOTHING
 No
@@ -1107,6 +1169,7 @@ Unsupervised
 UNION
 User
 Used
+Use
 Breakout
 Because
 Backpropagation
@@ -1124,5 +1187,6 @@ Vectorization
 Vectors
 Visualization
 Vector
+Visual
 Java
 zero
