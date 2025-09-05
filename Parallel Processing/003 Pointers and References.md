@@ -17,3 +17,16 @@ int main(){
 A variable that stores the memory address
 - Operating on a pointer to an object may be more efficient than the same operation on the object itself. 
 - If the pointer points to a large object, passing the pointer to a function can be much more efficient than passing a copy of the object as with pass-by-value. 
+
+```C++
+#include <cassert>  
+	int main(){  
+	
+	int i{5};  
+	int* ptr_i{&i};  
+	
+	assert(&i == ptr_i);  
+	assert(i == *ptr_i);  
+}
+```
+
