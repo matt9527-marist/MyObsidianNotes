@@ -1,1 +1,7 @@
-C++ without CMake can make c
+C++ without CMake can make compiling large projects rather cumbersome. 
+We need a build system to manage large projects with hundreds
+or thousands of header/source files.
+
+CMake is a **cross-platform build system generator** that makes it easier to manage the complexity of compiling and linking large C++ projects. Instead of writing platform-specific build scripts (like Makefiles for Linux or Visual Studio project files for Windows), developers describe their project in a single `CMakeLists.txt` file. CMake then generates the appropriate build system for the host platform. This is especially useful for C++ projects since they often rely on external libraries, compiler options, and platform-specific settings. CMake also supports out-of-source builds, dependency management, and configuration checks, which makes projects more portable and easier to share or build on different machines.
+
+
