@@ -1,0 +1,1 @@
+A **reference** is another name given to an existing variable
