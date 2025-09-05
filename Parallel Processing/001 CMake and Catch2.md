@@ -1,1 +1,1 @@
-C
+C++ without CMake can make c
