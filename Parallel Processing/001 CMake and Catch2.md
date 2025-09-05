@@ -40,5 +40,10 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 add_executable(greeting src/main.cpp src/greeting.cpp)
 ```
 
+**CMake on Windows with MinGW**
+![[Pasted image 20250905174737.png]]
+![[Pasted image 20250905174743.png]]
+![[Pasted image 20250905174757.png]]
+## Catch 2
 
 
