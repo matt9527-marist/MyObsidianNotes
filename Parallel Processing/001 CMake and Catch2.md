@@ -13,7 +13,10 @@ For small projects, compiling a few single files may suffice, but as the project
 Has **3 compilation steps**
 ![[Pasted image 20250905174213.png]]
 
-Efficiency of Incremental Co
+**Efficiency of Incremental Compilation vs. Manual Tracking:**
+- Compiling only changed files reduces build time significantly in larger projects. 
+- Challenges to manual processing:
+	- Tedious to track and manage multiple files
 
 
 
