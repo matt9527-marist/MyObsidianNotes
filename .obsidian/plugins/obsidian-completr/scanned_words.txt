@@ -27,6 +27,7 @@ Meaning
 Mixed
 Makefiles
 Manual
+MinGW
 Learning
 Learn
 Let
