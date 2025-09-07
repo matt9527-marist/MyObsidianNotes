@@ -90,6 +90,7 @@ linear
 likewise
 linking
 like
+left
 Graphing
 Google
 Game
@@ -256,6 +257,7 @@ approximate
 applied
 appropriate
 automate
+another
 Applications
 AI
 Analysis
@@ -337,6 +339,8 @@ Prevent
 Projection
 PCA
 Partial
+Pointers
+Pointer
 What
 We
 With
@@ -434,6 +438,9 @@ organizations
 objects
 outer
 options
+operator
+object
+operation
 study
 simplified
 something
@@ -513,6 +520,8 @@ small
 suffice
 scalability
 steps
+side
+stores
 giving
 good
 generalizable
@@ -626,6 +635,7 @@ compiler
 compilation
 changed
 compile
+copy
 the
 to
 training
@@ -812,6 +822,9 @@ plays
 projects
 platform
 project
+pointer
+passing
+pass
 Detecting
 Deepmind
 Dataset
@@ -875,6 +888,7 @@ recall
 rather
 rely
 reduces
+reference
 model
 mostly
 machine
@@ -955,6 +969,7 @@ horizontally
 hundreds
 header
 host
+hand
 Execution
 Examples
 Economics
@@ -1042,6 +1057,8 @@ denote
 derivatives
 developers
 describe
+declare
+declaration
 future
 from
 feed
@@ -1096,6 +1113,7 @@ Object
 Oriented
 OpenMP
 Obsidian
+Operating
 kind
 know
 knowledge
@@ -1142,6 +1160,7 @@ note
 notes
 norm
 non
+name
 yes
 your
 you
@@ -1171,6 +1190,7 @@ UNION
 User
 Used
 Use
+Usage
 Breakout
 Because
 Backpropagation
