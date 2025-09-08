@@ -135,4 +135,6 @@ We need to specify ALL of the files we are needing to compile.
 
 **Problems with this Approach**
 This works for projects with a few files. 
-- We need a build system 
+- We need a build system to manage larger projects with potentially hundreds or thousands of header/source files. 
+- Moving on to build systems like CMake...
+

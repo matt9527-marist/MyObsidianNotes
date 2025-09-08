@@ -127,6 +127,7 @@ lay
 like
 left
 linking
+lots
 Graphing
 Google
 Game
@@ -140,6 +141,7 @@ Gb
 GY
 Goal
 Given
+Greeting
 Charting
 Control
 Common
@@ -187,6 +189,7 @@ Compilation
 Compiling
 Challenges
 CMakeLists
+Compiler
 Scikit
 Statistical
 Statistics
@@ -227,6 +230,7 @@ Sources
 Simple
 SOLUTION
 Studio
+Simplifying
 Keras
 Key
 Kirchhoffs
@@ -273,6 +277,7 @@ TASK
 Take
 Tracking
 Tedious
+Tells
 ISLP
 Iris
 Instance
@@ -299,6 +304,7 @@ Iwv
 IEND
 Instead
 Incremental
+Intro
 and
 ability
 approximation
@@ -434,6 +440,8 @@ An
 Assessing
 ARCHITECTURE
 ANN
+ALL
+Approach
 with
 without
 want
@@ -525,6 +533,8 @@ Perhaps
 Prediction
 Pointers
 Pointer
+Project
+Problems
 What
 We
 With
@@ -592,6 +602,8 @@ inaccuracya
 introduce
 inverting
 iterations
+ifndef
+included
 Field
 For
 Find
@@ -660,6 +672,7 @@ operator
 object
 operation
 options
+once
 study
 simplified
 something
@@ -765,6 +778,10 @@ scripts
 settings
 small
 suffice
+second
+several
+statements
+specify
 giving
 good
 generalizable
@@ -805,6 +822,7 @@ group
 gradientDescent
 generator
 grows
+give
 computers
 computer
 can
@@ -925,6 +943,7 @@ compiler
 compilation
 changed
 compile
+cause
 the
 to
 training
@@ -995,6 +1014,7 @@ terms
 transposing
 thousands
 track
+twice
 being
 be
 by
@@ -1221,6 +1241,8 @@ pass
 projects
 platform
 project
+prototyping
+potentially
 Detecting
 Deepmind
 Dataset
@@ -1404,6 +1426,8 @@ makes
 manual
 manually
 modified
+miss
+move
 hypothesis
 handwritten
 have
@@ -1438,6 +1462,7 @@ hand
 hundreds
 header
 host
+headaches
 Execution
 Examples
 Economics
@@ -1567,6 +1592,8 @@ decrease
 declare
 declaration
 describe
+defining
+define
 future
 from
 feed
@@ -1737,6 +1764,7 @@ now
 numerator
 never
 name
+needing
 yes
 yield
 your
