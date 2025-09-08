@@ -65,4 +65,3 @@ Two important points to consider: **bias** and **variance**.
 
 The irreducible error is given by the Variance of the noise The reducible error is given by the expectation of the squared difference between f^(𝐱) and y<sup>^</sup>.
 
-
