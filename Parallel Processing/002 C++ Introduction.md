@@ -16,10 +16,13 @@ std::cout << "Hello\n";
 ```
 For what we need in parallel programming, we prefer brace initialization: 
 A warning is generated for line 4. 
-- 2.7 is not an int. 
+- 2.7 is not an int; it is floating-point. 
+At line 8, we may try a compile-time cast:
+- **Type Casting** is a better practice, but not the greatest.
+- **Brac**
 
 ```
-int x = 2.7; 
+int x{5};
 ```
 
 as opposed to what we may be used to usually. 
