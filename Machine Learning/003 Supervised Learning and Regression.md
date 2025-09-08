@@ -113,5 +113,5 @@ Machine Learning is Optimization
 
 ## Linear Regression 
 Define the architecture: 
-$$LR :$$
+$$LR: y=f(x) + e \to \hat{y} = \sum^{m}_{j = 1}w_{j}x_{j}$$
 
