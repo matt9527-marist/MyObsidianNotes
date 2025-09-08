@@ -72,5 +72,9 @@ var(e) will be our irreducible error, but without knowing exactly how to measure
 - We have found that the expectation of the observation minus the estimation, squared = var(e) + E[(f(x)-y^)^2] as shown above. 
 
 **Assessing Model Accuracy**
+How can we measure how close y is getting to f? 
+![[Pasted image 20250908162349.png]]
+![[Pasted image 20250908162402.png]]
 
+Suppose we have y = w0+w1
 
