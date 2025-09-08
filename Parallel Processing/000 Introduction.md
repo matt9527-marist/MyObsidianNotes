@@ -126,4 +126,6 @@ std::string CreateGreeting(const std::string userName){
 	return "Hello, " + userName + "!";  
 }
 ```
-What does "include" mean? Tells the compiler what to include in compilation for which functions a
+What does "include" mean? Tells the compiler what to include in compilation for which functions are being used. No need to do it twice.
+
+
