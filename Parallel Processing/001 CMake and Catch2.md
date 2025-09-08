@@ -88,4 +88,6 @@ TEST_CASE("Testing CreateGreeting", "[CreateGreeting]") {
 
 Windows Test Cases build
 ![[Pasted image 20250908192710.png]]
+![[Pasted image 20250908192726.png]]
+![[Pasted image 20250908192736.png]]
 
