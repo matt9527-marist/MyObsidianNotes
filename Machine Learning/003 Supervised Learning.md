@@ -77,6 +77,7 @@ How can we measure how close y is getting to f?
 ![[Pasted image 20250908162402.png]]
 
 Suppose we have: 
-$$y = w0 + w_{1}x$$
-$$y = w_{0} +  w_{1}x + w_{2}x^2 + w_{3}x^3$$
-$$y = w_{0} + \sum^{10}_{}$$
+Simple Linear regression: $$y = w0 + w_{1}x$$
+A cubic polynomial: $$y = w_{0} +  w_{1}x + w_{2}x^2 + w_{3}x^3$$
+$$y = w_{0} + \sum^{10}_{o = 1} w_{o}x^o$$
+
