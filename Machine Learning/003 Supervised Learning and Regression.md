@@ -129,9 +129,9 @@ In order to discover the minimum of our cost function, need to find:
 $$\frac{ \partial J }{ \partial w }  = 0$$
 Also consider:
 $$j = \sum^{m}_{i=0}w_{j}x_{j}$$
-
-
-
+$$\begin{bmatrix}
+x_{1}^1 \dots x_{m}^1
+\end{bmatrix}$$
 
 
 
