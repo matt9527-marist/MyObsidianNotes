@@ -87,5 +87,6 @@ If a model has low bias and very high variannce, it can be said to have low gene
 
 ![[Pasted image 20250908163108.png]]
 
-
+# Linear Regression 
+#Regression
 

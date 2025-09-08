@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/003 Supervised Learning.md",
+                "file": "Machine Learning/003 Supervised Learning and Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 Supervised Learning"
+              "title": "003 Supervised Learning and Regression"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/003 Supervised Learning.md",
+                "file": "Machine Learning/003 Supervised Learning and Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 Supervised Learning"
+              "title": "003 Supervised Learning and Regression"
             }
           }
         ]
@@ -192,7 +192,7 @@
     "Assets/Pasted image 20250908162402.png",
     "Assets/Pasted image 20250908162349.png",
     "Assets/Pasted image 20250908161939.png",
-    "Machine Learning/003 Supervised Learning.md",
+    "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250908161159.png",
     "Assets/Pasted image 20250908160318.png",
     "Assets/Pasted image 20250908160116.png",
