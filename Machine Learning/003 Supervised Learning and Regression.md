@@ -152,4 +152,4 @@ What is this?
 ![[Pasted image 20250908174954.png]]
 Recall the 3 rules: this is the last one. The derivative of a vector with respect to a vector. 
 ![[Pasted image 20250908175150.png]]
-Notice step 3: this is the chain r
+Notice step 3: this is the chain rule- the derivative of a function f(g(x)).
