@@ -31,6 +31,8 @@ If on your system, we have a GPU available, we have various architectures that a
 12. GPU Languages
 13. GPU Profiling and Tools 
 
+## C++ Compiler Intro 
+
 Introductory C++ program:
 ```c++
 #include <iostream>
@@ -129,4 +131,8 @@ std::string CreateGreeting(const std::string userName){
 What does "include" mean? Tells the compiler what to include in compilation for which functions are being used. No need to do it twice.
 
 ![[Pasted image 20250908185400.png]]
-We need to specify the 
+We need to specify ALL of the files we are needing to compile. 
+
+**Problems with this Approach**
+This works for projects with a few files. 
+- We need a build system 
