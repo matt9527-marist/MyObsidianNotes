@@ -122,6 +122,7 @@ looks
 last
 lay
 like
+left
 Graphing
 Google
 Game
@@ -379,6 +380,7 @@ added
 analytical
 architecture
 account
+another
 Applications
 AI
 Analysis
@@ -506,6 +508,8 @@ PVXk
 Pg
 Perhaps
 Prediction
+Pointers
+Pointer
 What
 We
 With
@@ -636,6 +640,9 @@ ol
 original
 outside
 obtain
+operator
+object
+operation
 study
 simplified
 something
@@ -734,6 +741,8 @@ since
 shown
 shrinking
 step
+side
+stores
 giving
 good
 generalizable
@@ -885,6 +894,7 @@ columns
 careful
 computationally
 control
+copy
 the
 to
 training
@@ -1171,6 +1181,9 @@ polynomials
 possess
 packages
 probably
+pointer
+passing
+pass
 Detecting
 Deepmind
 Dataset
@@ -1267,6 +1280,7 @@ rewrite
 rows
 respects
 referred
+reference
 model
 mostly
 machine
@@ -1376,6 +1390,7 @@ hT
 hs
 hope
 hyperparameter
+hand
 Execution
 Examples
 Economics
@@ -1501,6 +1516,8 @@ derivation
 degree
 denominator
 decrease
+declare
+declaration
 future
 from
 feed
@@ -1578,6 +1595,7 @@ Ou
 Overfitting
 OPTIMIZATION
 Our
+Operating
 kind
 know
 knowledge
@@ -1668,6 +1686,7 @@ naturally
 now
 numerator
 never
+name
 yes
 yield
 your
@@ -1733,6 +1752,7 @@ Use
 Useful
 Underfitting
 Using
+Usage
 Breakout
 Because
 Backpropagation
