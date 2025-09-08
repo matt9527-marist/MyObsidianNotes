@@ -50,3 +50,7 @@ outside the sample by computing 𝑀𝑆𝐸 on test data (same
 formula, different dataset)![[Pasted image 20250908160116.png]]
 
 This is to ensure that the model is capable of *generalizing* its predictions beyond the data it has been presented. 
+
+**Two Sources of Erorr in our Prediction**
+![[Pasted image 20250908160318.png]]
+
