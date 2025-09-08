@@ -97,6 +97,8 @@ How we can visualize training error reduction via **regularization**- shrinking 
 ![[Pasted image 20250908170943.png]]
 # Linear Regression 
 #Regression
-
-1
+Machine Learning is Optimization 
+1) Given a certain problem, choose some *architecture*.
+	This may be a decision tree, a linear model, a neural network, a group of trees working together, an ANN/CNN algorithm, etc. 
+2) 
 
