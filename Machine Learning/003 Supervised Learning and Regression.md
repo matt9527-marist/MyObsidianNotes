@@ -179,3 +179,4 @@ The product is never an issue computationally.
 
 #gradientDescent 
 We need some numerical approach that allows us to approach the minimum point over the course of some iterations. 
+$$w_{new} = w_{old} + \trianglew$$
