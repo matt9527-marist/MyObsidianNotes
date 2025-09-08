@@ -184,3 +184,4 @@ $$w_{new} = w_{old} - \eta\nabla J$$
 Take the following situations:
 ![[Pasted image 20250908181222.png]]
 ![[Pasted image 20250908181230.png]]
+The rule *eta* is what is referred to as a *hyperparameter*. 
