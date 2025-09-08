@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7287b7a04cacdff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Protocols-Algorithms/001 Block Ciphers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001 Block Ciphers"
-            }
-          },
-          {
             "id": "966a2d986961a836",
             "type": "leaf",
             "state": {
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "002 Vector and Matrix Calculus"
             }
+          },
+          {
+            "id": "ac3269ca4c216011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/003 Supervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003 Supervised Learning"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,6 +187,8 @@
   },
   "active": "966a2d986961a836",
   "lastOpenFiles": [
+    "Machine Learning/003 Supervised Learning.md",
+    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "conflict-files-obsidian-git.md",
@@ -207,7 +208,6 @@
     "Assets/Pasted image 20250903153331.png",
     "Security Protocols-Algorithms/Linux Overview.md",
     "Formatting Template.md",
-    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/000 Introduction.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Google Talk on Machine Learning.md",
@@ -224,7 +224,6 @@
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts",
     "Parallel Processing",
     "Machine Learning",
