@@ -113,6 +113,7 @@ We have the ifndef,define statements at the top to ensure there is no redundancy
 ```
 This can also be included at the top of the header file to ensure that the function is declared only once. 
 
+greeting.cpp:
 ```C++
 #include "greeting.h"  
 #include <iostream>  
@@ -125,5 +126,4 @@ std::string CreateGreeting(const std::string userName){
 	return "Hello, " + userName + "!";  
 }
 ```
-
-
+What does "include" mean? Tells the compiler what to include in compilation for which functions a
