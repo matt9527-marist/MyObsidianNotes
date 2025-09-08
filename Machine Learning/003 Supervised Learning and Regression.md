@@ -165,11 +165,12 @@ $$X^TXw = X^Ty$$
 Finally, finding the equation for w: $$w = (X^TX)^{-1}X^Ty$$
 What does this look like in Python?
 ```Python
-def calc_maxm_eq(x, y):
+def calc_normal_eq(x, y):
+	n, m = 
 	XTX = np.dot(X.T, X)
 	XTX_1 = np.linalg.inv(XTX)
-	XTy = X.T * y
-	return XTX_1 * XTy
+	XTy = X.T @ y
+	return XTX_1 @ XTy
 ```
 Be careful: inverting a matrix of 500 by 500 features is probably not the best idea. 
 The product is never an issue computationally. 
