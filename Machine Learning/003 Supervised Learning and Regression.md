@@ -115,5 +115,6 @@ Machine Learning is Optimization
 Define the architecture: 
 $$LR: y=f(x) + e \to \hat{y} = \sum^{m}_{j = 1}w_{j}x_{j} + b$$
 This is the general expression, but this does not take into account our dataset. *y* is merely a function of the vector **x**, which is {x<sub>1</sub>, x<sub>2</sub>,..., x<sub>m</sub>}<sup>T</sup> 
-
+![[Pasted image 20250908173102.png]]
+This gives us: $$\hat{y} $$
 
