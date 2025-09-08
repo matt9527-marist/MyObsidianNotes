@@ -23,4 +23,8 @@ We assume that there is some relationship between the output variable 𝑦 and t
 Why *"+ e"*? We have a target and some fixed formula on that target to produce a solution, but perhaps we have some errors or missing data. Perhaps we need more variables or components in our vector 𝐱 to fully determine the function. We need some variation to take this into consideration. 
 
 - *f* is fixed but unknown function of 𝐱.
-- Assume error has some nonce determining it as basically 0. 
+- Assume error represents some noise with some variance. 
+- *f* represents the systematic information that x provides about y. 
+- However, *f* is **generally unknown**.
+- In this case, one must estimate *f* based on the observed points. 
+
