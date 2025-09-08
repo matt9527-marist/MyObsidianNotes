@@ -105,7 +105,6 @@ Machine Learning is Optimization
 	- Find some mechanism to measure the loss function. 
 	- The loss function is tied to the task, not the same across problems.
 	- $$L = \frac{1}{2}(\hat{y} - y)^2$$
-	- For m points -> J:
-	- 
+	- For m points -> J: $$ \frac{1}{2n} \sum(\hat{y}^i - y)$$
 3) 
 
