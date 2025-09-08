@@ -21,6 +21,8 @@ Has **3 compilation steps**
 *Solution*: Use a build system to automate all of this.
 
 ![[Pasted image 20250905174444.png]]
+We may also create just the build subfolder inside of greeting. 
+However, this may be preferable for larger parallel programs. This structure, if it is clear, it is easier to identify what functions we are using. 
 
 Example CMakeLists.txt:
 ```CMake
@@ -44,8 +46,6 @@ add_executable(greeting src/main.cpp src/greeting.cpp)
 ![[Pasted image 20250905174737.png]]
 ![[Pasted image 20250905174743.png]]
 ![[Pasted image 20250905174757.png]]
-
-To do this ourselves with our previous greeting project, we need to make a build subfolder inside of our project folder, and then use the above commands. 
 ## Catch 2
 
 
