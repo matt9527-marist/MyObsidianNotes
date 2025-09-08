@@ -51,4 +51,8 @@ Command *cmake --build .* will create the target executable file.
 ![[Pasted image 20250905174757.png]]
 ## Catch 2
 **Unit Testing via Catch2**
-This is also for the larger projects that we want to generate test cases for. In massive parallel programs, such as weather forecasting or large games, programs will be executed by multiple CPUs. Two CPUs may be doing calculations and the output should be the same as when performed serially. To debug the systems to find where an error is occurring 
+This is also for the larger projects that we want to generate test cases for. In massive parallel programs, such as weather forecasting or large games, programs will be executed by multiple CPUs. Two CPUs may be doing calculations and the output should be the same as when performed serially. To debug the systems to find where an error is occurring, we use Catch2. 
+
+We define the structure as follows:
+![[Pasted image 20250908192013.png]]
+**Addition in CMakeLists.txt**
