@@ -146,6 +146,8 @@ Compute the derivative wrt. *w* of *J*:
 Assume that we have a variable:
 $$\mu = (Xw -y)$$
 Using this variable:
-$$\frac{d(J)}{dw} = \frac{d(\mu^T\mu)}{#}$$
+$$\frac{d(J)}{dw} = \frac{d(\mu^T\mu)}{dw} = 0$$
+What is this?
+- This is the derivative of a scalar by a vector.
 
 
