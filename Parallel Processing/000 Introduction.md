@@ -82,6 +82,8 @@ int main() {
 ```
 The second solution is better for lots of functions, but when defining several prototypes, we may miss something important. We do not want to allow this human error to cause many headaches when compiling our code. 
 
+# 
+
 **Header Files**
 These are .h files. This is one solution we can implement to have all function declarations inherited. 
 • Prevent clutter by housing function declarations separate  
@@ -104,4 +106,11 @@ std::string CreateGreeting(const std::string userName);
 
 #endif
 ```
-We have the ifndef,define statements at the top to ensure there is no redundancy in the function definitions. If the function is defined, give the information to the compiler, 
+We have the ifndef,define statements at the top to ensure there is no redundancy in the function definitions. If the function is defined in the main code, give the information to the compiler, if not, then move on. 
+
+```C++
+#pragma once
+```
+This can also be included at the top of the header file to ensure that the function is declared only once. 
+
+
