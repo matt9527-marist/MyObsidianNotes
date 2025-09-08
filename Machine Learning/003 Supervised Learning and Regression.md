@@ -87,6 +87,10 @@ If a model has low bias and very high variannce, it can be said to have low gene
 
 ![[Pasted image 20250908163108.png]]
 ![[Pasted image 20250908170712.png]]
+![[Pasted image 20250908170906.png]]
+
+How we can visualize training error reduction via **regularization**- shrinking the added complexity that we have in the models. 
+![[Pasted image 20250908170943.png]]
 # Linear Regression 
 #Regression
 
