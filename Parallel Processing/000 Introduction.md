@@ -128,4 +128,5 @@ std::string CreateGreeting(const std::string userName){
 ```
 What does "include" mean? Tells the compiler what to include in compilation for which functions are being used. No need to do it twice.
 
-
+![[Pasted image 20250908185400.png]]
+We need to specify the 
