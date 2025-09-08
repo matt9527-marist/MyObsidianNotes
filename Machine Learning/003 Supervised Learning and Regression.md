@@ -144,6 +144,8 @@ $$J(w) = \frac{1}{2m} (\hat{y}-y)^T(\hat{y} - y)$$
 $$= \frac{1}{2m}(Xw-y)^T(Xw-y)$$
 Compute the derivative wrt. *w* of *J*:
 Assume that we have a variable:
-$$$$
+$$\mu = (Xw -y)$$
+Using this variable:
+$$\frac{d(J)}{dw} = \frac{d(\mu^T\mu)}{#}$$
 
 
