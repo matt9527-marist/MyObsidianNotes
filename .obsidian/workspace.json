@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7e3bf2c4c5b47e",
+        "id": "482626b13a3ea2d2",
         "type": "tabs",
         "children": [
           {
-            "id": "966a2d986961a836",
+            "id": "ed9bf4f819a035fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Processing/001 CMake and Catch2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "001 CMake and Catch2"
+              "title": "New tab"
             }
           }
         ]
@@ -171,11 +167,18 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "966a2d986961a836",
+  "active": "bb6cd15ae1c6427b",
   "lastOpenFiles": [
+    "github.com/catchorg/Catch2/releases/downloads/v2.13.7/catch.hpp.md",
+    "Parallel Processing/001 CMake and Catch2.md",
+    "github.com/catchorg/Catch2/releases/downloads/v2.13.7",
+    "github.com/catchorg/Catch2/releases/downloads",
+    "github.com/catchorg/Catch2/releases",
+    "github.com/catchorg/Catch2",
+    "github.com/catchorg",
+    "github.com",
     "Assets/Pasted image 20250908192013.png",
     "Parallel Processing/000 Introduction.md",
-    "Parallel Processing/001 CMake and Catch2.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250908185400.png",
     "Assets/Pasted image 20250908184334.png",
@@ -187,7 +190,6 @@
     "Assets/Pasted image 20250908175150.png",
     "Assets/Pasted image 20250908174954.png",
     "Assets/Pasted image 20250908173102.png",
-    "Assets/Pasted image 20250908170943.png",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
@@ -212,10 +214,6 @@
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts",
     "Parallel Processing",
-    "Machine Learning",
-    "Sec Prot and Algorithms",
-    "Parallel Processing",
-    "Machine Learning",
-    "Assets"
+    "Machine Learning"
   ]
 }

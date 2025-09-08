@@ -55,7 +55,9 @@ This is also for the larger projects that we want to generate test cases for. In
 
 We define the structure as follows:
 ![[Pasted image 20250908192013.png]]
-In this case, we need not directly install Catch2, we need only use the catch.hpp header file for Catch2. 
+In this case, we need not directly install Catch2, we need only use the catch.hpp header file for Catch2.  
+Obtain this file via:
+	[Catch2](github.com/catchorg/Catch2/releases/downloads/v2.13.7/catch.hpp)
 
 **Addition in CMakeLists.txt**
 ```C++
