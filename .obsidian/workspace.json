@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/000 Introduction.md",
+                "file": "Parallel Processing/001 CMake and Catch2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Introduction"
+              "title": "001 CMake and Catch2"
             }
           },
           {
@@ -187,8 +187,8 @@
   },
   "active": "966a2d986961a836",
   "lastOpenFiles": [
-    "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
+    "Parallel Processing/001 CMake and Catch2.md",
     "Assets/Pasted image 20250908185400.png",
     "Assets/Pasted image 20250908184334.png",
     "Assets/Pasted image 20250908184330.png",
