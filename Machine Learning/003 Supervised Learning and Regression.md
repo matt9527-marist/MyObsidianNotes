@@ -120,7 +120,8 @@ We have a dataset D and prediction y, vectorized as:
 ![[Pasted image 20250908173102.png]]
 This gives us: $$\hat{y} = W\vec{x} + b_{\vec{1}}$$
 We now need to present the cost function:
-$$ J(w, b) = \sum^{1}_{1} (\hat{y^i} - y)$$
+$$ J(w, b) = \sum^{m}_{i=1} (\hat{y^i} - y^i)^2$$
+
 
 
 
