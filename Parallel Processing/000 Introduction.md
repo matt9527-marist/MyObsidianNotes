@@ -60,6 +60,8 @@ int main() {
 }
 ```
 Functions must be declared in the right order they are being called, or they must be all declared as prototypes at the top of the code. 
+The following code uses the prototyping method:
+
 
 **Header Files**
 These are .h files. This is one solution we can implement to have all function declarations inherited. 
