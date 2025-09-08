@@ -157,5 +157,7 @@ Notice also that we must respect the rule to lay out the numerator in columns an
 We obtain through derivation:
 $$\frac{dJ}{dw} = \frac{d\mu^T\mu}{dw} = 2(\frac{d\mu}{dw})^T \bullet \mu$$
 Which has to be equal to 0 in order to minimize it.
-$$ = 2 [\frac{d}{dw}(Xw-y)]$$
+$$ = 2 [\frac{d}{dw}(Xw-y)]^T \bullet (Xw - y) = 0$$
+$$X^T \bullet (Xw-y)=0$$
+$$X^TXw = X^Ty$$
 
