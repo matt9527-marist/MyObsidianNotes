@@ -15,8 +15,13 @@ std::cout << "Hello\n";
 }
 ```
 For what we need in parallel programming, we prefer brace initialization: 
-A warning is generated for lin
+A warning is generated for line 4. 
+- 2.7 is not an int. 
 
-	 int x{5};
+```
+int x = 2.7; 
+```
 
 as opposed to what we may be used to usually. 
+
+
