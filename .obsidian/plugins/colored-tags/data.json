@@ -23,7 +23,8 @@
     "irreducible": 11,
     "reducible": 12,
     "gradientDescent": 13,
-    "headers": 14
+    "headers": 14,
+    "MinGW": 15
   },
   "_version": 3
 }

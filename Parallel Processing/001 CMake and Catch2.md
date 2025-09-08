@@ -42,6 +42,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 add_executable(greeting src/main.cpp src/greeting.cpp)
 ```
 
+#MinGW
 **CMake on Windows with MinGW**
 ![[Pasted image 20250905174737.png]]
 Execute the *cmake* command from within the "build" subfolder. It will require CMakeLists.txt properly set up in the parent directory. Executing this command will add several files used by the CMake program. 
