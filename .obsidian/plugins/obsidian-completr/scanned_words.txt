@@ -32,6 +32,9 @@ MH
 Mo
 MC
 MODEL
+Makefiles
+Manual
+MinGW
 Learning
 Learn
 Let
@@ -123,6 +126,7 @@ last
 lay
 like
 left
+linking
 Graphing
 Google
 Game
@@ -179,6 +183,10 @@ Collect
 CNN
 CHOOSE
 Compute
+Compilation
+Compiling
+Challenges
+CMakeLists
 Scikit
 Statistical
 Statistics
@@ -218,6 +226,7 @@ Sales
 Sources
 Simple
 SOLUTION
+Studio
 Keras
 Key
 Kirchhoffs
@@ -262,6 +271,8 @@ TO
 THE
 TASK
 Take
+Tracking
+Tedious
 ISLP
 Iris
 Instance
@@ -286,6 +297,8 @@ IHDR
 Iy
 Iwv
 IEND
+Instead
+Incremental
 and
 ability
 approximation
@@ -381,6 +394,8 @@ analytical
 architecture
 account
 another
+appropriate
+automate
 Applications
 AI
 Analysis
@@ -525,6 +540,7 @@ WJ
 WOD
 WHX
 Which
+Windows
 is
 in
 if
@@ -643,6 +659,7 @@ obtain
 operator
 object
 operation
+options
 study
 simplified
 something
@@ -743,6 +760,11 @@ shrinking
 step
 side
 stores
+source
+scripts
+settings
+small
+suffice
 giving
 good
 generalizable
@@ -781,6 +803,8 @@ getting
 generalizability
 group
 gradientDescent
+generator
+grows
 computers
 computer
 can
@@ -895,6 +919,12 @@ careful
 computationally
 control
 copy
+cumbersome
+cross
+compiler
+compilation
+changed
+compile
 the
 to
 training
@@ -963,6 +993,8 @@ tree
 tied
 terms
 transposing
+thousands
+track
 being
 be
 by
@@ -1016,6 +1048,7 @@ basis
 budgets
 been
 bias
+becomes
 explicitly
 experience
 error
@@ -1085,6 +1118,7 @@ expression
 equal
 equation
 eta
+external
 programmed
 patterns
 program
@@ -1184,6 +1218,9 @@ probably
 pointer
 passing
 pass
+projects
+platform
+project
 Detecting
 Deepmind
 Dataset
@@ -1281,6 +1318,8 @@ rows
 respects
 referred
 reference
+rely
+reduces
 model
 mostly
 machine
@@ -1360,6 +1399,11 @@ minus
 mechanism
 merely
 minimum
+manage
+makes
+manual
+manually
+modified
 hypothesis
 handwritten
 have
@@ -1391,6 +1435,9 @@ hs
 hope
 hyperparameter
 hand
+hundreds
+header
+host
 Execution
 Examples
 Economics
@@ -1422,6 +1469,7 @@ Em
 Erorr
 Even
 EMIGRATE
+Efficiency
 using
 utility
 use
@@ -1518,6 +1566,7 @@ denominator
 decrease
 declare
 declaration
+describe
 future
 from
 feed
@@ -1575,6 +1624,7 @@ fully
 found
 far
 finding
+forgetting
 Optimziation
 Operations
 Once
@@ -1713,6 +1763,7 @@ HM
 HP
 Hd
 However
+Has
 Not
 NOTHING
 No
@@ -1790,6 +1841,7 @@ VvEQ
 Va
 Variance
 VECTORIZE
+Visual
 zero
 zu
 zj
