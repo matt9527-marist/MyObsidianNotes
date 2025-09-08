@@ -93,3 +93,15 @@ The following will be the structure of a given C++ program:
 **Greeting Project**
 ![[Pasted image 20250908184334.png]]
 In the header file *greeting.h*:
+```C++
+#ifndef GREETING_H  
+#define GREETING_H  
+
+#include <string>  
+
+std::string GenerateWelcomeMessage(const std::string userName);  
+std::string CreateGreeting(const std::string userName);  
+
+#endif
+```
+We have the ifndef,define statements at the top to ensure there is no redundancy in the function definitions. If the function is defined, give the information to the compiler, 
