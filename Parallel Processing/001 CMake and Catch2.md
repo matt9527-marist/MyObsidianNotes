@@ -46,7 +46,7 @@ add_executable(greeting src/main.cpp src/greeting.cpp)
 ![[Pasted image 20250905174737.png]]
 Execute the *cmake* command from within the "build" subfolder. It will require CMakeLists.txt properly set up in the parent directory. Executing this command will add several files used by the CMake program. 
 ![[Pasted image 20250905174743.png]]
-Command 
+Command *cmake --build .* will create the target executable file. 
 ![[Pasted image 20250905174757.png]]
 ## Catch 2
 
