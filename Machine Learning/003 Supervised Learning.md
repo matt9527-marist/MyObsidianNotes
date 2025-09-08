@@ -69,4 +69,6 @@ Consider the *expected value* given by E[...] as an average.
 Useful derivation explanation:
 ![[Pasted image 20250908161939.png]]
 var(e) will be our irreducible error, but without knowing exactly how to measure it. 
+- We have found that the expectation of the observation minus the estimation, squared =
+
 
