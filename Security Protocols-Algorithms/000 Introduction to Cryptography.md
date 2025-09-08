@@ -112,4 +112,5 @@ The certificate we see in websites is using a public key. We are taking this key
 • A birthday attack depends on collisions, or duplicate values. 
 • You can wait for duplicate keys, and then switch messages in transactions with duplicate keys 
 • If there are N different values, you can expect the first collision after √N random elements
+• Very relevant to hashing
 
