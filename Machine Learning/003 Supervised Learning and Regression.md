@@ -150,6 +150,7 @@ $$\frac{d(J)}{dw} = \frac{d(\mu^T\mu)}{dw} = 0$$
 What is this?
 - This is the derivative of a scalar by a vector.
 ![[Pasted image 20250908174954.png]]
+Recall the 3 rules: this is the last one. The derivative of a vector with respect to a vector. 
 
 
 
