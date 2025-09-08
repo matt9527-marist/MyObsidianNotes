@@ -178,4 +178,4 @@ The product is never an issue computationally.
 ## Gradient Descent 
 
 #gradientDescent 
-We need so
+We need some numerical approach that allows us to approach the minimum point over the course of some iterations. 
