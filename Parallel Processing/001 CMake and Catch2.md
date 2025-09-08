@@ -44,6 +44,8 @@ add_executable(greeting src/main.cpp src/greeting.cpp)
 ![[Pasted image 20250905174737.png]]
 ![[Pasted image 20250905174743.png]]
 ![[Pasted image 20250905174757.png]]
+
+To do this ourselves with our previous greeting project, we need to make a build subfolder inside of our project folder, and then use the above commands.
 ## Catch 2
 
 
