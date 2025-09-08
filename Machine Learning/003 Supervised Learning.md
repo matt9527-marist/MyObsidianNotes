@@ -59,4 +59,5 @@ Even if we were to form a perfect estimate for *f*, so that the estimated respon
 Also, f^ will not be a perfected estimate for *f*, and this inaccuracya will introduce some error. This is known as *reducible error*.
 The accuracy of 𝑓(𝐱;𝐷) as an estimate for 𝑦 therefore depends then on two quantities, the reducible error and the irreducible error.
 ![[Pasted image 20250908160318.png]]
+Two important points to consider: **bias** and **variance**. 
 
