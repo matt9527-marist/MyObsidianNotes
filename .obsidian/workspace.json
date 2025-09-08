@@ -11,10 +11,14 @@
             "id": "ed9bf4f819a035fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Processing/001 CMake and Catch2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "001 CMake and Catch2"
             }
           }
         ]
@@ -167,8 +171,9 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "ed9bf4f819a035fd",
   "lastOpenFiles": [
+    "Parallel Processing/003 Pointers and References.md",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7/catch.hpp.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7",
@@ -184,7 +189,6 @@
     "Assets/Pasted image 20250908184334.png",
     "Assets/Pasted image 20250908184330.png",
     "Assets/Pasted image 20250908184303.png",
-    "Parallel Processing/003 Pointers and References.md",
     "Assets/Pasted image 20250908181230.png",
     "Assets/Pasted image 20250908181222.png",
     "Assets/Pasted image 20250908175150.png",

@@ -191,6 +191,7 @@ Compiling
 Challenges
 CMakeLists
 Compiler
+Command
 Scikit
 Statistical
 Statistics
@@ -279,6 +280,7 @@ Take
 Tracking
 Tedious
 Tells
+Testing
 ISLP
 Iris
 Instance
@@ -491,6 +493,7 @@ wLh
 while
 were
 working
+weather
 Python
 Performance
 Principle
@@ -605,6 +608,8 @@ inverting
 iterations
 ifndef
 included
+identify
+install
 Field
 For
 Find
@@ -674,6 +679,7 @@ object
 operation
 options
 once
+occurring
 study
 simplified
 something
@@ -783,6 +789,8 @@ second
 several
 statements
 specify
+subfolder
+serially
 giving
 good
 generalizable
@@ -824,6 +832,8 @@ gradientDescent
 generator
 grows
 give
+generate
+github
 computers
 computer
 can
@@ -945,6 +955,12 @@ compilation
 changed
 compile
 cause
+clear
+cmake
+calculations
+catch
+com
+catchorg
 the
 to
 training
@@ -1140,6 +1156,8 @@ equal
 equation
 eta
 external
+executable
+executed
 programmed
 patterns
 program
@@ -1244,6 +1262,10 @@ platform
 project
 prototyping
 potentially
+preferable
+properly
+parent
+performed
 Detecting
 Deepmind
 Dataset
@@ -1343,6 +1365,8 @@ referred
 reference
 rely
 reduces
+require
+releases
 model
 mostly
 machine
@@ -1429,6 +1453,7 @@ manually
 modified
 miss
 move
+massive
 hypothesis
 handwritten
 have
@@ -1464,6 +1489,7 @@ hundreds
 header
 host
 headaches
+hpp
 Execution
 Examples
 Economics
@@ -1496,6 +1522,8 @@ Erorr
 Even
 EMIGRATE
 Efficiency
+Execute
+Executing
 using
 utility
 use
@@ -1595,6 +1623,10 @@ declaration
 describe
 defining
 define
+directory
+debug
+directly
+downloads
 future
 from
 feed
@@ -1653,6 +1685,8 @@ found
 far
 finding
 forgetting
+forecasting
+follows
 Optimziation
 Operations
 Once
@@ -1674,6 +1708,7 @@ Overfitting
 OPTIMIZATION
 Our
 Operating
+Obtain
 kind
 know
 knowledge
@@ -1833,6 +1868,7 @@ Useful
 Underfitting
 Using
 Usage
+Unit
 Breakout
 Because
 Backpropagation
