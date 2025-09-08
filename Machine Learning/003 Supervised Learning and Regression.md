@@ -134,8 +134,14 @@ x_{1}^1 \dots x_{m}^1 \\ \\
 \dots \\
 x_{n}^1 \dots x_{m}^n
 \end{bmatrix} \begin{bmatrix}
-w_{0}
+w_{0} \\
+w_{1} \\
+\dots \\
+w_{m}
 \end{bmatrix}$$
+$$\hat{y} = Xw$$
+$$J(w) = \frac{1}{2m} (\hat{y}-y)^T(\hat{y} - y)$$
+$$$$
 
 
 
