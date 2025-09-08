@@ -97,4 +97,57 @@ Windows Test Cases build
 ![[Pasted image 20250908192736.png]]
 Updated greeting.cpp function to throw an error when an input is empty:
 ```C++
+#include "greeting.h"
+
+#include <iostream>
+
+std::string GenerateWelcomeMessage(const std::string userName){
+
+    if (userName == "") {
+
+    throw std::invalid_argument("name cannot be empty");
+
+    }
+
+    std::string greeting = CreateGreeting(userName);
+
+    greeting += " Welcome to the class!";
+
+    return greeting;
+
+}
+
+  
+
+std::string CreateGreeting(const std::string userName){
+
+    if (userName == "") {
+
+    throw std::invalid_argument("name cannot be empty");
+
+    }
+
+    return "Hello, " + userName + "!";
+
+}
+```
+We update test.cpp accordingly:
+```C++
+#define CATCH_CONFIG_MAIN  
+#include "catch2/catch.hpp"  
+#include "greeting.h"  
+TEST_CASE("CreateGreeting valid", "[CreateGreeting][valid]") {  
+REQUIRE(CreateGreeting("Alice") == "Hello, Alice!");  
+REQUIRE(CreateGreeting("1") == "Hello, 1!");  
+}  
+TEST_CASE("GenerateWelcomeMessage valid", "[GenerateWelcomeMessage][valid]") {  
+REQUIRE(GenerateWelcomeMessage("Alice") == "Hello, Alice! Welcome to the class!");  
+REQUIRE(GenerateWelcomeMessage("1") == "Hello, 1! Welcome to the class!");  
+}  
+TEST_CASE("CreateGreeting invalid", "[CreateGreeting][invalid]") {  
+REQUIRE_THROWS(CreateGreeting(""));  
+}  
+TEST_CASE("GenerateWelcomeMessage invalid", "[GenerateWelcomeMessage][invalid]"){  
+REQUIRE_THROWS(GenerateWelcomeMessage(""));  
+}
 ```
