@@ -110,5 +110,8 @@ Machine Learning is Optimization
 4) *VECTORIZE* 
 	Makes things far more elegant, and in terms of the packages we use, they vectorize everything. 
 5) *EMIGRATE*
-	 
+
+## Linear Regression 
+Define the architecture: 
+$$LR :$$
 
