@@ -154,4 +154,5 @@ Recall the 3 rules: this is the last one. The derivative of a vector with respec
 ![[Pasted image 20250908175150.png]]
 Notice step 3: this is the chain rule- the derivative of a function f(g(x)).
 Notice also that we must respect the rule to lay out the numerator in columns and the denominator in rows. This computation respects this by transposing the result.
-
+We obtain through derivation:
+$$\frac{dJ}{dw} = 2(\frac{d\mu}{dw})^T \bullet \mu$$
