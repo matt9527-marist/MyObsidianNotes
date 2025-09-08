@@ -123,8 +123,9 @@ We now need to present the cost function:
 $$ J(w, b) = \frac{1}{2m}\sum^{m}_{i=1} (\hat{y^i} - y^i)^2$$
 This is a *dot product*. 
 We can rewrite this in the following way:
-$$= \frac{1}{2m}(\hat{y}-y)^T(\hat{y}-y)
-\newline$$
+$$= \frac{1}{2m}(\hat{y}-y)^T(\hat{y}-y)$$
+$$J(w,b) = \frac{1}{2m}(X\vec{w}+b - y)^T(X\vec{w} + b -y)$$
+
 
 
 
