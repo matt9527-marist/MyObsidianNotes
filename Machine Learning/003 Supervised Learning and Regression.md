@@ -103,5 +103,7 @@ Machine Learning is Optimization
 2) *TIED TO THE TASK*, *DEFINE THE OPTIMIZATION MODEL*.
 	Our optimization model means the following:
 	- Find some mechanism to measure the loss function. 
-	- The loss function is tied to the task, not the same across problems. 
+	- The loss function is tied to the task, not the same across problems.
+	>
+3) 
 
