@@ -104,15 +104,11 @@ Updated greeting.cpp function to throw an error when an input is empty:
 std::string GenerateWelcomeMessage(const std::string userName){
 
     if (userName == "") {
-
     throw std::invalid_argument("name cannot be empty");
-
     }
 
     std::string greeting = CreateGreeting(userName);
-
     greeting += " Welcome to the class!";
-
     return greeting;
 
 }
@@ -122,11 +118,8 @@ std::string GenerateWelcomeMessage(const std::string userName){
 std::string CreateGreeting(const std::string userName){
 
     if (userName == "") {
-
     throw std::invalid_argument("name cannot be empty");
-
     }
-
     return "Hello, " + userName + "!";
 
 }
