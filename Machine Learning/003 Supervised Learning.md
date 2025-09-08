@@ -55,6 +55,8 @@ This is to ensure that the model is capable of *generalizing* its predictions be
 Of course, we cannot hope to fit the function perfectly to y, since 𝑦 = 𝑓(𝐱) + 𝑒 contains noise e.
 Even if we were to form a perfect estimate for *f*, so that the estimated response took the form y^ = f^(x), our prediction would still have some error!
 	y is also a function of error e, which, by definition, cannot be predicted using x. 
-	Therefore, 
+	Therefore, variability associated with e also affects the accuracy of our predictions. This is known as the *irreducible error*.
+Also, f^ will not be a perfected estimate for *f*, and this inaccuracya will introduce some error. This is known as *reducible error*.
+The accuracy of will introduce some error. This is known as the reducible error. መ ൯ 𝑓(𝐱;𝐷 as an estimate for 𝑦 therefore depends then on two quantities, the reducible error and the irreducible error.
 ![[Pasted image 20250908160318.png]]
 
