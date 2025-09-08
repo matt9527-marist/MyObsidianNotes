@@ -31,6 +31,7 @@ ME
 MH
 Mo
 MC
+MODEL
 Learning
 Learn
 Let
@@ -116,6 +117,11 @@ la
 lQ
 lY
 latter
+low
+looks
+last
+lay
+like
 Graphing
 Google
 Game
@@ -128,6 +134,7 @@ GQ
 Gb
 GY
 Goal
+Given
 Charting
 Control
 Common
@@ -168,6 +175,9 @@ Cx
 Cw
 CY
 Collect
+CNN
+CHOOSE
+Compute
 Scikit
 Statistical
 Statistics
@@ -205,6 +215,8 @@ St
 SL
 Sales
 Sources
+Simple
+SOLUTION
 Keras
 Key
 Kirchhoffs
@@ -243,6 +255,12 @@ TY
 TV
 Two
 Therefore
+Things
+TIED
+TO
+THE
+TASK
+Take
 ISLP
 Iris
 Instance
@@ -357,6 +375,10 @@ assess
 affects
 accuracy
 average
+added
+analytical
+architecture
+account
 Applications
 AI
 Analysis
@@ -392,6 +414,9 @@ Authentication
 Attacks
 AB
 An
+Assessing
+ARCHITECTURE
+ANN
 with
 without
 want
@@ -439,6 +464,7 @@ wt
 wLh
 while
 were
+working
 Python
 Performance
 Principle
@@ -494,6 +520,7 @@ WK
 WJ
 WOD
 WHX
+Which
 is
 in
 if
@@ -543,6 +570,8 @@ improve
 irreducible
 inaccuracya
 introduce
+inverting
+iterations
 Field
 For
 Find
@@ -563,6 +592,7 @@ Fr
 FYb
 FH
 Fw
+Finally
 of
 or
 optimize
@@ -605,6 +635,7 @@ oM
 ol
 original
 outside
+obtain
 study
 simplified
 something
@@ -700,6 +731,9 @@ systematic
 squared
 splitting
 since
+shown
+shrinking
+step
 giving
 good
 generalizable
@@ -734,6 +768,10 @@ gL
 gS
 generally
 generalizing
+getting
+generalizability
+group
+gradientDescent
 computers
 computer
 can
@@ -841,6 +879,12 @@ collected
 computing
 capable
 contains
+close
+cubic
+columns
+careful
+computationally
+control
 the
 to
 training
@@ -905,6 +949,10 @@ those
 train
 testing
 took
+tree
+tied
+terms
+transposing
 being
 be
 by
@@ -1020,6 +1068,13 @@ ensure
 estimated
 expectation
 explanation
+exactly
+estimation
+elegant
+expression
+equal
+equation
+eta
 programmed
 patterns
 program
@@ -1111,6 +1166,11 @@ presented
 perfectly
 predicted
 perfected
+polynomial
+polynomials
+possess
+packages
+probably
 Detecting
 Deepmind
 Dataset
@@ -1133,6 +1193,9 @@ DU
 DI
 DX
 Dy
+DEFINE
+Define
+Descent
 regularities
 respect
 recognizing
@@ -1199,6 +1262,11 @@ rO
 radio
 relationship
 reducible
+regularization
+rewrite
+rows
+respects
+referred
 model
 mostly
 machine
@@ -1274,6 +1342,10 @@ markers
 media
 missing
 minimzing
+minus
+mechanism
+merely
+minimum
 hypothesis
 handwritten
 have
@@ -1303,6 +1375,7 @@ hE
 hT
 hs
 hope
+hyperparameter
 Execution
 Examples
 Economics
@@ -1333,6 +1406,7 @@ EF
 Em
 Erorr
 Even
+EMIGRATE
 using
 utility
 use
@@ -1424,6 +1498,9 @@ dp
 develop
 denotes
 derivation
+degree
+denominator
+decrease
 future
 from
 feed
@@ -1478,6 +1555,9 @@ fit
 fixed
 formula
 fully
+found
+far
+finding
 Optimziation
 Operations
 Once
@@ -1495,6 +1575,9 @@ Obsidian
 Only
 OQ
 Ou
+Overfitting
+OPTIMIZATION
+Our
 kind
 know
 knowledge
@@ -1507,6 +1590,7 @@ kDe
 kf
 kU
 kc
+knowing
 value
 various
 variable
@@ -1530,6 +1614,12 @@ vX
 variation
 variance
 variability
+var
+variannce
+visualize
+via
+vectorize
+vectorized
 numerical
 no
 need
@@ -1574,6 +1664,10 @@ nY
 nc
 np
 newspaper
+naturally
+now
+numerator
+never
 yes
 yield
 your
@@ -1614,6 +1708,7 @@ Nr
 Nq
 Nva
 NEQ
+Notice
 quality
 question
 quickly
@@ -1636,6 +1731,8 @@ UC
 UD
 Use
 Useful
+Underfitting
+Using
 Breakout
 Because
 Backpropagation
@@ -1655,6 +1752,7 @@ BX
 BSj
 BR
 BY
+Be
 just
 jagged
 json
@@ -1671,6 +1769,7 @@ VX
 VvEQ
 Va
 Variance
+VECTORIZE
 zero
 zu
 zj
