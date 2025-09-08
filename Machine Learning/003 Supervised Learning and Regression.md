@@ -155,4 +155,7 @@ Recall the 3 rules: this is the last one. The derivative of a vector with respec
 Notice step 3: this is the chain rule- the derivative of a function f(g(x)).
 Notice also that we must respect the rule to lay out the numerator in columns and the denominator in rows. This computation respects this by transposing the result.
 We obtain through derivation:
-$$\frac{dJ}{dw} = 2(\frac{d\mu}{dw})^T \bullet \mu$$
+$$\frac{dJ}{dw} = \frac{d\mu^T\mu}{dw} = 2(\frac{d\mu}{dw})^T \bullet \mu$$
+Which has to be equal to 0 in order to minimize it.
+$$ = 2 $$
+
