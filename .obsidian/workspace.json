@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/001 CMake and Catch2.md",
+                "file": "Parallel Processing/000 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 CMake and Catch2"
+              "title": "000 Introduction"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "active": "966a2d986961a836",
   "lastOpenFiles": [
+    "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/003 Pointers and References.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250908181230.png",
@@ -204,7 +205,6 @@
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "conflict-files-obsidian-git.md",
     "Parallel Processing/002 C++ Introduction.md",
-    "Parallel Processing/001 CMake and Catch2.md",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Linux Overview.md",
     "Formatting Template.md",
