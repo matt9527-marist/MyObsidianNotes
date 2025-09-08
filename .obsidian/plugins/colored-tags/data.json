@@ -19,7 +19,9 @@
     "derivativeRules": 7,
     "ScalarDerivativeRules": 8,
     "CMake": 9,
-    "Regression": 10
+    "Regression": 10,
+    "irreducible": 11,
+    "reducible": 12
   },
   "_version": 3
 }
