@@ -89,3 +89,5 @@ from .cpp definitions.
 	• .h file to include function declarations and  
 	• .cpp to include function definitions.
 
+The following will be the structure of a given C++ program:
+**Greeting Project**
