@@ -166,8 +166,9 @@ Finally, finding the equation for w: $$w = (X^TX)^{-1}X^Ty$$
 What does this look like in Python?
 ```Python
 def calc_maxm_eq(x, y):
-	np.dot(X.T, X)
-	XTX.
+	XTX = np.dot(X.T, X)
+	XTX_1 = np.linalg.inv(XTX)
+	XTy = X.T * *
 ```
 
 
