@@ -181,3 +181,6 @@ The product is never an issue computationally.
 We need some numerical approach that allows us to approach the minimum point over the course of some iterations. 
 $$w_{new} = w_{old} + \triangle w$$
 $$w_{new} = w_{old} - \eta\nabla J$$
+Take the following situations:
+![[Pasted image 20250908181222.png]]
+![[Pasted image 20250908181230.png]]
