@@ -38,4 +38,15 @@ This is trying to measure the error between all the data points and the model at
 
 ## Regression and Prediction
 In any supervised model that we develop, we will train the model on some dataset that we have collected, but will always try to set aside a certain portion of the original dataset to be used for *testing purposes*.
-This is the general idea of **splitting the d**
+This is the general idea of **splitting the data**.
+
+We want the 𝑴𝑺𝑬 to be minimal for dataset 𝑫 (to find  
+the best fit) and points outside the sample (in the latter,  
+for accurate prediction purposes)
+
+This means that we minimize 𝑀𝑆𝐸 on training data D to  
+optimize the fit, and assess the effectiveness on points  
+outside the sample by computing 𝑀𝑆𝐸 on test data (same  
+formula, different dataset)![[Pasted image 20250908160116.png]]
+
+This is to ensure that the model is capable of *generalizing* its predictions beyond the data it has been presented. 
