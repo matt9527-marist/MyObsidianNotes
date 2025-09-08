@@ -22,7 +22,8 @@
     "Regression": 10,
     "irreducible": 11,
     "reducible": 12,
-    "gradientDescent": 13
+    "gradientDescent": 13,
+    "headers": 14
   },
   "_version": 3
 }
