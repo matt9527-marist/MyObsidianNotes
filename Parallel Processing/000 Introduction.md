@@ -132,7 +132,7 @@ What does "include" mean? Tells the compiler what to include in compilation for 
 
 ![[Pasted image 20250908185400.png]]
 We need to specify ALL of the files we are needing to compile. 
-If we would like to change the name of the executable file, we can use the command parameter *-o [name]*. Without this parameter, the executable will be ""
+If we would like to change the name of the executable file, we can use the command parameter *-o [name]*.exe. Without this parameter, the executable will be "*a*.exe" by default. 
 
 **Problems with this Approach**
 This works for projects with a few files. 
