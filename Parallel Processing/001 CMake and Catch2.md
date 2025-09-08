@@ -74,3 +74,18 @@ enable_testing()
 # Register the test executable with CTest (optional)  
 add_test(NAME my_test COMMAND my_test)
 ```
+In tests/test.cpp:
+```C++
+#define CATCH_CONFIG_MAIN  
+#include "catch2/catch.hpp"  
+#include "greeting.h"  
+TEST_CASE("Testing CreateGreeting", "[CreateGreeting]") {  
+	REQUIRE(CreateGreeting("Alice") == "Hello, Alice!");  
+	REQUIRE(CreateGreeting("") == "Hello, !");  
+	REQUIRE(CreateGreeting("1") == "Hello, 1!");  
+}
+```
+
+Windows Test Cases build
+![[Pasted image 20250908192710.png]]
+
