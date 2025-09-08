@@ -28,3 +28,5 @@ Why *"+ e"*? We have a target and some fixed formula on that target to produce a
 - However, *f* is **generally unknown**.
 - In this case, one must estimate *f* based on the observed points. 
 
+![[Pasted image 20250908154630.png]]
+
