@@ -61,3 +61,5 @@ The accuracy of 𝑓(𝐱;𝐷) as an estimate for 𝑦 therefore depends then o
 ![[Pasted image 20250908160318.png]]
 Two important points to consider: **bias** and **variance**. 
 
+![[Pasted image 20250908161159.png]]
+
