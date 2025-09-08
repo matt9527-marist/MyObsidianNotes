@@ -21,7 +21,8 @@
     "CMake": 9,
     "Regression": 10,
     "irreducible": 11,
-    "reducible": 12
+    "reducible": 12,
+    "gradientDescent": 13
   },
   "_version": 3
 }

@@ -166,7 +166,7 @@ Finally, finding the equation for w: $$w = (X^TX)^{-1}X^Ty$$
 What does this look like in Python?
 ```Python
 def calc_normal_eq(x, y):
-	n, m = 
+	n, m = np.shape(X)
 	XTX = np.dot(X.T, X)
 	XTX_1 = np.linalg.inv(XTX)
 	XTy = X.T @ y
@@ -175,6 +175,7 @@ def calc_normal_eq(x, y):
 Be careful: inverting a matrix of 500 by 500 features is probably not the best idea. 
 The product is never an issue computationally. 
 
+## Gradient Descent 
 
-
-
+#gradientDescent 
+We need so
