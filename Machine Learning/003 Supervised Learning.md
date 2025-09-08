@@ -53,6 +53,8 @@ This is to ensure that the model is capable of *generalizing* its predictions be
 
 **Two Sources of Erorr in our Prediction**
 Of course, we cannot hope to fit the function perfectly to y, since 𝑦 = 𝑓(𝐱) + 𝑒 contains noise e.
-
+Even if we were to form a perfect estimate for *f*, so that the estimated response took the form y^ = f^(x), our prediction would still have some error!
+	y is also a function of error e, which, by definition, cannot be predicted using x. 
+	Therefore, 
 ![[Pasted image 20250908160318.png]]
 
