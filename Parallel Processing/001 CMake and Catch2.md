@@ -55,4 +55,20 @@ This is also for the larger projects that we want to generate test cases for. In
 
 We define the structure as follows:
 ![[Pasted image 20250908192013.png]]
+In this case, we need not directly install Catch2, we need only use the catch.hpp header file for Catch2. 
+
 **Addition in CMakeLists.txt**
+```C++
+####################################################  
+# Add the test executable  
+add_executable(my_test src/greeting.cpp tests/test.cpp)  
+
+# Include directories for the test target  
+target_include_directories(my_test PRIVATE ${PROJECT_SOURCE_DIR}/include)  
+
+# Enable testing  
+enable_testing()  
+
+# Register the test executable with CTest (optional)  
+add_test(NAME my_test COMMAND my_test)
+```
