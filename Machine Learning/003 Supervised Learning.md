@@ -20,4 +20,4 @@ We assume that there is some relationship between the output variable 𝑦 and t
 
 	y = f(x) + e
 
-Why *"+ e"*? We have a target and some fixed formula on that target to produce a solution, but perhaps we have some errors or missing data. Perhaps we need more variables or components in our vector 𝐱 to fully determine the function. We need some variation to take this into consideratio
+Why *"+ e"*? We have a target and some fixed formula on that target to produce a solution, but perhaps we have some errors or missing data. Perhaps we need more variables or components in our vector 𝐱 to fully determine the function. We need some variation to take this into consideration. 
