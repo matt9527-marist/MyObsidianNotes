@@ -98,7 +98,10 @@ How we can visualize training error reduction via **regularization**- shrinking 
 # Linear Regression 
 #Regression
 Machine Learning is Optimization 
-1) Given a certain problem, choose some *architecture*.
+1) Given a certain problem, choose some *ARCHITECTURE*.
 	This may be a decision tree, a linear model, a neural network, a group of trees working together, an ANN/CNN algorithm, etc. 
-2) 
+2) *TIED TO THE TASK*, *DEFINE THE OPTIMIZATION MODEL*.
+	Our optimization model means the following:
+	- Find some mechanism to measure the loss function. 
+	- The loss function is tied to the task, not the same across problems. 
 
