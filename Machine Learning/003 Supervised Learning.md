@@ -32,3 +32,5 @@ Why *"+ e"*? We have a target and some fixed formula on that target to produce a
 
 We fit *f*^(x;D) as the best possible by minimzing the mean squared error (MSE)
 ![[Pasted image 20250908155000.png]]
+This kind of measure is a **cost function**. 
+This is trying to measure the 
