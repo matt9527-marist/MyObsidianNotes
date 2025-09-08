@@ -34,3 +34,8 @@ We fit *f*^(x;D) as the best possible by minimzing the mean squared error (MSE)
 ![[Pasted image 20250908155000.png]]
 This kind of measure is a **cost function**. 
 This is trying to measure the error between all the data points and the model attempting to predict *y<sup>^</sup>*. 
+![[Pasted image 20250908155945.png]]
+
+## Regression and Prediction
+In any supervised model that we develop, we will train the model on some dataset that we have collected, but will always try to set aside a certain portion of the original dataset to be used for *testing purposes*.
+This is the general idea of **splitting the d**
