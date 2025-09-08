@@ -180,4 +180,4 @@ The product is never an issue computationally.
 #gradientDescent 
 We need some numerical approach that allows us to approach the minimum point over the course of some iterations. 
 $$w_{new} = w_{old} + \triangle w$$
-$$w_{new} = w_{old} - v$$
+$$w_{new} = w_{old} - \eta\nabla J$$
