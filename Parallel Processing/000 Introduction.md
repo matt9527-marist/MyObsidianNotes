@@ -91,3 +91,4 @@ from .cpp definitions.
 
 The following will be the structure of a given C++ program:
 **Greeting Project**
+![[Pasted image 20250908184334.png]]
