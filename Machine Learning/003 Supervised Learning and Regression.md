@@ -162,9 +162,12 @@ $$ = 2 [\frac{d}{dw}(Xw-y)]^T \bullet (Xw - y) = 0$$
 $$X^T \bullet (Xw-y)=0$$
 $$X^TXw - X^Ty = 0$$
 $$X^TXw = X^Ty$$
-$$w = (X^TX)^{-1}X^Ty$$
+Finally, finding the equation for w: $$w = (X^TX)^{-1}X^Ty$$
 What does this look like in Python?
 ```Python
 def calc_maxm_eq(x, y):
-
+	np.dot(X.T, X)
+	XTX.
 ```
+
+
