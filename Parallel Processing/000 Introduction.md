@@ -61,7 +61,25 @@ int main() {
 ```
 Functions must be declared in the right order they are being called, or they must be all declared as prototypes at the top of the code. 
 The following code uses the prototyping method:
+```C++
+#include <iostream>  
+#include <string>  
+std::string GenerateWelcomeMessage(const std::string userName);  
+std::string CreateGreeting(const std::string userName);  
 
+std::string GenerateWelcomeMessage(const std::string userName){  
+std::string greeting = CreateGreeting(userName);  
+	greeting += " Welcome to the class!";  
+	return greeting;  
+}  
+std::string CreateGreeting(const std::string userName){  
+	return "Hello, " + userName + "!";  
+}  
+int main() {  
+	std::string userName = "MSCS 679L”;  
+	std::cout << GenerateWelcomeMessage(userName) << "\n";  
+}
+```
 
 **Header Files**
 These are .h files. This is one solution we can implement to have all function declarations inherited. 
