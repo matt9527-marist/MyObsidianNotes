@@ -168,7 +168,12 @@ What does this look like in Python?
 def calc_maxm_eq(x, y):
 	XTX = np.dot(X.T, X)
 	XTX_1 = np.linalg.inv(XTX)
-	XTy = X.T * *
+	XTy = X.T * y
+	return XTX_1 * XTy
 ```
+Be careful: inverting a matrix of 500 by 500 features is probably not the best idea. 
+The product is never an issue computationally. 
+
+
 
 
