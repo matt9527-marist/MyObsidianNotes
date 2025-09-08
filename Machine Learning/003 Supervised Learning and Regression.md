@@ -119,6 +119,8 @@ This is the general expression, but this does not take into account our dataset.
 We have a dataset D and prediction y, vectorized as:
 ![[Pasted image 20250908173102.png]]
 This gives us: $$\hat{y} = W\vec{x} + b_{\vec{1}}$$
+We now need to present the cost function:
+$$ J$$
 
 
 
