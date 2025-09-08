@@ -83,7 +83,7 @@ A polynomial of degree 10: $$y = w_{0} + \sum^{10}_{o = 1} w_{o}x^o$$
 **Overfitting and Underfitting**
 ![[Pasted image 20250908163403.png]]
 
-If a model has low bias and very high variannce, it can be said to have low generalizability, where the model cann 
+If a model has low bias and very high variannce, it can be said to have low generalizability, where the model cannot predict well when given new data.
 
 ![[Pasted image 20250908163108.png]]
 
