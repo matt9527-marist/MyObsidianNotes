@@ -126,7 +126,10 @@ We can rewrite this in the following way:
 $$= \frac{1}{2m}(\hat{y}-y)^T(\hat{y}-y)$$
 $$J(w,b) = \frac{1}{2m}(X\vec{w}+b - y)^T(X\vec{w} + b -y)$$
 In order to discover the minimum of our cost function, need to find:
-$$\frac{ \partial J }{ \partial W }  = 0$$
+$$\frac{ \partial J }{ \partial w }  = 0$$
+Also consider:
+$$j = \sum^{m}_{i=0}w_{j}x_{j}$$
+
 
 
 
