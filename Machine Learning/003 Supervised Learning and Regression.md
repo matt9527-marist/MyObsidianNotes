@@ -127,7 +127,7 @@ $$= \frac{1}{2m}(\hat{y}-y)^T(\hat{y}-y)$$
 $$J(w,b) = \frac{1}{2m}(X\vec{w}+b - y)^T(X\vec{w} + b -y)$$
 In order to discover the minimum of our cost function, need to find:
 $$\frac{ \partial J }{ \partial w }  = 0$$
-Also consider:
+Therefore consider:
 $$j = \sum^{m}_{i=0}w_{j}x_{j}$$
 $$\begin{bmatrix}
 x_{1}^1 \dots x_{m}^1 \\ \\
@@ -141,7 +141,9 @@ w_{m}
 \end{bmatrix}$$
 $$\hat{y} = Xw$$
 $$J(w) = \frac{1}{2m} (\hat{y}-y)^T(\hat{y} - y)$$
+$$= \frac{1}{2m}(Xw-y)^T(Xw-y)$$
+Compute the derivative wrt. *w* of *J*:
+Assume that we have a variable:
 $$$$
-
 
 
