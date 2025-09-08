@@ -83,6 +83,11 @@ TEST_CASE("Testing CreateGreeting", "[CreateGreeting]") {
 	REQUIRE(CreateGreeting("Alice") == "Hello, Alice!");  
 	REQUIRE(CreateGreeting("") == "Hello, !");  
 	REQUIRE(CreateGreeting("1") == "Hello, 1!");  
+}  
+TEST_CASE("Testing GenerateWelcomeMessage", "[GenerateWelcomeMessage]") {  
+	REQUIRE(GenerateWelcomeMessage("Alice") == "Hello, Alice! Welcome to the class!");  
+	REQUIRE(GenerateWelcomeMessage("") == "Hello, ! Welcome to the class!");  
+	REQUIRE(GenerateWelcomeMessage("1") == "Hello, 1! Welcome to the class!");  
 }
 ```
 
