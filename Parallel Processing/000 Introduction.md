@@ -80,6 +80,7 @@ int main() {
 	std::cout << GenerateWelcomeMessage(userName) << "\n";  
 }
 ```
+The second solution is better for lots of functions, but when defining several prototypes, we may miss something important. We do not want to allow this human error to cause many headaches when compiling our code. 
 
 **Header Files**
 These are .h files. This is one solution we can implement to have all function declarations inherited. 
