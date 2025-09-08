@@ -95,4 +95,6 @@ Windows Test Cases build
 ![[Pasted image 20250908192710.png]]
 ![[Pasted image 20250908192726.png]]
 ![[Pasted image 20250908192736.png]]
-
+Updated greeting.cpp function to throw an error when an input is empty:
+```C++
+```
