@@ -107,5 +107,8 @@ Machine Learning is Optimization
 	- $$L = \frac{1}{2}(\hat{y} - y)^2$$
 	- For m points -> J: $$ \frac{1}{2n} \sum^{m}_{j = 1}(\hat{y}^i - y^i)^2$$
 3) *CHOOSE SOLUTION* (can be numerical or analytical)
-	
+4) *VECTORIZE* 
+	Makes things far more elegant, and in terms of the packages we use, they vectorize everything. 
+5) *EMIGRATE*
+	 
 
