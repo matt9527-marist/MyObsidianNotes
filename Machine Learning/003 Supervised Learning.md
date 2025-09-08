@@ -16,4 +16,8 @@ input is an output variable.
 ✓ Sales= f(Radio, TV ads )
 
 We assume that there is some relationship between the output variable 𝑦 and the input variables denotes as a vector 𝐱 = (𝑥<sub>1</sub>, 𝑥<sub>2</sub>, . . , 𝑥<sub>𝑚</sub> which can be written in the very general form.
-𝐱 represe
+𝐱 represents the possible media sources, which = 3
+
+	y = f(x) + e
+
+Why *"+ e"*
