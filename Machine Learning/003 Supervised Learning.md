@@ -66,4 +66,7 @@ Two important points to consider: **bias** and **variance**.
 The irreducible error is given by the Variance of the noise The reducible error is given by the expectation of the squared difference between f^(𝐱) and y<sup>^</sup>.
 Consider the *expected value* given by E[...] as an average. 
 
+Useful derivation explanation:
+![[Pasted image 20250908161939.png]]
+var(e) will be our irreducible error, but without knowing exactly how to measure it. 
 
