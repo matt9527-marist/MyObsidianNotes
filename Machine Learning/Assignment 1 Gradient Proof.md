@@ -65,6 +65,9 @@ $$\nabla [(a^Tx)(b^Tx)] = \begin{bmatrix}
 \end{bmatrix}
 =
 \begin{bmatrix}
-(a^Tx)b_{1} + ()
+(a^Tx)b_{1} + (b^Tx)a_{1} \\
+(a^Tx)b_{2} + (b^Tx)a_{2}
 \end{bmatrix}
+=
+(a^Tx)b + (b^Tx)a
 $$
