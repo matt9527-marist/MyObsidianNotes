@@ -224,6 +224,7 @@ int main() {
 }  
 //It's January
 ```
+Usage of *using* 
 
 **Reduce Function-Call Overhead with Inline Functions**
 Useful compiler optimization:
@@ -231,3 +232,16 @@ Useful compiler optimization:
 - C++ Core Guidelines recommend inlining only small and time-critical functions. 
 
 Inline functions:
+```c++
+#include <iostream>  
+inline double cube(double side) {  
+	return side * side * side;  
+}  
+int main() {  
+	double sideLength{3};  
+	double volume = cube(sideLength);  
+	std::cout << "Volume: " << volume << "\n"; //27  
+}
+```
+
+**Passing Arguments by Value and by Reference**
