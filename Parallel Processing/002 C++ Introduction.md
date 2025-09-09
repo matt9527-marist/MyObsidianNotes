@@ -253,3 +253,5 @@ void passByReference(int &ref){
 	ref = 100;  
 }
 ```
+Parallel programs use this most of the time. 
+- Most of our programs we will use *pass by reference*. We expect that multiple CPUs will run our code. We will define the data members 
