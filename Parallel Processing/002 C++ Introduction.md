@@ -224,7 +224,7 @@ int main() {
 }  
 //It's January
 ```
-Usage of *using* 
+Usage of *using* depends on the author. Whenever we are using a variable, it is best practice to give its scope resolution. 
 
 **Reduce Function-Call Overhead with Inline Functions**
 Useful compiler optimization:
