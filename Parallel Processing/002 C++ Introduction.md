@@ -151,3 +151,26 @@ int main(){
 //No Access
 ```
 
+Custom data type: *Enumerator*
+Enumerator data types are user-defined. 
+- Unscoped enum: not recommended
+- Scoped enum using class: recommended 
+
+Unscoped Enum:
+```c++
+#include <iostream>  
+int main() {  
+	enum Status {won, lost, keepRolling}; // 0 1 2  
+	Status gameStatus{keepRolling};  
+	std::cout << gameStatus << "\n"; // 2  
+	if(2 == gameStatus)  
+		std::cout << "continue game\n";  
+	else  
+		std::cout << "terminate\n";  
+	if(gameStatus == keepRolling)  
+		std::cout << "continue game\n";  
+	else  
+		std::cout << "terminate\n";  
+}
+```
+When it is unscoped, our
