@@ -224,3 +224,10 @@ int main() {
 }  
 //It's January
 ```
+
+**Reduce Function-Call Overhead with Inline Functions**
+Useful compiler optimization:
+- Compilers can inline functions that are not explicitly declared as inline.
+- C++ Core Guidelines recommend inlining only small and time-critical functions. 
+
+Inline functions:
