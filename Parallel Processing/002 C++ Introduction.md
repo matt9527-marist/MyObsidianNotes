@@ -163,6 +163,7 @@ int main() {
 	enum Status {won, lost, keepRolling}; // 0 1 2  
 	Status gameStatus{keepRolling};  
 	std::cout << gameStatus << "\n"; // 2  
+	
 	if(2 == gameStatus)  
 		std::cout << "continue game\n";  
 	else  
@@ -173,4 +174,4 @@ int main() {
 		std::cout << "terminate\n";  
 }
 ```
-When it is unscoped, our
+When it is unscoped, our C++ environment will assign values of 0, 1, 2. This automated conversion is used. 
