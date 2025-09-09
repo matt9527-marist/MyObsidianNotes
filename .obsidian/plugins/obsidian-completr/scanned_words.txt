@@ -36,6 +36,7 @@ Makefiles
 Manual
 MinGW
 Moving
+Mod
 Learning
 Learn
 Let
@@ -82,6 +83,7 @@ Rh
 ReY
 Rm
 Radio
+Resource
 libraries
 learn
 learning
@@ -193,6 +195,8 @@ CMakeLists
 Compiler
 Command
 Cases
+Casting
+Condition
 Scikit
 Statistical
 Statistics
@@ -234,6 +238,8 @@ Simple
 SOLUTION
 Studio
 Simplifying
+Switch
+Statements
 Keras
 Key
 Kirchhoffs
@@ -283,6 +289,7 @@ Tedious
 Tells
 Testing
 Test
+Type
 ISLP
 Iris
 Instance
@@ -310,6 +317,8 @@ IEND
 Instead
 Incremental
 Intro
+Initialization
+Initializer
 and
 ability
 approximation
@@ -408,6 +417,7 @@ another
 appropriate
 automate
 accordingly
+adding
 Applications
 AI
 Analysis
@@ -448,6 +458,8 @@ ARCHITECTURE
 ANN
 ALL
 Approach
+Accessing
+Another
 with
 without
 want
@@ -497,6 +509,9 @@ while
 were
 working
 weather
+warning
+whatever
+warnings
 Python
 Performance
 Principle
@@ -559,6 +574,7 @@ WHX
 Which
 Windows
 Without
+Wimplicit
 is
 in
 if
@@ -614,6 +630,9 @@ ifndef
 included
 identify
 install
+initialization
+int
+inform
 Field
 For
 Find
@@ -684,6 +703,8 @@ operation
 options
 once
 occurring
+opposed
+obtaining
 study
 simplified
 something
@@ -795,6 +816,10 @@ statements
 specify
 subfolder
 serially
+std
+simulating
+srand
+statement
 giving
 good
 generalizable
@@ -838,6 +863,9 @@ grows
 give
 generate
 github
+greatest
+getResource
+granting
 computers
 computer
 can
@@ -965,6 +993,7 @@ calculations
 catch
 com
 catchorg
+cast
 the
 to
 training
@@ -1092,6 +1121,8 @@ budgets
 been
 bias
 becomes
+brace
+break
 explicitly
 experience
 error
@@ -1166,6 +1197,8 @@ executable
 executed
 empty
 exe
+execution
+execute
 programmed
 patterns
 program
@@ -1275,6 +1308,12 @@ properly
 parent
 performed
 parameter
+programming
+prefer
+preferred
+place
+permission
+per
 Detecting
 Deepmind
 Dataset
@@ -1376,6 +1415,12 @@ rely
 reduces
 require
 releases
+restrict
+reason
+rights
+resource
+returning
+request
 model
 mostly
 machine
@@ -1463,6 +1508,7 @@ modified
 miss
 move
 massive
+modern
 hypothesis
 handwritten
 have
@@ -1558,6 +1604,8 @@ uh
 uQ
 uE
 unknown
+usually
+usual
 data
 driven
 dataset
@@ -1698,6 +1746,9 @@ finding
 forgetting
 forecasting
 follows
+floating
+flag
+fallthrough
 Optimziation
 Operations
 Once
@@ -1881,6 +1932,7 @@ Using
 Usage
 Unit
 Updated
+Unless
 Breakout
 Because
 Backpropagation
@@ -1901,6 +1953,7 @@ BSj
 BR
 BY
 Be
+Brace
 just
 jagged
 json
@@ -1919,6 +1972,7 @@ Va
 Variance
 VECTORIZE
 Visual
+Variables
 zero
 zu
 zj
@@ -1941,6 +1995,7 @@ YS
 Yo
 YRi
 Yg
+Yoda
 Xk
 Xt
 Xs
