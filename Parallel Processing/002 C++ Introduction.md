@@ -218,9 +218,9 @@ using Month::January;
 
 int main() {  
 	if (1 == static_cast<int>(January))  
-	std::cout << "It's January\n";  
+		std::cout << "It's January\n";  
 	else  
-	std::cout << "It's not January\n"; //p  
+		std::cout << "It's not January\n"; //p  
 }  
 //It's January
 ```
