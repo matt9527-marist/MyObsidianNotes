@@ -192,7 +192,7 @@ int main() {
 		std::cout << "continue game\n";  
 }
 ```
-Here, we are adding *class* to the statement. 
+Here, we are adding *class* to the statement. The system however will not be assigning this automatic conversion to the variables!
 
 Scoped Enum class (start with 1):
 ```c++
@@ -205,6 +205,22 @@ int main() {
 		std::cout << "It's January\n";  
 	else  
 		std::cout << "It's not January\n"; //p  
+}  
+//It's January
+```
+
+Using Enum declaration:
+```c++
+#include <iostream>  
+enum class Month {January=1, February, March, April, May, June, July,  
+August, September, October, November, December};  
+using Month::January;  
+
+int main() {  
+	if (1 == static_cast<int>(January))  
+	std::cout << "It's January\n";  
+	else  
+	std::cout << "It's not January\n"; //p  
 }  
 //It's January
 ```
