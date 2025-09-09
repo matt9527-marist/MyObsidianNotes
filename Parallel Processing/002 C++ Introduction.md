@@ -245,3 +245,11 @@ int main() {
 ```
 
 **Passing Arguments by Value and by Reference**
+```c++
+void passByValue(int value){  
+	value = 100;  
+}  
+void passByReference(int &ref){  
+	ref = 100;  
+}
+```
