@@ -71,7 +71,4 @@ $$\nabla [(a^Tx)(b^Tx)] = \begin{bmatrix}
 =
 (a^Tx)b + (b^Tx)a
 $$
-Therefore, $$\nabla [(a^Tx)(b^Tx)] = \begin{bmatrix}
-\frac{\partial[(a^Tx)(b^Tx)]}{\partial x_{1}} \\
-\frac{\partial[(a^Tx)(b^Tx)]}{\partial x_{2}}
-\end{bmatrix}$$
+Therefore, $$\nabla [(a^Tx)(b^Tx)] = (a^Tx)b + (b^Tx)a$$
