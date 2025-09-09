@@ -285,4 +285,22 @@ int main() {
 //count: 2  
 //cRef: 2
 ```
+*int&* allows us to assign a reference as an alias for another vari
+
+Cannot be reassigned to alias of another variable:
+```c++
+#include <iostream>  
+int main() {  
+	int count{1}, temp{5};  
+	int& cRef{count};  
+	
+	std::cout << count << " " << cRef << "\n";  
+	
+	cRef = temp;  
+	std::cout << count << " " << cRef << "\n";
+	  
+	temp = 20;  
+	std::cout << count << " " << cRef << "\n";  
+}
+```
 
