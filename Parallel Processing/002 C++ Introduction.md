@@ -123,7 +123,6 @@ int main() {
 }  
 //1Access granted
 ```
-Allows us to use the function within the block.
 
 Switch statement with Initializer:
 ```c++
@@ -140,3 +139,14 @@ int main() {
 ```
 
 Using *Yoda Condition*
+```c++
+#include <iostream>  
+int main(){  
+	int access{0};  
+	if(1==access)  
+		std::cout << "Access\n";  
+	else  
+		std::cout << "No Access\n";  
+}  
+//No Access
+```
