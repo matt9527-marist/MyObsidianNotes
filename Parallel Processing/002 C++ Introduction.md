@@ -303,5 +303,12 @@ int main() {
 	temp = 20;  
 	std::cout << count << " " << cRef << "\n";  
 }
+/*  
+1 1  
+5 5 //value is assigned  
+5 5 //only value was updated not reassigned  
+*/
 ```
+Reference variables are initialized only once at the time of declaration. 
+After this point, if we give a new assignment for *cRef*, 
 
