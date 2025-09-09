@@ -192,6 +192,7 @@ Challenges
 CMakeLists
 Compiler
 Command
+Cases
 Scikit
 Statistical
 Statistics
@@ -281,6 +282,7 @@ Tracking
 Tedious
 Tells
 Testing
+Test
 ISLP
 Iris
 Instance
@@ -405,6 +407,7 @@ account
 another
 appropriate
 automate
+accordingly
 Applications
 AI
 Analysis
@@ -555,6 +558,7 @@ WOD
 WHX
 Which
 Windows
+Without
 is
 in
 if
@@ -1032,6 +1036,8 @@ transposing
 thousands
 track
 twice
+tests
+throw
 being
 be
 by
@@ -1158,6 +1164,8 @@ eta
 external
 executable
 executed
+empty
+exe
 programmed
 patterns
 program
@@ -1266,6 +1274,7 @@ preferable
 properly
 parent
 performed
+parameter
 Detecting
 Deepmind
 Dataset
@@ -1627,6 +1636,8 @@ directory
 debug
 directly
 downloads
+download
+default
 future
 from
 feed
@@ -1869,6 +1880,7 @@ Underfitting
 Using
 Usage
 Unit
+Updated
 Breakout
 Because
 Backpropagation
