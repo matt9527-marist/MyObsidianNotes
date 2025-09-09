@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/003 Pointers and References.md",
+                "file": "Parallel Processing/002 C++ Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 Pointers and References"
+              "title": "002 C++ Introduction"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "ed9bf4f819a035fd",
   "lastOpenFiles": [
-    "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/003 Pointers and References.md",
+    "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
     "Assets/Pasted image 20250908192736.png",

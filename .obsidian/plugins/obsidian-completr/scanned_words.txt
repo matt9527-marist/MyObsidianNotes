@@ -84,6 +84,9 @@ ReY
 Rm
 Radio
 Resource
+Reduce
+Reference
+References
 libraries
 learn
 learning
@@ -131,6 +134,9 @@ like
 left
 linking
 lots
+longer
+local
+leads
 Graphing
 Google
 Game
@@ -145,6 +151,7 @@ GY
 Goal
 Given
 Greeting
+Guidelines
 Charting
 Control
 Common
@@ -197,6 +204,14 @@ Command
 Cases
 Casting
 Condition
+Custom
+Call
+Compilers
+Core
+Changes
+Cannot
+Const
+Consequences
 Scikit
 Statistical
 Statistics
@@ -240,6 +255,8 @@ Studio
 Simplifying
 Switch
 Statements
+Scoped
+Safety
 Keras
 Key
 Kirchhoffs
@@ -290,6 +307,7 @@ Tells
 Testing
 Test
 Type
+Typically
 ISLP
 Iris
 Instance
@@ -319,6 +337,7 @@ Incremental
 Intro
 Initialization
 Initializer
+Inline
 and
 ability
 approximation
@@ -418,6 +437,15 @@ appropriate
 automate
 accordingly
 adding
+assign
+automated
+assigning
+automatic
+author
+arguments
+aliases
+alias
+assignment
 Applications
 AI
 Analysis
@@ -460,6 +488,8 @@ ALL
 Approach
 Accessing
 Another
+Arguments
+Avoiding
 with
 without
 want
@@ -557,6 +587,7 @@ Pointers
 Pointer
 Project
 Problems
+Passing
 What
 We
 With
@@ -575,6 +606,7 @@ Which
 Windows
 Without
 Wimplicit
+Whenever
 is
 in
 if
@@ -633,6 +665,9 @@ install
 initialization
 int
 inform
+inline
+inlining
+initialized
 Field
 For
 Find
@@ -705,6 +740,7 @@ once
 occurring
 opposed
 obtaining
+occurs
 study
 simplified
 something
@@ -820,6 +856,10 @@ std
 simulating
 srand
 statement
+start
+scope
+snippet
+static
 giving
 good
 generalizable
@@ -994,6 +1034,13 @@ catch
 com
 catchorg
 cast
+conversion
+critical
+cRef
+count
+const
+crashes
+corruption
 the
 to
 training
@@ -1067,6 +1114,8 @@ track
 twice
 tests
 throw
+types
+temp
 being
 be
 by
@@ -1123,6 +1172,7 @@ bias
 becomes
 brace
 break
+behavior
 explicitly
 experience
 error
@@ -1199,6 +1249,7 @@ empty
 exe
 execution
 execute
+enum
 programmed
 patterns
 program
@@ -1314,6 +1365,7 @@ preferred
 place
 permission
 per
+provide
 Detecting
 Deepmind
 Dataset
@@ -1339,6 +1391,7 @@ Dy
 DEFINE
 Define
 Descent
+Dangling
 regularities
 respect
 recognizing
@@ -1421,6 +1474,12 @@ rights
 resource
 returning
 request
+recommended
+resolution
+run
+references
+reassigned
+returns
 model
 mostly
 machine
@@ -1509,6 +1568,7 @@ miss
 move
 massive
 modern
+member
 hypothesis
 handwritten
 have
@@ -1545,6 +1605,7 @@ header
 host
 headaches
 hpp
+happens
 Execution
 Examples
 Economics
@@ -1579,6 +1640,8 @@ EMIGRATE
 Efficiency
 Execute
 Executing
+Enumerator
+Enum
 using
 utility
 use
@@ -1606,6 +1669,9 @@ uE
 unknown
 usually
 usual
+user
+unscoped
+undefined
 data
 driven
 dataset
@@ -1686,6 +1752,7 @@ directly
 downloads
 download
 default
+dangling
 future
 from
 feed
@@ -1749,6 +1816,7 @@ follows
 floating
 flag
 fallthrough
+filePath
 Optimziation
 Operations
 Once
@@ -1771,6 +1839,7 @@ OPTIMIZATION
 Our
 Operating
 Obtain
+Overhead
 kind
 know
 knowledge
@@ -1813,6 +1882,7 @@ visualize
 via
 vectorize
 vectorized
+visible
 numerical
 no
 need
@@ -1933,6 +2003,7 @@ Usage
 Unit
 Updated
 Unless
+Unscoped
 Breakout
 Because
 Backpropagation
@@ -1973,6 +2044,7 @@ Variance
 VECTORIZE
 Visual
 Variables
+Value
 zero
 zu
 zj
