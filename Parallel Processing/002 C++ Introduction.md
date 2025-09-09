@@ -327,4 +327,25 @@ int main() {
 }  
 //usr/local/bin
 ```
-*const* for "constant," as in we cannot change the variable after d
+*const* for "constant," as in we cannot change the variable after declaration. 
+In the above snippet, we are passing the filePath, which should not change. 
+```c++
+#include <iostream>  
+#include <string>  
+// Efficient and safe  
+void displayFilePath(const std::string &filePath) {  
+	filePath = "/usr/local/bin/app";  
+	std::cout << filePath << '\n';  
+}  
+int main() {  
+	std::string path{"/usr/local/bin"};  
+	displayFilePath(path);  
+}  
+/*  
+main.cpp:6:12: error: no viable overloaded '='  
+6 | filePath = "/usr/local/bin/app";  
+*/
+```
+
+**Avoiding Dangling References**
+
