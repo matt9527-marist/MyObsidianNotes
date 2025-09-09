@@ -285,7 +285,8 @@ int main() {
 //count: 2  
 //cRef: 2
 ```
-*int&* allows us to assign a reference as an alias for another vari
+*int&* allows us to assign a reference as an alias for another variable. 
+We can use *cRef* as simply another name for *count*.
 
 Cannot be reassigned to alias of another variable:
 ```c++
