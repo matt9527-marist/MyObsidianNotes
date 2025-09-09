@@ -384,5 +384,16 @@ int main() {
 }  
 //Hello Alice
 ```
-Applying keyword *static*. 
+Applying keyword *static*.
+
+**Best Practices when Returning References**
+• Avoid Returning References to Local Variables:  
+	• Do not return references to local non-static variables.  
+	• Use alternatives like returning by value or using dynamic  
+	memory (with caution).  
+• Using Static or Dynamic Variables:  
+	• Return references to static variables (with care to avoid other  
+	issues).  
+	• Use dynamic memory (ensure proper memory management).
+
 
