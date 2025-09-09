@@ -25,6 +25,27 @@ int x{5};
 ```
 as opposed to what we may be used to usually. 
 
+**Switch Statements**
+```C++
+#include <iostream>  
+int main() {  
+int value{1};  
+switch (value) {  
+case 1:  
+std::cout << "Case 1 executed\n";  
+case 2:  
+std::cout << "Case 2 executed\n";  
+default:  
+std::cout << "Default case executed\n";  
+}  
+}  
+/*  
+Case 1 executed  
+Case 2 executed  
+Default case executed  
+*/
+```
+We need *break* statements in order to restrict the execution of each case block. Without it, all cases will execute.
 
 
 
