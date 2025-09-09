@@ -185,9 +185,26 @@ int main() {
 	
 	//std::cout << gameStatus << "\n"; // error  
 	std::cout << static_cast<int>(gameStatus) << "\n"; // 2  
+	
 	if(2 == static_cast<int>(Status::keepRolling))  
 		std::cout << "continue game\n";  
 	if(gameStatus == Status::keepRolling)  
 		std::cout << "continue game\n";  
 }
+```
+Here, we are adding *class* to the statement. 
+
+Scoped Enum class (start with 1):
+```c++
+#include <iostream>  
+int main() {  
+	enum class Month {January=1, February, March, April, May, June, July,  
+	August, September, October, November, December}; 
+	 
+	if (1 == static_cast<int>(Month::January))  
+		std::cout << "It's January\n";  
+	else  
+		std::cout << "It's not January\n"; //p  
+}  
+//It's January
 ```
