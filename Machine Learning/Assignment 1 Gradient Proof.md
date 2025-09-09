@@ -43,4 +43,5 @@ The dot operator denotes a regular product (e.g. 2 dot 2=4)
 $$(a^Tx)(b^Tx) = (a_{1}x_{1}+a_{2}x_{2})(b_{1}x_{1}+b_{2}x_{2})$$
 $$= a_{1}b_{1}x_{1}^2 + a_{1}x_{1}b_{2}x_{2} + a_{2}x_{2}b_{1}x_{1} + a_{2}b_{2}x_{2}^2$$
 $$= a_{1}b_{1}x_{1}^2 + (a_{1}b_{2} + a_{2}b_{1})x_{1}x_{2} + a_{2}b_{2}x_{2}^2$$
-2) Take the partial derivative
+2) Take the partial derivative of the left side w.r.t. x1
+	$$\frac{\partial}{\frac{ \partial y }{ \partial x } }$$
