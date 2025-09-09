@@ -45,4 +45,4 @@ $$= a_{1}b_{1}x_{1}^2 + a_{1}x_{1}b_{2}x_{2} + a_{2}x_{2}b_{1}x_{1} + a_{2}b_{2}
 $$= a_{1}b_{1}x_{1}^2 + (a_{1}b_{2} + a_{2}b_{1})x_{1}x_{2} + a_{2}b_{2}x_{2}^2$$
 2) Take the partial derivative of the left side w.r.t. x1
 
-$$\frac{\partial a_{1}b_{1}x_{1}^2 + (a_{1}b_{2} + a_{2}b_{1})x_{1}x_{2} + a_{2}b_{2}x_{2}^2}{\partial x_{1}} = $$
+$$\frac{\partial a_{1}b_{1}x_{1}^2 + (a_{1}b_{2} + a_{2}b_{1})x_{1}x_{2} + a_{2}b_{2}x_{2}^2}{\partial x_{1}} = 2a_{1}b_{1}x_{1} + $$
