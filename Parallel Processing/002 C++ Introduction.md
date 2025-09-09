@@ -123,3 +123,20 @@ int main() {
 }  
 //1Access granted
 ```
+Allows us to use the function within the block.
+
+Switch statement with Initializer:
+```c++
+int main() {  
+	switch(int access{getResource()}; access){  
+	case 1:  
+		std::cout << "Access granted\n"; //if non-zero  
+		break;  
+	case 0:  
+		std::cout << "Access not granted\n"; //if zero  
+	}  
+}  
+//Access granted
+```
+
+Using *Yoda Condition*
