@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/002 C++ Introduction.md",
+                "file": "LaTeX Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 C++ Introduction"
+              "title": "LaTeX Scratch"
             }
           }
         ],
@@ -201,11 +201,11 @@
   },
   "active": "34d5634ecac56bb3",
   "lastOpenFiles": [
+    "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/003 Pointers and References.md",
     "Assets/Pasted image 20250908154630.png",
     "Assets/Pasted image 20250908153922.png",
     "Assets/Pasted image 20250908153844.png",
-    "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
     "Assets/Pasted image 20250905174757.png",
