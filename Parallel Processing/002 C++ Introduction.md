@@ -368,5 +368,7 @@ int main() {
 	std::cout << "Hello " << name << "\n";  
 }
 ```
+![[Pasted image 20250908204936.png]]
+
 
 
