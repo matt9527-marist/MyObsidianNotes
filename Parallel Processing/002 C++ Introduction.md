@@ -348,4 +348,24 @@ main.cpp:6:12: error: no viable overloaded '='
 ```
 
 **Avoiding Dangling References**
+• A **dangling reference** occurs when a reference points to a variable  
+that no longer exists.
+• Typically, this happens when a function returns a reference to a  
+local non-static variable.
+• Consequences:  
+	• Accessing a dangling reference leads to undefined behavior.
+	• Can cause program crashes or data corruption.
+
+```c++
+#include <iostream>  
+#include <string>  
+std::string& getName() {  
+	std::string name{"Alice"};  
+	return name;  
+}  
+int main() {  
+	std::string& name{getName()};  
+	std::cout << "Hello " << name << "\n";  
+}
+```
 
