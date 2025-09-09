@@ -86,5 +86,8 @@ int getResource() {
 	return rand() % 2; // 0 ≤ rand() ≤ RAND_MAX  
 }
 ```
-Suppose we want to set a permission for obtaining a resource. This function is simply returning the number 0 or 1. 
+Suppose we want to set a permission for obtaining a resource. This function is simply returning the number 0 or 1. *srand* ensures that the program will give a different output each time. Mod 2 ensures the output is 0 or 1. 
+
+**If Statements**
+
 
