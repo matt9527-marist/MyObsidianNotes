@@ -174,4 +174,20 @@ int main() {
 		std::cout << "terminate\n";  
 }
 ```
-When it is unscoped, our C++ environment will assign values of 0, 1, 2. This automated conversion is used. 
+When it is unscoped, our C++ environment will assign values of 0, 1, 2. This automated conversion is used.
+
+Scoped Enum:
+```c++
+#include <iostream>  
+int main() {  
+	enum class Status {won, lost, keepRolling};// 0 1 2  
+	Status gameStatus{Status::keepRolling};  
+	
+	//std::cout << gameStatus << "\n"; // error  
+	std::cout << static_cast<int>(gameStatus) << "\n"; // 2  
+	if(2 == static_cast<int>(Status::keepRolling))  
+		std::cout << "continue game\n";  
+	if(gameStatus == Status::keepRolling)  
+		std::cout << "continue game\n";  
+}
+```
