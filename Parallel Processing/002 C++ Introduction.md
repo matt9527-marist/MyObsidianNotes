@@ -70,6 +70,12 @@ g++ **-Wimplicit-fallthrough** -std=c++23 main.cpp
 
 We can also explicitly type:
 ```C++
-[[fallthrough]]
+[[fallthrough]];
 ```
+in the place of *break* statements if we do not want to add the flag. 
+
+(or just use *break*, as is usual practice)
+
+**Accessing a Resource**
+
 
