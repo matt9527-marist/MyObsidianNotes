@@ -32,10 +32,10 @@ Prove that:
 
 $$
 
-[](a^Tx)\bullet(b^Tx) = (a^Tx)\bullet b + (b^Tx)\bullet a
+\nabla [(a^Tx)\bullet(b^Tx)] = (a^Tx)\bullet b + (b^Tx)\bullet a
 
 $$
 
 The dot operator denotes a regular product (e.g. 2 dot 2=4)
 
-You should do this manually (no numpy).
+$$(a^Tx)(b^Tx)$$
