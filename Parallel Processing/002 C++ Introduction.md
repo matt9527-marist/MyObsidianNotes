@@ -270,6 +270,7 @@ int main() {
 //Value of a: 10  
 //Value of b: 100
 ```
+Changes will be visible only by reference. We therefore need to be careful when using pass by reference. Because we are using the memory address of the variable, that change will be visible. 
 
 Using references as aliases:
 ```c++
