@@ -59,4 +59,9 @@ $$ = b_{2}(a_{1}x_{1}+a_{2}x_{2}) + a_{2}(b_{1}x_{1}+b_{2}x_{2})$$
 Therefore:
 $$\frac{\partial [(a^Tx)(b^Tx)]}{\partial x_{1}} = (a^Tx)b_{2} + (b^Tx)a_{2}$$
 4) When combined into gradient vector:
-$$\nabla [(a^Tx)(b^Tx)] = $$
+$$\nabla [(a^Tx)(b^Tx)] = \begin{bmatrix}
+\frac{\partial[(a^Tx)(b^Tx)]}{\partial x_{1}} \\
+\frac{\partial[(a^Tx)(b^Tx)]}{\partial x_{2}}
+\end{bmatrix}=
+
+$$
