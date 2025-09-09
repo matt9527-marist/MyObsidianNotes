@@ -64,6 +64,7 @@ int main() {
 }  
 //Case 1 executed
 ```
-(Unless for whatever reason we want all the cases to execute)
-
+Unless for whatever reason we want all the cases to execute.
+However, without *break* statements, C++ will throw warnings at us. If we do not want these warnings, we need to inform the compiler by adding this flag:
+g++ **-Wimplicit-fallthrough** -std=c++20 main.cpp
 
