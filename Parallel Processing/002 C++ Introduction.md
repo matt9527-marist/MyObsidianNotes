@@ -370,5 +370,19 @@ int main() {
 ```
 ![[Pasted image 20250908204936.png]]
 
-
+Return references to static variables to avoid (with care to prevent other issues)
+```c++
+#include <iostream>  
+#include <string>  
+std::string& getName() {  
+	std::string static name{"Alice"};  
+	return name;  
+}  
+int main() {  
+	std::string& name{getName()};  
+	std::cout << "Hello " << name << "\n";  
+}  
+//Hello Alice
+```
+Applying keyword *static*. 
 
