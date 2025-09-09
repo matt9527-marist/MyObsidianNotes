@@ -51,4 +51,4 @@ $$2a_{1}b_{1}x_{1} + (a_{1}b_{2}+a_{2}b_{1})x_{2} = a_{1}b_{1}x_{1} + a_{1}b_{1}
 $$= b_{1}(a_{1}x_{1}+a_{2}x_{2}) + a_{1}(b_{1}x_{1}+b_{2}x_{2})$$
 Therefore:
 $$\frac{\partial [(a^Tx)(b^Tx)]}{\partial x_{1}} = (a^Tx)b_{1} + (b^Tx)a_{1}$$
-4. Do the same with the 
+4. Do the same as step 2 but w.r.t. x2
