@@ -62,6 +62,9 @@ $$\frac{\partial [(a^Tx)(b^Tx)]}{\partial x_{1}} = (a^Tx)b_{2} + (b^Tx)a_{2}$$
 $$\nabla [(a^Tx)(b^Tx)] = \begin{bmatrix}
 \frac{\partial[(a^Tx)(b^Tx)]}{\partial x_{1}} \\
 \frac{\partial[(a^Tx)(b^Tx)]}{\partial x_{2}}
-\end{bmatrix}=
-
+\end{bmatrix}
+=
+\begin{bmatrix}
+(a^Tx)b_{1} + ()
+\end{bmatrix}
 $$
