@@ -311,5 +311,20 @@ int main() {
 ```
 Reference variables are initialized only once at the time of declaration. 
 After this point, if we give a new assignment for *cRef*, this will change the value of *cRef*, but not the value of *count*.
+This is why *temp = 20;* is not changing *count*.
 
-
+**Using Const Reference for Efficiency and Safety**
+```c++
+#include <iostream>  
+#include <string>  
+// Efficient and safe  
+void displayFilePath(const std::string &filePath) {  
+	std::cout << filePath << '\n';  
+}  
+int main() {  
+	std::string path{"/usr/local/bin"};  
+	displayFilePath(path);  
+}  
+//usr/local/bin
+```
+*const* for "constant," as in we cannot change the variable after d
