@@ -256,4 +256,17 @@ void passByReference(int &ref){
 Parallel programs use this most of the time. 
 - Most of our programs we will use *pass by reference*. We expect that multiple CPUs will run our code, available to even both CPU and GPU. 
 - If we want to run it on GPU, we will need to provide the address of the data member. 
-- This means that most of the time we expect the memory address, not the value itse
+- This means that most of the time we expect the memory address, not copy of the value itself. 
+Passing arguments by value and by reference:
+```c++
+#include <iostream>  
+int main() {  
+	int a{10}, b{10};  
+	passByValue(a);  
+	passByReference(b);  
+	std::cout << "Value of a: " << a << "\n";  
+	std::cout << "Value of b: " << b << "\n";  
+}  
+//Value of a: 10  
+//Value of b: 100
+```
