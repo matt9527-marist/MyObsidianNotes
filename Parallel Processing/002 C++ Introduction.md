@@ -270,3 +270,17 @@ int main() {
 //Value of a: 10  
 //Value of b: 100
 ```
+
+Using references as aliases:
+```c++
+#include <iostream>  
+int main() {  
+	int count{1};  
+	int& cRef{count};  
+	++cRef;  
+	std::cout << "count: " << count << "\n";  
+	std::cout << "cRef: " << cRef << "\n";  
+}  
+//count: 2  
+//cRef: 2
+```
