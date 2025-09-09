@@ -77,5 +77,14 @@ in the place of *break* statements if we do not want to add the flag.
 (or just use *break*, as is usual practice)
 
 **Accessing a Resource**
-
+Another good practice that we want to use is simulating access rights. 
+```c++
+#include <iostream>  
+int getResource() {  
+	srand(time(0));  
+	// simulate access rights  
+	return rand() % 2; // 0 ≤ rand() ≤ RAND_MAX  
+}
+```
+Suppose we want to set a permission for obtaining a resource. This function is simply returning the number 0 or 1. 
 
