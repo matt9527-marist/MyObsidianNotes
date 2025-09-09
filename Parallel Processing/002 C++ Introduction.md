@@ -254,4 +254,6 @@ void passByReference(int &ref){
 }
 ```
 Parallel programs use this most of the time. 
-- Most of our programs we will use *pass by reference*. We expect that multiple CPUs will run our code. We will define the data members 
+- Most of our programs we will use *pass by reference*. We expect that multiple CPUs will run our code, available to even both CPU and GPU. 
+- If we want to run it on GPU, we will need to provide the address of the data member. 
+- This means that most of the time we expect the memory address, not the value itse
