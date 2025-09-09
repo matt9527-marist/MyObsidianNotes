@@ -110,6 +110,7 @@ GPUs
 GPU
 Gradient
 Guidelines
+Given
 Charting
 Control
 Common
@@ -180,6 +181,7 @@ Statements
 Scoped
 Safety
 Static
+Simplify
 Keras
 TensorFlow
 Task
@@ -203,6 +205,8 @@ Tracking
 Tedious
 Type
 Typically
+Take
+Therefore
 ISLP
 Iris
 Instance
@@ -399,6 +403,7 @@ Pointers
 Pointer
 Passing
 Practices
+Prove
 What
 We
 With
@@ -603,6 +608,7 @@ start
 scope
 snippet
 static
+step
 giving
 good
 generalizable
@@ -734,6 +740,7 @@ crashes
 corruption
 care
 caution
+combined
 the
 to
 training
@@ -944,6 +951,7 @@ per
 provide
 prevent
 proper
+partial
 Detecting
 Deepmind
 Dataset
@@ -1023,6 +1031,7 @@ run
 references
 reassigned
 returns
+regular
 model
 mostly
 machine
@@ -1130,6 +1139,7 @@ Expansion
 Efficiency
 Enumerator
 Enum
+Expand
 using
 utility
 use
@@ -1206,6 +1216,7 @@ declare
 declaration
 dangling
 dynamic
+denotes
 future
 from
 feed
