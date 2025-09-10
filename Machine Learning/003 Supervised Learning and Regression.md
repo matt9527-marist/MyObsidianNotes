@@ -348,4 +348,22 @@ $$\textrm{with } \bf\hat{y}=X \bf{w}$$
 $$\textrm{so } \bf{w}^{(new)}← \bf{w}^{(old)}-\eta   \nabla J(\bf{w})$$
 
 $$\textrm{that is  } \bf{w}^{(new)}← \bf{w}^{(old)}-\eta\mathrm{\frac{1}{n}}\bf{X}^T(\hat{y}-y)$$
-
+With these equations, we obtain this function:
+```Python
+# Vectorized gradient function
+def gradfn(weights, X, y):
+    '''
+    weights: a current "Guess" of what our weights should be
+          X: matrix of shape (n,m) of input features
+          y: target y values
+    Return gradient of each weight evaluated at the current value
+    '''
+    n, m = np.shape(X)
+    
+    yhat = X @ weights
+    error = yhat - y
+    return (np.transpose(X) @ error)/float(n)
+```
+We can then use this to solve:
+```py
+```
