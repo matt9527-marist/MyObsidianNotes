@@ -365,5 +365,31 @@ def gradfn(weights, X, y):
     return (np.transpose(X) @ error)/float(n)
 ```
 We can then use this to solve:
-```py
+```Python
+def solve_via_gradient_descent(X, y, print_every=100000,
+                               niter=1500000, eta=0.005):    
+                               #Try large values of iterations !
+    '''
+    Given `X` - matrix of shape (N,D) of input features
+          `y` - target y values
+    Solves for linear regression weights.
+    Return weights after `niter` iterations.
+    '''
+    n, m = np.shape(X)
+    # initialize all the weights to random values
+    w = np.random.rand(m)
+    for k in range(niter):
+        dw = gradfn(w, X, y)
+        w = w - eta*dw
+        if k % print_every == 0:
+            print (f'Weight after {k} iteration: {str(w)};  
+            gradient: {str(dw)}')
+    return w
+    
+w=solve_via_gradient_descent( X=X_train_aug, y=y_train)
+print('\n')
+for i in range(len(w)):
+  print(f'w{i}={w[i]:.5f}')
 ```
+
+
