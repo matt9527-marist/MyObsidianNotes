@@ -43,4 +43,6 @@ NOT SECURE -> any modern device can crack DES in relatively short periods of tim
 
 ![[Pasted image 20250910155359.png]]
 Split the original 64 bit block into two 32 bit segments. 
-*K*
+*K<sub>i</sub>* is our round key. Therefore, the image is representing one round of DES.
+1) *R* is fed into the overall function *f*, first going through the *Expand* function. This expands that
+2) XOR the result with *K<sub>i</sub>* 
