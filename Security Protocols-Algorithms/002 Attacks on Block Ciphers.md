@@ -20,4 +20,5 @@ Specific Block Cipher Attacks:
 
 **The Ideal Block Cipher**
 Ideal = Perfectly Secure (this does not exist, nor will it ever exist)
-1. 
+1. Ciphertext is a completely random permutation based on the key. 
+	- E(m, K<sub>e</sub>) = c where c will always be completely random. This is very difficult because 
