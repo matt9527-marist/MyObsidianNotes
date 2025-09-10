@@ -23,4 +23,5 @@ Ideal = Perfectly Secure (this does not exist, nor will it ever exist)
 1. Ciphertext is a completely random permutation based on the key. 
 	- E(m, K<sub>e</sub>) = c where c will always be completely random. This is very difficult because randomness in computing is often just pseudorandomness. 
 2. These random permutations are independent 
-3. THe ideal block cipher as a uniform probability distribution over the set of all p
+3. The ideal block cipher as a uniform probability distribution over the set of all possible block ciphers.
+	- The outcome of any given block is completely random. For example, in the English language, this would mean that all combinations of letters 
