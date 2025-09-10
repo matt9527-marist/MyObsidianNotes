@@ -311,4 +311,17 @@ for i in range(len(reg.coef_)):
   print(f'w{i+1}={reg.coef_[i]:.5f}')
 ```
 
-We can now begin with a simple l
+We can now begin with a simple linear regression function to make predictions on our testing data X_test. 
+```Python
+def linreg(w,b, X):
+  return np.matmul(X,w) +b
+  
+b=w[0]
+w1=w[1]
+w2=w[2]
+
+y_pred = linreg(np.array([w1,w2]),b,X_test)
+print(y_pred)
+```
+We can also of course do this with the SkLearn.predict method. 
+
