@@ -14,4 +14,5 @@ What is the solution to this? **The Enigma Machine**
 Most common is chosen-plaintext attack
 Specific Block Cipher Attacks:
 - Related-Key Attack 
+	- Noticing that there may be similarities between two keys. Keys are created on something such as sequencing. Suppose we begin a communication session, 
 - Chosen-Key Attack
