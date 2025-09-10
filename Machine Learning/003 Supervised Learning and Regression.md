@@ -291,5 +291,9 @@ def solve_normal_eq(X, y): # Using @ operator
     return XTX_1 @ XTY
 ```
 (Using the @ operator, as opposed to .matmul, which is for matrix multiply)
-
-
+```Python
+w = solve_normal_eq(X_train_aug, y_train)
+for i in range(len(w)):
+  print(f'w{i}={w[i]:.5f}')
+```
+This printing statement is convenient for formatting. Be sure to use f''"
