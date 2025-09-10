@@ -189,10 +189,10 @@ Take the following situations:
 ![[Pasted image 20250908181230.png]]
 The rule *eta* is what is referred to as a *hyperparameter*. This value can allow us to control the rate at which we increase or decrease w. 
 
----paste from notes--- 
+
 
 **How do we know that this algorithm works?**
---paste from notes--
+![[Pasted image 20250910105823.png]]
 
 ## Linear Regression Colab
 
