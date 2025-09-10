@@ -8,3 +8,4 @@ An algorithm that only uses one set of substitution or transposition. Examples:
 ![[Pasted image 20250910141555.png]]
 Usually we have a code, in this case, simply +5, where that is the amount to which we shift the cipher. In the above image, this would be +3, because A -> D, 3 forwards in the alphabet. Note that this cipher loops. 
 *Transposition Cipher* - Using all of the same characters, scrambling the message. 
+
