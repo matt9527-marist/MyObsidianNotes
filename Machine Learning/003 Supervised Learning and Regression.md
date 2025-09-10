@@ -290,4 +290,6 @@ def solve_normal_eq(X, y): # Using @ operator
     XTY=X.T @ y
     return XTX_1 @ XTY
 ```
-(Using the @ operator)
+(Using the @ operator, as opposed to .matmul, which is for matrix multiply)
+
+
