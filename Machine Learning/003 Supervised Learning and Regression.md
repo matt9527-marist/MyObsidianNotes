@@ -189,3 +189,5 @@ Take the following situations:
 The rule *eta* is what is referred to as a *hyperparameter*. This value can allow us to control the rate at which we increase or decrease w. 
 
 ---paste from notes--- 
+
+**How do we know that this algorithm works?**
