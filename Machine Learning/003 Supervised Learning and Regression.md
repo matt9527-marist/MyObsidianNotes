@@ -222,8 +222,6 @@ Two columns for the time being, we want to extract our **X** and y. In this case
 
 $$J(\textbf{w}) = \frac{1}{2n} \sum_{i=1}^n (\hat{y}^{[i]}-y^{[i]})^2 $$
 
-  
-
 $$J(\textbf{w}) = \frac{1}{2n} \sum_{i=1}^n (w_1 x_1^{[i]} + w_2 x_2^{[i]} + b -y^{[i]})^2 $$
 
 ```Python
@@ -243,6 +241,10 @@ def cost(w1, w2, b, X, y):
 
     return costs/len(y)
 ```
+
+**Vectorizing the Cost Function**
+$$J(\textbf{w}) = \frac{1}{2n} ( \bf{X} \bf{w} + b \bf{1} - \bf{y} )^T(\bf{X} \bf{w} + b \bf{1} - \bf{y} )$$
+ $$=\frac{1}{2n} \| \bf{X} \bf{w} + b \bf{1} - \bf{y} \| ^2$$
 
 
 
