@@ -14,6 +14,6 @@ What is the solution to this? **The Enigma Machine**
 Most common is chosen-plaintext attack
 Specific Block Cipher Attacks:
 - Related-Key Attack 
-	- Noticing that there may be similarities between two keys. Keys are created on something such as sequencing. Suppose we begin a communication session, if an attacker sees the key and realizes the key has the session number, this is a similarity that can be used to break the communications' encryption 
+	- Noticing that there may be similarities between two keys. Keys are created on something such as sequencing. Suppose we begin a communication session, if an attacker sees the key and realizes the key has the session number, this is a similarity that can be used to break the communications' encryption by being able to guess the key.
 - Chosen-Key Attack
-	- 
+	- Usually one part of the key remains the same, and we only change future parts of the key. This allows us to break the key down in the future and decrypt the 
