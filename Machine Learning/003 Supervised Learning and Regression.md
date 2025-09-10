@@ -262,5 +262,13 @@ def cost_vectorized(w1, w2, b, X, y):
 ```
 Note: this is NOT the augmented version from earlier where we omit "+b"
 
+**Closed Form Solution**
+The optimal vector of weights $\textbf{w}=(\bf X^TX)^{-1}X^Ty$
+where $\textbf{w}$ includes $w_0 \equiv$ bias $b$ and $\bf X$ is augmented with a first column  of 1s.
+1. ignore biases (add an extra feature & weight instead)
+2. get equations from partial derivative
+3. vectorize
+4. write code
 
+We need to do some work beforehand. We add an extra feature (new column) of just ones to X. 
 
