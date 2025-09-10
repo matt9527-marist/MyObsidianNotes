@@ -325,3 +325,7 @@ print(y_pred)
 ```
 We can also of course do this with the SkLearn.predict method. 
 
+## Gradient Descent Colab
+
+[Gradient Descent](https://gist.github.com/eitellauria/b09d3b953c56a84e984802294d5b937b)
+
