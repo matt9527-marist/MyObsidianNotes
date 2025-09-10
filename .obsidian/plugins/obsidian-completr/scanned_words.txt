@@ -139,6 +139,7 @@ lots
 longer
 local
 leads
+library
 Graphing
 Google
 Game
@@ -214,6 +215,10 @@ Changes
 Cannot
 Const
 Consequences
+Colab
+California
+Cost
+Closed
 Scikit
 Statistical
 Statistics
@@ -260,6 +265,7 @@ Statements
 Scoped
 Safety
 Static
+SkLearn
 Keras
 Key
 Kirchhoffs
@@ -451,6 +457,8 @@ alias
 assignment
 avoid
 alternatives
+accurately
+augmented
 Applications
 AI
 Analysis
@@ -549,6 +557,7 @@ weather
 warning
 whatever
 warnings
+weight
 Python
 Performance
 Principle
@@ -677,6 +686,9 @@ inline
 inlining
 initialized
 issues
+includes
+ignore
+instead
 Field
 For
 Find
@@ -698,6 +710,7 @@ FYb
 FH
 Fw
 Finally
+Form
 of
 or
 optimize
@@ -750,6 +763,9 @@ occurring
 opposed
 obtaining
 occurs
+omit
+optimal
+ones
 study
 simplified
 something
@@ -869,6 +885,8 @@ start
 scope
 snippet
 static
+serving
+summations
 giving
 good
 generalizable
@@ -1052,6 +1070,9 @@ crashes
 corruption
 care
 caution
+convenient
+clean
+compare
 the
 to
 training
@@ -1127,6 +1148,7 @@ tests
 throw
 types
 temp
+tool
 being
 be
 by
@@ -1184,6 +1206,8 @@ becomes
 brace
 break
 behavior
+biases
+beforehand
 explicitly
 experience
 error
@@ -1261,6 +1285,11 @@ exe
 execution
 execute
 enum
+extract
+earlier
+extra
+equations
+expressions
 programmed
 patterns
 program
@@ -1378,6 +1407,11 @@ permission
 per
 provide
 prevent
+paste
+particular
+partial
+printing
+presentation
 Detecting
 Deepmind
 Dataset
@@ -1584,6 +1618,8 @@ massive
 modern
 member
 management
+matmul
+multiply
 hypothesis
 handwritten
 have
@@ -1621,6 +1657,7 @@ host
 headaches
 hpp
 happens
+house
 Execution
 Examples
 Economics
@@ -1769,6 +1806,7 @@ download
 default
 dangling
 dynamic
+datasets
 future
 from
 feed
@@ -1833,6 +1871,9 @@ floating
 flag
 fallthrough
 filePath
+fetch
+formatting
+fitting
 Optimziation
 Operations
 Once
@@ -1900,6 +1941,7 @@ via
 vectorize
 vectorized
 visible
+version
 numerical
 no
 need
@@ -2063,6 +2105,8 @@ VECTORIZE
 Visual
 Variables
 Value
+Vectorizing
+Vectorized
 zero
 zu
 zj
