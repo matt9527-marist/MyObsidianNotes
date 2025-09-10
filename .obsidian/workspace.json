@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/001 Block Ciphers.md",
+                "file": "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 Block Ciphers"
+              "title": "000 Introduction to Cryptography"
             }
           }
         ]
@@ -173,7 +173,9 @@
   },
   "active": "ed9bf4f819a035fd",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
+    "Parallel Processing/003 Pointers and References.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250910105855.png",
     "Assets/Pasted image 20250910105852.png",
@@ -185,7 +187,6 @@
     "conflict-files-obsidian-git.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
     "Assets/Pasted image 20250908204936.png",
-    "Parallel Processing/003 Pointers and References.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
     "Assets/Pasted image 20250908192736.png",
@@ -199,7 +200,6 @@
     "github.com/catchorg",
     "github.com",
     "Assets/Pasted image 20250908192013.png",
-    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Linux Overview.md",
     "Formatting Template.md",
