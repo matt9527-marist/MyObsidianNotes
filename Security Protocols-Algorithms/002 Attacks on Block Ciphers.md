@@ -8,4 +8,5 @@ We can see very often occurrences of "th" or "in" or "se" in the English languag
 Starting with singular character frequency clues, we can build up to bigrams and trigrams for bigger clues. This can slowly uncover the plaintext message. 
 
 What is the solution to this? **The Enigma Machine**
-- This machine produced a mapping for letters through a set of gears that represented a set of ciphers. With this in use
+- This machine produced a mapping for letters through a set of gears that represented a set of ciphers. With this in use, the same high frequency bigram and trigram will not be applicable to the next cipher in the next gear. 
+- 
