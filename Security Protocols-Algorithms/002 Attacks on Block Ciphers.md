@@ -28,6 +28,6 @@ Ideal = Perfectly Secure (this does not exist, nor will it ever exist)
 
 **Realistic Block Ciphers**
 ![[Pasted image 20250910154826.png]]
-The above is an example of a realistic 
+The above is an example of a realistic block cipher. Suppose we have a very large text file. The cipher will break this file into chunks of 128 bits. We will have a *Key Expansion* function that generates *round keys* that will perform a series of encryption rounds on the chunk. The 
 
 *Never* use a block cipher that has not been published and peer-reviewed. 
