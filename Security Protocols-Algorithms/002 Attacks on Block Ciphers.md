@@ -7,3 +7,4 @@ We may also look at the frequencies of bigrams and trigrams, which is checking t
 We can see very often occurrences of "th" or "in" or "se" in the English language. 
 Starting with singular character frequency clues, we can build up to bigrams and trigrams for bigger clues. This can slowly uncover the plaintext message. 
 
+What is the solution to this? **The Enigma Machine**
