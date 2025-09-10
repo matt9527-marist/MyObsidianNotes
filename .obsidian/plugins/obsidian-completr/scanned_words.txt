@@ -58,6 +58,7 @@ LA
 Lr
 LVl
 LT
+Local
 Relevant
 Reading
 Research
@@ -87,6 +88,7 @@ Resource
 Reduce
 Reference
 References
+Return
 libraries
 learn
 learning
@@ -257,6 +259,7 @@ Switch
 Statements
 Scoped
 Safety
+Static
 Keras
 Key
 Kirchhoffs
@@ -446,6 +449,8 @@ arguments
 aliases
 alias
 assignment
+avoid
+alternatives
 Applications
 AI
 Analysis
@@ -490,6 +495,8 @@ Accessing
 Another
 Arguments
 Avoiding
+Applying
+Avoid
 with
 without
 want
@@ -588,6 +595,7 @@ Pointer
 Project
 Problems
 Passing
+Practices
 What
 We
 With
@@ -668,6 +676,7 @@ inform
 inline
 inlining
 initialized
+issues
 Field
 For
 Find
@@ -1041,6 +1050,8 @@ count
 const
 crashes
 corruption
+care
+caution
 the
 to
 training
@@ -1366,6 +1377,7 @@ place
 permission
 per
 provide
+prevent
 Detecting
 Deepmind
 Dataset
@@ -1392,6 +1404,8 @@ DEFINE
 Define
 Descent
 Dangling
+Do
+Dynamic
 regularities
 respect
 recognizing
@@ -1569,6 +1583,7 @@ move
 massive
 modern
 member
+management
 hypothesis
 handwritten
 have
@@ -1753,6 +1768,7 @@ downloads
 download
 default
 dangling
+dynamic
 future
 from
 feed
@@ -1853,6 +1869,7 @@ kf
 kU
 kc
 knowing
+keyword
 value
 various
 variable
@@ -2025,6 +2042,7 @@ BR
 BY
 Be
 Brace
+Best
 just
 jagged
 json
