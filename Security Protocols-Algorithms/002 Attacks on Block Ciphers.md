@@ -46,7 +46,7 @@ Split the original 64 bit block into two 32 bit segments.
 *K<sub>i</sub>* is our round key. Therefore, the image is representing one round of DES.
 1) *R* is fed into the overall function *f*, first going through the *Expand* function. This expands that initial 32 bit segment to 48 bits. 
 2) XOR the expanded 48 bit result with *K<sub>i</sub>*
-3) Feed the result into an S box, which is a direct one-to-one mapping of different bits within the resulting XOR between the expansion and the round key. 
+3) Feed the result into an *S* box, which is a direct one-to-one mapping of different bits within the resulting XOR between the expansion and the round key. The *S* box will map the 48 bit expansion back to 32 bits. 
 4) Feed the result into a bit shuffle function.
 5) Take the result and XOR it with the original *L* segment bits. 
 Across multiple rounds, the result of this process will become the new *R* in the next round. 
