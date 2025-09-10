@@ -34,4 +34,8 @@ The above is an example of a realistic block cipher. Suppose we have a very larg
 How do we break this?
 - We might try to break round 1, and then we would move on to the next round, and then the subsequent round... etc. for as many rounds as it takes to break the ciphertext. 
 
-
+## Encryption Algorithms
+**Data Encryption Standard (DES)**
+NOT SECURE -> any modern device can crack DES in relatively short periods of time. 
+- Legacy encryption due to a block size of 64 bits and a key size of 56 bits. 
+- 
