@@ -32,4 +32,6 @@ The above is an example of a realistic block cipher. Suppose we have a very larg
 
 *Never* use a block cipher that has not been published and peer-reviewed. *Rounds* - most block ciphers iterate through a weak cipher. 
 How do we break this?
-- We might try to break round 1, and then we wo
+- We might try to break round 1, and then we would move on to the next round, and then the subsequent round... etc. for as many rounds as it takes to break the ciphertext. 
+
+
