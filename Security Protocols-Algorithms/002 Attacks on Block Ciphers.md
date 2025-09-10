@@ -5,4 +5,5 @@ We can compare the **frequency** of singular letters and see how much they show 
 ![[Pasted image 20250910142340.png]]
 We may also look at the frequencies of bigrams and trigrams, which is checking the frequency of the combination of two letters. 
 We can see very often occurrences of "th" or "in" or "se" in the English language. 
-Starting with singular character frequency clues, we can build up to bigrams and trigrams
+Starting with singular character frequency clues, we can build up to bigrams and trigrams for bigger clues. This can slowly uncover the plaintext message. 
+
