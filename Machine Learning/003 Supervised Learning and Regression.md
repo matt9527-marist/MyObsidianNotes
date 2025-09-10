@@ -198,11 +198,11 @@ The rule *eta* is what is referred to as a *hyperparameter*. This value can allo
 ```Python
 from sklearn.datasets import fetch_california_housing
 
-# Note that by selecting as_fame =True, that data is placed in a pandas DataFrame
+# Note that by selecting as_frame=True, that data is placed in a pandas DataFrame
 
 california_data = fetch_california_housing(as_frame=True)
 
 print(california_data['DESCR'])
 ```
 
-**SkLearn**, or **Scikit Learn** has many sample datasets that we can fetch from. This is a tool serving as a mach
+**SkLearn**, or **Scikit Learn** has many sample datasets that we can fetch from. This is a tool serving as a machine learning library. 
