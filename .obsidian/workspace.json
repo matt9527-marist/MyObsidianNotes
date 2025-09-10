@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "001 Block Ciphers"
             }
+          },
+          {
+            "id": "ce8063f6c1a3a3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 Attacks on Block Ciphers"
+            }
           }
         ]
       }
@@ -173,9 +187,10 @@
   },
   "active": "ed9bf4f819a035fd",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Assets/Pasted image 20250910141555.png",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Parallel Processing/003 Pointers and References.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250910105855.png",
@@ -200,7 +215,6 @@
     "github.com/catchorg/Catch2",
     "github.com/catchorg",
     "github.com",
-    "Assets/Pasted image 20250908192013.png",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Linux Overview.md",
     "Formatting Template.md",

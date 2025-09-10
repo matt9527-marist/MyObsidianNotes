@@ -37,6 +37,7 @@ Manual
 MinGW
 Moving
 Mod
+Monoalphabetic
 Learning
 Learn
 Let
@@ -140,6 +141,7 @@ longer
 local
 leads
 library
+loops
 Graphing
 Google
 Game
@@ -219,6 +221,7 @@ Colab
 California
 Cost
 Closed
+Caesar
 Scikit
 Statistical
 Statistics
@@ -317,6 +320,7 @@ Testing
 Test
 Type
 Typically
+Transposition
 ISLP
 Iris
 Instance
@@ -460,6 +464,8 @@ avoid
 alternatives
 accurately
 augmented
+amount
+alphabet
 Applications
 AI
 Analysis
@@ -888,6 +894,10 @@ snippet
 static
 serving
 summations
+substitution
+stensiling
+shift
+scrambling
 giving
 good
 generalizable
@@ -1074,6 +1084,7 @@ caution
 convenient
 clean
 compare
+characters
 the
 to
 training
@@ -1150,6 +1161,8 @@ throw
 types
 temp
 tool
+transposition
+tattooing
 being
 be
 by
@@ -1413,6 +1426,7 @@ particular
 partial
 printing
 presentation
+person
 Detecting
 Deepmind
 Dataset
@@ -1621,6 +1635,7 @@ member
 management
 matmul
 multiply
+monoalphabetic
 hypothesis
 handwritten
 have
@@ -1659,6 +1674,7 @@ headaches
 hpp
 happens
 house
+head
 Execution
 Examples
 Economics
@@ -1876,6 +1892,7 @@ fetch
 formatting
 fitting
 formulation
+forwards
 Optimziation
 Operations
 Once
@@ -2088,6 +2105,7 @@ BY
 Be
 Brace
 Best
+BC
 just
 jagged
 json
