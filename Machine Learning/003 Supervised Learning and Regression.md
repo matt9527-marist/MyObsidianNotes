@@ -206,4 +206,5 @@ print(california_data['DESCR'])
 ```
 
 **SkLearn**, or **Scikit Learn** has many sample datasets that we can fetch from. This is a tool serving as a machine learning library. 
-This particular 
+This particular California housing dataset specifies the target as the value of the house, which we want to predict according to the set of available features. 
+
