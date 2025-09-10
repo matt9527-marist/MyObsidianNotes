@@ -1,6 +1,9 @@
 ## Block Ciphers and Block Cipher Modes
 **What is a block cipher?**
-Block ciphers run a specific cipher on blo
+Block ciphers run a specific cipher on blocks of text. Specifically taking specific portions of bits or bytes and performing encryption on just those portions. 
+- Plaintext and ciphertext are always the same size. 
+- Uses 1 key, the secret key. 
+Block ciphers should
 
 **Monoalphabetic Cipher**
 An algorithm that only uses one set of substitution or transposition. This is mapping one letter in the plaintext to exactly one letter in the ciphertext. Examples:
