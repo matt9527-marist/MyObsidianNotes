@@ -191,3 +191,14 @@ The rule *eta* is what is referred to as a *hyperparameter*. This value can allo
 ---paste from notes--- 
 
 **How do we know that this algorithm works?**
+--paste from notes--
+
+[Linear Regression Notebook](https://gist.github.com/eitellauria/d078daf59337462b81caf51c9511b20d)
+
+```Python
+import matplotlib
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+
