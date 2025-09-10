@@ -284,10 +284,10 @@ def solve_normal_eq(X, y): # Using @ operator
          It yileds a cleaner syntax
     '''
     n, m = np.shape(X)
+    
     XTX = X.T @ X
     XTX_1=np.linalg.inv(XTX)
     XTY=X.T @ y
     return XTX_1 @ XTY
 ```
-(Using the @ operator )
-
+(Using the @ operator)
