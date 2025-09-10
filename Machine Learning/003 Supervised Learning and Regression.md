@@ -260,5 +260,7 @@ def cost_vectorized(w1, w2, b, X, y):
     yhat = np.dot(X, w) + b * np.ones(n)
     return np.sum((yhat - y)**2) / (2.0*n)
 ```
+Note: this is NOT the augmented version from earlier where we omit "+b"
+
 
 
