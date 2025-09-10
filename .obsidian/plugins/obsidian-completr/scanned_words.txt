@@ -273,6 +273,8 @@ Safety
 Static
 SkLearn
 Starting
+Specifically
+Symmetric
 Keras
 Key
 Kirchhoffs
@@ -470,6 +472,8 @@ accurately
 augmented
 amount
 alphabet
+applicable
+alone
 Applications
 AI
 Analysis
@@ -907,6 +911,7 @@ show
 standard
 se
 slowly
+size
 giving
 good
 generalizable
@@ -953,6 +958,8 @@ github
 greatest
 getResource
 granting
+gears
+gear
 computers
 computer
 can
@@ -1178,6 +1185,7 @@ transposition
 tattooing
 trigrams
 th
+trigram
 being
 be
 by
@@ -1239,6 +1247,9 @@ biases
 beforehand
 bigrams
 bigger
+bigram
+bits
+bytes
 explicitly
 experience
 error
@@ -1444,6 +1455,8 @@ partial
 printing
 presentation
 person
+portions
+performing
 Detecting
 Deepmind
 Dataset
@@ -1560,6 +1573,7 @@ run
 references
 reassigned
 returns
+represented
 model
 mostly
 machine
@@ -1729,6 +1743,7 @@ Execute
 Executing
 Enumerator
 Enum
+Enigma
 using
 utility
 use
@@ -2104,6 +2119,7 @@ Unit
 Updated
 Unless
 Unscoped
+Uses
 Breakout
 Because
 Backpropagation
