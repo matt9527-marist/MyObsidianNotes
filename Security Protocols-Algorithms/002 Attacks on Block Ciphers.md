@@ -38,4 +38,9 @@ How do we break this?
 **Data Encryption Standard (DES)**
 NOT SECURE -> any modern device can crack DES in relatively short periods of time. 
 - Legacy encryption due to a block size of 64 bits and a key size of 56 bits. 
-- 
+- Survives as 3DES, which encrypts, decrypts, and encrypts with DES. 
+- DES and 3DES are not recommended. 
+
+![[Pasted image 20250910155359.png]]
+Split the original 64 bit block into two 32 bit segments. 
+*K*
