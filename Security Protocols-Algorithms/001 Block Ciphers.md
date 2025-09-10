@@ -1,6 +1,6 @@
 ## Block Ciphers and Block Cipher Modes
 **What is a block cipher?**
-
+Block ciphers run a specific cipher on blo
 
 **Monoalphabetic Cipher**
 An algorithm that only uses one set of substitution or transposition. This is mapping one letter in the plaintext to exactly one letter in the ciphertext. Examples:

@@ -144,6 +144,7 @@ library
 loops
 letters
 language
+letter
 Graphing
 Google
 Game
@@ -1652,6 +1653,7 @@ management
 matmul
 multiply
 monoalphabetic
+mapping
 hypothesis
 handwritten
 have
