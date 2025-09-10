@@ -217,4 +217,32 @@ y = df['MedHouseVal'].values
 ```
 
 Two columns for the time being, we want to extract our **X** and y. In this case, m = 2 variables to consider in making predictions. 
-**Define the Cost F**
+**Define the Cost Function**
+  
+
+$$J(\textbf{w}) = \frac{1}{2n} \sum_{i=1}^n (\hat{y}^{[i]}-y^{[i]})^2 $$
+
+  
+
+$$J(\textbf{w}) = \frac{1}{2n} \sum_{i=1}^n (w_1 x_1^{[i]} + w_2 x_2^{[i]} + b -y^{[i]})^2 $$
+
+```Python
+def cost(w1, w2, b, X, y):
+    '''
+    Evaluate the cost function in a non-vectorized manner for
+    inputs `X` and targets `y`, at weights `w1`, `w2` and `b`.
+    '''
+    costs = 0
+    for i in range(len(y)):
+
+        yhat_i = w1 * X[i, 0] + w2 * X[i, 1] + b
+
+        y_i = y[i]
+
+        costs += 0.5 * (yhat_i - y_i) ** 2
+
+    return costs/len(y)
+```
+
+
+
