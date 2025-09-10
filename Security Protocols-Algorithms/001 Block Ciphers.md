@@ -3,7 +3,7 @@
 Block ciphers run a specific cipher on blocks of text. Specifically taking specific portions of bits or bytes and performing encryption on just those portions. 
 - Plaintext and ciphertext are always the same size. 
 - Uses 1 key, the secret key. 
-Block ciphers should
+Block ciphers should not be used alone. 
 
 **Monoalphabetic Cipher**
 An algorithm that only uses one set of substitution or transposition. This is mapping one letter in the plaintext to exactly one letter in the ciphertext. Examples:
