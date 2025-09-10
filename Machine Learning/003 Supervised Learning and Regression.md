@@ -208,3 +208,12 @@ print(california_data['DESCR'])
 **SkLearn**, or **Scikit Learn** has many sample datasets that we can fetch from. This is a tool serving as a machine learning library. 
 This particular California housing dataset specifies the target as the value of the house, which we want to predict according to the set of available features. 
 
+```Python
+# we will only work with two of the features: MedInc and AveRooms
+
+X = df[['MedInc', 'AveRooms']].values
+
+y = df['MedHouseVal'].values
+```
+
+Two columns for the time being, we want to extract our **X** and y. In this case, m = 2 
