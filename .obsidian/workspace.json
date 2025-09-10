@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
+                "file": "Security Protocols-Algorithms/001 Block Ciphers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Introduction to Cryptography"
+              "title": "001 Block Ciphers"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "ed9bf4f819a035fd",
   "lastOpenFiles": [
-    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Parallel Processing/003 Pointers and References.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250910105855.png",
