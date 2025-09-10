@@ -6,4 +6,5 @@ An algorithm that only uses one set of substitution or transposition. Examples:
 2. 1900 BC the first encrypted messages
 3. 100-44 BC The Caesar Cipher is the first monoalphabetic cipher. 
 ![[Pasted image 20250910141555.png]]
-Usually we have a code, in this case, simply +5, where that is the amount to which we shift the cipher. In the above image, this would be +3, because A -->
+Usually we have a code, in this case, simply +5, where that is the amount to which we shift the cipher. In the above image, this would be +3, because A -> D, 3 forwards in the alphabet. Note that this cipher loops. 
+*Transposition Cipher* - 
