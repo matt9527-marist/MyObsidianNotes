@@ -296,4 +296,6 @@ w = solve_normal_eq(X_train_aug, y_train)
 for i in range(len(w)):
   print(f'w{i}={w[i]:.5f}')
 ```
-This printing statement is convenient for formatting. Be sure to use f''"
+This printing statement is convenient for formatting. Be sure to use [f'...'] expressions to be more clean in presentation. 
+
+
