@@ -297,5 +297,4 @@ for i in range(len(w)):
   print(f'w{i}={w[i]:.5f}')
 ```
 This printing statement is convenient for formatting. Be sure to use [f'...'] expressions to be more clean in presentation. 
-
-
+**Scikit Learn** has its own way of *fitting* the models to data. It has Linear Regression. We can compare our 
