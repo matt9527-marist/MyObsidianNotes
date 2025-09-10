@@ -163,7 +163,7 @@ $$X^T \bullet (Xw-y)=0$$
 $$X^TXw - X^Ty = 0$$
 $$X^TXw = X^Ty$$
 Finally, finding the equation for w: $$w = (X^TX)^{-1}X^Ty$$
-This equation represents the analytical solution, but it may not solve the problem accurately if
+This equation represents the analytical solution, but it may not solve the problem accurately if the matrix is very large. 
 
 What does this look like in Python?
 ```Python
