@@ -24,4 +24,5 @@ Ideal = Perfectly Secure (this does not exist, nor will it ever exist)
 	- E(m, K<sub>e</sub>) = c where c will always be completely random. This is very difficult because randomness in computing is often just pseudorandomness. 
 2. These random permutations are independent 
 3. The ideal block cipher as a uniform probability distribution over the set of all possible block ciphers.
-	- The outcome of any given block is completely random. For example, in the English language, this would mean that all combinations of letters 
+	- The outcome of any given block is completely random. For example, in the English language, this would mean that all combinations of letters (bigrams, trigrams+) would have constant frequency with no noticeable variation. 
+
