@@ -26,3 +26,8 @@ Ideal = Perfectly Secure (this does not exist, nor will it ever exist)
 3. The ideal block cipher as a uniform probability distribution over the set of all possible block ciphers.
 	- The outcome of any given block is completely random. For example, in the English language, this would mean that all combinations of letters (bigrams, trigrams+) would have constant frequency with no noticeable variation. 
 
+**Realistic Block Ciphers**
+![[Pasted image 20250910154826.png]]
+The above is an example of a realistic 
+
+*Never* use a block cipher that has not been published and peer-reviewed. 
