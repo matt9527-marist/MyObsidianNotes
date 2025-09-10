@@ -310,5 +310,3 @@ print(f'intercept={reg.intercept_:.5f}')
 for i in range(len(reg.coef_)):
   print(f'w{i+1}={reg.coef_[i]:.5f}')
 ```
-
-
