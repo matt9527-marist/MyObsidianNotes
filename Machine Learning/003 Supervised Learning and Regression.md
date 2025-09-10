@@ -223,6 +223,7 @@ Two columns for the time being, we want to extract our **X** and y. In this case
 $$J(\textbf{w}) = \frac{1}{2n} \sum_{i=1}^n (\hat{y}^{[i]}-y^{[i]})^2 $$
 
 $$J(\textbf{w}) = \frac{1}{2n} \sum_{i=1}^n (w_1 x_1^{[i]} + w_2 x_2^{[i]} + b -y^{[i]})^2 $$
+This is what we are going to use, but this is with summations. In code this looks like the following:
 
 ```Python
 def cost(w1, w2, b, X, y):
@@ -246,5 +247,18 @@ def cost(w1, w2, b, X, y):
 $$J(\textbf{w}) = \frac{1}{2n} ( \bf{X} \bf{w} + b \bf{1} - \bf{y} )^T(\bf{X} \bf{w} + b \bf{1} - \bf{y} )$$
  $$=\frac{1}{2n} \| \bf{X} \bf{w} + b \bf{1} - \bf{y} \| ^2$$
 
+Vectorized, this is what it looks like in the following code:
+
+```Python
+def cost_vectorized(w1, w2, b, X, y):
+    '''
+    Evaluate the cost function in a vectorized manner for
+    inputs `X` and targets `y`, at weights `w1`, `w2` and `b`.
+    '''
+    n = len(y_train)
+    w = np.array([w1, w2])
+    yhat = np.dot(X, w) + b * np.ones(n)
+    return np.sum((yhat - y)**2) / (2.0*n)
+```
 
 
