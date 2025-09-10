@@ -142,6 +142,8 @@ local
 leads
 library
 loops
+letters
+language
 Graphing
 Google
 Game
@@ -269,6 +271,7 @@ Scoped
 Safety
 Static
 SkLearn
+Starting
 Keras
 Key
 Kirchhoffs
@@ -773,6 +776,7 @@ occurs
 omit
 optimal
 ones
+occurrences
 study
 simplified
 something
@@ -898,6 +902,10 @@ substitution
 stensiling
 shift
 scrambling
+show
+standard
+se
+slowly
 giving
 good
 generalizable
@@ -1085,6 +1093,10 @@ convenient
 clean
 compare
 characters
+ciphers
+ciphertext
+character
+clues
 the
 to
 training
@@ -1163,6 +1175,8 @@ temp
 tool
 transposition
 tattooing
+trigrams
+th
 being
 be
 by
@@ -1222,6 +1236,8 @@ break
 behavior
 biases
 beforehand
+bigrams
+bigger
 explicitly
 experience
 error
@@ -1741,6 +1757,7 @@ usual
 user
 unscoped
 undefined
+uncover
 data
 driven
 dataset
@@ -1893,6 +1910,8 @@ formatting
 fitting
 formulation
 forwards
+frequency
+frequencies
 Optimziation
 Operations
 Once

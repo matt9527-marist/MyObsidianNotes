@@ -3,7 +3,7 @@
 
 
 **Monoalphabetic Cipher**
-An algorithm that only uses one set of substitution or transposition. Examples:
+An algorithm that only uses one set of substitution or transposition. This is mapping one letter in the plaintext to exactly one letter in the ciphertext. Examples:
 1. One of the first methods was tattooing or stensiling a message into a person's head. 
 2. 1900 BC the first encrypted messages
 3. 100-44 BC The Caesar Cipher is the first monoalphabetic cipher. 
