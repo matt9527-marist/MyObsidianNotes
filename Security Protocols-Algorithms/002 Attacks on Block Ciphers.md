@@ -50,3 +50,4 @@ Split the original 64 bit block into two 32 bit segments.
 4) Feed the result into a bit shuffle function.
 5) Take the result and XOR it with the original *L* segment bits. 
 Across multiple rounds, the result of this process will become the new *R* in the next round. 
+
