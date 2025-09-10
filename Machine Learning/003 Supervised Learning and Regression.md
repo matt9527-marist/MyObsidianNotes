@@ -329,3 +329,23 @@ We can also of course do this with the SkLearn.predict method.
 
 [Gradient Descent](https://gist.github.com/eitellauria/b09d3b953c56a84e984802294d5b937b)
 
+Implement Gradient Descent
+
+$$ \frac{\partial J}{\partial w_j} = \frac{1}{n}\sum_i x_j^{[i]}(\hat y^{[i]}-y^{[i]}) $$
+
+$$ \frac{\partial J}{\partial w_j} = \frac{1}{n}\sum_i x_j^{[i]}(\sum_{j=0}^m w_j x_j^{[i]}-y^{[i]}) $$
+
+$$ w_{new} \leftarrow w_{old} - \eta \frac{\partial J}{\partial w_j} $$
+
+Vectorizing the formulation:
+
+  
+
+$$ \nabla J(\bf{w} )  = \mathrm{\frac{1}{n}}\bf{X}^T(\hat{y}-y)$$
+
+$$\textrm{with } \bf\hat{y}=X \bf{w}$$
+
+$$\textrm{so } \bf{w}^{(new)}← \bf{w}^{(old)}-\eta   \nabla J(\bf{w})$$
+
+$$\textrm{that is  } \bf{w}^{(new)}← \bf{w}^{(old)}-\eta\mathrm{\frac{1}{n}}\bf{X}^T(\hat{y}-y)$$
+
