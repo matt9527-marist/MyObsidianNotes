@@ -11,3 +11,7 @@ What is the solution to this? **The Enigma Machine**
 - This machine produced a mapping for letters through a set of gears that represented a set of ciphers. With this in use, the same high frequency bigram and trigram will not be applicable to the next cipher in the next gear. 
 
 ## Attacks on Block ciphers
+Most common is chosen-plaintext attack
+Specific Block Cipher Attacks:
+- Related-Key Attack 
+- Chosen-Key Attack

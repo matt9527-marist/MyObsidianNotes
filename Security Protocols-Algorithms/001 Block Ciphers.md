@@ -4,6 +4,7 @@ Block ciphers run a specific cipher on blocks of text. Specifically taking speci
 - Plaintext and ciphertext are always the same size. 
 - Uses 1 key, the secret key. 
 Block ciphers should not be used alone. 
+- Block Cipher Mode
 
 **Monoalphabetic Cipher**
 An algorithm that only uses one set of substitution or transposition. This is mapping one letter in the plaintext to exactly one letter in the ciphertext. Examples:
@@ -13,4 +14,5 @@ An algorithm that only uses one set of substitution or transposition. This is ma
 ![[Pasted image 20250910141555.png]]
 Usually we have a code, in this case, simply +5, where that is the amount to which we shift the cipher. In the above image, this would be +3, because A -> D, 3 forwards in the alphabet. Note that this cipher loops. 
 *Transposition Cipher* - Using all of the same characters, scrambling the message. 
+
 
