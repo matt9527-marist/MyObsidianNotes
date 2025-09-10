@@ -1,3 +1,4 @@
+## Supervised Learning
 *Problem:* how to improve the sales of a given product 
 *Data*: advertising data set consisting of the sales of the product in 200 different websites. This comes from 3 sources of advertising: TV, radio, and newspaper. 
 *Goal*: develop an accurate model that can be used to predict the sales on the basis of those 3 markers. 
@@ -193,6 +194,8 @@ The rule *eta* is what is referred to as a *hyperparameter*. This value can allo
 **How do we know that this algorithm works?**
 --paste from notes--
 
+## Linear Regression Colab
+
 [Linear Regression Notebook](https://gist.github.com/eitellauria/d078daf59337462b81caf51c9511b20d)
 
 ```Python
@@ -297,4 +300,15 @@ for i in range(len(w)):
   print(f'w{i}={w[i]:.5f}')
 ```
 This printing statement is convenient for formatting. Be sure to use [f'...'] expressions to be more clean in presentation. 
-**Scikit Learn** has its own way of *fitting* the models to data. It has Linear Regression. We can compare our 
+**Scikit Learn** has its own way of *fitting* the models to data. It has Linear Regression. We can compare our results to this function that is already available in the library:
+```Python
+# For comparison, this was the exact result:
+from sklearn.linear_model import LinearRegression
+
+reg = LinearRegression().fit(X_train, y_train)
+print(f'intercept={reg.intercept_:.5f}')
+for i in range(len(reg.coef_)):
+  print(f'w{i+1}={reg.coef_[i]:.5f}')
+```
+
+
