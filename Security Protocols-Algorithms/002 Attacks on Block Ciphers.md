@@ -49,5 +49,4 @@ Split the original 64 bit block into two 32 bit segments.
 3) Feed the result into an *S* box, which is a direct one-to-one mapping of different bits within the resulting XOR between the expansion and the round key. The *S* box will map the 48 bit expansion back to 32 bits. 
 4) Feed the result into a bit shuffle function.
 5) Take the result and XOR it with the original *L* segment bits. 
-Across multiple rounds, the result of this process will become the new *R* in the next round. 
-
+Across 16 rounds, the result of this process will become the new *R* in the next round. There will be 16 runs of function *f*.
