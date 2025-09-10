@@ -216,4 +216,4 @@ X = df[['MedInc', 'AveRooms']].values
 y = df['MedHouseVal'].values
 ```
 
-Two columns for the time being, we want to extract our **X** and y. In this case, m = 2 
+Two columns for the time being, we want to extract our **X** and y. In this case, m = 2 variables to consider in making predictions. 
