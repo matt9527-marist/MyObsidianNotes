@@ -44,5 +44,6 @@ NOT SECURE -> any modern device can crack DES in relatively short periods of tim
 ![[Pasted image 20250910155359.png]]
 Split the original 64 bit block into two 32 bit segments. 
 *K<sub>i</sub>* is our round key. Therefore, the image is representing one round of DES.
-1) *R* is fed into the overall function *f*, first going through the *Expand* function. This expands that
-2) XOR the result with *K<sub>i</sub>* 
+1) *R* is fed into the overall function *f*, first going through the *Expand* function. This expands that initial 32 bit segment to 48 bits. 
+2) XOR the expanded 48 bit result with *K<sub>i</sub>*
+3) Feed the result into an S box, which is a direct one-to-one mapping of different bits within the resulting XOR between the expand
