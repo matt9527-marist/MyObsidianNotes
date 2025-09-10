@@ -272,3 +272,22 @@ where $\textbf{w}$ includes $w_0 \equiv$ bias $b$ and $\bf X$ is augmented with 
 
 We need to do some work beforehand. We add an extra feature (new column) of just ones to X. 
 
+```Python
+def solve_normal_eq(X, y): # Using @ operator
+    '''
+    Solve linear regression exactly. (fully vectorized)
+
+    Given `X` - n x m matrix of inputs
+          `y` - n x 1 target outputs
+    Returns the optimal weights as a m-dimensional vector
+    NOTE that I use the @ operator instead of the np.matmul function.
+         It yileds a cleaner syntax
+    '''
+    n, m = np.shape(X)
+    XTX = X.T @ X
+    XTX_1=np.linalg.inv(XTX)
+    XTY=X.T @ y
+    return XTX_1 @ XTY
+```
+(Using the @ operator )
+
