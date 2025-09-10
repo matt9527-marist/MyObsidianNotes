@@ -196,9 +196,13 @@ The rule *eta* is what is referred to as a *hyperparameter*. This value can allo
 [Linear Regression Notebook](https://gist.github.com/eitellauria/d078daf59337462b81caf51c9511b20d)
 
 ```Python
-import matplotlib
-import numpy as np
-import matplotlib.pyplot as plt
-%matplotlib inline
+from sklearn.datasets import fetch_california_housing
+
+# Note that by selecting as_fame =True, that data is placed in a pandas DataFrame
+
+california_data = fetch_california_housing(as_frame=True)
+
+print(california_data['DESCR'])
 ```
 
+**SkLearn**, or **Scikit Learn** has many sample datasets that we can fetch from. This is a tool serving as a mach
