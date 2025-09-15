@@ -123,13 +123,28 @@ Pointer to vector: using range-based `for`
 #include <iostream>  
 #include <vector>  
 int main() {  
-std::vector<int> v{1, 2, 3};  
-std::vector<int> *ptr_v{&v};  
+	std::vector<int> v{1, 2, 3};  
+	std::vector<int> *ptr_v{&v};  
+	
+	// dereference the ptr_v to get v  
+	// use range-based for  
+	for (auto elem : *ptr_v)  
+		std::cout << elem << " ";  
+	std::cout << "\n";  
+	}
+```
+This is easier because we are automatically dereferencing. 
 
-// dereference the ptr_v to get v  
-// use range-based for  
-for (auto elem : *ptr_v)  
-std::cout << elem << " ";  
-std::cout << "\n";  
+**Two Versions of a Function: Pointer vs. Reference**
+```c++
+#include <iostream>  
+void depositMoney(double* balance, double amount) {  
+	std::cout << "using pointer\n";  
+	*balance += amount;  
+}  
+void depositMoney(double& balance, double amount) {  
+	std::cout << "using reference\n";  
+	balance += amount;  
 }
 ```
+In this function, 
