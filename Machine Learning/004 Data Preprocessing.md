@@ -98,4 +98,6 @@ X's first column after using OneHotEncoder:
 ```
 
 *Note:* we use dummy variables or one-hot encoding, we want to remember to drop a column! This dropped feature will be a reference feature will be the feature against which the other features in the data are being measured against. 
+In Pandas, by default, no indicators will be dropped. We can change this directly by including the `drop_first=True` argument.
+
 
