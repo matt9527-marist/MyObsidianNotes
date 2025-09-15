@@ -42,7 +42,7 @@ A variable that stores the memory address
 }
 ```
 
-Example of Pointer Usage:
+Example of Pointer Usage vs. Reference Usage:
 ```C++
 #include <cassert>  
 	int main() {  
