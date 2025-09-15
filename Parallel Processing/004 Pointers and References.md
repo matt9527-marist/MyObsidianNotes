@@ -13,6 +13,7 @@ int main(){
 ```
 `ref_i` will refer to `i` as an alias. We can access the value of `i` either by referencing `i` itself or by using its reference variable. 
 
+**Pointers vs. References**
 - **Pointer**: A variable that stores the memory address of another variable.  
     Syntax: `int* ptr = &var;`
     - Can be null
