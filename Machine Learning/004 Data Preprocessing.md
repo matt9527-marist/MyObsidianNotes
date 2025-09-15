@@ -33,10 +33,10 @@ The Min/Max scaling option is far more commonly used than Z-scores. Z-scores sim
 
 [Data Pre-processing in Scikit Learn](https://gist.github.com/eitellauria/8f7e053bbe00cd1aaf6f5db6748e97b5)
 
-
+The following figure illustrates how a **transformer**, fitted on the training data, is used to transform a training dataset as well as a new test dataset:
 ![[Pasted image 20250915163959.png]]
 
-We can use #LinearRegression in an estimator to be a predictor for the dataset. 
+We can use #LinearRegression in an estimator to be a **predictor** for the dataset. 
 
 ![[Pasted image 20250915164111.png]]
 
