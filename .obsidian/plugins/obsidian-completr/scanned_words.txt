@@ -109,6 +109,7 @@ Regularization
 RidgeRegression
 Ridge
 Rho
+Range
 libraries
 learn
 learning
@@ -247,6 +248,7 @@ Cost
 Closed
 Caesar
 Coefficient
+Container
 Scikit
 Statistical
 Statistics
@@ -308,6 +310,7 @@ SciKit
 SimpleImputer
 Shrinkage
 Selection
+Sequence
 Keras
 Key
 Kirchhoffs
@@ -680,6 +683,7 @@ Pandas
 Pre
 Pipeline
 PARAMETERS
+Printing
 What
 We
 With
@@ -699,6 +703,7 @@ Windows
 Without
 Wimplicit
 Whenever
+WARNING
 is
 in
 if
@@ -1011,6 +1016,8 @@ sensitivity
 shrunk
 square
 stack
+safety
+shows
 giving
 good
 generalizable
@@ -1222,6 +1229,7 @@ correlated
 complex
 combines
 completes
+convert
 the
 to
 training
@@ -1474,6 +1482,8 @@ either
 entire
 executing
 except
+effects
+element
 programmed
 patterns
 program
@@ -1612,6 +1622,8 @@ penalty
 putting
 pipeline
 previously
+passed
+print
 Detecting
 Deepmind
 Dataset
@@ -1643,6 +1655,8 @@ Dynamic
 DES
 Discrete
 DATA
+Default
+Defaults
 regularities
 respect
 recognizing
@@ -1846,6 +1860,7 @@ might
 median
 meaningless
 measuring
+majority
 hypothesis
 handwritten
 have
@@ -1933,6 +1948,7 @@ Expand
 Eliminate
 Encoding
 ElasticNet
+Elements
 using
 utility
 use
@@ -2394,6 +2410,7 @@ Variables
 Value
 Vectorizing
 Vectorized
+Values
 zero
 zu
 zj
