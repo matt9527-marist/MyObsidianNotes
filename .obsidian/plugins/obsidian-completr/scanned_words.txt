@@ -42,6 +42,7 @@ Missing
 Min
 Max
 MORE
+Memory
 Learning
 Learn
 Let
@@ -110,6 +111,7 @@ RidgeRegression
 Ridge
 Rho
 Range
+Returned
 libraries
 learn
 learning
@@ -311,6 +313,11 @@ SimpleImputer
 Shrinkage
 Selection
 Sequence
+Syntax
+Step
+Since
+Safer
+Safe
 Keras
 Key
 Kirchhoffs
@@ -365,6 +372,7 @@ Type
 Typically
 Transposition
 TUNE
+That
 ISLP
 Iris
 Instance
@@ -399,6 +407,7 @@ Implement
 Ideal
 Imputation
 Imagine
+Initializes
 and
 ability
 approximation
@@ -525,6 +534,7 @@ allocation
 allocates
 allocated
 again
+allocate
 Applications
 AI
 Analysis
@@ -574,6 +584,8 @@ Avoid
 Across
 Absolute
 Analytical
+Automatically
+Alternative
 with
 without
 want
@@ -684,6 +696,8 @@ Pre
 Pipeline
 PARAMETERS
 Printing
+Prints
+Printer
 What
 We
 With
@@ -1018,6 +1032,8 @@ square
 stack
 safety
 shows
+similar
+store
 giving
 good
 generalizable
@@ -1230,6 +1246,7 @@ complex
 combines
 completes
 convert
+contain
 the
 to
 training
@@ -1484,6 +1501,7 @@ executing
 except
 effects
 element
+explicit
 programmed
 patterns
 program
@@ -1624,6 +1642,7 @@ pipeline
 previously
 passed
 print
+pointed
 Detecting
 Deepmind
 Dataset
@@ -1658,6 +1677,7 @@ DATA
 Default
 Defaults
 DanglingReference
+Declares
 regularities
 respect
 recognizing
@@ -1763,6 +1783,8 @@ range
 remember
 ridge
 regularizations
+refer
+referencing
 model
 mostly
 machine
@@ -1908,6 +1930,7 @@ highly
 had
 heap
 handling
+holds
 Execution
 Examples
 Economics
@@ -2082,6 +2105,10 @@ discourage
 dealing
 differentiable
 discussed
+dereferencing
+dereferenced
+dereference
+deallocated
 future
 from
 feed
@@ -2231,6 +2258,7 @@ visible
 version
 varied
 variety
+valid
 numerical
 no
 need
@@ -2285,6 +2313,8 @@ niter
 nor
 noticeable
 normalize
+null
+nullptr
 yes
 yield
 your
@@ -2298,6 +2328,7 @@ yh
 yQ
 yS
 ys
+yet
 How
 Hinge
 Header
@@ -2335,6 +2366,7 @@ Numerical
 NAN
 Numpy
 Norm
+Needs
 quality
 question
 quickly
@@ -2389,6 +2421,7 @@ Be
 Brace
 Best
 BC
+Both
 just
 jagged
 json
@@ -2412,6 +2445,7 @@ Value
 Vectorizing
 Vectorized
 Values
+Versions
 zero
 zu
 zj
