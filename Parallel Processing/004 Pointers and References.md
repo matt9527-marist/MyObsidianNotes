@@ -117,4 +117,19 @@ int main() {
 	std::cout << "\n";  
 }
 ```
+When we have a pointer to a vector, to access the values, first we need to dereference. 
+Pointer to vector: using range-based `for`
+```c++
+#include <iostream>  
+#include <vector>  
+int main() {  
+std::vector<int> v{1, 2, 3};  
+std::vector<int> *ptr_v{&v};  
 
+// dereference the ptr_v to get v  
+// use range-based for  
+for (auto elem : *ptr_v)  
+std::cout << elem << " ";  
+std::cout << "\n";  
+}
+```
