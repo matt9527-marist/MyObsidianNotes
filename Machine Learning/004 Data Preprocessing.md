@@ -133,5 +133,5 @@ $$\vec{W} = \frac{d\vec{v}}{dw} = \frac{1}{m}(X^T(Xw-y) + \lambda w)$$
 $$= \frac{1}{m}(X^TX + \lambda I)w - X^Ty = 0$$
 Where we factored w out and `I` is the identity matrix. 
 Therefore we obtain:
-$$w = (X^TX + \lambda I)^-1 * X^Ty$$
+$$w = (X^TX + \lambda I)^{-1} * X^Ty$$
 $$w_{new} = w_{old} + \eta\nabla J$$
