@@ -108,5 +108,6 @@ How do we solve?
 - REGULARIZATION: reduce the sensitivity of a high variance model to each data point. If we have lots of features in our prediction, some of the features may be highly correlated, this may lead to a certain amount of overfitting. (Reduction of Coefficient)
 	How do we decide which coefficients need to be shrunk?
 
-We have our cost function: $$J = \frac{1}{2m}(Xw-y^T(Xw-y))$$
+We have our cost function: $$J = \frac{1}{2m}((Xw-y)^T(Xw-y)) + \frac{\lambda}{m}$$
+Lamba 
 
