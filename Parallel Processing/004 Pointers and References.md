@@ -63,4 +63,14 @@ Example of Pointer Usage vs. Reference Usage:
 ```
 
 ![[Pasted image 20250915192549.png]]
+**Step by step:**
+1. `int i{5};`  
+    Initializes `i` to `5`.
+2. `int& j{i};`  
+    Declares `j` as a reference to `i`. That means `j` is just another name for `i`.
+3. `int *k{&i};`  
+    Declares `k` as a pointer to `i`. So `k` stores the address of `i`.  
+    (Note: `k` is not used in the output.)
+4. `std::cout << j << "\n";`  
+    Prints the value of `j`. Since `j` is a reference to `i`, this is equivalent to printing `i`.
 
