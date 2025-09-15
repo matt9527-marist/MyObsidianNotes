@@ -43,9 +43,21 @@ We can use #LinearRegression in an estimator to be a **predictor** for the datas
 Usage of these estimators can form the *Data Pre-processing Pipeline*.
 
 SciKit Learn Data Imputation:
-Consider the following data
+Consider the following array of data:
 ```
 array([[ 1.,  2., nan,  4.],
        [ 5.,  6., nan,  8.],
        [10., 11., 12., nan]])
 ```
+```Python
+# impute missing values via the column mean using sklearn's SimpleImputer
+
+from sklearn.impute import SimpleImputer
+import numpy as np
+
+imr = SimpleImputer(missing_values=np.nan, strategy='mean')
+imr = imr.fit(df.values)
+imputed_data = imr.transform(df.values)
+imputed_data
+```
+SimpleImputer takes as input the missing values identified here as "NAN" and imputes them using a specified strategy, which in this cas
