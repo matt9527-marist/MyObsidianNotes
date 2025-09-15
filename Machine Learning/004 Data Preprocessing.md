@@ -9,3 +9,5 @@ Consider a dataset that has NULL values or missing cells. We have some options:
 	- Discrete / alphanumeric data: use the mode.
 
 **2) Data Encoding** (Particularly with alphanumeric data)
+The algorithms we work with have no use with strings of data. 
+- 
