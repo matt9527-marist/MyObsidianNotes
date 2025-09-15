@@ -11,10 +11,11 @@ This discusses the case for usage of `malloc` and `free`.
 
 ![[Pasted image 20250915195249.png]]
 When a program is executed via `g++`, that program is given memory in RAM to run. 
+Memory may be *fragmented*, in the sense that each application running on a system may be allocated in blocks, one block for each application. 
 
 **Virtual Memory**
 • Contiguous and well-ordered blocks for each program - no interference  
 • possible to run programs on various computers with different memory without any  
 changes in the code.  
-• Separate virtual address space from physical  
-addresses
+• Separate virtual address space from physical addresses
+
