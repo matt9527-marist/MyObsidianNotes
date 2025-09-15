@@ -67,4 +67,4 @@ array([[ 1.,  2., 12.,  4.],
        [ 5.,  6., 12.,  8.],
        [10., 11., 12.,  6.]])
 ```
-*Note*: When working with Scikit Learn, the output 
+*Note*: When working with Scikit Learn, the output is always a Numpy array. 

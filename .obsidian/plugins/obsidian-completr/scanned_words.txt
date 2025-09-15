@@ -291,6 +291,8 @@ Survives
 Split
 Simplify
 Scaling
+SciKit
+SimpleImputer
 Keras
 Key
 Kirchhoffs
@@ -496,6 +498,7 @@ applicable
 alone
 altogether
 alphanumeric
+array
 Applications
 AI
 Analysis
@@ -649,6 +652,8 @@ Prove
 Place
 Particularly
 Pandas
+Pre
+Pipeline
 What
 We
 With
@@ -736,6 +741,10 @@ instead
 independent
 ideal
 iterate
+illustrates
+identified
+imputes
+identifier
 Field
 For
 Find
@@ -966,6 +975,7 @@ scale
 scores
 standardize
 scaling
+specified
 giving
 good
 generalizable
@@ -1255,6 +1265,8 @@ th
 trigram
 takes
 threshold
+transformer
+transform
 being
 be
 by
@@ -1413,6 +1425,7 @@ expansion
 eliminate
 equivalent
 estimator
+estimators
 programmed
 patterns
 program
@@ -2055,6 +2068,7 @@ forwards
 frequency
 frequencies
 fed
+fitted
 Optimziation
 Operations
 Once
@@ -2125,6 +2139,7 @@ vectorized
 visible
 version
 varied
+variety
 numerical
 no
 need
@@ -2226,6 +2241,8 @@ Noticing
 Never
 NULL
 Numerical
+NAN
+Numpy
 quality
 question
 quickly
