@@ -127,4 +127,4 @@ $$+ \rho \frac{\lambda}{m}||w||^2_{2} + (1-\rho)\frac{1}{m}|w|_{1}$$
 Rho allows us to assign how much weight is given to either the L1 or L2 regularization penalties. 
 
 Find w:
-$$$$
+$$\vec{W} = \frac{d\vec{v}}{dw} = \frac{1}{m}(X^T(Xw))$$
