@@ -15,8 +15,14 @@ int main(){
 
 - **Pointer**: A variable that stores the memory address of another variable.  
     Syntax: `int* ptr = &var;`
+    - Can be null
+    - Can be reassigned
+    - Needs explicit dereferencing
 - **Reference**: An alias for an existing variable.  
     Syntax: `int& ref = var;`
+	- Cannot be null 
+	- Cannot be reassigned after initialization
+	- Automatically dereferenced
 ## Pointers
 
 A variable that stores the memory address
