@@ -60,4 +60,11 @@ imr = imr.fit(df.values)
 imputed_data = imr.transform(df.values)
 imputed_data
 ```
-SimpleImputer takes as input the missing values identified here as "NAN" and imputes them using a specified strategy, which in this cas
+SimpleImputer takes as input the missing values identified here as "NAN" and imputes them using a specified strategy, which in this case is the *mean*. The default missing value identifier is NAN, but other datasets can have a variety of ways to represent a missing value (-999, 0, or -1)
+The result we obtain is:
+```
+array([[ 1.,  2., 12.,  4.],
+       [ 5.,  6., 12.,  8.],
+       [10., 11., 12.,  6.]])
+```
+*Note*: When working with Scikit Learn, the output 
