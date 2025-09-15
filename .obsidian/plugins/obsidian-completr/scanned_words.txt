@@ -1060,6 +1060,7 @@ gears
 gear
 guess
 groups
+global
 computers
 computer
 can
@@ -1469,6 +1470,8 @@ estimators
 encoding
 easily
 either
+entire
+executing
 programmed
 patterns
 program
@@ -1961,6 +1964,7 @@ undefined
 uncover
 uniform
 unitary
+until
 data
 driven
 dataset
@@ -2134,6 +2138,7 @@ fed
 fitted
 forcing
 factored
+finishes
 Optimziation
 Operations
 Once
