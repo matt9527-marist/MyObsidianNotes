@@ -263,3 +263,10 @@ Pointers and References are very similar:
 
 ![[Pasted image 20250915194620.png]]
 
+When References cannot be used:
+• Object Initialization  
+• When one object needs to store another object, however, not  
+available yet.  
+	• The first object can contain a pointer to nullptr. Reference  
+	cannot be null.  
+• The reference can only be initialized once the object is created.
