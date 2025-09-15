@@ -68,3 +68,9 @@ array([[ 1.,  2., 12.,  4.],
        [10., 11., 12.,  6.]])
 ```
 *Note*: When working with Scikit Learn, the output is always a Numpy array. 
+We can also use Pandas:
+```Python
+# impute missing values via the column mean using pandas
+df.fillna(df.mean())
+```
+
