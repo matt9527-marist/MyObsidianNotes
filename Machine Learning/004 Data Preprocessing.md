@@ -29,5 +29,8 @@ $$X_{Scaled} = \frac{X - X_{Min}}{X_{Max} - X_{Min}}$$
 - Standard Scaling:
 	- *Z-scores: $$Z = \frac{X - \bar{X}}{\sigma_{x}}$$
 	- Note: if we standardize things in this way, this means we are then measuring our data in terms of standard deviations. 
+The Min/Max scaling option is far more commonly used than Z-scores. Z-scores simply allow us to use more varied ranges of values, such as negative values, more than just the range of 0-1.
+
+
 
 
