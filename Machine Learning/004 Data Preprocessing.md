@@ -40,4 +40,6 @@ We can use #LinearRegression in an estimator to be a **predictor** for the datas
 
 ![[Pasted image 20250915164111.png]]
 
-Usage of these estimators can form the *Data Pre-processing Piepli*
+Usage of these estimators can form the *Data Pre-processing Pipeline*.
+
+
