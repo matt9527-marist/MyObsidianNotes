@@ -10,4 +10,4 @@ Consider a dataset that has NULL values or missing cells. We have some options:
 
 **2) Data Encoding** (Particularly with alphanumeric data)
 The algorithms we work with have no use with strings of data. 
-- 
+Recall:$$\hat{y} = w_{0} = w_{1}x_{1} + w_{2}x_{2} + w$$
