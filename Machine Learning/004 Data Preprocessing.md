@@ -21,7 +21,8 @@ Imagine we have the column:
 
 **3) Scaling**
 
-> Why do we scale the values? What if the features we use are 
+> Why do we scale the values? What if the features we use are very different from each other? If one feature has values far higher than another feature, it can overpower it. 
+
 
 - Standard Scaling:
 - Min/Max Scaling:
