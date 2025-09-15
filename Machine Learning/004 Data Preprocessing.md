@@ -105,4 +105,5 @@ How do we solve?
 - MORE DATA: we tend to control overfitting, but it has limitations. 
 - TUNE PARAMETERS: specifically the *hyperparameters*:
 	- These are the parameters that have to do with how we train the model (learning rate is one of them)
+- REGULARIZATION: 
 
