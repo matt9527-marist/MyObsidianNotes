@@ -8,28 +8,4 @@ Consider a dataset that has NULL values or missing cells. We have some options:
 	- Numerical data: use average or median value. 
 	- Discrete / alphanumeric data: use the mode.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**2) Data Encoding** (Particularly with alphanumeric data)
