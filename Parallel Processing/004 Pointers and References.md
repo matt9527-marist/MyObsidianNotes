@@ -172,3 +172,27 @@ Balance: $250
 */
 ```
 
+Returning a Pointer from a Function:
+```c++
+#include <iostream>  
+double* depositMoney(double &balance, double amount) {  
+	std::cout << "using pointer\n";  
+	balance += amount;  
+	return &balance;  
+}  
+
+int main() {  
+	double acc_bal{100.0};  
+	double* ptr_acc_bal{&acc_bal};  
+	
+	ptr_acc_bal = depositMoney(acc_bal, 50.0);  
+	
+	std::cout << "Balance: $" << acc_bal << "\n";  
+	std::cout << "Balance: $" << *ptr_acc_bal << "\n";  
+}
+/*  
+using pointer  
+Balance: $150  
+Balance: $150  
+*/
+```
