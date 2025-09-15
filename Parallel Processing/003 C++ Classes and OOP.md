@@ -23,3 +23,23 @@ class Book {
 #endif
 ```
 
+```c++
+// book.cpp  
+#include <iostream>  
+#include <format>  
+#include "book.h"  
+//initializer list  
+//Mandatory for initializing const members and references  
+Book::Book(std::string t, std::string a, int i)  
+	: title{t}, author{a}, id{i} {}  
+
+void Book::PrintBookData() {  
+	std::cout << std::format("Book ID {}: {} by {}; Pages read {}\n",  
+	id, title, author, pages_read);  
+}  
+
+void Book::IncrementPagesRead(){  
+	this->pages_read++;  
+}
+```
+
