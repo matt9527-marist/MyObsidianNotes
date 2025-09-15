@@ -254,3 +254,12 @@ int main() {
 	delete ptr_acc_bal;  
 }
 ```
+
+Pointers and References are very similar:
+	• Both can be used in pass-by-reference to a function  
+	• Both provide an alternative way to access variables:  
+		• Reference as another name  
+		• Pointer via memory address
+
+![[Pasted image 20250915194620.png]]
+
