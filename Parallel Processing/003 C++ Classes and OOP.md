@@ -100,13 +100,16 @@ or dereference using * and then .notation
 for(Book* bp : book_vect){  
 	bp->IncrementPagesRead();  
 	(*bp).IncrementPagesRead();  
-	}  
+}  
+```
+• After processing  
+```
+for(auto bp : book_vect) // auto or Book*  
+	delete bp;  
+book_vect.clear();
 ```
 
-• After processing  
-for(auto bp : book_vect) // auto or Book*  
-delete bp;  
-book_vect.clear();
+**Benefits of OOP in C++**
 
 
 
