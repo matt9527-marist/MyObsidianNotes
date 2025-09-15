@@ -147,4 +147,21 @@ void depositMoney(double& balance, double amount) {
 	balance += amount;  
 }
 ```
-In this function, 
+In this function, balance in the first case is passed as a *pointer*, but in the second case, it is passed as a *reference*.
+
+Pointer or reference?
+```c++
+void depositMoney(double& balance, double amount); //reference  
+void depositMoney(double* balance, double amount); //pointer  
+
+int main() {  
+	double acc_bal{100.0};  
+	double* ptr_bal = &acc_bal;  
+	
+	depositMoney(acc_bal, 50.0); //pointer or reference?  
+	depositMoney(&acc_bal, 50.0); //pointer or reference?  
+	depositMoney(ptr_bal, 50.0); //pointer or reference?  
+	
+	std::cout << "Balance: $" << acc_bal << "\n";  
+}
+```
