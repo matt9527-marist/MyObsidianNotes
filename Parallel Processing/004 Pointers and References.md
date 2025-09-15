@@ -74,4 +74,21 @@ Example of Pointer Usage vs. Reference Usage:
 4. `std::cout << j << "\n";`  
     Prints the value of `j`. Since `j` is a reference to `i`, this is equivalent to printing `i`.
 
-Printing `k` as opposed to `j` will print an address. 
+Printing `k` as opposed to `j` will print the address of `i` as it is a pointer pointing to a reference. 
+
+Example:
+```c++
+#include <cassert>  
+int main() {  
+	int i{5};  
+	int& ref_i{i}; // reference, another name & on LHS  
+	int* ptr_i{&i}; // mem add & RHS  
+	assert(i == ref_i); // ref_i is another name of i  
+	assert(i == *ptr_i); // * dereference on RHS  
+	assert(&i == &ref_i); assert(&i == ptr_i); // hexadecimal  
+	i++;  
+	assert(i == ref_i); assert(i == *ptr_i);  
+	assert(&i == &ref_i); assert(&i == ptr_i);  
+}
+```
+
