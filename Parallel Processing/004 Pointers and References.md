@@ -191,8 +191,9 @@ int main() {
 	std::cout << "Balance: $" << *ptr_acc_bal << "\n";  
 }
 /*  
-using pointer  
+using pointer (function returns a pointer)
 Balance: $150  
 Balance: $150  
 */
 ```
+
