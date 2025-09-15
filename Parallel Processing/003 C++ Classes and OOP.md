@@ -90,10 +90,23 @@ Instead of creating 100 objects, we create a vector of pointers.
 	push back that memory to the vector. (new must have delete to  
 	avoid memory leak)
 ```
-• Book *bp{nullptr}; // nullptr  
-• In Loop: bp = new Book{title, author, 101+I};  
-• book_vect.push_back(bp);
+Book *bp{nullptr}; // nullptr  
+In Loop: bp = new Book{title, author, 101+I};  
+book_vect.push_back(bp);
 ```
+• Processing member methods using -> operator on the pointer  
+or dereference using * and then .notation  
+```
+for(Book* bp : book_vect){  
+	bp->IncrementPagesRead();  
+	(*bp).IncrementPagesRead();  
+	}  
+```
+
+• After processing  
+for(auto bp : book_vect) // auto or Book*  
+delete bp;  
+book_vect.clear();
 
 
 
