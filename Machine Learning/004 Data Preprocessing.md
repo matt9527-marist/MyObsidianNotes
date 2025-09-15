@@ -123,4 +123,4 @@ Which is *L1 Regularization*, also known as #LASSO - “Least Absolute Shrinkage
 
 Yet another form exists: #ElasticNet
 This combines the L2 (Ridge) and Lasso (L1) regularizations in the penalty:
-$$+ $$
+$$+ \rho \frac{\lambda}{m}||W||^2_{2} + (1-\rho)\frac{1}{m}|W|_{1}$$
