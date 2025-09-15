@@ -284,6 +284,7 @@ Standard
 SECURE
 Survives
 Split
+Simplify
 Keras
 Key
 Kirchhoffs
@@ -634,6 +635,7 @@ Problems
 Passing
 Practices
 Perfectly
+Prove
 What
 We
 With
@@ -1142,6 +1144,7 @@ communication
 combinations
 chunks
 chunk
+combined
 the
 to
 training
@@ -1639,6 +1642,7 @@ reviewed
 relatively
 resulting
 runs
+regular
 model
 mostly
 machine
