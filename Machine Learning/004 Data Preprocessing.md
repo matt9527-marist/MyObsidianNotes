@@ -42,4 +42,10 @@ We can use #LinearRegression in an estimator to be a **predictor** for the datas
 
 Usage of these estimators can form the *Data Pre-processing Pipeline*.
 
-
+SciKit Learn Data Imputation:
+Consider the following data
+```
+array([[ 1.,  2., nan,  4.],
+       [ 5.,  6., nan,  8.],
+       [10., 11., 12., nan]])
+```
