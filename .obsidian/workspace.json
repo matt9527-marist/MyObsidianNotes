@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/004 Data Preprocessing.md",
+                "file": "Parallel Processing/003 Pointers and References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004 Data Preprocessing"
+              "title": "003 Pointers and References"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "e306092340ce6bcc",
   "lastOpenFiles": [
-    "Machine Learning/003 Supervised Learning and Regression.md",
     "Machine Learning/004 Data Preprocessing.md",
+    "Machine Learning/003 Supervised Learning and Regression.md",
     "Parallel Processing/003 Pointers and References.md",
     "Parallel Processing/002 C++ Introduction.md",
     "Assets/Pasted image 20250915173427.png",
