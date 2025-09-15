@@ -18,4 +18,9 @@ Memory may be *fragmented*, in the sense that each application running on a syst
 • possible to run programs on various computers with different memory without any  
 changes in the code.  
 • Separate virtual address space from physical addresses
+![[Pasted image 20250915195524.png]]
+
+![[Pasted image 20250915195539.png]]
+
+
 
