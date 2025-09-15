@@ -10,4 +10,5 @@ Consider a dataset that has NULL values or missing cells. We have some options:
 
 **2) Data Encoding** (Particularly with alphanumeric data)
 The algorithms we work with have no use with strings of data. 
-Recall:$$\hat{y} = w_{0} = w_{1}x_{1} + w_{2}x_{2} + w$$
+Recall:$$\hat{y} = w_{0} = w_{1}x_{1} + w_{2}x_{2} + w_{3}x_{3} \dots$$
+The coefficients are saying that a unitary increase in the value of say, x1, will introduce a change in y_hat which is equivalent to this value w1 if all of the other features remain constant. This is for scaled values. The distance between 1 and 2, or 2 and 
