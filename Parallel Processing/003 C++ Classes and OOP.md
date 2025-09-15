@@ -62,8 +62,15 @@ int main() {
 	book_3.PrintBookData();
 }
 // g++ -std=c++23 main.cpp book.cpp && ./a.out
-
+/*  
+Book ID 101: C++ by Author 1; Pages read 1  
+Book ID 102: Mastering C++ by Author 2; Pages read 1  
+Book ID 103: Modern C++ by Author 3; Pages read 0  
+*/
 ```
+
+**How to Scale Up**
+
 
 
 
