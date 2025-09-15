@@ -137,3 +137,5 @@ $$w = (X^TX + \lambda I)^{-1} * X^Ty$$
 $$w_{new} = w_{old} + \eta\nabla J$$
 [Pre-processing Pipelines](https://gist.github.com/eitellauria/b3ad40e871ba13643de353f20cf4a582)
 
+[Regularization](https://gist.github.com/eitellauria/7903546bd2fc74fbfb692ffbf13b764a)
+
