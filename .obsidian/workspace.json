@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/002.2 Vectors.md",
+                "file": "Parallel Processing/004 Pointers and References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.2 Vectors"
+              "title": "004 Pointers and References"
+            }
+          },
+          {
+            "id": "53a2fc95fdab5e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Processing/003 C++ Classes and OOP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003 C++ Classes and OOP"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,13 +214,14 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e4cee476d0aff0b8",
+  "active": "53a2fc95fdab5e28",
   "lastOpenFiles": [
+    "Parallel Processing/004 Pointers and References.md",
+    "Parallel Processing/003 C++ Classes and OOP.md",
+    "Parallel Processing/002.2 Vectors.md",
     "Assets/Pasted image 20250915190357.png",
     "Parallel Processing/002.1 Using Dynamic Memory.md",
-    "Parallel Processing/002.2 Vectors.md",
     "Parallel Processing/002 C++ Introduction.md",
-    "Parallel Processing/003 Pointers and References.md",
     "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250915173427.png",
@@ -223,7 +238,6 @@
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Assets/Pasted image 20250910142340.png",
-    "Assets/Pasted image 20250910142216.png",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "conflict-files-obsidian-git.md",
     "Parallel Processing/001 CMake and Catch2.md",
