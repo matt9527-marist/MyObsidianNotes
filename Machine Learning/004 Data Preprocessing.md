@@ -74,3 +74,4 @@ We can also use Pandas:
 df.fillna(df.mean())
 ```
 
+Using One-Hot Encoding in S
