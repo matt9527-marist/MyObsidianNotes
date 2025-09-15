@@ -101,6 +101,8 @@ X's first column after using OneHotEncoder:
 In Pandas, by default, no indicators will be dropped. We can change this directly by including the `drop_first=True` argument.
 
 ## Overfitting 
-
-
+How do we solve?
+- MORE DATA: we tend to control overfitting, but it has limitations. 
+- TUNE the *parameters* of the model: 
+	- 
 
