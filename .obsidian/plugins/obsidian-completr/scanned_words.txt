@@ -38,6 +38,7 @@ MinGW
 Moving
 Mod
 Monoalphabetic
+Missing
 Learning
 Learn
 Let
@@ -149,6 +150,7 @@ loops
 letters
 language
 letter
+location
 Graphing
 Google
 Game
@@ -370,6 +372,7 @@ Initializer
 Inline
 Implement
 Ideal
+Imputation
 and
 ability
 approximation
@@ -486,6 +489,8 @@ amount
 alphabet
 applicable
 alone
+altogether
+alphanumeric
 Applications
 AI
 Analysis
@@ -636,6 +641,9 @@ Passing
 Practices
 Perfectly
 Prove
+Place
+Particularly
+Pandas
 What
 We
 With
@@ -803,6 +811,7 @@ optimal
 ones
 occurrences
 overall
+obscuring
 study
 simplified
 something
@@ -943,6 +952,9 @@ segment
 shuffle
 sizes
 smaller
+strings
+saying
+scaled
 giving
 good
 generalizable
@@ -1145,6 +1157,9 @@ combinations
 chunks
 chunk
 combined
+cells
+containing
+coefficients
 the
 to
 training
@@ -1227,6 +1242,7 @@ trigrams
 th
 trigram
 takes
+threshold
 being
 be
 by
@@ -1382,6 +1398,8 @@ encrypts
 expands
 expanded
 expansion
+eliminate
+equivalent
 programmed
 patterns
 program
@@ -1514,6 +1532,8 @@ permutations
 provisional
 published
 periods
+percentage
+passes
 Detecting
 Deepmind
 Dataset
@@ -1543,6 +1563,7 @@ Dangling
 Do
 Dynamic
 DES
+Discrete
 regularities
 respect
 recognizing
@@ -1738,6 +1759,8 @@ multiply
 monoalphabetic
 mapping
 might
+median
+meaningless
 hypothesis
 handwritten
 have
@@ -1777,6 +1800,7 @@ hpp
 happens
 house
 head
+hat
 Execution
 Examples
 Economics
@@ -1815,6 +1839,8 @@ Enumerator
 Enum
 Enigma
 Expand
+Eliminate
+Encoding
 using
 utility
 use
@@ -1847,6 +1873,7 @@ unscoped
 undefined
 uncover
 uniform
+unitary
 data
 driven
 dataset
@@ -1935,6 +1962,10 @@ device
 due
 decrypts
 direct
+decide
+done
+distance
+dummy
 future
 from
 feed
@@ -2155,6 +2186,7 @@ HP
 Hd
 However
 Has
+Hot
 Not
 NOTHING
 No
@@ -2172,6 +2204,8 @@ NEQ
 Notice
 Noticing
 Never
+NULL
+Numerical
 quality
 question
 quickly
@@ -2260,6 +2294,7 @@ Jv
 JB
 JU
 JvQ
+Japan
 You
 Yw
 Ygy
@@ -2270,6 +2305,7 @@ Yo
 YRi
 Yg
 Yoda
+York
 Xk
 Xt
 Xs
