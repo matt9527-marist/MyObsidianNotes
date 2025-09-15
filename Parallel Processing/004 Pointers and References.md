@@ -74,3 +74,4 @@ Example of Pointer Usage vs. Reference Usage:
 4. `std::cout << j << "\n";`  
     Prints the value of `j`. Since `j` is a reference to `i`, this is equivalent to printing `i`.
 
+Printing `k` as opposed to `j` will print an address. 
