@@ -108,7 +108,7 @@ for(auto bp : book_vect) // auto or Book*
 	delete bp;  
 book_vect.clear();
 ```
-When we are using `new`, it allocates the memory on the heap. When we are allocating memory, we need to at some point relieve/delete the memory. We must use `delete` in order to avoid a memory leakage- when memory is allocated but is not in use. 
+When we are using `new`, it allocates the memory on the heap. When we are allocating memory, we need to at some point relieve/deallocate the memory. We must use `delete` in order to avoid a memory leakage- when memory is allocated but is not in use. 
 
 **Benefits of OOP in C++**
 • Efficiency and Scalability: Easily generating 100 books with different authors and simplifying  
@@ -117,11 +117,33 @@ the operations
 	• Classes to manage attributes and behaviors.  
 	• Reduces complexity compared to manually creating multiple variables.  
 • Pointers and Memory Management:  
-• new keyword allocates memory on the heap for objects.  
-• -> operator dereferences pointers and accesses object attributes/methods.  
-• delete will deallocate the memory.  
+	• new keyword allocates memory on the heap for objects.  
+	• -> operator dereferences pointers and accesses object attributes/methods.  
+	• delete will deallocate the memory.  
 • Memory allocated using new (on heap) must be deallocated using delete to avoid memory  
 leak.
 
-
-
+```c++
+#include "book.h"  
+#include <vector>  
+int main() {  
+std::vector<Book*> book_vect; // vector of pointers to Book  
+Book *bp{nullptr}; // nullptr  
+std::vector<std::string> titles{"B1", "B2", "B3", "B4", "B5"};  
+std::vector<std::string> authors{"A1", "A2", "A3", "A4", "A5"};  
+// create 5 books  
+for(int i{0}; i < 5; i++) {  
+	std::string title{titles[i]};  
+	std::string author{authors[i]};  
+	bp = new Book{title, author, 101+i};  
+	book_vect.push_back(bp);  
+}  
+for(Book* bp : book_vect){  
+	bp->IncrementPagesRead();  
+	(*bp).IncrementPagesRead();  
+}  
+for(auto bp : book_vect) // auto or Book*  
+	delete bp;  
+book_vect.clear();  
+}
+```
