@@ -108,9 +108,20 @@ for(auto bp : book_vect) // auto or Book*
 	delete bp;  
 book_vect.clear();
 ```
-When we are using `new`, it allocates the memory on the heap. When we are allocating memory, we need to at some point relieve/delete the memory.  
+When we are using `new`, it allocates the memory on the heap. When we are allocating memory, we need to at some point relieve/delete the memory. We must use `delete` in order to avoid a memory leakage- when memory is allocated but is not in use. 
 
 **Benefits of OOP in C++**
+• Efficiency and Scalability: Easily generating 100 books with different authors and simplifying  
+the operations  
+• Code Organization:  
+	• Classes to manage attributes and behaviors.  
+	• Reduces complexity compared to manually creating multiple variables.  
+• Pointers and Memory Management:  
+• new keyword allocates memory on the heap for objects.  
+• -> operator dereferences pointers and accesses object attributes/methods.  
+• delete will deallocate the memory.  
+• Memory allocated using new (on heap) must be deallocated using delete to avoid memory  
+leak.
 
 
 
