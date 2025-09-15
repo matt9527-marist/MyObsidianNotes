@@ -130,4 +130,7 @@ Rho allows us to assign how much weight is given to either the L1 or L2 regulari
 
 Find w:
 $$\vec{W} = \frac{d\vec{v}}{dw} = \frac{1}{m}(X^T(Xw-y) + \lambda w)$$
-$$= \frac{1}{m}(X^TX + \lambda I)w - X^$$
+$$= \frac{1}{m}(X^TX + \lambda I)w - X^Ty = 0$$
+Where we factored w out and `I` is the identity matrix. 
+Therefore we obtain:
+$$$$
