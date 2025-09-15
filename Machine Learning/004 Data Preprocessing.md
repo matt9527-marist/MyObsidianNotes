@@ -114,4 +114,6 @@ We have our cost function: $$J = \frac{1}{2m}((Xw-y)^T(Xw-y)) + \frac{\lambda}{m
 Lamba is a hyperparameter. 
 Recall that ||w||<sup>2</sup> is W<sup>T</sup>W, which is just the L2 Norm. 
 
-This is known as #RidgeRegression
+This is known as #RidgeRegression, where we are trying to "find the ridge" as easily as possible. 
+
+
