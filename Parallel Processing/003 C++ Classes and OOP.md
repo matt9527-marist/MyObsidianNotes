@@ -70,7 +70,30 @@ Book ID 103: Modern C++ by Author 3; Pages read 0
 ```
 
 **How to Scale Up**
-
+```c++
+// main.cpp
+#include "book.h"
+int main() {
+	Book book_1{"C++", "Author 1", 101};
+	Book book_2{"Mastering C++", "Author 2", 102};
+	Book book_3{"Modern C++", "Author 3", 103};
+	Book book_99{"Book 99", "Author 99", 199};
+	Book book_100{"Book 100", "Author 100", 200};
+}
+```
+Suppose we do not just want to create 3-5 objects, but instead hundreds of objects. 
+Instead of creating 100 objects, we create a vector of pointers. 
+	• std::vector<Book*> book_vect;  
+	• Next, we must create 100 objects and store their addresses in this  
+	vector.  
+	• We can use new to create a memory on the heap for the objects and  
+	push back that memory to the vector. (new must have delete to  
+	avoid memory leak)
+```
+• Book *bp{nullptr}; // nullptr  
+• In Loop: bp = new Book{title, author, 101+I};  
+• book_vect.push_back(bp);
+```
 
 
 
