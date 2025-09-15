@@ -43,3 +43,27 @@ void Book::IncrementPagesRead(){
 }
 ```
 
+```c++
+// main.cpp
+#include <iostream>
+#include <string>
+#include "book.h"
+int main() {
+	//Brace Initialization (Direct initialization)
+	Book book_1{"C++", "Author 1", 101};
+	Book book_2{"Mastering C++", "Author 2", 102};
+	Book book_3{"Modern C++", "Author 3", 103};
+	
+	book_1.IncrementPagesRead();
+	book_2.IncrementPagesRead();
+	
+	book_1.PrintBookData();
+	book_2.PrintBookData();
+	book_3.PrintBookData();
+}
+// g++ -std=c++23 main.cpp book.cpp && ./a.out
+
+```
+
+
+
