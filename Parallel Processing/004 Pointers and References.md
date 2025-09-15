@@ -96,3 +96,25 @@ int main() {
 • A pointer holds the memory address.  
 • A pointer declaration must include the type of the object being  
 pointed.
+```c++
+int i{5};  
+int* ptr_i{&i};  
+std::vector<int> v{1, 2, 3};  
+std::vector<int> *ptr_v{&v};
+```
+Printer to a vector: printing elements:
+```c++
+#include <iostream>  
+#include <vector>  
+int main() {  
+	std::vector<int> v{1, 2, 3};  
+	std::vector<int> *ptr_v{&v};  
+	
+	//dereference the ptr_v to get v  
+	// get the element with []  
+	for(int i{0}; i < v.size(); i++)  
+		std::cout << (*ptr_v)[i] << " ";  
+	std::cout << "\n";  
+}
+```
+
