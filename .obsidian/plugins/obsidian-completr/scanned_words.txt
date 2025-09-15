@@ -41,6 +41,7 @@ Monoalphabetic
 Missing
 Min
 Max
+MORE
 Learning
 Learn
 Let
@@ -65,6 +66,10 @@ LT
 Local
 Legacy
 LinearRegression
+Lamba
+LASSO
+Least
+Lasso
 Relevant
 Reading
 Research
@@ -98,6 +103,11 @@ Return
 Related
 Realistic
 Rounds
+REGULARIZATION
+Reduction
+Regularization
+RidgeRegression
+Ridge
 libraries
 learn
 learning
@@ -154,6 +164,7 @@ letters
 language
 letter
 location
+lead
 Graphing
 Google
 Game
@@ -234,6 +245,7 @@ California
 Cost
 Closed
 Caesar
+Coefficient
 Scikit
 Statistical
 Statistics
@@ -293,6 +305,8 @@ Simplify
 Scaling
 SciKit
 SimpleImputer
+Shrinkage
+Selection
 Keras
 Key
 Kirchhoffs
@@ -346,6 +360,7 @@ Test
 Type
 Typically
 Transposition
+TUNE
 ISLP
 Iris
 Instance
@@ -499,6 +514,9 @@ alone
 altogether
 alphanumeric
 array
+argument
+alternative
+absolute
 Applications
 AI
 Analysis
@@ -546,6 +564,7 @@ Avoiding
 Applying
 Avoid
 Across
+Absolute
 with
 without
 want
@@ -654,6 +673,7 @@ Particularly
 Pandas
 Pre
 Pipeline
+PARAMETERS
 What
 We
 With
@@ -745,6 +765,8 @@ illustrates
 identified
 imputes
 identifier
+indicators
+including
 Field
 For
 Find
@@ -828,6 +850,8 @@ overall
 obscuring
 overpower
 option
+overfitting
+outliers
 study
 simplified
 something
@@ -976,6 +1000,8 @@ scores
 standardize
 scaling
 specified
+sensitivity
+shrunk
 giving
 good
 generalizable
@@ -1182,6 +1208,8 @@ cells
 containing
 coefficients
 commonly
+correlated
+complex
 the
 to
 training
@@ -1267,6 +1295,8 @@ takes
 threshold
 transformer
 transform
+tend
+term
 being
 be
 by
@@ -1426,6 +1456,8 @@ eliminate
 equivalent
 estimator
 estimators
+encoding
+easily
 programmed
 patterns
 program
@@ -1560,6 +1592,7 @@ published
 periods
 percentage
 passes
+penalty
 Detecting
 Deepmind
 Dataset
@@ -1590,6 +1623,7 @@ Do
 Dynamic
 DES
 Discrete
+DATA
 regularities
 respect
 recognizing
@@ -1692,6 +1726,8 @@ runs
 regular
 ranges
 range
+remember
+ridge
 model
 mostly
 machine
@@ -1830,6 +1866,9 @@ happens
 house
 head
 hat
+hot
+hyperparameters
+highly
 Execution
 Examples
 Economics
@@ -1996,6 +2035,10 @@ done
 distance
 dummy
 deviations
+dropped
+discourage
+dealing
+differentiable
 future
 from
 feed
@@ -2069,6 +2112,7 @@ frequency
 frequencies
 fed
 fitted
+forcing
 Optimziation
 Operations
 Once
@@ -2093,6 +2137,7 @@ Operating
 Obtain
 Overhead
 Origin
+Operator
 kind
 know
 knowledge
@@ -2107,6 +2152,7 @@ kU
 kc
 knowing
 keyword
+keep
 value
 various
 variable
@@ -2243,6 +2289,7 @@ NULL
 Numerical
 NAN
 Numpy
+Norm
 quality
 question
 quickly

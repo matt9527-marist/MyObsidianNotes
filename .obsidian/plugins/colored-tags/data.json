@@ -27,7 +27,9 @@
     "MinGW": 15,
     "LinearRegression": 16,
     "RidgeRegression": 17,
-    "Regularization": 18
+    "Regularization": 18,
+    "LASSO": 19,
+    "ElasticNet": 20
   },
   "_version": 3
 }

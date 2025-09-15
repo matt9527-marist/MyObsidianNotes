@@ -119,5 +119,7 @@ This is known as #RidgeRegression, where we are trying to "find the ridge" as ea
 
 An alternative form of this added penalty is:
 $$+ \frac{\lambda}{m}||w||_{1} \leftarrow \sum^{m}_{j=1}|w_{j}|$$
-Which is *L1 Regularization*, also known as LASSO - “Least Absolute Shrinkage and Selection Operator.” Lasso solves a number of the issues that Ridge regularization in terms of dealing with outliers. However, the main problem with this form is that the absolute value function of |W| is non-differentiable at 0. We instead have to compute a sub-gradient. 
+Which is *L1 Regularization*, also known as #LASSO - “Least Absolute Shrinkage and Selection Operator.” Lasso solves a number of the issues that Ridge regularization in terms of dealing with outliers. However, the main problem with this form is that the absolute value function of |W| is non-differentiable at 0. We instead have to compute a sub-gradient. 
+
+Yet another form exists: #ElasticNet
 
