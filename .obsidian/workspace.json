@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/004 Data Preprocessing.md",
+                "file": "Parallel Processing/003 Pointers and References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004 Data Preprocessing"
+              "title": "003 Pointers and References"
             }
           }
         ]
@@ -173,10 +173,12 @@
   },
   "active": "e306092340ce6bcc",
   "lastOpenFiles": [
+    "Parallel Processing/002 C++ Introduction.md",
+    "Parallel Processing/003 Pointers and References.md",
+    "Machine Learning/004 Data Preprocessing.md",
     "Assets/Pasted image 20250915173427.png",
     "Assets/Pasted image 20250915173425.png",
     "Formatting Template.md",
-    "Machine Learning/004 Data Preprocessing.md",
     "Assets/Pasted image 20250915164111.png",
     "Assets/Pasted image 20250915164106.png",
     "Machine Learning/003 Supervised Learning and Regression.md",
@@ -190,10 +192,7 @@
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Assets/Pasted image 20250910142340.png",
     "Assets/Pasted image 20250910142216.png",
-    "Assets/Pasted image 20250910141555.png",
-    "Parallel Processing/003 Pointers and References.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
-    "Parallel Processing/002 C++ Introduction.md",
     "conflict-files-obsidian-git.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
