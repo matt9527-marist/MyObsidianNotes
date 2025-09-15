@@ -134,3 +134,4 @@ $$= \frac{1}{m}(X^TX + \lambda I)w - X^Ty = 0$$
 Where we factored w out and `I` is the identity matrix. 
 Therefore we obtain:
 $$w = (X^TX + \lambda I)^-1 * X^Ty$$
+$$w_{new} = w_{old }$$
