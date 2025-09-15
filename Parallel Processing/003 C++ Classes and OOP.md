@@ -108,6 +108,7 @@ for(auto bp : book_vect) // auto or Book*
 	delete bp;  
 book_vect.clear();
 ```
+When we are using `new`, it allocates the memory on the heap. When we are allocating memory, we need to at some point relieve/delete the memory.  
 
 **Benefits of OOP in C++**
 
