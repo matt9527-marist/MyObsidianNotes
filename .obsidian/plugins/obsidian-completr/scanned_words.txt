@@ -108,6 +108,7 @@ Reduction
 Regularization
 RidgeRegression
 Ridge
+Rho
 libraries
 learn
 learning
@@ -565,6 +566,7 @@ Applying
 Avoid
 Across
 Absolute
+Analytical
 with
 without
 want
@@ -767,6 +769,7 @@ imputes
 identifier
 indicators
 including
+identity
 Field
 For
 Find
@@ -1002,6 +1005,7 @@ scaling
 specified
 sensitivity
 shrunk
+square
 giving
 good
 generalizable
@@ -1210,6 +1214,7 @@ coefficients
 commonly
 correlated
 complex
+combines
 the
 to
 training
@@ -1458,6 +1463,7 @@ estimator
 estimators
 encoding
 easily
+either
 programmed
 patterns
 program
@@ -1728,6 +1734,7 @@ ranges
 range
 remember
 ridge
+regularizations
 model
 mostly
 machine
@@ -1909,6 +1916,7 @@ Enigma
 Expand
 Eliminate
 Encoding
+ElasticNet
 using
 utility
 use
@@ -2113,6 +2121,7 @@ frequencies
 fed
 fitted
 forcing
+factored
 Optimziation
 Operations
 Once
@@ -2298,6 +2307,7 @@ qc
 qZ
 qhY
 quantities
+quadratic
 Unsupervised
 UNION
 User
@@ -2390,6 +2400,7 @@ YRi
 Yg
 Yoda
 York
+Yet
 Xk
 Xt
 Xs
