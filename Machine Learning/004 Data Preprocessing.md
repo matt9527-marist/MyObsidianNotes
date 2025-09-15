@@ -103,6 +103,6 @@ In Pandas, by default, no indicators will be dropped. We can change this directl
 ## Overfitting 
 How do we solve?
 - MORE DATA: we tend to control overfitting, but it has limitations. 
-- TUNE the *parameters* of the model: 
-	- 
+- TUNE PARAMETERS: specifically the *hyperparameters*:
+	- These are the parameters that have to do with how we train the model (learning rate is one of them)
 
