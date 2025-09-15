@@ -24,6 +24,9 @@ Imagine we have the column:
 > Why do we scale the values? What if the features we use are very different from each other? If one feature has values far higher than another feature, it can overpower it. 
 
 How do we normalize the data?
-$$X_{Scaled} = \frac{X - X_{Min}}{x_{Max} - x_{Min}}$$
-- Standard Scaling:
 - Min/Max Scaling:
+$$X_{Scaled} = \frac{X - X_{Min}}{X_{Max} - X_{Min}}$$
+- Standard Scaling:
+	- 
+
+
