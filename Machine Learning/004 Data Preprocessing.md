@@ -109,5 +109,6 @@ How do we solve?
 	How do we decide which coefficients need to be shrunk?
 
 We have our cost function: $$J = \frac{1}{2m}((Xw-y)^T(Xw-y)) + \frac{\lambda}{m}$$
-Lamba 
+Lamba is a hyperparameter. 
+Recall that ||w||<sup>2</sup> is W<sup>T</sup>W, which is just the L2 Norm. 
 
