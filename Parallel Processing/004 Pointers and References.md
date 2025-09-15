@@ -226,4 +226,14 @@ address]
 */
 ```
 
+**Safer Alternative Using Dynamic Memory**  
+• Instead of returning a pointer to the local variable, we can  
+allocate memory on the heap using `new`.  
+• We can return this memory address, which remains valid until  
+explicitly deallocated, using `delete`.  
+• The pointer will remain valid even outside the scope of the  
+function.
 
+Safe Pointer Returned from Function:
+```c++
+```
