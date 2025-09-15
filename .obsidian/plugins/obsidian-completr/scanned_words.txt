@@ -39,6 +39,8 @@ Moving
 Mod
 Monoalphabetic
 Missing
+Min
+Max
 Learning
 Learn
 Let
@@ -62,6 +64,7 @@ LVl
 LT
 Local
 Legacy
+LinearRegression
 Relevant
 Reading
 Research
@@ -287,6 +290,7 @@ SECURE
 Survives
 Split
 Simplify
+Scaling
 Keras
 Key
 Kirchhoffs
@@ -813,6 +817,8 @@ ones
 occurrences
 overall
 obscuring
+overpower
+option
 study
 simplified
 something
@@ -956,6 +962,10 @@ smaller
 strings
 saying
 scaled
+scale
+scores
+standardize
+scaling
 giving
 good
 generalizable
@@ -1161,6 +1171,7 @@ combined
 cells
 containing
 coefficients
+commonly
 the
 to
 training
@@ -1401,6 +1412,7 @@ expanded
 expansion
 eliminate
 equivalent
+estimator
 programmed
 patterns
 program
@@ -1665,6 +1677,8 @@ relatively
 resulting
 runs
 regular
+ranges
+range
 model
 mostly
 machine
@@ -1762,6 +1776,7 @@ mapping
 might
 median
 meaningless
+measuring
 hypothesis
 handwritten
 have
@@ -1967,6 +1982,7 @@ decide
 done
 distance
 dummy
+deviations
 future
 from
 feed
@@ -2062,6 +2078,7 @@ Our
 Operating
 Obtain
 Overhead
+Origin
 kind
 know
 knowledge
@@ -2107,6 +2124,7 @@ vectorize
 vectorized
 visible
 version
+varied
 numerical
 no
 need
@@ -2160,6 +2178,7 @@ needing
 niter
 nor
 noticeable
+normalize
 yes
 yield
 your

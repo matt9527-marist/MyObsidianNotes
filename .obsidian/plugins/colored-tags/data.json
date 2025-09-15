@@ -24,7 +24,8 @@
     "reducible": 12,
     "gradientDescent": 13,
     "headers": 14,
-    "MinGW": 15
+    "MinGW": 15,
+    "LinearRegression": 16
   },
   "_version": 3
 }

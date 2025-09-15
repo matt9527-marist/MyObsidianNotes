@@ -97,7 +97,7 @@ How we can visualize training error reduction via **regularization**- shrinking 
 - Things that naturally possess high variance
 ![[Pasted image 20250908170943.png]]
 # Linear Regression 
-#Regression
+#Regression #LinearRegression
 Machine Learning is Optimization 
 1) Given a certain problem, choose some *ARCHITECTURE*.
 	This may be a decision tree, a linear model, a neural network, a group of trees working together, an ANN/CNN algorithm, etc. 
