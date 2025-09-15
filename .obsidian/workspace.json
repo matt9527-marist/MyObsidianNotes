@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "003 Supervised Learning and Regression"
             }
+          },
+          {
+            "id": "e306092340ce6bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/004 Data Preprocessing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "004 Data Preprocessing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +186,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "ce8063f6c1a3a3cb",
+  "active": "e306092340ce6bcc",
   "lastOpenFiles": [
+    "Machine Learning/003 Supervised Learning and Regression.md",
+    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Assets/Pasted image 20250910155359.png",
@@ -183,7 +200,6 @@
     "Assets/Pasted image 20250910142216.png",
     "Assets/Pasted image 20250910141555.png",
     "Parallel Processing/003 Pointers and References.md",
-    "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20250910105855.png",
     "Assets/Pasted image 20250910105852.png",
     "Assets/Pasted image 20250910105823.png",
