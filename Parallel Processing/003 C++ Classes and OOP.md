@@ -127,23 +127,23 @@ leak.
 #include "book.h"  
 #include <vector>  
 int main() {  
-std::vector<Book*> book_vect; // vector of pointers to Book  
-Book *bp{nullptr}; // nullptr  
-std::vector<std::string> titles{"B1", "B2", "B3", "B4", "B5"};  
-std::vector<std::string> authors{"A1", "A2", "A3", "A4", "A5"};  
-// create 5 books  
-for(int i{0}; i < 5; i++) {  
-	std::string title{titles[i]};  
-	std::string author{authors[i]};  
-	bp = new Book{title, author, 101+i};  
-	book_vect.push_back(bp);  
-}  
-for(Book* bp : book_vect){  
-	bp->IncrementPagesRead();  
-	(*bp).IncrementPagesRead();  
-}  
-for(auto bp : book_vect) // auto or Book*  
-	delete bp;  
-book_vect.clear();  
+	std::vector<Book*> book_vect; // vector of pointers to Book  
+	Book *bp{nullptr}; // nullptr  
+	std::vector<std::string> titles{"B1", "B2", "B3", "B4", "B5"};  
+	std::vector<std::string> authors{"A1", "A2", "A3", "A4", "A5"};  
+	// create 5 books  
+	for(int i{0}; i < 5; i++) {  
+		std::string title{titles[i]};  
+		std::string author{authors[i]};  
+		bp = new Book{title, author, 101+i};  
+		book_vect.push_back(bp);  
+	}  
+	for(Book* bp : book_vect){  
+		bp->IncrementPagesRead();  
+		(*bp).IncrementPagesRead();  
+	}  
+	for(auto bp : book_vect) // auto or Book*  
+		delete bp;  
+	book_vect.clear();  
 }
 ```
