@@ -236,4 +236,21 @@ function.
 
 Safe Pointer Returned from Function:
 ```c++
+#include <iostream>  
+double* depositMoney(double balance, double amount) {  
+	double* ptr = new double; // allocate the memory first
+	*ptr = balance; //*ptr=&balance will not work as it overwrites  
+	*ptr += amount;  
+	return ptr;  
+}  
+
+int main() {  
+	double acc_bal{100.0};  
+	double* ptr_acc_bal{nullptr};
+	  
+	ptr_acc_bal = depositMoney(acc_bal, 50.0);  
+	
+	std::cout << "Balance: $" << *ptr_acc_bal << "\n"; // safe  
+	delete ptr_acc_bal;  
+}
 ```
