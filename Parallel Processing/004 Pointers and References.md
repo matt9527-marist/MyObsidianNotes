@@ -74,7 +74,7 @@ Example of Pointer Usage vs. Reference Usage:
 4. `std::cout << j << "\n";`  
     Prints the value of `j`. Since `j` is a reference to `i`, this is equivalent to printing `i`.
 
-Printing `k` as opposed to `j` will print the address of `i` as it is a pointer pointing to a reference. 
+Printing `k` as opposed to `j` will print the address of `i` as it is a pointer. 
 
 Example:
 ```c++
@@ -92,3 +92,7 @@ int main() {
 }
 ```
 
+**Pointers to Other Object Types**
+• A pointer holds the memory address.  
+• A pointer declaration must include the type of the object being  
+pointed.
