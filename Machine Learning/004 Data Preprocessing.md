@@ -17,3 +17,6 @@ In Pandas, we can use dummy variables to solve this problem. In Scikit Learn, th
 Imagine we have the column:
 
 *Origin*
+![[Pasted image 20250915161852.png]]
+
+**3) Scaling**
