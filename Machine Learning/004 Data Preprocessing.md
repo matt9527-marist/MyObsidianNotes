@@ -116,4 +116,5 @@ Recall that ||w||<sup>2</sup> is W<sup>T</sup>W, which is just the L2 Norm.
 
 This is known as #RidgeRegression, where we are trying to "find the ridge" as easily as possible. 
 
-
+An alternative form of this added penalty is:
+	$$+ \frac{\lambda}{m}||w||_{1} lef$$
