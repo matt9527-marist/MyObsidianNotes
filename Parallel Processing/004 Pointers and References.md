@@ -11,6 +11,8 @@ int main(){
 	assert(&i == &ref_i);  
 }
 ```
+`ref_i` will refer to `i` as an alias. We can access the value of `i` either by referencing `i` itself or by using its reference variable. 
+
 
 ## Pointers
 
