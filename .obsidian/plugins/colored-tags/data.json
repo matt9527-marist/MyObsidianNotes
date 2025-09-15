@@ -26,7 +26,8 @@
     "headers": 14,
     "MinGW": 15,
     "LinearRegression": 16,
-    "RidgeRegression": 17
+    "RidgeRegression": 17,
+    "Regularization": 18
   },
   "_version": 3
 }

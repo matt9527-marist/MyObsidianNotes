@@ -106,7 +106,7 @@ How do we solve?
 - TUNE PARAMETERS: specifically the *hyperparameters*:
 	- These are the parameters that have to do with how we train the model (learning rate is one of them)
 - REGULARIZATION: reduce the sensitivity of a high variance model to each data point. If we have lots of features in our prediction, some of the features may be highly correlated, this may lead to a certain amount of overfitting. (Reduction of Coefficient):
-	- **Add a penalty term to the error function to discourage learning a more complex model by forcing the model parameters to be smal.l**
+	- #Regularization: **Add a penalty term to the error function to discourage learning a more complex model by forcing the model parameters to be small.**
 	How do we decide which coefficients need to be shrunk?
 	
 
