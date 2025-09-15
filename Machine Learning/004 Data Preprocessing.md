@@ -74,4 +74,26 @@ We can also use Pandas:
 df.fillna(df.mean())
 ```
 
-Using One-Hot Encoding in S
+Using One-Hot Encoding in Scikit Learn:
+```Python
+from sklearn.preprocessing import OneHotEncoder
+
+X = df[['color', 'size', 'price']].values
+print("X:\n",X,"\n")
+color_ohe = OneHotEncoder()
+xfirst=color_ohe.fit_transform(X[:, 0].reshape(-1, 1)).toarray()
+print("X's first column after using OneHotEncoder:\n",xfirst,"\n")
+```
+
+```
+X:
+ [['green' 'M' 10.1]
+ ['red' 'L' 13.5]
+ ['blue' 'XL' 15.3]] 
+
+X's first column after using OneHotEncoder:
+ [[0. 1. 0.]
+ [0. 0. 1.]
+ [1. 0. 0.]] 
+```
+
