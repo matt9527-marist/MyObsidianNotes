@@ -60,6 +60,7 @@ Lr
 LVl
 LT
 Local
+Legacy
 Relevant
 Reading
 Research
@@ -90,6 +91,9 @@ Reduce
 Reference
 References
 Return
+Related
+Realistic
+Rounds
 libraries
 learn
 learning
@@ -275,6 +279,11 @@ SkLearn
 Starting
 Specifically
 Symmetric
+Specific
+Standard
+SECURE
+Survives
+Split
 Keras
 Key
 Kirchhoffs
@@ -285,6 +294,7 @@ KD
 Kx
 KX
 Kw
+Keys
 TensorFlow
 Task
 Training
@@ -358,6 +368,7 @@ Initialization
 Initializer
 Inline
 Implement
+Ideal
 and
 ability
 approximation
@@ -520,6 +531,7 @@ Arguments
 Avoiding
 Applying
 Avoid
+Across
 with
 without
 want
@@ -573,6 +585,7 @@ warning
 whatever
 warnings
 weight
+weak
 Python
 Performance
 Principle
@@ -620,6 +633,7 @@ Project
 Problems
 Passing
 Practices
+Perfectly
 What
 We
 With
@@ -704,6 +718,9 @@ issues
 includes
 ignore
 instead
+independent
+ideal
+iterate
 Field
 For
 Find
@@ -726,6 +743,7 @@ FH
 Fw
 Finally
 Form
+Feed
 of
 or
 optimize
@@ -782,6 +800,7 @@ omit
 optimal
 ones
 occurrences
+overall
 study
 simplified
 something
@@ -912,6 +931,16 @@ standard
 se
 slowly
 size
+session
+sees
+similarity
+subsequent
+short
+segments
+segment
+shuffle
+sizes
+smaller
 giving
 good
 generalizable
@@ -960,6 +989,8 @@ getResource
 granting
 gears
 gear
+guess
+groups
 computers
 computer
 can
@@ -1105,6 +1136,12 @@ ciphers
 ciphertext
 character
 clues
+chosen
+created
+communication
+combinations
+chunks
+chunk
 the
 to
 training
@@ -1186,6 +1223,7 @@ tattooing
 trigrams
 th
 trigram
+takes
 being
 be
 by
@@ -1250,6 +1288,9 @@ bigger
 bigram
 bits
 bytes
+bit
+box
+become
 explicitly
 experience
 error
@@ -1332,6 +1373,12 @@ earlier
 extra
 equations
 expressions
+exist
+ever
+encrypts
+expands
+expanded
+expansion
 programmed
 patterns
 program
@@ -1457,6 +1504,13 @@ presentation
 person
 portions
 performing
+part
+permutation
+pseudorandomness
+permutations
+provisional
+published
+periods
 Detecting
 Deepmind
 Dataset
@@ -1485,6 +1539,7 @@ Descent
 Dangling
 Do
 Dynamic
+DES
 regularities
 respect
 recognizing
@@ -1574,6 +1629,16 @@ references
 reassigned
 returns
 represented
+realizes
+remains
+randomness
+realistic
+round
+rounds
+reviewed
+relatively
+resulting
+runs
 model
 mostly
 machine
@@ -1668,6 +1733,7 @@ matmul
 multiply
 monoalphabetic
 mapping
+might
 hypothesis
 handwritten
 have
@@ -1744,6 +1810,7 @@ Executing
 Enumerator
 Enum
 Enigma
+Expand
 using
 utility
 use
@@ -1775,6 +1842,7 @@ user
 unscoped
 undefined
 uncover
+uniform
 data
 driven
 dataset
@@ -1858,6 +1926,11 @@ default
 dangling
 dynamic
 datasets
+down
+device
+due
+decrypts
+direct
 future
 from
 feed
@@ -1929,6 +2002,7 @@ formulation
 forwards
 frequency
 frequencies
+fed
 Optimziation
 Operations
 Once
@@ -2048,6 +2122,8 @@ never
 name
 needing
 niter
+nor
+noticeable
 yes
 yield
 your
@@ -2090,6 +2166,8 @@ Nq
 Nva
 NEQ
 Notice
+Noticing
+Never
 quality
 question
 quickly
@@ -2201,6 +2279,7 @@ XFw
 Xu
 XX
 Xp
+XOR
 Qw
 QV
 QG

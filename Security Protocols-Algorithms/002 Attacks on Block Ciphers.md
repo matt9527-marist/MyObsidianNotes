@@ -50,3 +50,5 @@ Split the original 64 bit block into two 32 bit segments.
 4) Feed the result into a bit shuffle function.
 5) Take the result and XOR it with the original *L* segment bits. 
 Across 16 rounds, the result of this process will become the new *R* in the next round. There will be 16 runs of function *f*.
+
+The block and key sizes are much smaller than what we use today.
