@@ -21,6 +21,5 @@ changes in the code.
 ![[Pasted image 20250915195524.png]]
 
 ![[Pasted image 20250915195539.png]]
-
-
+How will the OS manage the memory if RAM is not available? Whether the memory is available or not, the OS will allocate a fixed amount of memory to each program. This is *virtual memory*. 
 
