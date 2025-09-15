@@ -518,6 +518,9 @@ array
 argument
 alternative
 absolute
+allocation
+allocates
+allocated
 Applications
 AI
 Analysis
@@ -1006,6 +1009,7 @@ specified
 sensitivity
 shrunk
 square
+stack
 giving
 good
 generalizable
@@ -1215,6 +1219,7 @@ commonly
 correlated
 complex
 combines
+completes
 the
 to
 training
@@ -1601,6 +1606,7 @@ passes
 penalty
 putting
 pipeline
+previously
 Detecting
 Deepmind
 Dataset
@@ -1878,6 +1884,9 @@ hat
 hot
 hyperparameters
 highly
+had
+heap
+handling
 Execution
 Examples
 Economics
@@ -2049,6 +2058,7 @@ dropped
 discourage
 dealing
 differentiable
+discussed
 future
 from
 feed
