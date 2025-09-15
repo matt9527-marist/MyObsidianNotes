@@ -106,6 +106,7 @@ How do we solve?
 - TUNE PARAMETERS: specifically the *hyperparameters*:
 	- These are the parameters that have to do with how we train the model (learning rate is one of them)
 - REGULARIZATION: reduce the sensitivity of a high variance model to each data point. If we have lots of features in our prediction, some of the features may be highly correlated, this may lead to a certain amount of overfitting. (Reduction of Coefficient):
+- ![[Pasted image 20250915173427.png]]
 	- #Regularization: **Add a penalty term to the error function to discourage learning a more complex model by forcing the model parameters to be small.**
 	How do we decide which coefficients need to be shrunk?
 	
@@ -119,3 +120,4 @@ This is known as #RidgeRegression, where we are trying to "find the ridge" as ea
 An alternative form of this added penalty is:
 $$+ \frac{\lambda}{m}||w||_{1} \leftarrow \sum^{m}_{j=1}|w_{j}|$$
 Which is *L1 Regularization*, also known as LASSO - “Least Absolute Shrinkage and Selection Operator.” Lasso solves a number of the issues that Ridge regularization in terms of dealing with outliers. However, the main problem with this form is that the absolute value function of |W| is non-differentiable at 0. We instead have to compute a sub-gradient. 
+
