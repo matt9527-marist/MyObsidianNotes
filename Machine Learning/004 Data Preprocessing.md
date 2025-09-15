@@ -20,6 +20,8 @@ Imagine we have the column:
 ![[Pasted image 20250915161852.png]]
 
 **3) Scaling**
-Why do we want to scale the values? 
+
+> Why do we scale the values? What if the features we use are 
+
 - Standard Scaling:
 - Min/Max Scaling:
