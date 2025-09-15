@@ -25,7 +25,8 @@
     "gradientDescent": 13,
     "headers": 14,
     "MinGW": 15,
-    "LinearRegression": 16
+    "LinearRegression": 16,
+    "RidgeRegression": 17
   },
   "_version": 3
 }

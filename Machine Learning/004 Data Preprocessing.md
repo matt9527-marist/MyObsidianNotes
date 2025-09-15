@@ -105,9 +105,13 @@ How do we solve?
 - MORE DATA: we tend to control overfitting, but it has limitations. 
 - TUNE PARAMETERS: specifically the *hyperparameters*:
 	- These are the parameters that have to do with how we train the model (learning rate is one of them)
-- REGULARIZATION: reduce the sensitivity of a high variance model to each data point. If we have lots of features in our prediction, some of the features may be highly correlated, this may lead to a certain amount of overfitting. (Reduction of Coefficient)
+- REGULARIZATION: reduce the sensitivity of a high variance model to each data point. If we have lots of features in our prediction, some of the features may be highly correlated, this may lead to a certain amount of overfitting. (Reduction of Coefficient):
+	- **Add a penalty term to the error function to discourage learning a more complex model by forcing the model parameters to be smal.l**
 	How do we decide which coefficients need to be shrunk?
+	
 
 We have our cost function: $$J = \frac{1}{2m}((Xw-y)^T(Xw-y)) + \frac{\lambda}{m}||W||^2_{2}$$
 Lamba is a hyperparameter. 
 Recall that ||w||<sup>2</sup> is W<sup>T</sup>W, which is just the L2 Norm. 
+
+This is known as #RidgeRegression
