@@ -118,9 +118,11 @@ Recall that ||w||<sup>2</sup> is W<sup>T</sup>W, which is just the L2 Norm.
 This is known as #RidgeRegression, where we are trying to "find the ridge" as easily as possible. We like this because it is a quadratic, and we can easily compute the derivative of a square. 
 
 An alternative form of this added penalty is:
-$$+ \frac{\lambda}{m}||w||_{1} \leftarrow \sum^{m}_{j=1}|w_{j}|$$
+$$+ \frac{\lambda}{m}||W||_{1} \leftarrow \sum^{m}_{j=1}|W_{j}|$$
 Which is *L1 Regularization*, also known as #LASSO - “Least Absolute Shrinkage and Selection Operator.” Lasso solves a number of the issues that Ridge regularization in terms of dealing with outliers. However, the main problem with this form is that the absolute value function of |W| is non-differentiable at 0. We instead have to compute a sub-gradient. 
 
 Yet another form exists: #ElasticNet
 This combines the L2 (Ridge) and Lasso (L1) regularizations in the penalty:
 $$+ \rho \frac{\lambda}{m}||W||^2_{2} + (1-\rho)\frac{1}{m}|W|_{1}$$
+Rho allows us to assign how much weight is given to either the L1 or L2 regularization penalties. 
+
