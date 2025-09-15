@@ -105,6 +105,8 @@ How do we solve?
 - MORE DATA: we tend to control overfitting, but it has limitations. 
 - TUNE PARAMETERS: specifically the *hyperparameters*:
 	- These are the parameters that have to do with how we train the model (learning rate is one of them)
-- REGULARIZATION: reduce the sensitivity of a high variance model to each data point. If we have lots of features in our prediction, some of the features may be highly correlated, this may lead to a certain amount of overfitting. 
+- REGULARIZATION: reduce the sensitivity of a high variance model to each data point. If we have lots of features in our prediction, some of the features may be highly correlated, this may lead to a certain amount of overfitting. (Reduction of Coefficient)
+	How do we decide which coefficients need to be shrunk?
 
+We have our cost function: $$J = \frac{1}{2m}(Xw-y^T(Xw-y))$$
 
