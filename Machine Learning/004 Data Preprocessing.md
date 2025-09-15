@@ -16,7 +16,10 @@ In Pandas, we can use dummy variables to solve this problem. In Scikit Learn, th
 
 Imagine we have the column:
 
-*Origin*
+*Origin*                            [        Dummy Values        ]
 ![[Pasted image 20250915161852.png]]
 
 **3) Scaling**
+Why do we want to scale the values? 
+- Standard Scaling:
+- Min/Max Scaling:
