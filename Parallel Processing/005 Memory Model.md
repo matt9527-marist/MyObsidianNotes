@@ -145,4 +145,7 @@ int main() {
 //Size: 8367016 Bytes  
 //Size: 7.97941 MBs  
 ```
-We can also get stack memory using ``
+We can also get stack memory using `ulimit -s`
+
+**Heap Memory or Dynamic Memory**
+
