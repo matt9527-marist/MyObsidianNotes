@@ -209,4 +209,16 @@ int main() {
 }  
 //Address: 0x156605ee0
 ```
-
+```c++
+#include <iostream>  
+#include <cstdlib>  
+int main() {  
+	void *p1 = malloc(sizeof(int)); // sizeof(MyClass)  
+	std::cout << "Address: " << p1 << "\n";  
+	std::cout << "Value: " << *p1 << "\n"; //error  
+	// Error since size not available whether int/double  
+	// casting required  
+	
+	free(p1);  
+}
+```
