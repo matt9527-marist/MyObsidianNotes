@@ -43,6 +43,8 @@ Min
 Max
 MORE
 Memory
+Mac
+Maps
 Learning
 Learn
 Let
@@ -71,6 +73,7 @@ Lamba
 LASSO
 Least
 Lasso
+Limit
 Relevant
 Reading
 Research
@@ -112,6 +115,7 @@ Ridge
 Rho
 Range
 Returned
+RAM
 libraries
 learn
 learning
@@ -169,6 +173,13 @@ language
 letter
 location
 lead
+leave
+limit
+length
+logical
+lifetime
+limited
+leaks
 Graphing
 Google
 Game
@@ -184,6 +195,8 @@ Goal
 Given
 Greeting
 Guidelines
+GB
+Global
 Charting
 Control
 Common
@@ -251,6 +264,10 @@ Closed
 Caesar
 Coefficient
 Container
+Constants
+Critical
+Contiguous
+Create
 Scikit
 Statistical
 Statistics
@@ -318,6 +335,14 @@ Step
 Since
 Safer
 Safe
+Shared
+Sensitive
+Separate
+Space
+Started
+Symbol
+Stack
+SSD
 Keras
 Key
 Kirchhoffs
@@ -329,6 +354,7 @@ Kx
 KX
 Kw
 Keys
+KB
 TensorFlow
 Task
 Training
@@ -373,6 +399,8 @@ Typically
 Transposition
 TUNE
 That
+Terminated
+Text
 ISLP
 Iris
 Instance
@@ -535,6 +563,11 @@ allocates
 allocated
 again
 allocate
+accidental
+accessible
+addresses
+aa
+among
 Applications
 AI
 Analysis
@@ -586,6 +619,11 @@ Absolute
 Analytical
 Automatically
 Alternative
+Address
+Addresses
+Allocation
+Automatic
+Allocated
 with
 without
 want
@@ -640,6 +678,7 @@ whatever
 warnings
 weight
 weak
+whose
 Python
 Performance
 Principle
@@ -698,6 +737,10 @@ PARAMETERS
 Printing
 Prints
 Printer
+Physical
+Program
+Page
+Properties
 What
 We
 With
@@ -718,6 +761,7 @@ Without
 Wimplicit
 Whenever
 WARNING
+Whether
 is
 in
 if
@@ -793,6 +837,14 @@ identifier
 indicators
 including
 identity
+implicitly
+increment
+immutable
+instantiating
+info
+interference
+instructions
+init
 Field
 For
 Find
@@ -816,6 +868,8 @@ Fw
 Finally
 Form
 Feed
+Fragmentation
+Frame
 of
 or
 optimize
@@ -878,6 +932,10 @@ overpower
 option
 overfitting
 outliers
+overwriting
+ordered
+overflow
+occur
 study
 simplified
 something
@@ -1034,6 +1092,12 @@ safety
 shows
 similar
 store
+sense
+scheme
+similarly
+sys
+smallest
+sections
 giving
 good
 generalizable
@@ -1085,6 +1149,7 @@ gear
 guess
 groups
 global
+guaranteed
 computers
 computer
 can
@@ -1247,6 +1312,16 @@ combines
 completes
 convert
 contain
+constexpr
+concern
+concurrent
+changes
+contiguous
+compiled
+creating
+current
+caller
+concurrency
 the
 to
 training
@@ -1334,6 +1409,10 @@ transformer
 transform
 tend
 term
+throws
+throughout
+threads
+tailored
 being
 be
 by
@@ -1401,6 +1480,7 @@ bytes
 bit
 box
 become
+bottom
 explicitly
 experience
 error
@@ -1502,6 +1582,9 @@ except
 effects
 element
 explicit
+eliminating
+exposed
+entry
 programmed
 patterns
 program
@@ -1643,6 +1726,13 @@ previously
 passed
 print
 pointed
+prevents
+physical
+paging
+pagefile
+page
+pages
+persists
 Detecting
 Deepmind
 Dataset
@@ -1678,6 +1768,7 @@ Default
 Defaults
 DanglingReference
 Declares
+Disk
 regularities
 respect
 recognizing
@@ -1785,6 +1876,10 @@ ridge
 regularizations
 refer
 referencing
+running
+requests
+refresher
+required
 model
 mostly
 machine
@@ -1884,6 +1979,8 @@ median
 meaningless
 measuring
 majority
+modification
+mapped
 hypothesis
 handwritten
 have
@@ -1931,6 +2028,7 @@ had
 heap
 handling
 holds
+handle
 Execution
 Examples
 Economics
@@ -2007,6 +2105,8 @@ uncover
 uniform
 unitary
 until
+usage
+uninitialized
 data
 driven
 dataset
@@ -2109,6 +2209,11 @@ dereferencing
 dereferenced
 dereference
 deallocated
+discusses
+disk
+dynamically
+de
+deallocate
 future
 from
 feed
@@ -2185,6 +2290,9 @@ fitted
 forcing
 factored
 finishes
+fragmented
+frames
+forget
 Optimziation
 Operations
 Once
@@ -2210,6 +2318,7 @@ Obtain
 Overhead
 Origin
 Operator
+OS
 kind
 know
 knowledge
@@ -2259,6 +2368,8 @@ version
 varied
 variety
 valid
+virtual
+vm
 numerical
 no
 need
@@ -2344,6 +2455,7 @@ Hd
 However
 Has
 Hot
+Heap
 Not
 NOTHING
 No
@@ -2398,6 +2510,7 @@ Updated
 Unless
 Unscoped
 Uses
+Upper
 Breakout
 Because
 Backpropagation
@@ -2422,6 +2535,7 @@ Brace
 Best
 BC
 Both
+BSS
 just
 jagged
 json
@@ -2446,6 +2560,7 @@ Vectorizing
 Vectorized
 Values
 Versions
+Virtual
 zero
 zu
 zj
