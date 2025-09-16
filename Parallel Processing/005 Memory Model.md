@@ -183,3 +183,4 @@ deallocate consistently, similar to stack.
 	a pointer of any form. If the space for the allocation is insufficient,  
 	a NULL pointer is returned.
 
+`malloc`, `calloc`, and `free`
