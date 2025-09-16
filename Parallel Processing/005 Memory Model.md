@@ -204,7 +204,8 @@ free(p1);
 #include <cstdlib>  
 int main() {  
 	void *p1 = malloc(sizeof(int)); // sizeof(MyClass)  
-	std::cout << "Address: " << p1 << "\n";  
+	std::cout << "Address: " << p1 << "\n"; 
+	 
 	free(p1);  
 }  
 //Address: 0x156605ee0
@@ -215,10 +216,23 @@ int main() {
 int main() {  
 	void *p1 = malloc(sizeof(int)); // sizeof(MyClass)  
 	std::cout << "Address: " << p1 << "\n";  
+	
 	std::cout << "Value: " << *p1 << "\n"; //error  
 	// Error since size not available whether int/double  
 	// casting required  
 	
 	free(p1);  
 }
+/*  
+main.cpp:8:29: error: ISO C++ does not allow indirection on  
+operand of type 'void *' [-Wvoid-ptr-dereference]  
+8 | std::cout << "Value: " << *p1 << "\n";  
+| ^~~  
+main.cpp:8:26: error: invalid operands to binary expression  
+('basic_ostream<char, char_traits<char>>' and 'void')  
+8 | std::cout << "Value: " << *p1 << "\n";  
+*/
 ```
+
+`malloc` (Cast the pointer)
+
