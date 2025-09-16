@@ -149,4 +149,13 @@ We can also get stack memory using `ulimit -s`
 
 **Heap Memory or Dynamic Memory**
 ![[Pasted image 20250915202218.png]]
-
+**Properties of Heap Memory**
+• P1: Memory is not deleted when the scope is left. The function  
+can return the address, and the caller can use it.  
+• P2: Variables are allocated at run-time, so size can be tailored  
+based on the size required by variables.  
+• P3: Memory leaks can occur if we forget to deallocate. With a 64-  
+bit OS and large RAM/SSD, we have large memory available.  
+• P4: Heap is shared among threads, we need to handle  
+concurrency  
+• P5: Heap memory can be fragmented
