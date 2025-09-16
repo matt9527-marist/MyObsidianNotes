@@ -166,7 +166,7 @@ frame that represents the function. When returned, the stack
 shrinks.  
 • If we want data that lives from one function to another, we  
 cannot use stack and need somewhere else - Heap. - get with  
-malloc and new  
+`malloc` and `new`  
 • Delete yourself  
 • Destructor, Scope, and RAII come in to help delete consistently.  
 • Modern C++ has provided handles that allocate heap and  
@@ -182,3 +182,4 @@ deallocate consistently, similar to stack.
 	• Both functions return a pointer of type void which can be cast into  
 	a pointer of any form. If the space for the allocation is insufficient,  
 	a NULL pointer is returned.
+
