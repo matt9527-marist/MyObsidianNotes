@@ -24,7 +24,13 @@
     "reducible": 12,
     "gradientDescent": 13,
     "headers": 14,
-    "MinGW": 15
+    "MinGW": 15,
+    "LinearRegression": 16,
+    "RidgeRegression": 17,
+    "Regularization": 18,
+    "LASSO": 19,
+    "ElasticNet": 20,
+    "DanglingReference": 21
   },
   "_version": 3
 }
