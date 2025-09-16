@@ -310,5 +310,25 @@ class MyClass{
 		void setNum(int n);  
 		int getNum() const;  
 };
+
+// memory allocated to num (resource)  
+MyClass::MyClass(){  
+	num = (int*)malloc(sizeof(int));  
+}  
+// num memory (resource) de-allocated  
+MyClass::~MyClass(){  
+	free(num);  
+}
+
+// initializer list is only for constructor  
+void MyClass::setNum(int n) {  
+	*num = n;  
+}  
+int MyClass::getNum() const{  
+	return *num;  
+}
 ```
+
+
+
 
