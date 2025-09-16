@@ -356,6 +356,18 @@ int main(){
 ```
 Or we can use `new`:
 ```c++
-
+nt main(){  
+	//MyClass *m1 = (MyClass *)malloc(sizeof (MyClass));  
+	MyClass *m1 = new MyClass();  
+	
+	m1->setNum(5); // num is allocated  
+	
+	//free(m1);  
+	delete m1;  
+	
+	// num is de-allocated  
+	std::cout << "complete\n";  
+	}  
+	//complete
 ```
 
