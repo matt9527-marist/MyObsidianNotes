@@ -112,6 +112,22 @@ int main(){
 	someFunction(i);  
 	std::cout << "complete\n";  
 }
+/*  
+0 stack bottom: 0x16b25f33c current: 0x16b25f314  
+1 stack bottom: 0x16b25f33c current: 0x16b25f2e4  
+2 stack bottom: 0x16b25f33c current: 0x16b25f2b4  
+3 stack bottom: 0x16b25f33c current: 0x16b25f284  
+4 stack bottom: 0x16b25f33c current: 0x16b25f254  
+5 stack bottom: 0x16b25f33c current: 0x16b25f224  
+...
+174307 stack bottom: 0x16b25f33c current: 0x16aa64884  
+174308 stack bottom: 0x16b25f33c current: 0x16aa64854  
+174309 stack bottom: 0x16b25f33c current: 0x16aa64824  
+174310 stack bottom: 0x16b25f33c current: 0x16aa647f4  
+174311 stack bottom: 0x16b25f33c current: 0x16aa647c4  
+174312 stack bottom: 0x16b25f33c current: 0x16aa64794  
+zsh: segmentation fault ./a.out  
+*/
 ```
 
 
