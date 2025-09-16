@@ -284,3 +284,5 @@ int main() {
 }
 ```
 
+## Memory Model `new`/`delete`
+
