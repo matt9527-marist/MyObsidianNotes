@@ -41,6 +41,11 @@ virtual memory on the disk.
 	• Windows: pagefile.sys
 	• Mac: /private/var/vm/
 
-
-
-
+Memory Page vs. Memory Frame:
+• Memory *Page*: refers to virtual memory  
+	• fixed-length contiguous block described by a single entry in  
+	a page table  
+	• 4KB - 16 KB depends on the OS  
+• Memory *Frame*: refers to physical memory  
+	• smallest fixed-length contiguous block into which memory  
+	pages are mapped by the OS
