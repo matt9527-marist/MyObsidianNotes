@@ -285,4 +285,15 @@ int main() {
 ```
 
 ## Memory Model `new`/`delete`
+`new` and `delete`:
+• The malloc and free are part of the C++ standard also.  
+• The `new`/`delete` represents *object-oriented counterparts* to  
+memory management of malloc/free.  
+• In OOP, the constructor is called to initialize the variables and  
+destructor free all resources.  
+• We can allocate memory to an object using malloc, but then the  
+constructor is not called.  
+• The `new` *allocates memory and calls the constructor*.
+
+`MyClass *myClassN = new MyClass(); delete myClassN;`
 
