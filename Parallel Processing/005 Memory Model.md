@@ -297,3 +297,18 @@ constructor is not called.
 
 `MyClass *myClassN = new MyClass(); delete myClassN;`
 
+MyClass has member: `num`
+```c++
+#include <cstdlib>  
+#include <iostream>  
+class MyClass{  
+	private:  
+		int *num;  
+	public:  
+		MyClass();  
+		~MyClass();  
+		void setNum(int n);  
+		int getNum() const;  
+};
+```
+
