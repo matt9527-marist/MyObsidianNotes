@@ -268,3 +268,18 @@ int main() {
 //5 5  
 //5 5
 ```
+using `calloc`
+```c++
+#include <iostream>  
+#include <cstdlib>  
+int main() {  
+	int *p1 = (int*)calloc(3, sizeof(int));  
+	p1[0] = p1[1] = p1[2] = 5;  
+	
+	std::cout << p1[0] << " " << *p1 << "\n"; // 5 5  
+	std::cout << p1[1] << " " << *(p1+1) << "\n"; // 5 5  
+	std::cout << p1[2] << " " << *(p1+2) << "\n"; // 5 5  
+	
+	free(p1);  
+}
+```
