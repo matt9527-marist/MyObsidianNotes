@@ -148,4 +148,5 @@ int main() {
 We can also get stack memory using `ulimit -s`
 
 **Heap Memory or Dynamic Memory**
+![[Pasted image 20250915202218.png]]
 
