@@ -329,7 +329,7 @@ int MyClass::getNum() const{
 }
 ```
 
-This program will throw an error:
+This program using the above class will throw an error:
 ```c++
 int main(){  
 	MyClass *myClassM;  
@@ -338,7 +338,10 @@ int main(){
 	free(myClassM) ;  
 }
 ```
-
-
+Here, you are using `malloc` to allocate raw memory for `MyClass`.  
+Problem: `malloc` only allocates memory but does **not call the constructor** of `MyClass`.
+Because the constructor is never called, the member pointer `num` is left **uninitialized**. Later when you call:
+`m1->setNum(5);`
+it tries to dereference an uninitialized pointer (`num`), leading to **undefined behavior** (likely a segmentation fault).
 
 
