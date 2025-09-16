@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/002 C++ Introduction.md",
+                "file": "Parallel Processing/005 Memory Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 C++ Introduction"
+              "title": "005 Memory Model"
             }
           }
         ],
@@ -215,8 +215,12 @@
   },
   "active": "f9771b41c4ae046a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Parallel Processing/004 Pointers and References.md",
+    "Parallel Processing/003 C++ Classes and OOP.md",
+    "Parallel Processing/002.2 Vectors.md",
+    "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/002 C++ Introduction.md",
+    "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20250915173425.png",
     "Assets/Pasted image 20250915164111.png",
     "Assets/Pasted image 20250915164106.png",
