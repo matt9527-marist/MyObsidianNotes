@@ -173,3 +173,12 @@ malloc and new
 deallocate consistently, similar to stack.
 
 `malloc` and `calloc`
+• **malloc**: memory allocation  
+	• dynamically allocate a single large block of memory with the  
+	specified size.  
+• **calloc**: cleared memory allocation  
+	• dynamically allocate the specified number of blocks of memory of  
+	the specified type. It initializes each block with a default value '0'.  
+	• Both functions return a pointer of type void which can be cast into  
+	a pointer of any form. If the space for the allocation is insufficient,  
+	a NULL pointer is returned.
