@@ -76,3 +76,24 @@ When a process requests memory:
 • limited by the address space only
 
 **Automatic** Memory Allocation 
+• Automatic Allocation for:  
+	• Local variables and function parameters on the Stack.  
+	• It is *allocated and de-allocated automatically*  
+	• the size of variables required at the compile time.
+
+> Create a stack overflow by creating variables on the stack: 
+
+```c++
+#include <iostream>  
+int id{0}; // global on BSS  
+
+//i is a reference and does not get reallocated on the stack in each function  call.  
+
+void someFunction(int &i){  
+	int j{1}; //local: automatic on Stack  
+	std::cout << id++;  
+	std::cout << " stack bottom: " << &i;  
+	std::cout << " current: " << &j << "\n";  
+	someFunction(i); // stack grows  
+}
+```
