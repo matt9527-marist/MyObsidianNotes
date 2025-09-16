@@ -59,6 +59,7 @@ When a process requests memory:
 ![[Pasted image 20250915200622.png]]
 
 ![[Pasted image 20250915201233.png]]
+![[Pasted image 20250915201346.png]]
 Memory sections refresher:
 1. **Text segment** → contains compiled machine code (instructions), not variables.
 2. **Data segment** → stores **global/static variables** that are explicitly initialized with a non-zero value.
