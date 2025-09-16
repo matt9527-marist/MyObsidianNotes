@@ -31,6 +31,16 @@ How will the OS manage the memory if RAM is not available? Whether the memory is
 
 ![[Pasted image 20250915200117.png]]
 
-**Use Virtual Memory **
+**Use Virtual Memory on the Disk**
+• A mapping is performed by OS between
+virtual address space (32bit-4GB) that the
+program see and the physical addresses
+of RAM and disk.
+• The size is not the limit since we can use
+virtual memory on the disk.
+	• Windows: pagefile.sys
+	• Mac: /private/var/vm/
+
+
 
 
