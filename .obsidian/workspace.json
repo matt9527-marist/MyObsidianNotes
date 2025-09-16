@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/000 Introduction.md",
+                "file": "Parallel Processing/002 C++ Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Introduction"
+              "title": "002 C++ Introduction"
             }
           }
         ],
@@ -215,17 +215,17 @@
   },
   "active": "f9771b41c4ae046a",
   "lastOpenFiles": [
+    "Parallel Processing/003 Pointers and References.md",
+    "LaTeX Scratch.md",
+    "Parallel Processing/000 Introduction.md",
     "Machine Learning/Colab Notebooks.md",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
-    "LaTeX Scratch.md",
     "Parallel Processing/002 C++ Introduction.md",
-    "Parallel Processing/003 Pointers and References.md",
     "Assets/Pasted image 20250908154630.png",
     "Assets/Pasted image 20250908153922.png",
     "Assets/Pasted image 20250908153844.png",
     "Parallel Processing/001 CMake and Catch2.md",
-    "Parallel Processing/000 Introduction.md",
     "Assets/Pasted image 20250905174757.png",
     "Assets/Pasted image 20250905174755.png",
     "Assets/Pasted image 20250905174743.png",
