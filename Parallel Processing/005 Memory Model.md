@@ -372,5 +372,10 @@ nt main(){
 ```
 
 **Differences between malloc/free and new/delete**
-`malloc` and `free` 
+Unlike `malloc` and `free`, `new` and `delete` call the constructor/destructor
 ![[Pasted image 20250915205757.png]]
+• *Operator Overloading*: As malloc and free are functions defined in a library,  
+their behavior can not be changed easily. However, the new and delete  
+operators can be overloaded by a class to include optional proprietary  
+behavior.
+
