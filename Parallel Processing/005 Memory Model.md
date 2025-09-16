@@ -156,7 +156,7 @@ can return the address, and the caller can use it.
 based on the size required by variables.  
 • P3: Memory leaks can occur if we forget to deallocate. With a 64-  
 bit OS and large RAM/SSD, we have large memory available.  
-• P4: Heap is shared among threads, we need to handle  
+• P4: Heap is shared among *threads*, we need to handle  
 concurrency  
 • P5: Heap memory can be fragmented
 
@@ -171,3 +171,5 @@ malloc and new
 • Destructor, Scope, and RAII come in to help delete consistently.  
 • Modern C++ has provided handles that allocate heap and  
 deallocate consistently, similar to stack.
+
+`malloc` and `calloc`
