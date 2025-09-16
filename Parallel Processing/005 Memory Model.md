@@ -49,3 +49,10 @@ Memory Page vs. Memory Frame:
 • Memory *Frame*: refers to physical memory  
 	• smallest fixed-length contiguous block into which memory  
 	pages are mapped by the OS
+
+**Virtual Memory Management**
+When a process requests memory:
+- OS allocates one or more page frames to the process
+- Maps the process's logical pages to the physical page frames. 
+![[Pasted image 20250915200436.png]]
+
