@@ -371,3 +371,6 @@ nt main(){
 	//complete
 ```
 
+**Differences between malloc/free and new/delete**
+`malloc` and `free` 
+![[Pasted image 20250915205757.png]]
