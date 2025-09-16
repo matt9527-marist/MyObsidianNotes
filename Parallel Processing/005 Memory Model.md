@@ -184,3 +184,29 @@ deallocate consistently, similar to stack.
 	a NULL pointer is returned.
 
 `malloc`, `calloc`, and `free`
+```c++
+int *p1 = (int*)malloc(sizeof(int));  
+
+MyClass *p1 = (MyClass*)malloc(sizeof(MyClass));  
+
+int *p1 = (int*)malloc(3*sizeof(int));  
+
+int *p1 = (int*)calloc(3, sizeof(int));  
+
+p1 = (int*)realloc(p1, 10 * sizeof(int));  
+
+free(p1);
+```
+
+`malloc` (void pointer)
+```c++
+#include <iostream>  
+#include <cstdlib>  
+int main() {  
+	void *p1 = malloc(sizeof(int)); // sizeof(MyClass)  
+	std::cout << "Address: " << p1 << "\n";  
+	free(p1);  
+}  
+//Address: 0x156605ee0
+```
+
