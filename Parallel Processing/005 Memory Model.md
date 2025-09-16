@@ -329,6 +329,14 @@ int MyClass::getNum() const{
 }
 ```
 
-
+This program will throw an error:
+```c++
+int main(){  
+	MyClass *myClassM;  
+	myClassM = (MyClass *)malloc(sizeof (MyClass));  
+	myClassM->setNum(5);  
+	free(myClassM) ;  
+}
+```
 
 
