@@ -104,7 +104,7 @@ void someFunction(int &i){
 	std::cout << id++;  
 	std::cout << " stack bottom: " << &i;  
 	std::cout << " current: " << &j << "\n";  
-	someFunction(i); // stack grows  
+	someFunction(i); // stack grows (recall from recursion)
 }
 
 int main(){  
@@ -130,4 +130,19 @@ zsh: segmentation fault ./a.out
 */
 ```
 
-
+Stack Limit:
+174312 stack bottom: 0x16b25f33c current: 0x16aa64794
+```c++
+#include <iostream>  
+int main() {  
+	uint64_t hex1{0x16b25f33c};  
+	uint64_t hex2{0x16aa64794};  
+	uint64_t bytes{hex1 - hex2};  
+	double mbs{bytes/(1024.0*1024.0)};  
+	std::cout << "Size: " << bytes << " Bytes" << "\n";  
+	std::cout << "Size: " << mbs << " MBs" << "\n";  
+}  
+//Size: 8367016 Bytes  
+//Size: 7.97941 MBs  
+```
+We can also get stack memory using ``
