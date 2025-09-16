@@ -64,3 +64,15 @@ When a process requests memory:
 	• Automatic memory allocation
 
 **Static** Memory Allocation
+• Static Allocation for:  
+	• Static and Global Variables  
+		• in BSS (zero init) and Data (non-zero init) segment  
+	• Memory *persists lifetime*  
+	• the size of variables required at the compile time.
+
+**Dynamic** Memory Allocation
+• The program may request memory at run time from the OS.  
+• Allocated on *Heap*  
+• limited by the address space only
+
+**Automatic** Memory Allocation 
