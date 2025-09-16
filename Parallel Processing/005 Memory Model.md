@@ -23,5 +23,11 @@ changes in the code.
 ![[Pasted image 20250915195539.png]]
 How will the OS manage the memory if RAM is not available? Whether the memory is available or not, the OS will allocate a fixed amount of memory to each program. This is *virtual memory*, as part of a paging scheme. 
 
+**Address Space**
+• Each program has its own 32-bit address space.  
+	• Addresses range from 0 to  
+• Address Space and Upper Limit of Program Memory:  
+	• and similarly
+
 
 
