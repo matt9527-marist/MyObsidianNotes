@@ -329,6 +329,7 @@ int MyClass::getNum() const{
 }
 ```
 
+![[Pasted image 20250915205527.png]]
 This program using the above class will throw an error:
 ```c++
 int main(){  
@@ -344,4 +345,17 @@ Because the constructor is never called, the member pointer `num` is left **unin
 `m1->setNum(5);`
 it tries to dereference an uninitialized pointer (`num`), leading to **undefined behavior** (likely a segmentation fault).
 
+Instead:
+```c++
+int main(){  
+	MyClass *m1 = (MyClass *)malloc(sizeof (MyClass));  
+	//m1->setNum(5); // num is not allocated  
+	free(m1);  
+	// num is not de-allocated  
+}
+```
+Or we can use `new`:
+```c++
+
+```
 
