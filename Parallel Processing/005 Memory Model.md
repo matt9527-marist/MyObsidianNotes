@@ -56,3 +56,5 @@ When a process requests memory:
 - Maps the process's logical pages to the physical page frames. 
 ![[Pasted image 20250915200436.png]]
 
+![[Pasted image 20250915200622.png]]
+
