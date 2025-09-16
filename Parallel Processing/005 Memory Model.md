@@ -235,4 +235,36 @@ main.cpp:8:26: error: invalid operands to binary expression
 ```
 
 `malloc` (Cast the pointer)
+```c++
+#include <iostream>  
+#include <cstdlib>  
+int main() {  
+	int *p2 = (int*)malloc(sizeof(int));  
+	if (p2 != nullptr) {  
+		std::cout << "Address: " << p2 << "\n";  
+		std::cout << "Value: " << *p2 << "\n";  
+	}  
+free(p2);  
+}  
+//Address: 0x145605ee0  
+//Value: 0
+```
 
+Memory for 3 `int`s using `malloc`
+```c++
+#include <iostream>  
+#include <cstdlib>  
+int main() {  
+	int *p1 = (int*)malloc(3*sizeof(int));  
+	p1[0] = p1[1] = p1[2] = 5;  
+	
+	std::cout << p1[0] << " " << *p1 << "\n";  
+	std::cout << p1[1] << " " << *(p1+1) << "\n";  
+	std::cout << p1[2] << " " << *(p1+2) << "\n"; 
+	 
+	free(p1);  
+}  
+//5 5  
+//5 5  
+//5 5
+```
