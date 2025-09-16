@@ -60,11 +60,12 @@ When a process requests memory:
 
 ![[Pasted image 20250915201233.png]]
 ![[Pasted image 20250915201346.png]]
+![[Pasted image 20250915201541.png]]
 Memory sections refresher:
 1. **Text segment** → contains compiled machine code (instructions), not variables.
 2. **Data segment** → stores **global/static variables** that are explicitly initialized with a non-zero value.
 3. **BSS (Block Started by Symbol)** → stores **global/static variables** that are initialized to zero (or left uninitialized).
-4. **Stack** → stores local variables inside functions (`int i`, `int j` in your code).
+4. **Stack** → stores local variables inside functions (`int i`, `int j` in the code).
 5. **Heap** → stores dynamically allocated variables (`new`, `malloc`).
 
 **Memory Allocation in C++**
