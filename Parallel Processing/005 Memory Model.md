@@ -25,9 +25,12 @@ How will the OS manage the memory if RAM is not available? Whether the memory is
 
 **Address Space**
 • Each program has its own 32-bit address space.  
-	• Addresses range from 0 to  
+	• Addresses range from 0 to 2^32
 • Address Space and Upper Limit of Program Memory:  
-	• and similarly
+	• and similarly 2^32 = 4GB
 
+![[Pasted image 20250915200117.png]]
+
+**Use Virtual Memory **
 
 
