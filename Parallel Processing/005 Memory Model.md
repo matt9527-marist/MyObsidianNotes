@@ -106,5 +106,12 @@ void someFunction(int &i){
 	std::cout << " current: " << &j << "\n";  
 	someFunction(i); // stack grows  
 }
+
+int main(){  
+	int i{0};  
+	someFunction(i);  
+	std::cout << "complete\n";  
+}
 ```
+
 
