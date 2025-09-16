@@ -58,3 +58,9 @@ When a process requests memory:
 
 ![[Pasted image 20250915200622.png]]
 
+**Memory Allocation in C++**
+	• Static memory allocation  
+	• Dynamic memory allocation  
+	• Automatic memory allocation
+
+**Static** Memory Allocation
