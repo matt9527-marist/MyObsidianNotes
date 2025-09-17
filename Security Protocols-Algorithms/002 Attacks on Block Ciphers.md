@@ -121,5 +121,10 @@ Padding must be reversible.
 Lastly, plaintext is broken into blocks (`k)
 Erroneous Padding (anything off from the padding standard in use) should be treated as authentication failure, and we should drop the connection. 
 
-**Mode 1: **
+**Mode 1: Electronic Codebook Mode**
+Encrypt each block individually 
+*Serious Weakness*: If the plaintext blocks are the same, the ciphertext will be identical. We can observe these patterns. 
+![[Pasted image 20250917154122.png]]
+
+
 
