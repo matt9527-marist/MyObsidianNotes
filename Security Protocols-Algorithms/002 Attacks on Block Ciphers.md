@@ -119,5 +119,7 @@ Padding must be reversible.
 1. Zero padding, but the last byte determines the amount of 0s used. This is for the case when the actual last bit of the data was a 0. 
 2. ISO/IEC 7816-4: A value of 80 (hex) is appended to the end of the message, followed by 0s. 
 Lastly, plaintext is broken into blocks (`k)
-Erroneous paddinng
+Erroneous Padding (anything off from the padding standard in use) should be treated as authentication failure, and we should drop the connection. 
+
+
 
