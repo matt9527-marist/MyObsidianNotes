@@ -100,5 +100,7 @@ Some things to consider
 2. 256-bit is recommended and is offered by all top block ciphers. 
 
 ## Block Cipher Modes
-
+What are *Block Cipher Modes?*
+Block Cipher Modes allow us to encrypt plaintext p to ciphertext c, where both strings are of arbitrary length. 
+1
 
