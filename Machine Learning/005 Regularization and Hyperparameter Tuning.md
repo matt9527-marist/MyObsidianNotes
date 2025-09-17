@@ -1,1 +1,2 @@
 **1) Data Preprocessing**: | SkLearn and Pandas:
+**2) Regularization**: Ways of controlling *overfitting* in the context of reducing the value of regression coefficients. Doing so completely leaves us with the *intercept*, but this involves 
