@@ -35,8 +35,7 @@
               "title": "005 Memory Model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,14 +185,15 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "749fa05ed976d889",
+  "active": "fe080f0c1bbb1626",
   "lastOpenFiles": [
+    "Parallel Processing/005 Memory Model.md",
+    "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20250915205757.png",
     "Assets/Pasted image 20250915205527.png",
     "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/002.2 Vectors.md",
-    "Parallel Processing/005 Memory Model.md",
     "Assets/Pasted image 20250915202218.png",
     "Assets/Pasted image 20250915201541.png",
     "Assets/Pasted image 20250915201346.png",
@@ -202,7 +202,6 @@
     "Assets/Pasted image 20250915200436.png",
     "Assets/Pasted image 20250915200117.png",
     "Assets/Pasted image 20250915200105.png",
-    "Assets/Pasted image 20250915195539.png",
     "Parallel Processing/004 Pointers and References.md",
     "Parallel Processing/003 C++ Classes and OOP.md",
     "Machine Learning/004 Data Preprocessing.md",
@@ -213,7 +212,6 @@
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
-    "conflict-files-obsidian-git.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7/catch.hpp.md",
