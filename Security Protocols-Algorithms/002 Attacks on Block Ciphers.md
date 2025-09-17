@@ -53,4 +53,9 @@ Across 16 rounds, the result of this process will become the new *R* in the next
 
 The block and key sizes are much smaller than what we use today.
 
-**Advance**
+**Advanced Encryption Standard (AES)**
+- Block size of 128 bits
+- Key lenth and Rounds:
+	- 128 bit key at 10 rounds
+	- 192 bit key at
+![[Pasted image 20250917143411.png]]
