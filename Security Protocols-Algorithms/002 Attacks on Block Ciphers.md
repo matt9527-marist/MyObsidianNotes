@@ -76,5 +76,9 @@ What does this mean?
 Suppose we are working with AES, and we have 10 rounds of encryption:
 1. Round 1: P --> C1. If we know how to get back to P1, the round is said to have been cracked. 
 2. Round 2: C2. We won't have C1 at this point. We have to work from C2 back to the plaintext. We cannot iterate through rounds back to the plaintext. We have to go from C2 right to the plaintext, not knowing what C1 actually is. 
-3. Round 3: C3, even harder. This continues further 
+3. Round 3: C3, even harder. This continues further:
+4. ...
+5. ...
+	...
+6) 
 
