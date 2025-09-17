@@ -19,5 +19,6 @@
 *L2 (Ridge)* and *L1 (Lasso)* or *Elastic Net*, which is `rho L1 + (1-rho) L2`.
 **3) Tuning the Model**: #Hyperparameter Optimization. 
 	- *Cross Validation*: suppose we have a dataset split into training and testing data. We will divide the training dataset TR into K folds (fractions) of the same size. 
-		- Suppose we need to tune our model. We will train the model with all of the TR data, b
+		- Suppose we need to tune our model. We will train the model with all of the TR data, but we will leave the first fold k=1 out of the training. Compute RMSE or MAE (1)
+		- 
 
