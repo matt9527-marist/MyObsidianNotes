@@ -32,7 +32,8 @@
     "ElasticNet": 20,
     "DanglingReference": 21,
     "Hyperparameter": 22,
-    "pipeline": 23
+    "pipeline": 23,
+    "InitializationVector": 24
   },
   "_version": 3
 }

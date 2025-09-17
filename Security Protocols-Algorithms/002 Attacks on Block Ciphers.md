@@ -127,5 +127,14 @@ Encrypt each block individually
 ![[Pasted image 20250917154122.png]]
 
 **Mode 2: Cipher Block Chaining Mode (CBC)**
+Solution: XOR each plaintext block with previous  
+ciphertext block.
+![[Pasted image 20250917154550.png]]
+**Initialization Vectors** #InitializationVector
+1. *Fixed IV*: Don’t do it  
+2. *Counter IV*: IV2 is the opposite of IV1  
+3. *Random IV*: Recommended.  
+4. *Nonce Generated IV*: number used once. This is also  
+recommended.
 
 
