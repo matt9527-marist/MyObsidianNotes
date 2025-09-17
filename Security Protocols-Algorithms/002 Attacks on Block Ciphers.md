@@ -95,3 +95,6 @@ Fish
 • Increase rounds with AES  
 • Caution: Conceal timing from attackers
 
+Some things to consider
+
+
