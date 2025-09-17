@@ -151,3 +151,15 @@ bytes (key stream), which is XORed with plaintext.
 
 ![[Pasted image 20250917155110.png]]
 
+**Mode 4: Counter Mode (CTR)**
+1. The block cipher creates a pseudorandom stream of bytes  
+(key stream), which is XORed with plaintext.  
+	• This is created by concatenating the Nonce with the key iteration  
+	number  
+2. IV must be nonce  
+3. Weaknesses:  
+	1. Very susceptible to nonce IVs used more than once.  
+	2. Susceptible to collision attacks  
+4. Advantages:  
+	1. Encryption & Decryption are the same  
+	2. No padding needed
