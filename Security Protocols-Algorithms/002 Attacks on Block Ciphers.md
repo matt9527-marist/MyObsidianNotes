@@ -96,5 +96,6 @@ Fish
 • Caution: Conceal timing from attackers
 
 Some things to consider
-
+1. 128 secure, but susceptible to *collisions*- Recall: a collision attack is where we can purposefully cause two different data values to encrypt to the same result. 
+2. 256-
 
