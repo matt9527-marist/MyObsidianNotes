@@ -35,7 +35,7 @@ How do we break this?
 - We might try to break round 1, and then we would move on to the next round, and then the subsequent round... etc. for as many rounds as it takes to break the ciphertext. 
 
 ## Encryption Algorithms
-**Data Encryption Standard (DES)**
+**Data Encryption Standard (DES)** #DES
 NOT SECURE -> any modern device can crack DES in relatively short periods of time. 
 - Legacy encryption due to a block size of 64 bits and a key size of 56 bits. 
 - Survives as 3DES, which encrypts, decrypts, and encrypts with DES. 
@@ -150,3 +150,4 @@ bytes (key stream), which is XORed with plaintext.
 	2. No padding needed
 
 ![[Pasted image 20250917155110.png]]
+

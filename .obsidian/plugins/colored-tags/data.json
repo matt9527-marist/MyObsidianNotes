@@ -33,7 +33,8 @@
     "DanglingReference": 21,
     "Hyperparameter": 22,
     "pipeline": 23,
-    "InitializationVector": 24
+    "InitializationVector": 24,
+    "DES": 25
   },
   "_version": 3
 }
