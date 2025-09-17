@@ -116,5 +116,8 @@ Padding allows us to reach outside of the 128 bit multiple block size.
 Padding must be reversible. 
 
 2 Approaches:
-1. Zero padding, but the last byte determines the amount of 0s used. 
+1. Zero padding, but the last byte determines the amount of 0s used. This is for the case when the actual last bit of the data was a 0. 
+2. ISO/IEC 7816-4: A value of 80 (hex) is appended to the end of the message, followed by 0s. 
+Lastly, plaintext is broken into blocks (`k)
+Erroneous paddinng
 
