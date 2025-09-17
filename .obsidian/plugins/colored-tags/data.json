@@ -30,7 +30,8 @@
     "Regularization": 18,
     "LASSO": 19,
     "ElasticNet": 20,
-    "DanglingReference": 21
+    "DanglingReference": 21,
+    "Hyperparameter": 22
   },
   "_version": 3
 }
