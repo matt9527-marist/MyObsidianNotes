@@ -46,6 +46,7 @@ Memory
 Mac
 Maps
 MyClass
+Mode
 Learning
 Learn
 Let

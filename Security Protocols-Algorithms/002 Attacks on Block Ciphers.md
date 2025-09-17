@@ -52,3 +52,4 @@ Split the original 64 bit block into two 32 bit segments.
 Across 16 rounds, the result of this process will become the new *R* in the next round. There will be 16 runs of function *f*.
 
 The block and key sizes are much smaller than what we use today.
+
