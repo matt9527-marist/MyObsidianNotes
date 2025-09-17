@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "482626b13a3ea2d2",
+        "id": "ae20df7ba564fe25",
         "type": "tabs",
         "children": [
           {
-            "id": "fe080f0c1bbb1626",
+            "id": "76a3db27b8b98958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Processing/004 Pointers and References.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "004 Pointers and References"
-            }
-          },
-          {
-            "id": "749fa05ed976d889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Processing/005 Memory Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "005 Memory Model"
+              "title": "New tab"
             }
           }
         ]
@@ -185,9 +167,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "fe080f0c1bbb1626",
+  "active": "76a3db27b8b98958",
   "lastOpenFiles": [
     "Parallel Processing/005 Memory Model.md",
+    "Parallel Processing/004 Pointers and References.md",
     "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20250915205757.png",
     "Assets/Pasted image 20250915205527.png",
@@ -202,7 +185,6 @@
     "Assets/Pasted image 20250915200436.png",
     "Assets/Pasted image 20250915200117.png",
     "Assets/Pasted image 20250915200105.png",
-    "Parallel Processing/004 Pointers and References.md",
     "Parallel Processing/003 C++ Classes and OOP.md",
     "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
