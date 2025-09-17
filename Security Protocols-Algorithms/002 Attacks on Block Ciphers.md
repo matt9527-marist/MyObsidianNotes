@@ -54,10 +54,11 @@ Across 16 rounds, the result of this process will become the new *R* in the next
 The block and key sizes are much smaller than what we use today.
 
 **Advanced Encryption Standard (AES)**
-- Block size of 128 bits
-- Key lenth and Rounds:
+- Block size of 128 bits instead of DES's 64
+- Key length and Rounds: (Variable as options for companies)
 	- 128 bit key at 10 rounds
 	- 192 bit key at 12 rounds
 	- 256 bit key at 14 rounds 
+	(Cannot swap these)
 ![[Pasted image 20250917143411.png]]
 
