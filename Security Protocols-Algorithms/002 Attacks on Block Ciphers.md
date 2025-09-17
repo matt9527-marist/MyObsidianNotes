@@ -102,5 +102,15 @@ Some things to consider
 ## Block Cipher Modes
 What are *Block Cipher Modes?*
 Block Cipher Modes allow us to encrypt plaintext p to ciphertext c, where both strings are of arbitrary length. 
-1
+
+This is if we are encrypting not only 128 bits or shorter.
+
+1. Many security professionals want to encrypt  
+something longer than a block size of 128 bits  
+2. Use block cipher modes to achieve this  
+3. Passive vs Active Attacks
+
+**The Function of Padding**
+Padding allows us to reach outside of the 128 bit multiple block size. 
+Padding must be reversible. 
 
