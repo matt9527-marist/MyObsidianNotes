@@ -411,6 +411,7 @@ That
 Terminated
 Text
 Tuning
+Transformer
 ISLP
 Iris
 Instance
@@ -1122,6 +1123,7 @@ sections
 shrinks
 somewhere
 segmentation
+shortcut
 giving
 good
 generalizable
@@ -2027,6 +2029,7 @@ majority
 modification
 mapped
 malloc
+manages
 hypothesis
 handwritten
 have
@@ -2120,6 +2123,7 @@ Encoding
 ElasticNet
 Elements
 Elastic
+Estimators
 using
 utility
 use
