@@ -112,5 +112,9 @@ something longer than a block size of 128 bits
 
 **The Function of Padding**
 Padding allows us to reach outside of the 128 bit multiple block size. 
+- Assume we had a piece of data 255 bits in size. To encrypt this, this data would be split into two blocks of sizes 128 bits and 127 bits. We need to pad that 127 bit block. 
 Padding must be reversible. 
+
+2 Approaches:
+1. Zero padding, but the last byte determines the amount of 0s used. 
 
