@@ -137,4 +137,16 @@ ciphertext block.
 4. *Nonce Generated IV*: number used once. This is also  
 recommended.
 
-**Mode 3: Output Feedback Mode (O**
+**Mode 3: Output Feedback Mode (OFB)**
+1. The block cipher creates a pseudorandom stream of
+bytes (key stream), which is XORed with plaintext.
+	• This is created by iteratively encrypting the IV
+2. IV must either be random or nonce
+3. Weaknesses:
+	1. Very susceptible to nonce IVs used more than once.
+	2. Susceptible to collision attacks
+4. Advantages:
+	1. Encryption & Decryption are the same
+	2. No padding needed
+
+![[Pasted image 20250917155110.png]]
