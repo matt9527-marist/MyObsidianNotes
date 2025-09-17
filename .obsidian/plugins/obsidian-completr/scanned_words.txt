@@ -45,6 +45,7 @@ MORE
 Memory
 Mac
 Maps
+MyClass
 Learning
 Learn
 Let
@@ -74,6 +75,7 @@ LASSO
 Least
 Lasso
 Limit
+Later
 Relevant
 Reading
 Research
@@ -116,6 +118,7 @@ Rho
 Range
 Returned
 RAM
+RAII
 libraries
 learn
 learning
@@ -180,6 +183,8 @@ logical
 lifetime
 limited
 leaks
+lives
+likely
 Graphing
 Google
 Game
@@ -268,6 +273,7 @@ Constants
 Critical
 Contiguous
 Create
+Cast
 Scikit
 Statistical
 Statistics
@@ -343,6 +349,7 @@ Started
 Symbol
 Stack
 SSD
+Scope
 Keras
 Key
 Kirchhoffs
@@ -845,6 +852,9 @@ info
 interference
 instructions
 init
+initializes
+insufficient
+initialize
 Field
 For
 Find
@@ -936,6 +946,10 @@ overwriting
 ordered
 overflow
 occur
+oriented
+operators
+overloaded
+optional
 study
 simplified
 something
@@ -1098,6 +1112,9 @@ similarly
 sys
 smallest
 sections
+shrinks
+somewhere
+segmentation
 giving
 good
 generalizable
@@ -1322,6 +1339,12 @@ creating
 current
 caller
 concurrency
+consistently
+calloc
+cleared
+counterparts
+constructor
+calls
 the
 to
 training
@@ -1413,6 +1436,7 @@ throws
 throughout
 threads
 tailored
+tries
 being
 be
 by
@@ -1585,6 +1609,7 @@ explicit
 eliminating
 exposed
 entry
+else
 programmed
 patterns
 program
@@ -1733,6 +1758,8 @@ pagefile
 page
 pages
 persists
+provided
+proprietary
 Detecting
 Deepmind
 Dataset
@@ -1769,6 +1796,9 @@ Defaults
 DanglingReference
 Declares
 Disk
+Delete
+Destructor
+Differences
 regularities
 respect
 recognizing
@@ -1880,6 +1910,8 @@ running
 requests
 refresher
 required
+returned
+raw
 model
 mostly
 machine
@@ -1981,6 +2013,7 @@ measuring
 majority
 modification
 mapped
+malloc
 hypothesis
 handwritten
 have
@@ -2029,6 +2062,8 @@ heap
 handling
 holds
 handle
+help
+handles
 Execution
 Examples
 Economics
@@ -2214,6 +2249,8 @@ disk
 dynamically
 de
 deallocate
+delete
+destructor
 future
 from
 feed
@@ -2293,6 +2330,8 @@ finishes
 fragmented
 frames
 forget
+frame
+fault
 Optimziation
 Operations
 Once
@@ -2319,6 +2358,8 @@ Overhead
 Origin
 Operator
 OS
+Or
+Overloading
 kind
 know
 knowledge
@@ -2370,6 +2411,7 @@ variety
 valid
 virtual
 vm
+void
 numerical
 no
 need
@@ -2440,6 +2482,7 @@ yQ
 yS
 ys
 yet
+yourself
 How
 Hinge
 Header
@@ -2511,6 +2554,7 @@ Unless
 Unscoped
 Uses
 Upper
+Unlike
 Breakout
 Because
 Backpropagation
