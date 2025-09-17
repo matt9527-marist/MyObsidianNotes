@@ -11,7 +11,8 @@
 	Also in terms of SKLearn:
 		- `make_column_transformer(tuple_1, tuple_2...)`
 		- tuple: ( [estimator], [list features])
-			- We can use a pipeline for the estimator input. SKLearn has a useful 
+			- We can use a pipeline for the estimator input. SKLearn has a useful operation make_pipeline, instantiating a pipeline object that will possess a select number of steps. 
+			- `make_pipeline(SimpleImputer(), StandardScaler()`
 **2) Regularization**: Ways of controlling *overfitting* in the context of reducing the value of regression coefficients. Doing so completely leaves us with the *intercept*, but gives us various methods:
 *L2 (Ridge)* and *L1 (Lasso)* or *Elastic Net*, which is `rho L1 + (1-rho) L2`.
 **3) Tuning the Model**: #Hyperparameter Optimization. 
