@@ -67,6 +67,8 @@ The block and key sizes are much smaller than what we use today.
 3. Input the 16 bit output into an *S* box which gives an output of 8 bits.
 4. Output moves into predefined *Mix* function.
 5. Results of the *Mix* function are output back as 16 bits and are fed into the next round.
-**Advantages**: This is all operating in **parallel**. This is what allowed us to double the bit size by increasing speed significantly. AES is able to have the same speed as DES, but with significantly higher security.
+**Advantages**: This is all operating in **parallel**. This is what allowed us to double the bit size by increasing speed significantly. AES is able to have triple peed as DES, but with significantly higher security.
 **Disadvantages**: Will be naturally broken someday. 
+
+**Serpent** is the 1/3 speed version of AES, so just as fast as DES, but is highly secure. Current attacks can only crack up to 12 
 
