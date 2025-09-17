@@ -57,5 +57,7 @@ The block and key sizes are much smaller than what we use today.
 - Block size of 128 bits
 - Key lenth and Rounds:
 	- 128 bit key at 10 rounds
-	- 192 bit key at
+	- 192 bit key at 12 rounds
+	- 256 bit key at 14 rounds 
 ![[Pasted image 20250917143411.png]]
+
