@@ -60,5 +60,7 @@ The block and key sizes are much smaller than what we use today.
 	- 192 bit key at 12 rounds
 	- 256 bit key at 14 rounds 
 	(Cannot swap these)
+	Why have multiple options when 256 is the most secure? Why do overkill? Some may opt for lower levels of security in order to increase performance. 
 ![[Pasted image 20250917143411.png]]
 
+**Advantages**:
