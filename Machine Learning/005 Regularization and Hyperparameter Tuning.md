@@ -6,7 +6,8 @@
 		- *Standard Scaler*: Use Z-scores 
 		- *Min/Max*
 	- SkLearn manages *Estimators*: (shortcut is fit-transform)
-		- *Transformer*
+		- *Transformers*: fit/transform or `fit.transform()`
+		- *Predictors*: fit/predict, use the trained data to predict 
 **2) Regularization**: Ways of controlling *overfitting* in the context of reducing the value of regression coefficients. Doing so completely leaves us with the *intercept*, but gives us various methods:
 *L2 (Ridge)* and *L1 (Lasso)* or *Elastic Net*, which is `rho L1 + (1-rho) L2`.
 **3) Tuning the Model**: #Hyperparameter Optimization. 
