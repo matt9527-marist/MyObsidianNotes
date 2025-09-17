@@ -74,6 +74,6 @@ The block and key sizes are much smaller than what we use today.
 What does this mean?
 
 Suppose we are working with AES, and we have 10 rounds of encryption:
-1. Round 1: P --> C1
-2. 
+1. Round 1: P --> C1. If we know how to get back to P1, the round is said to have been cracked. 
+2. Round2: C2. We won't have C1 at this point. We have
 
