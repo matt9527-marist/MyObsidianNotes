@@ -85,5 +85,13 @@ Suppose we are working with AES, and we have 10 rounds of encryption:
 ![[Pasted image 20250917145938.png]]
 Came with design flaws in computing new keys. We did not go with this framework. 
 
-
+**What Algorithm Should I Use?**
+1. AES is the general recommendation  
+	1. It's “the standard”  
+	2. Easy to implement  
+2. If you are concerned about future-proofing AES:  
+• Double encrypt, once with AES, and then with Serpent/ Two  
+Fish  
+• Increase rounds with AES  
+• Caution: Conceal timing from attackers
 
