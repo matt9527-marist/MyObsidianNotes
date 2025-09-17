@@ -19,9 +19,9 @@
 *L2 (Ridge)* and *L1 (Lasso)* or *Elastic Net*, which is `rho L1 + (1-rho) L2`.
 **3) Tuning the Model**: #Hyperparameter Optimization. 
 	- *Cross Validation*: suppose we have a dataset split into training and testing data. We will divide the training dataset TR into K folds (fractions) of the same size. 
-		- Suppose we need to tune our model. We will train the model with all of the TR data, but we will leave the first fold k=1 out of the training. Compute RMSE or MAE (1)
-		- In the next training iteration, we will leave out the second fold k=2. Compute RMSE or MAE (2)
-		- Repeat this process k times. 
+		- Suppose we need to tune our model. We will train the model with all of the TR data, but we will leave the first fold `k=1` out of the training. Compute RMSE or MAE (1)
+		- In the next training iteration, we will leave out the second fold `k=2`. Compute RMSE or MAE (2)
+		- Repeat this process `k` times. 
 		- We end up with RMSE and MAE (k). 
-	- Why do we do this? Let's assume we are using *Elastic Net*, where we are using lambda (learning rate) and rho (how much of ridge vs. how much of lasso we are using). These are two **hyperparameters**. These are the values we want to tune. We shouldn't be testing these hyper
+	- Why do we do this? Let's assume we are using *Elastic Net*, where we are using lambda (learning rate) and rho (how much of ridge vs. how much of lasso we are using). These are two **hyperparameters**. These are the values we want to tune. We shouldn't be testing these hyperparameters against the final testing data. Instead, we are using *validation data* to test them.
 
