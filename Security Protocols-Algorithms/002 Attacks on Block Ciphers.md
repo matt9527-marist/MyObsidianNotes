@@ -121,5 +121,5 @@ Padding must be reversible.
 Lastly, plaintext is broken into blocks (`k)
 Erroneous Padding (anything off from the padding standard in use) should be treated as authentication failure, and we should drop the connection. 
 
-
+**Mode 1: **
 
