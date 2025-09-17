@@ -81,5 +81,9 @@ Suppose we are working with AES, and we have 10 rounds of encryption:
 5. ...
 	... By the 10th round, it is far more difficult, as we would have to surmise C9, C8, C7... 
 
-**Twofish** came as a compromise between AES and Serp
+**Twofish** came as a compromise between AES and Serpent:
+![[Pasted image 20250917145938.png]]
+Came with design flaws in computing new keys. We did not go with this framework. 
+
+
 
