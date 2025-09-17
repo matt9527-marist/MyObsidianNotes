@@ -159,7 +159,9 @@ bytes (key stream), which is XORed with plaintext.
 2. IV must be nonce  
 3. Weaknesses:  
 	1. Very susceptible to nonce IVs used more than once.  
-	2. Susceptible to collision attacks  
+	2. Susceptible to collision attacks (still susceptible if your IV/nonce is used more than once)
 4. Advantages:  
 	1. Encryption & Decryption are the same  
 	2. No padding needed
+![[Pasted image 20250917155829.png]]
+
