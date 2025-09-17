@@ -24,4 +24,4 @@
 		- Repeat this process `k` times. 
 		- We end up with RMSE and MAE (k). 
 	- Why do we do this? Let's assume we are using *Elastic Net*, where we are using lambda (learning rate) and rho (how much of ridge vs. how much of lasso we are using). These are two **hyperparameters**. These are the values we want to tune. We shouldn't be testing these hyperparameters against the final testing data. Instead, we are using *validation data* to test them. Doing so gives us an average metric on which to determine lambda and rho. 
-	- Going further can be a matter of trial and error and a lot of predictions 
+	- Going further can be a matter of trial and error and a lot of predictions and time. 
