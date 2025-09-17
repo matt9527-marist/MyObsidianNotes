@@ -23,5 +23,5 @@
 		- In the next training iteration, we will leave out the second fold k=2. Compute RMSE or MAE (2)
 		- Repeat this process k times. 
 		- We end up with RMSE and MAE (k). 
-	- Why do we do this? 
+	- Why do we do this? Let's assume we are using *Elastic Net*, where we are using lambda (learning rate) and rho (how much of ridge vs. how much of lasso we are using). These are two **hyperparameters**. These are the values we want to tune. We shouldn't be testing these hyper
 
