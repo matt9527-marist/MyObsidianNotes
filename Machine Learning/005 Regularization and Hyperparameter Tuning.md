@@ -20,5 +20,8 @@
 **3) Tuning the Model**: #Hyperparameter Optimization. 
 	- *Cross Validation*: suppose we have a dataset split into training and testing data. We will divide the training dataset TR into K folds (fractions) of the same size. 
 		- Suppose we need to tune our model. We will train the model with all of the TR data, but we will leave the first fold k=1 out of the training. Compute RMSE or MAE (1)
-		- 
+		- In the next training iteration, we will leave out the second fold k=2. Compute RMSE or MAE (2)
+		- Repeat this process k times. 
+		- We end up with RMSE and MAE (k). 
+	- Why do we do this? 
 
