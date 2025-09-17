@@ -351,6 +351,7 @@ Symbol
 Stack
 SSD
 Scope
+Scaler
 Keras
 Key
 Kirchhoffs
@@ -409,6 +410,7 @@ TUNE
 That
 Terminated
 Text
+Tuning
 ISLP
 Iris
 Instance
@@ -632,6 +634,7 @@ Addresses
 Allocation
 Automatic
 Allocated
+Alphanumeric
 with
 without
 want
@@ -1805,6 +1808,8 @@ Delete
 Destructor
 Differences
 Doing
+Deal
+Dummy
 regularities
 respect
 recognizing
@@ -2369,6 +2374,7 @@ Operator
 OS
 Or
 Overloading
+Overview
 kind
 know
 knowledge
@@ -2508,6 +2514,7 @@ However
 Has
 Hot
 Heap
+Hyperparameter
 Not
 NOTHING
 No
@@ -2532,6 +2539,7 @@ Numpy
 Norm
 Needs
 Net
+Numeric
 quality
 question
 quickly

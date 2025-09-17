@@ -35,7 +35,8 @@
               "title": "005 Regularization and Hyperparameter Tuning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "76a3db27b8b98958",
+  "active": "e4a217d55bb0068b",
   "lastOpenFiles": [
-    "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/004 Data Preprocessing.md",
+    "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/Colab Notebooks.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Parallel Processing/005 Memory Model.md",
