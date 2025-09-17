@@ -68,4 +68,5 @@ The block and key sizes are much smaller than what we use today.
 4. Output moves into predefined *Mix* function.
 5. Results of the *Mix* function are output back as 16 bits and are fed into the next round.
 **Advantages**: This is all operating in **parallel**. This is what allowed us to double the bit size by increasing speed significantly. AES is able to have the same speed as DES, but with significantly higher security.
-**Disadvant**
+**Disadvantages**: Will be naturally broken someday. 
+
