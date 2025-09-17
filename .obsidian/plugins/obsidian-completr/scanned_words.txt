@@ -119,6 +119,7 @@ Range
 Returned
 RAM
 RAII
+RMSE
 libraries
 learn
 learning
@@ -186,6 +187,8 @@ leaks
 lives
 likely
 leaves
+lambda
+lasso
 Graphing
 Google
 Game
@@ -203,6 +206,7 @@ Greeting
 Guidelines
 GB
 Global
+Going
 Charting
 Control
 Common
@@ -275,6 +279,7 @@ Critical
 Contiguous
 Create
 Cast
+Column
 Scikit
 Statistical
 Statistics
@@ -352,6 +357,7 @@ Stack
 SSD
 Scope
 Scaler
+SKLearn
 Keras
 Key
 Kirchhoffs
@@ -412,6 +418,8 @@ Terminated
 Text
 Tuning
 Transformer
+Transformers
+TR
 ISLP
 Iris
 Instance
@@ -754,6 +762,7 @@ Program
 Page
 Properties
 Preprocessing
+Predictors
 What
 We
 With
@@ -863,6 +872,7 @@ initializes
 insufficient
 initialize
 intercept
+iteration
 Field
 For
 Find
@@ -958,6 +968,7 @@ oriented
 operators
 overloaded
 optional
+opens
 study
 simplified
 something
@@ -1124,6 +1135,10 @@ shrinks
 somewhere
 segmentation
 shortcut
+suppose
+split
+shouldn
+scoring
 giving
 good
 generalizable
@@ -1176,6 +1191,8 @@ guess
 groups
 global
 guaranteed
+great
+grid
 computers
 computer
 can
@@ -1447,6 +1464,11 @@ throughout
 threads
 tailored
 tries
+tuple
+transforming
+tune
+times
+trial
 being
 be
 by
@@ -1770,6 +1792,8 @@ pages
 persists
 provided
 proprietary
+preprocessing
+pipelines
 Detecting
 Deepmind
 Dataset
@@ -2030,6 +2054,8 @@ modification
 mapped
 malloc
 manages
+metric
+matter
 hypothesis
 handwritten
 have
@@ -2269,6 +2295,8 @@ de
 deallocate
 delete
 destructor
+debugging
+divide
 future
 from
 feed
@@ -2350,6 +2378,10 @@ frames
 forget
 frame
 fault
+folds
+fractions
+fold
+final
 Optimziation
 Operations
 Once
@@ -2431,6 +2463,7 @@ valid
 virtual
 vm
 void
+validation
 numerical
 no
 need
@@ -2627,6 +2660,7 @@ Vectorized
 Values
 Versions
 Virtual
+Validation
 zero
 zu
 zj
