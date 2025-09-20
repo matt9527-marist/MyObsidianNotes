@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbefac015302fdd9",
+        "id": "85723daf885d1d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "e03604b89031e8a9",
+            "id": "a75a50e9b269bf05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/001 CMake and Catch2.md",
+                "file": "Parallel Processing/002 C++ Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 CMake and Catch2"
+              "title": "002 C++ Introduction"
             }
           }
         ]
@@ -147,12 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d10e016d1bbcb3b5",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -170,8 +181,9 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e03604b89031e8a9",
+  "active": "a75a50e9b269bf05",
   "lastOpenFiles": [
+    "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
     "Parallel Processing/002.1 Using Dynamic Memory.md",
     "LaTeX Scratch.md",
@@ -180,7 +192,6 @@
     "Parallel Processing/004 Pointers and References.md",
     "Parallel Processing/005 Memory Model.md",
     "Parallel Processing/002 C++ Introduction.md",
-    "Parallel Processing/001 CMake and Catch2.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Assets/Pasted image 20250917155829.png",
     "Assets/Pasted image 20250917155110.png",
