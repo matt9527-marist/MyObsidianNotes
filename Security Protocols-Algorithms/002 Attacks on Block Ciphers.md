@@ -35,7 +35,7 @@ How do we break this?
 - We might try to break round 1, and then we would move on to the next round, and then the subsequent round... etc. for as many rounds as it takes to break the ciphertext. 
 
 ## Encryption Algorithms
-**Data Encryption Standard (DES)**
+**Data Encryption Standard (DES)** #DES
 NOT SECURE -> any modern device can crack DES in relatively short periods of time. 
 - Legacy encryption due to a block size of 64 bits and a key size of 56 bits. 
 - Survives as 3DES, which encrypts, decrypts, and encrypts with DES. 
@@ -52,3 +52,122 @@ Split the original 64 bit block into two 32 bit segments.
 Across 16 rounds, the result of this process will become the new *R* in the next round. There will be 16 runs of function *f*.
 
 The block and key sizes are much smaller than what we use today.
+
+**Advanced Encryption Standard (AES)**
+- Block size of 128 bits instead of DES's 64
+- Key length and Rounds: (Variable as options for companies)
+	- 128 bit key at 10 rounds
+	- 192 bit key at 12 rounds
+	- 256 bit key at 14 rounds 
+	(Cannot swap these)
+	Why have multiple options when 256 is the most secure? Why do overkill? Some may opt for lower levels of security in order to increase performance. 
+![[Pasted image 20250917143411.png]]
+1. Break 128 bits into 16 bit inputs. 
+2. XOR the inputs with a 16 bit round key 
+3. Input the 16 bit output into an *S* box which gives an output of 8 bits.
+4. Output moves into predefined *Mix* function.
+5. Results of the *Mix* function are output back as 16 bits and are fed into the next round.
+**Advantages**: This is all operating in **parallel**. This is what allowed us to double the bit size by increasing speed significantly. AES is able to have triple peed as DES, but with significantly higher security.
+**Disadvantages**: Will be naturally broken someday. Key management is a bigger issue.
+
+**Serpent** is the 1/3 speed version of AES, so just as fast as DES, but is highly secure. Current attacks can only crack up to 12 rounds.
+What does this mean?
+
+Suppose we are working with AES, and we have 10 rounds of encryption:
+1. Round 1: P --> C1. If we know how to get back to P1, the round is said to have been cracked. 
+2. Round 2: C2. We won't have C1 at this point. We have to work from C2 back to the plaintext. We cannot iterate through rounds back to the plaintext. We have to go from C2 right to the plaintext, not knowing what C1 actually is. 
+3. Round 3: C3, even harder. This continues further:
+4. ...
+5. ...
+	... By the 10th round, it is far more difficult, as we would have to surmise C9, C8, C7... 
+
+**Twofish** came as a compromise between AES and Serpent:
+![[Pasted image 20250917145938.png]]
+Came with design flaws in computing new keys. We did not go with this framework. 
+
+**What Algorithm Should I Use?**
+1. AES is the general recommendation  
+	1. It's “the standard”  
+	2. Easy to implement  
+2. If you are concerned about future-proofing AES:  
+• Double encrypt, once with AES, and then with Serpent/ Two  
+Fish  
+• Increase rounds with AES  
+• Caution: Conceal timing from attackers
+
+Some things to consider
+1. 128 secure, but susceptible to *collisions*- Recall: a collision attack is where we can purposefully cause two different data values to encrypt to the same result. 
+2. 256-bit is recommended and is offered by all top block ciphers. 
+
+## Block Cipher Modes
+What are *Block Cipher Modes?*
+Block Cipher Modes allow us to encrypt plaintext p to ciphertext c, where both strings are of arbitrary length. 
+
+This is if we are encrypting not only 128 bits or shorter.
+
+1. Many security professionals want to encrypt  
+something longer than a block size of 128 bits  
+2. Use block cipher modes to achieve this  
+3. Passive vs Active Attacks
+
+**The Function of Padding**
+Padding allows us to reach outside of the 128 bit multiple block size. 
+- Assume we had a piece of data 255 bits in size. To encrypt this, this data would be split into two blocks of sizes 128 bits and 127 bits. We need to pad that 127 bit block. 
+Padding must be reversible. 
+
+2 Approaches:
+1. Zero padding, but the last byte determines the amount of 0s used. This is for the case when the actual last bit of the data was a 0. 
+2. ISO/IEC 7816-4: A value of 80 (hex) is appended to the end of the message, followed by 0s. 
+Lastly, plaintext is broken into blocks (`k`)
+Erroneous Padding (anything off from the padding standard in use) should be treated as authentication failure, and we should drop the connection. 
+
+**Mode 1: Electronic Codebook Mode (ECB)**
+Encrypt each block individually 
+*Serious Weakness*: If the plaintext blocks are the same, the ciphertext will be identical. We can observe these patterns. 
+![[Pasted image 20250917154122.png]]
+
+**Mode 2: Cipher Block Chaining Mode (CBC)**
+Solution: XOR each plaintext block with previous  
+ciphertext block.
+![[Pasted image 20250917154550.png]]
+**Initialization Vectors** #InitializationVector
+1. *Fixed IV*: Don’t do it  
+2. *Counter IV*: IV2 is the opposite of IV1  
+3. *Random IV*: Recommended.  
+4. *Nonce Generated IV*: number used once. This is also  
+recommended.
+
+**Mode 3: Output Feedback Mode (OFB)**
+1. The block cipher creates a pseudorandom stream of
+bytes (key stream), which is XORed with plaintext.
+	• This is created by iteratively encrypting the IV
+2. IV must either be random or nonce
+3. Weaknesses:
+	1. Very susceptible to nonce IVs used more than once.
+	2. Susceptible to collision attacks
+4. Advantages:
+	1. Encryption & Decryption are the same
+	2. No padding needed
+
+![[Pasted image 20250917155110.png]]
+
+**Mode 4: Counter Mode (CTR)**
+1. The block cipher creates a pseudorandom stream of bytes  
+(key stream), which is XORed with plaintext.  
+	• This is created by concatenating the Nonce with the key iteration  
+	number  
+2. IV must be nonce  
+3. Weaknesses:  
+	1. Very susceptible to nonce IVs used more than once.  
+	2. Susceptible to collision attacks (still susceptible if your IV/nonce is used more than once)
+4. Advantages:  
+	1. Encryption & Decryption are the same  
+	2. No padding needed
+![[Pasted image 20250917155829.png]]
+
+**Which mode should I use?**
+1. Either CBC or CTR  
+2. OFB is a good alternative, but suffers from collision  
+attacks  
+3. CBC with a random IV is the BEST choice.
+We can use AES-256, but this should be combined with a block ci

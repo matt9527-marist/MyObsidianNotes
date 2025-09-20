@@ -30,7 +30,11 @@
     "Regularization": 18,
     "LASSO": 19,
     "ElasticNet": 20,
-    "DanglingReference": 21
+    "DanglingReference": 21,
+    "Hyperparameter": 22,
+    "pipeline": 23,
+    "InitializationVector": 24,
+    "DES": 25
   },
   "_version": 3
 }
