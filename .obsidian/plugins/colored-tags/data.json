@@ -31,10 +31,10 @@
     "LASSO": 19,
     "ElasticNet": 20,
     "DanglingReference": 21,
-    "Hyperparameter": 22,
-    "pipeline": 23,
-    "InitializationVector": 24,
-    "DES": 25
+    "DES": 22,
+    "InitializationVector": 23,
+    "pipeline": 24,
+    "Hyperparameter": 25
   },
   "_version": 3
 }
