@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/003 C++ Classes and OOP.md",
+                "file": "Parallel Processing/005 Memory Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 C++ Classes and OOP"
+              "title": "005 Memory Model"
             }
           }
         ],
@@ -215,11 +215,11 @@
   },
   "active": "f9771b41c4ae046a",
   "lastOpenFiles": [
+    "Parallel Processing/004 Pointers and References.md",
+    "Parallel Processing/003 C++ Classes and OOP.md",
     "Parallel Processing/002.2 Vectors.md",
     "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/005 Memory Model.md",
-    "Parallel Processing/004 Pointers and References.md",
-    "Parallel Processing/003 C++ Classes and OOP.md",
     "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
