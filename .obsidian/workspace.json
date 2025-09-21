@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "85723daf885d1d1c",
+        "id": "7fac31ef17ae6dce",
         "type": "tabs",
         "children": [
           {
-            "id": "a75a50e9b269bf05",
+            "id": "9556cf9c962c0da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Processing/001 CMake and Catch2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001 CMake and Catch2"
+            }
+          },
+          {
+            "id": "b95fd66045aa7913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Processing/002 C++ Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 C++ Introduction"
+            }
+          },
+          {
+            "id": "34d5634ecac56bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX Scratch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LaTeX Scratch"
+            }
+          },
+          {
+            "id": "f9771b41c4ae046a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +63,8 @@
               "title": "002 C++ Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,64 +190,56 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "d10e016d1bbcb3b5",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "bases:Create new base": false
     }
   },
-  "active": "a75a50e9b269bf05",
+  "active": "f9771b41c4ae046a",
   "lastOpenFiles": [
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
-    "Parallel Processing/002.1 Using Dynamic Memory.md",
-    "LaTeX Scratch.md",
-    "Parallel Processing/002.2 Vectors.md",
-    "Parallel Processing/003 C++ Classes and OOP.md",
-    "Parallel Processing/004 Pointers and References.md",
     "Parallel Processing/005 Memory Model.md",
+    "PP Notes/Untitled.canvas",
+    "PP Notes/PP Notes.md",
+    "PP Notes/2025-09-20.md",
+    "PP Notes",
+    "Parallel Processing/004 Pointers and References.md",
+    "Parallel Processing/003 C++ Classes and OOP.md",
+    "Parallel Processing/002.2 Vectors.md",
+    "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/002 C++ Introduction.md",
-    "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
-    "Assets/Pasted image 20250917155829.png",
-    "Assets/Pasted image 20250917155110.png",
-    "Assets/Pasted image 20250917154550.png",
-    "Assets/Pasted image 20250917154122.png",
-    "Assets/Pasted image 20250917154121.png",
-    "Assets/Pasted image 20250917145938.png",
-    "Assets/Pasted image 20250917143411.png",
     "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20250915173425.png",
     "Assets/Pasted image 20250915164111.png",
     "Assets/Pasted image 20250915164106.png",
+    "Assets/Pasted image 20250915163959.png",
+    "Assets/Pasted image 20250915161852.png",
+    "Assets/Pasted image 20250910155359.png",
+    "Assets/Pasted image 20250910154826.png",
+    "Assets/Pasted image 20250910142340.png",
+    "Assets/Pasted image 20250910142216.png",
+    "Assets/Pasted image 20250910141555.png",
     "Parallel Processing/003 Pointers and References.md",
+    "LaTeX Scratch.md",
     "Machine Learning/Colab Notebooks.md",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
@@ -219,7 +254,6 @@
     "README.md",
     "Security Protocols-Algorithms",
     "Parallel Processing/Introduction.md",
-    "Machine Learning/Test.md",
     "Sec Prot and Algorithms",
     "Parallel Processing",
     "Machine Learning",
