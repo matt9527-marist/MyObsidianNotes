@@ -22,7 +22,7 @@ Always a class value of interest:
 - **Binary Confusion Matrix**
 (see notes)
 	- True Positive 
-	- True False 
+	- True Negative
 	- False Positive 
-	- 
+	- False Negative 
 
