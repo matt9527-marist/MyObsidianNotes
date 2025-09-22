@@ -27,5 +27,7 @@ Always a class value of interest:
 	- False Negative 
 Therefore our accuracy is:
 $$Accuracy = \frac{TP + TN}{TP + FP + TN + FN}$$
-This is the accuracy metric for a binary confusion matrix. While good, it comes with some drawbacks. Consider a case where a random classifier yields a very high `TN` count. 
+This is the accuracy metric for a binary confusion matrix. While good, it comes with some drawbacks. Consider a case where a random classifier yields a very high `TN` count. For example, a classifier separating students who are doing well in college vs. students not doing well. 95% of the time, we will randomly select a student who is doing well. This metric will not yield us any good information about the classifier if this is true. We need other metrics. 
+
+Other Metrics:
 
