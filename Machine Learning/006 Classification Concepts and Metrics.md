@@ -73,4 +73,6 @@ Axioms to Consider:
 	--> We first retrieve a B. The probability of getting a B was 2/5.
 	--> We put the letter aside. It is no longer in the collection. 
 	--> The probability of getting an A is conditioned on the removal of B from the lot. This is now 3/4.
-	The product rule is saying that the *joint probability* of these two events (getting an A and getting a B) is given by, assum
+	The product rule is saying that the *joint probability* of these two events (getting an A and getting a B) is given by, assuming that we get a B initially, `3/4 * 2/5`
+Suppose we change the scenario:
+	When A and B are independent, then in 
