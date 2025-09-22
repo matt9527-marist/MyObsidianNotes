@@ -51,5 +51,4 @@ Remember that all of the above metrics are fractions.
 	Using probabilities to assign 0 or 1. 
 	(see notes)
 	
-	If we have 1 TPR and 0 FPR, it shows a perfect classification 
-	
+	Depending on the thresholds we assign (risk), a perfect classifier is one that traces the left and top line as shown.
