@@ -63,6 +63,6 @@ Remember that all of the above metrics are fractions.
 `0 <= P <= 1` where 0 is not possible and 1 is certain. 
 In terms of **Bayesian** probability, we have approaches:
 - **Natural**: Ratio between events / event space 
-- 
+- **Frequentist**: Repeated trials 
 
 Axioms to Consider:
