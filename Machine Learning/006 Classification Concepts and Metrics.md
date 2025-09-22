@@ -123,11 +123,8 @@ But this is why it is termed *naive*.
 ![[Pasted image 20250922180431.png]]
 Where we obtain the values:
 ![[Pasted image 20250922180546.png]]
+Notice that there may be a chance you need to compute the log of a 0.
+This is a problem. 
 
-
-
-
-
-   
 
 
