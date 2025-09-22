@@ -61,7 +61,8 @@ Remember that all of the above metrics are fractions.
 ## Probability 
 #probabiliy is a measure of uncertainty where:
 `0 <= P <= 1` where 0 is not possible and 1 is certain. 
-In terms of **Bayesian** probability:
-- **Natural**: 
+In terms of **Bayesian** probability, we have approaches:
+- **Natural**: Ratio between events / event space 
+- 
 
 Axioms to Consider:
