@@ -89,6 +89,6 @@ Axioms to Consider:
    Recall the product rule. The probability: `P(X, Y) = P(X|Y) * P(X)`. 
    We must compute both this joint probability for Y=yes and then for Y=no, and then pick the greater of the two.
    
-   The problem with probabilities is that when we multiply probabilities, we tend closer to 0. 
+   The problem with probabilities is that when we multiply probabilities, we tend closer to 0. The probability P(X, Y) will involve multiplying multiple probabilities, which presents the risk of underflow. Instead of using the probabilities, we may want to use a function, something like a logarithm. 
 
 
