@@ -25,4 +25,7 @@ Always a class value of interest:
 	- True Negative
 	- False Positive 
 	- False Negative 
+Therefore our accuracy is:
+$$Accuracy = \frac{TP + TN}{TP + FP + TN + FN}$$
+
 
