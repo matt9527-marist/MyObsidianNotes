@@ -52,3 +52,5 @@ Remember that all of the above metrics are fractions.
 	(see notes)
 	
 	Depending on the thresholds we assign (risk), a perfect classifier is one that traces the left and top line as shown. We may also use the space underneath to tweak other models, allowing for a little bit of false positive predictions, but keeping a high true positive rate. 
+	- The total area under the top curve is 1.
+	- The area underneath the main line is 0.5, which indicates a crappy classifier. 
