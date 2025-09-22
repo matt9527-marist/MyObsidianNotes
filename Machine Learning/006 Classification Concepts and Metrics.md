@@ -41,6 +41,7 @@ This detects how many false alarms there were. There is a positive side of this 
 **Precision**
 $$Precision = \frac{TP}{TP + FP}$$
 True positives over all positive predictions. 
+Remember that all of the above metrics are fractions. 
 
-
-1) **F1 Measure**
+1) **F1 Measure**:
+	$$F1 = 2\frac{Precision * Reca}{#}$$
