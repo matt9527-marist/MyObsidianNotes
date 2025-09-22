@@ -48,4 +48,4 @@ Remember that all of the above metrics are fractions.
 	Range of F1 Score is between 0 and 1. 
 	1 indicates much better performance, 0 is disastrous. 
 2) **ROC** - Receiver Operator Characteristic **Curve**
-	$$$$
+	(see notes)
