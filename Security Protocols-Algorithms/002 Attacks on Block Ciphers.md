@@ -170,4 +170,4 @@ bytes (key stream), which is XORed with plaintext.
 2. OFB is a good alternative, but suffers from collision  
 attacks  
 3. CBC with a random IV is the BEST choice.
-We can use AES-256, but this should be combined with a block ci
+We can use AES-256, but this should be combined with a block cipher mode in order to scale for larger amounts of data.

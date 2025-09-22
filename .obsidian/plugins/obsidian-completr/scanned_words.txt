@@ -47,6 +47,7 @@ Mac
 Maps
 MyClass
 Mode
+Mix
 Learning
 Learn
 Let
@@ -77,6 +78,7 @@ Least
 Lasso
 Limit
 Later
+Lastly
 Relevant
 Reading
 Research
@@ -121,6 +123,10 @@ Returned
 RAM
 RAII
 RMSE
+Results
+Round
+Random
+Recommended
 libraries
 learn
 learning
@@ -191,6 +197,8 @@ leaves
 lambda
 lasso
 lenth
+lower
+levels
 Graphing
 Google
 Game
@@ -209,6 +217,7 @@ Guidelines
 GB
 Global
 Going
+Generated
 Charting
 Control
 Common
@@ -282,6 +291,15 @@ Contiguous
 Create
 Cast
 Column
+Current
+Came
+Caution
+Conceal
+Codebook
+Chaining
+CBC
+Counter
+CTR
 Scikit
 Statistical
 Statistics
@@ -360,6 +378,11 @@ SSD
 Scope
 Scaler
 SKLearn
+Some
+Serpent
+Should
+Serious
+Susceptible
 Keras
 Key
 Kirchhoffs
@@ -422,6 +445,7 @@ Tuning
 Transformer
 Transformers
 TR
+Twofish
 ISLP
 Iris
 Instance
@@ -457,6 +481,13 @@ Ideal
 Imputation
 Imagine
 Initializes
+Input
+Increase
+ISO
+IEC
+InitializationVector
+IV
+IVs
 and
 ability
 approximation
@@ -589,6 +620,10 @@ accessible
 addresses
 aa
 among
+allowed
+attackers
+arbitrary
+appended
 Applications
 AI
 Analysis
@@ -648,6 +683,9 @@ Allocated
 Alphanumeric
 Advanced
 AES
+Advantages
+Active
+Approaches
 with
 without
 want
@@ -703,6 +741,7 @@ warnings
 weight
 weak
 whose
+won
 Python
 Performance
 Principle
@@ -767,6 +806,8 @@ Page
 Properties
 Preprocessing
 Predictors
+Passive
+Padding
 What
 We
 With
@@ -789,6 +830,8 @@ Whenever
 WARNING
 Whether
 Ways
+Weakness
+Weaknesses
 is
 in
 if
@@ -877,6 +920,10 @@ insufficient
 initialize
 intercept
 iteration
+increasing
+individually
+identical
+iteratively
 Field
 For
 Find
@@ -902,6 +949,9 @@ Form
 Feed
 Fragmentation
 Frame
+Fish
+Fixed
+Feedback
 of
 or
 optimize
@@ -973,6 +1023,12 @@ operators
 overloaded
 optional
 opens
+overkill
+opt
+operating
+offered
+off
+opposite
 study
 simplified
 something
@@ -1143,6 +1199,15 @@ suppose
 split
 shouldn
 scoring
+swap
+secure
+speed
+someday
+surmise
+susceptible
+shorter
+stream
+suffers
 giving
 good
 generalizable
@@ -1376,6 +1441,15 @@ counterparts
 constructor
 calls
 controlling
+companies
+cracked
+continues
+came
+compromise
+concerned
+creates
+concatenating
+choice
 the
 to
 training
@@ -1473,6 +1547,8 @@ transforming
 tune
 times
 trial
+triple
+timing
 being
 be
 by
@@ -1541,6 +1617,8 @@ bit
 box
 become
 bottom
+broken
+byte
 explicitly
 experience
 error
@@ -1646,6 +1724,7 @@ eliminating
 exposed
 entry
 else
+encrypting
 programmed
 patterns
 program
@@ -1798,6 +1877,14 @@ provided
 proprietary
 preprocessing
 pipelines
+predefined
+peed
+proofing
+purposefully
+professionals
+pad
+padding
+pseudorandom
 Detecting
 Deepmind
 Dataset
@@ -1840,6 +1927,10 @@ Differences
 Doing
 Deal
 Dummy
+Disadvantages
+Double
+Don
+Decryption
 regularities
 respect
 recognizing
@@ -1955,6 +2046,8 @@ returned
 raw
 reducing
 rho
+recommendation
+reversible
 model
 mostly
 machine
@@ -2060,6 +2153,8 @@ malloc
 manages
 metric
 matter
+moves
+modes
 hypothesis
 handwritten
 have
@@ -2110,6 +2205,8 @@ holds
 handle
 help
 handles
+harder
+hex
 Execution
 Examples
 Economics
@@ -2154,6 +2251,12 @@ ElasticNet
 Elements
 Elastic
 Estimators
+Easy
+Erroneous
+Electronic
+ECB
+Encrypt
+Either
 using
 utility
 use
@@ -2301,6 +2404,8 @@ delete
 destructor
 debugging
 divide
+double
+determines
 future
 from
 feed
@@ -2386,6 +2491,10 @@ folds
 fractions
 fold
 final
+fast
+flaws
+framework
+failure
 Optimziation
 Operations
 Once
@@ -2415,6 +2524,7 @@ OS
 Or
 Overloading
 Overview
+OFB
 kind
 know
 knowledge
@@ -2524,6 +2634,8 @@ noticeable
 normalize
 null
 nullptr
+nonce
+needed
 yes
 yield
 your
@@ -2581,6 +2693,7 @@ Norm
 Needs
 Net
 Numeric
+Nonce
 quality
 question
 quickly
@@ -2639,6 +2752,8 @@ Best
 BC
 Both
 BSS
+Break
+BEST
 just
 jagged
 json
@@ -2665,6 +2780,7 @@ Values
 Versions
 Virtual
 Validation
+Variable
 zero
 zu
 zj
@@ -2705,6 +2821,7 @@ Xu
 XX
 Xp
 XOR
+XORed
 Qw
 QV
 QG
@@ -2719,6 +2836,7 @@ Zky
 Zk
 Zq
 Zr
+Zero
 xKJ
 xP
 xü
