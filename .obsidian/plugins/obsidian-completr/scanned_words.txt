@@ -50,6 +50,7 @@ Mode
 Mix
 Managing
 Make
+Matches
 Learning
 Learn
 Let
@@ -129,6 +130,7 @@ Results
 Round
 Random
 Recommended
+RGB
 libraries
 learn
 learning
@@ -201,6 +203,7 @@ lasso
 lenth
 lower
 levels
+looking
 Graphing
 Google
 Game
@@ -302,6 +305,7 @@ Chaining
 CBC
 Counter
 CTR
+Classication
 Scikit
 Statistical
 Statistics
@@ -385,6 +389,8 @@ Serpent
 Should
 Serious
 Susceptible
+Stochastic
+SGD
 Keras
 Key
 Kirchhoffs
@@ -689,6 +695,7 @@ AES
 Advantages
 Active
 Approaches
+All
 with
 without
 want
@@ -745,6 +752,7 @@ weight
 weak
 whose
 won
+wrong
 Python
 Performance
 Principle
@@ -1270,6 +1278,7 @@ guaranteed
 great
 grid
 guide
+guarantees
 computers
 computer
 can
@@ -1459,6 +1468,8 @@ creates
 concatenating
 choice
 configuration
+classifier
+color
 the
 to
 training
@@ -1896,6 +1907,9 @@ professionals
 pad
 padding
 pseudorandom
+pull
+push
+predicting
 Detecting
 Deepmind
 Dataset
@@ -2166,6 +2180,9 @@ metric
 matter
 moves
 modes
+minibatches
+minibatch
+momentum
 hypothesis
 handwritten
 have
@@ -2218,6 +2235,7 @@ help
 handles
 harder
 hex
+helping
 Execution
 Examples
 Economics
@@ -2419,6 +2437,7 @@ debugging
 divide
 double
 determines
+determining
 future
 from
 feed
@@ -2508,6 +2527,7 @@ fast
 flaws
 framework
 failure
+full
 Optimziation
 Operations
 Once
@@ -2539,6 +2559,7 @@ Overloading
 Overview
 OFB
 Objectives
+Observations
 kind
 know
 knowledge

@@ -5,4 +5,6 @@ Suppose we have a classifier predicting a color of RGB:
 
 Relevant Metrics:
 **Accuracy** = # Matches / # Observations = 3/6 = 50% accurate
-**Error Rate** = 1 - Accr
+**Error Rate** = 1 - Accuracy = 3/6 = 50% wrong
+
+**Confusion Matrix**:
