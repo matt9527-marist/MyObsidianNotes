@@ -118,6 +118,7 @@ The issue with Bayesian learning is that we may not have enough data to do repea
 This is why we may use **Naive Bayes Classification**. We should be able to assume that certain features in the data are related. Weather patterns are not independent!
 ![[Pasted image 20250922180310.png]]
 
+**Example Computations**:
 ![[Pasted image 20250922180431.png]]
 
 
