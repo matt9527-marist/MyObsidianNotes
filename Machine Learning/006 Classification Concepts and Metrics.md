@@ -98,7 +98,13 @@ Axioms to Consider:
 
 ![[Pasted image 20250922174946.png]]
 ![[Pasted image 20250922175012.png]]
-	
+![[Pasted image 20250922175025.png]]
+
+**Recall the Recipe**
+1) Choose architecture and cost function:
+   - Probabilist
+1) 
+
 
 
    
