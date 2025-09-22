@@ -124,7 +124,10 @@ But this is why it is termed *naive*.
 Where we obtain the values:
 ![[Pasted image 20250922180546.png]]
 Notice that there may be a chance you need to compute the log of a 0.
-This is a problem. 
+This is a problem, as in the case for computing `Y=no for outlook = overcast`. 
+Bayesian statistics says to use prior knowledge instead.
+Coping with Zero-Frequency:
+![[Pasted image 20250922181318.png]]
 
 
 
