@@ -64,6 +64,7 @@ Remember that all of the above metrics are fractions.
 Before speaking in terms of **Bayesian** probability, we have approaches:
 - **Natural**: Ratio between events / event space 
 - **Frequentist**: Repeated trials 
-- **Bayesian**: If we cannot repeat trials, we must assume we have *prior knowledge* about the world. We can use this prior knowledge to inject it into the data we have. Now this becomes our new prior k
+- **Bayesian**: If we cannot repeat trials, we must assume we have *prior knowledge* about the world. We can use this prior knowledge to inject it into the data we have. Now this becomes our new prior information, and then we repeat. 
 
 Axioms to Consider:
+- **Sum Rule**: $$P(A) + P(B) + P(C) = 1$$
