@@ -68,4 +68,4 @@ Before speaking in terms of **Bayesian** probability, we have approaches:
 
 Axioms to Consider:
 1) **Sum Rule**: $$P(A) + P(B) + P(C) = 1$$ where A, B, C mutually exclusive and collectively exhaustive. 
-2) **Product Rule**: $$P(A, B) = P(A|B) * P$$
+2) **Product Rule**: $$P(A, B) = P(A|B) * P(A)$$ 
