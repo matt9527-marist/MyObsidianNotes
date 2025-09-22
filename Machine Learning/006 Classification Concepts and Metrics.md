@@ -3,7 +3,7 @@ Suppose we have a classifier predicting a color of RGB:
 `y = f(x) + c`
 `y\hat = f(x)`
 (see notes)
-Relevant Metrics:
+Relevant #Classification Metrics:
 - **Accuracy** = # Matches / # Observations = 3/6 = 50% accurate
 - **Error Rate** = 1 - Accuracy = 3/6 = 50% wrong
 
@@ -59,3 +59,5 @@ Remember that all of the above metrics are fractions.
 		If the data is highly unbalanced, AUC tends to have inflated values. Keep in mind that FPR carries the true negatives that may be unbalanced in the data. 
 
 ## Probability 
+#probabiliy is a measure of uncertainty where:
+`0 <= P <= 1` where 0 is not possible and 1 is certain. 
