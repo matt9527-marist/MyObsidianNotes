@@ -48,6 +48,8 @@ Maps
 MyClass
 Mode
 Mix
+Managing
+Make
 Learning
 Learn
 Let
@@ -624,6 +626,7 @@ allowed
 attackers
 arbitrary
 appended
+acts
 Applications
 AI
 Analysis
@@ -832,6 +835,7 @@ Whether
 Ways
 Weakness
 Weaknesses
+Writing
 is
 in
 if
@@ -1029,6 +1033,7 @@ operating
 offered
 off
 opposite
+open
 study
 simplified
 something
@@ -1208,6 +1213,7 @@ susceptible
 shorter
 stream
 suffers
+software
 giving
 good
 generalizable
@@ -1262,6 +1268,7 @@ global
 guaranteed
 great
 grid
+guide
 computers
 computer
 can
@@ -1450,6 +1457,7 @@ concerned
 creates
 concatenating
 choice
+configuration
 the
 to
 training
@@ -1619,6 +1627,7 @@ become
 bottom
 broken
 byte
+building
 explicitly
 experience
 error
@@ -1725,6 +1734,7 @@ exposed
 entry
 else
 encrypting
+environments
 programmed
 patterns
 program
@@ -2525,6 +2535,7 @@ Or
 Overloading
 Overview
 OFB
+Objectives
 kind
 know
 knowledge
@@ -2727,6 +2738,7 @@ Unscoped
 Uses
 Upper
 Unlike
+Utilizes
 Breakout
 Because
 Backpropagation
@@ -2754,6 +2766,7 @@ Both
 BSS
 Break
 BEST
+Building
 just
 jagged
 json
