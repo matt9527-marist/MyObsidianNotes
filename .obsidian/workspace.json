@@ -188,6 +188,12 @@
   },
   "active": "e4a217d55bb0068b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "PP Notes/Untitled.canvas",
+    "PP Notes/PP Notes.md",
+    "PP Notes/2025-09-20.md",
+    "PP Notes",
     "Assets/Pasted image 20250917155829.png",
     "Assets/Pasted image 20250917155110.png",
     "Assets/Pasted image 20250917154550.png",
@@ -195,7 +201,6 @@
     "Assets/Pasted image 20250917154121.png",
     "Assets/Pasted image 20250917145938.png",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Assets/Pasted image 20250917143411.png",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
@@ -204,14 +209,12 @@
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Parallel Processing/005 Memory Model.md",
     "Parallel Processing/004 Pointers and References.md",
-    "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20250915205757.png",
     "Assets/Pasted image 20250915205527.png",
     "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/002.2 Vectors.md",
     "Assets/Pasted image 20250915202218.png",
-    "Assets/Pasted image 20250915201541.png",
     "Parallel Processing/003 C++ Classes and OOP.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Formatting Template.md",
@@ -228,11 +231,8 @@
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Linux Overview.md",
     "Machine Learning/000 Introduction.md",
-    "Machine Learning/001 Linear Algebra Review.md",
-    "Machine Learning/Google Talk on Machine Learning.md",
     "Security Protocols-Algorithms",
     "copilot-custom-prompts",
-    "Parallel Processing",
-    "Machine Learning"
+    "Parallel Processing"
   ]
 }
