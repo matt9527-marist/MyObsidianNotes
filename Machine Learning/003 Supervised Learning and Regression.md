@@ -392,5 +392,7 @@ for i in range(len(w)):
   print(f'w{i}={w[i]:.5f}')
 ```
 
-**Gradient Descent**
+**Gradient Descent Review**
 When we refer to this, 
+$$w_{new} = w_{old} - \eta \nabla J(w)$$
+$$J = \frac{1}{2n}$$
