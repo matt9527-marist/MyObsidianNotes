@@ -120,6 +120,8 @@ This is why we may use **Naive Bayes Classification**. We should be able to assu
 
 **Example Computations**:
 ![[Pasted image 20250922180431.png]]
+Where we obtain the values:
+![[Pasted image 20250922180546.png]]
 
 
 
