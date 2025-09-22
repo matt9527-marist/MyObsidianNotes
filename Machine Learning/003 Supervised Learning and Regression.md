@@ -403,3 +403,5 @@ At each pass, we are going over the full dataset. This has a *cost*, not much if
 Instead of using the full `X`, we may use minibatches of `X`, extracted at random from the data. If we do this, we also need to pull the initial `y` values. With this, we will have a much smaller set of data with which to update the `w`'s. 
 
 We compute the gradient against the minibatch. 
+
+SGD guarantees a local minimum. It does need a bit more of a push to reach the global minimum. This is good for #LinearRegression. For more complex models, we might need to help SGD a certain amount. 
