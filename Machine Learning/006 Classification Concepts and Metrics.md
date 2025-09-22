@@ -50,3 +50,5 @@ Remember that all of the above metrics are fractions.
 2) **ROC** - Receiver Operator Characteristic **Curve**
 	Using probabilities to assign 0 or 1. 
 	(see notes)
+	
+	If we have 1 TPR and 0 FPR, it is perfect. 
