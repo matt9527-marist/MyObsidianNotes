@@ -38,3 +38,5 @@ $$Recall = \frac{TP}{TP + FN}$$
 $$FPR = \frac{FP}{FP + TN}$$
 This detects how many false alarms there were. There is a positive side of this called *specificity*, which is `1 - FPR`, in the same way that accuracy is a positive presentation of error rate. 
 
+**Precision**
+$$Precision = \frac{TP}{TP + FP}$$
