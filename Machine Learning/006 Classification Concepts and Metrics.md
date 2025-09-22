@@ -69,6 +69,7 @@ Before speaking in terms of **Bayesian** probability, we have approaches:
 Axioms to Consider:
 1) **Sum Rule**: $$P(A) + P(B) + P(C) = 1$$ where A, B, C mutually exclusive and collectively exhaustive. 
 2) **Product Rule**: $$P(A, B) = P(A|B) * P(A)$$
+3) Given that P(A,B) = P(A|B) * P(B) = P(B|A) * P(A)
     Consider the following problem:
 	We are pulling out of a hat A's and B's. What's the probability of getting an A and a B when there are 3 A's and 2 B's in the hat?
 	--> We first retrieve a B. The probability of getting a B was 2/5.
@@ -78,3 +79,5 @@ Axioms to Consider:
 	
 	Suppose we change the scenario:
 	When A and B are independent, `P(A, B) = P(A) * P(B)`. This assumes we put the letter B back into the lot.
+
+
