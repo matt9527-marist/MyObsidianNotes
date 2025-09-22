@@ -4,7 +4,7 @@ Suppose we have a classifier predicting a color of RGB:
 `y\hat = f(x)`
 
 Relevant Metrics:
-**Accuracy** = # Matches / # Observations = 3/6 = 50% accurate
-**Error Rate** = 1 - Accuracy = 3/6 = 50% wrong
+- **Accuracy** = # Matches / # Observations = 3/6 = 50% accurate
+- **Error Rate** = 1 - Accuracy = 3/6 = 50% wrong
 
-**Confusion Matrix**:
+- **Confusion Matrix**:
