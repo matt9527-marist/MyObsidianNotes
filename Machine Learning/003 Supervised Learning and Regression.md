@@ -392,9 +392,10 @@ for i in range(len(w)):
   print(f'w{i}={w[i]:.5f}')
 ```
 
-**Gradient Descent Review**
+## Stochastic Gradient Descent 
 When we refer to this, 
 $$w_{new} = w_{old} - \eta \nabla J(w)$$
 $$J = \frac{1}{2n}(Xw-y)^T(Xw-y)$$
 All of the terms above are vectors. 
-$$\nabla J \frac{1}{n}$$
+$$\nabla J = \frac{1}{n}X^T(Xw-y)$$
+At each pass, we are going over the full dataset. This has a *cost*, not much if it is simple regression, but to compute each `w` we are looking at all of the data again. This means a lot of iterations. 
