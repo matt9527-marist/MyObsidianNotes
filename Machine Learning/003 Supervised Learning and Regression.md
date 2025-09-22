@@ -395,4 +395,6 @@ for i in range(len(w)):
 **Gradient Descent Review**
 When we refer to this, 
 $$w_{new} = w_{old} - \eta \nabla J(w)$$
-$$J = \frac{1}{2n}$$
+$$J = \frac{1}{2n}(Xw-y)^T(Xw-y)$$
+All of the terms above are vectors. 
+$$\nabla J \frac{1}{n}$$
