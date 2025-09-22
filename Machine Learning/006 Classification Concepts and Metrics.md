@@ -85,6 +85,7 @@ Axioms to Consider:
    
    We compute the values for the 2 equations above. The highest value will allow us to make a prediction. The data we collect prior to this can be our prior knowledge. 
    `P(Y|X)` is the probability of `Y` given the data `X`. This is known as the **posterior**.
-   `P(X|y)` is the likelihood, and `P(Y)` is known as the **prior**. 
+   `P(X|y)` is the likelihood, and `P(Y)` is known as the **prior**.
+   Recall the product rule. The probability: `P(X, Y) = P(X|Y) * P(X)`. We must compute 
 
 
