@@ -67,4 +67,4 @@ Before speaking in terms of **Bayesian** probability, we have approaches:
 - **Bayesian**: If we cannot repeat trials, we must assume we have *prior knowledge* about the world. We can use this prior knowledge to inject it into the data we have. Now this becomes our new prior information, and then we repeat. 
 
 Axioms to Consider:
-- **Sum Rule**: $$P(A) + P(B) + P(C) = 1$$
+- **Sum Rule**: $$P(A) + P(B) + P(C) = 1$$ where A, B, C mutually exclusive and collectively exhaustive. 
