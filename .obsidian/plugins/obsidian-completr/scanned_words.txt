@@ -306,6 +306,8 @@ CBC
 Counter
 CTR
 Classication
+Confusion
+Cells
 Scikit
 Statistical
 Statistics
@@ -391,6 +393,8 @@ Serious
 Susceptible
 Stochastic
 SGD
+Summation
+Sum
 Keras
 Key
 Kirchhoffs
@@ -454,6 +458,7 @@ Transformer
 Transformers
 TR
 Twofish
+True
 ISLP
 Iris
 Instance
@@ -696,6 +701,7 @@ Advantages
 Active
 Approaches
 All
+Always
 with
 without
 want
@@ -753,6 +759,7 @@ weak
 whose
 won
 wrong
+wanting
 Python
 Performance
 Principle
@@ -820,6 +827,8 @@ Predictors
 Passive
 Padding
 Projection
+Predictions
+Positive
 What
 We
 With
@@ -845,6 +854,7 @@ Ways
 Weakness
 Weaknesses
 Writing
+While
 is
 in
 if
@@ -937,6 +947,9 @@ increasing
 individually
 identical
 iteratively
+incredibly
+interest
+intrusions
 Field
 For
 Find
@@ -965,6 +978,7 @@ Frame
 Fish
 Fixed
 Feedback
+False
 of
 or
 optimize
@@ -1223,6 +1237,9 @@ shorter
 stream
 suffers
 software
+subsume
+students
+student
 giving
 good
 generalizable
@@ -1470,6 +1487,8 @@ choice
 configuration
 classifier
 color
+confusion
+college
 the
 to
 training
@@ -1569,6 +1588,7 @@ times
 trial
 triple
 timing
+true
 being
 be
 by
@@ -1956,6 +1976,8 @@ Disadvantages
 Double
 Don
 Decryption
+Diagonal
+Disease
 regularities
 respect
 recognizing
@@ -2073,6 +2095,8 @@ reducing
 rho
 recommendation
 reversible
+regardless
+randomly
 model
 mostly
 machine
@@ -2438,6 +2462,7 @@ divide
 double
 determines
 determining
+drawbacks
 future
 from
 feed
@@ -2528,6 +2553,7 @@ flaws
 framework
 failure
 full
+fields
 Optimziation
 Operations
 Once
@@ -2613,6 +2639,7 @@ virtual
 vm
 void
 validation
+verifications
 numerical
 no
 need
@@ -2686,6 +2713,7 @@ yS
 ys
 yet
 yourself
+yields
 How
 Hinge
 Header
@@ -2729,6 +2757,7 @@ Needs
 Net
 Numeric
 Nonce
+Negative
 quality
 question
 quickly
@@ -2791,6 +2820,8 @@ BSS
 Break
 BEST
 Building
+Binary
+Bank
 just
 jagged
 json
@@ -2818,6 +2849,7 @@ Versions
 Virtual
 Validation
 Variable
+Valid
 zero
 zu
 zj
@@ -2844,6 +2876,7 @@ Yg
 Yoda
 York
 Yet
+YES
 Xk
 Xt
 Xs

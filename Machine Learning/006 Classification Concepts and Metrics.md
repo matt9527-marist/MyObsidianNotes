@@ -32,4 +32,4 @@ This is the accuracy metric for a binary confusion matrix. While good, it comes 
 Other Metrics:
 **Recall (True Positive Rate)**
 $$Recall = \frac{TP}{TP + FN}$$
-"Recall"
+"Recall" comes from "information retrieval." This allows us to know how much data was captured that did not actually fly under the radar. 

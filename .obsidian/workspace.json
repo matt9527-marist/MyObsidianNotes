@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "006 Classification Concepts and Metrics"
             }
-          },
-          {
-            "id": "c329b67e85f97a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +186,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "c329b67e85f97a33",
+  "active": "bb8977363c0c9045",
   "lastOpenFiles": [
-    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Untitled.md",
+    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
