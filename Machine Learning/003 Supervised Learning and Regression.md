@@ -404,4 +404,6 @@ Instead of using the full `X`, we may use minibatches of `X`, extracted at rando
 
 We compute the gradient against the minibatch. 
 
-SGD guarantees a local minimum. It does need a bit more of a push to reach the global minimum. This is good for #LinearRegression. For more complex models, we might need to help SGD a certain amount. 
+SGD guarantees a local minimum. It does need a bit more of a push to reach the global minimum. This is good for #LinearRegression. For more complex models, we might need to help SGD a certain amount. What's an example of helping?
+
+We add a term to the equation determining the weights called the **momentum** to help "push" the algorithm along. 
