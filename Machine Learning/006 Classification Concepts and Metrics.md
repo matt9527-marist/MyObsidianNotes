@@ -94,6 +94,11 @@ Axioms to Consider:
    We have the above expression which maximizes this logarithm, which are logarithms of values between 0 and 1. This expression will yield negative numbers. 
    But if we change the signs of everything:
    `argmin -log P(X, Y) = -log P(X|Y) * -log P(X)`
+   We obtain a *cost function* that we can minimize. 
+
+
+
+
    
 
 
