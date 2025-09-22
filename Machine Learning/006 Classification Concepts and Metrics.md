@@ -102,8 +102,10 @@ Axioms to Consider:
 
 **Recall the Recipe**
 1) Choose architecture and cost function:
-   - Probabilist
-1) 
+	- Probabilistic function 
+	- Cost function: `-log P(Y,X)`
+2) Formulate and solve the optimization problem:
+	 - `argmin -log P(Y,X)`
 
 
 
