@@ -113,8 +113,10 @@ But please understand that minimizing `–log P(Y,X)` is the same as:
 ✓ maximizing` P(Y,X)`
 ✓ maximizing `P(Y|X)`
 
+![[Pasted image 20250922175909.png]]
 The issue with Bayesian learning is that we may not have enough data to do repeated trials with a set configuration. 
-This is why we may use **Naive Bayes Classification**. We should be able to assume that certain features in the data are related. 
+This is why we may use **Naive Bayes Classification**. We should be able to assume that certain features in the data are related. Weather patterns are not independent!
+
 
 
 
