@@ -393,9 +393,11 @@ for i in range(len(w)):
 ```
 
 ## Stochastic Gradient Descent 
-When we refer to this, 
+When we refer to SGD, 
 $$w_{new} = w_{old} - \eta \nabla J(w)$$
 $$J = \frac{1}{2n}(Xw-y)^T(Xw-y)$$
 All of the terms above are vectors. 
 $$\nabla J = \frac{1}{n}X^T(Xw-y)$$
 At each pass, we are going over the full dataset. This has a *cost*, not much if it is simple regression, but to compute each `w` we are looking at all of the data again. This means a lot of iterations. 
+
+Instead of using the full `X`, we may use minibatches of `X`, extracted at random from the data.
