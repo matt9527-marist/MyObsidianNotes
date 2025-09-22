@@ -14,4 +14,9 @@ Relevant Metrics:
 **Binary Classification**
 Why? This happens all the time and has become incredibly important in AI and predicting in several other fields. This is predicting YES/NO. 
 In many situations, even if we have a case where there are more than 2 categories, we may end up wanting to subsume things into 2 categories regardless. 
+Always a class value of interest:
+- Detecting security intrusions: Threat or not a threat?
+- Bank verifications: Valid or not valid?
+- Disease Predictions: Disease present or not present?
+
 
