@@ -91,7 +91,9 @@ Axioms to Consider:
    
    The problem with probabilities is that when we multiply probabilities, we tend closer to 0. The probability P(X, Y) will involve multiplying multiple probabilities, which presents the risk of underflow. Instead of using the probabilities, we may want to use a function, something like a logarithm. 
    `argmax log P(X, Y) = log P(X|Y) * log P(X)`
-   We have the above expression which maximizes this logarithm, which are logarithms of values between 0 and 1. This expression will yield values 
+   We have the above expression which maximizes this logarithm, which are logarithms of values between 0 and 1. This expression will yield negative numbers. 
+   But if we change the signs of everything:
+   `argmin -log P(X, Y) = -log P(X|Y) * -log P(X)`
    
 
 
