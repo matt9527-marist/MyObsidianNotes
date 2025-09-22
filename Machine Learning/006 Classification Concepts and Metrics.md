@@ -46,4 +46,6 @@ Remember that all of the above metrics are fractions.
 1) **F1 Measure**:
 	$$F1 = 2\frac{Precision * Recall}{Precision + Recall}$$
 	Range of F1 Score is between 0 and 1. 
-	1 indicates much better performance, 0 
+	1 indicates much better performance, 0 is disastrous. 
+2) **ROC** - Receiver Operator Characteristic **Curve**
+	$$$$
