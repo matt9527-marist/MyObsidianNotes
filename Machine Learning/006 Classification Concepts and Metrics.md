@@ -106,6 +106,16 @@ Axioms to Consider:
 	- Cost function: `-log P(Y,X)`
 2) Formulate and solve the optimization problem:
 	 - `argmin -log P(Y,X)`
+3) Vectorize the algorithm 
+
+But please understand that minimizing `–log P(Y,X)` is the same as:
+✓ maximizing `log P(Y,X)`
+✓ maximizing` P(Y,X)`
+✓ maximizing `P(Y|X)`
+
+
+
+
 
 
 
