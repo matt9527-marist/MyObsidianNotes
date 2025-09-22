@@ -56,4 +56,4 @@ Remember that all of the above metrics are fractions.
 	- The area underneath the main line is 0.5, which indicates a crappy classifier. 
 	The area under the curve of the ROC curve is referred to as **AUC**. 
 	This does have one problem!
-		If the data is highly unbalanced, the 
+		If the data is highly unbalanced, AUC tends to have inflated values. Keep in mind that FPR carries the true negatives that may be unbalanced in the data. 
