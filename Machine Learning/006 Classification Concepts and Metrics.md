@@ -10,4 +10,7 @@ Relevant Metrics:
 - **Confusion Matrix**:
 (see notes)
 	- Accuracy = Summation of Main Diagonal / Sum of All Cells 
-	- 
+
+**Binary Classification**
+Why? This happens all the time and has become incredibly important in AI and predicting in several other fields. This is predicting YES/NO. 
+In many situations, even if
