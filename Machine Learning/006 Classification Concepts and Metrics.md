@@ -70,4 +70,7 @@ Axioms to Consider:
 1) **Sum Rule**: $$P(A) + P(B) + P(C) = 1$$ where A, B, C mutually exclusive and collectively exhaustive. 
 2) **Product Rule**: $$P(A, B) = P(A|B) * P(A)$$ Consider the following problem:
 	We are pulling out of a hat A's and B's. What's the probability of getting an A and a B when there are 3 A's and 2 B's in the hat?
-	--> We first retrieve a B. The probability 
+	--> We first retrieve a B. The probability of getting a B was 2/5.
+	--> We put the letter aside. It is no longer in the collection. 
+	--> The probability of getting an A is conditioned on the removal of B from the lot. This is now 3/4.
+	The product rule is saying that the *joint probability* of these two events (getting an A and getting a B) is given by, assum
