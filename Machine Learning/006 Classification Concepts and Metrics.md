@@ -113,6 +113,7 @@ But please understand that minimizing `–log P(Y,X)` is the same as:
 ✓ maximizing` P(Y,X)`
 ✓ maximizing `P(Y|X)`
 
+The issue with Bayesian learning is that we may not have enough data to do repeated trials with a set configuration. 
 
 
 
