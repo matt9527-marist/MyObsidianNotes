@@ -57,3 +57,5 @@ Remember that all of the above metrics are fractions.
 	The area under the curve of the ROC curve is referred to as **AUC**. 
 	This does have one problem!
 		If the data is highly unbalanced, AUC tends to have inflated values. Keep in mind that FPR carries the true negatives that may be unbalanced in the data. 
+
+## 
