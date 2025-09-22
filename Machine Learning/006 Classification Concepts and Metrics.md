@@ -75,4 +75,4 @@ Axioms to Consider:
 	--> The probability of getting an A is conditioned on the removal of B from the lot. This is now 3/4.
 	The product rule is saying that the *joint probability* of these two events (getting an A and getting a B) is given by, assuming that we get a B initially, `3/4 * 2/5`
 Suppose we change the scenario:
-	When A and B are independent, then in 
+	When A and B are independent, `P(A, B) = P(A) * P(B)`. This assumes we put the letter B back into the lot.
