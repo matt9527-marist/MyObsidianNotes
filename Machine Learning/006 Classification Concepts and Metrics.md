@@ -19,4 +19,10 @@ Always a class value of interest:
 - Bank verifications: Valid or not valid?
 - Disease Predictions: Disease present or not present?
 
+- **Binary Confusion Matrix**
+(see notes)
+	- True Positive 
+	- True False 
+	- False Positive 
+	- 
 
