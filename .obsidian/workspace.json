@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/001 CMake and Catch2.md",
+                "file": "Machine Learning/Google Talk on Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 CMake and Catch2"
+              "title": "Google Talk on Machine Learning"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "76a3db27b8b98958",
   "lastOpenFiles": [
+    "Machine Learning/Assignment 1 Gradient Proof.md",
+    "Machine Learning/Matrix Operations Sheet.md",
+    "Parallel Processing/005 Memory Model.md",
+    "Parallel Processing/001 CMake and Catch2.md",
     "Machine Learning/004 Data Preprocessing.md",
     "PP Notes/2025-09-20.md",
     "PP Notes/PP Notes.md",
@@ -192,7 +196,6 @@
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/Colab Notebooks.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
-    "Parallel Processing/005 Memory Model.md",
     "Parallel Processing/004 Pointers and References.md",
     "Assets/Pasted image 20250915205757.png",
     "Assets/Pasted image 20250915205527.png",
@@ -203,8 +206,6 @@
     "Parallel Processing/003 C++ Classes and OOP.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Formatting Template.md",
-    "Machine Learning/Assignment 1 Gradient Proof.md",
-    "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/000 Introduction.md",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7/catch.hpp.md",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7",
