@@ -83,6 +83,6 @@ Axioms to Consider:
    $$P(y = yes | X) = \frac{P(X|yes) * P(yes)}{P(X)}$$
    $$P(y = no| X) = \frac{P(X|no) * P(no)}{P(X)}$$
    
-   We compute the values for the 2 equations above. The highest value will allow us to make a prediction. The data we collect prior to this 
+   We compute the values for the 2 equations above. The highest value will allow us to make a prediction. The data we collect prior to this can be our prior knowledge. Something we could change:
 
 
