@@ -392,4 +392,5 @@ for i in range(len(w)):
   print(f'w{i}={w[i]:.5f}')
 ```
 
-
+**Gradient Descent**
+When we refer to this, 
