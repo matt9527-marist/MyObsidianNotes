@@ -96,7 +96,9 @@ Axioms to Consider:
    `argmin -log P(X, Y) = -log P(X|Y) * -log P(X)`
    We obtain a *cost function* that we can minimize. 
 
-
+![[Pasted image 20250922174946.png]]
+![[Pasted image 20250922175012.png]]
+	
 
 
    
