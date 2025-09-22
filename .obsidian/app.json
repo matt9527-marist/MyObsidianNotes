@@ -1,5 +1,6 @@
 {
   "spellcheck": false,
   "tabSize": 5,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "promptDelete": false
 }
