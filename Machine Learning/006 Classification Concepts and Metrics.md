@@ -79,6 +79,6 @@ Axioms to Consider:
 3) Given that P(A,B) = P(A|B) * P(B) = P(B|A) * P(A) (symmetrical)
    We obtain that $$P(A|B) = \frac{P(B|A) * P(A)}{P(B)}$$
    And we may interchange A and B: $$P(Y|X) = \frac{P(X|Y) * P(Y)}{P(X)}$$
-   
+   $$P(y = yes | X) = \frac{P()}{#}$$
 
 
