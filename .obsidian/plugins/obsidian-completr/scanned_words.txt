@@ -1094,6 +1094,7 @@ creates
 concatenating
 choice
 ci
+colored
 the
 to
 training
@@ -1162,6 +1163,7 @@ trigram
 takes
 triple
 timing
+tags
 being
 be
 by

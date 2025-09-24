@@ -392,4 +392,18 @@ for i in range(len(w)):
   print(f'w{i}={w[i]:.5f}')
 ```
 
+## Stochastic Gradient Descent 
+When we refer to SGD, 
+$$w_{new} = w_{old} - \eta \nabla J(w)$$
+$$J = \frac{1}{2n}(Xw-y)^T(Xw-y)$$
+All of the terms above are vectors. 
+$$\nabla J = \frac{1}{n}X^T(Xw-y)$$
+At each pass, we are going over the full dataset. This has a *cost*, not much if it is simple regression, but to compute each `w` we are looking at all of the data again. This means a lot of iterations. 
 
+Instead of using the full `X`, we may use minibatches of `X`, extracted at random from the data. If we do this, we also need to pull the initial `y` values. With this, we will have a much smaller set of data with which to update the `w`'s. 
+
+We compute the gradient against the minibatch. 
+
+SGD guarantees a local minimum. It does need a bit more of a push to reach the global minimum. This is good for #LinearRegression. For more complex models, we might need to help SGD a certain amount. What's an example of helping?
+
+We add a term to the equation determining the weights called the **momentum** to help "push" the algorithm along. 

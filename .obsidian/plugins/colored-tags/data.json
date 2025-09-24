@@ -34,7 +34,15 @@
     "DES": 22,
     "InitializationVector": 23,
     "pipeline": 24,
-    "Hyperparameter": 25
+    "Hyperparameter": 25,
+    "Classification": 26,
+    "probabiliy": 27,
+    "hyperthreading": 28,
+    "AmdahlsLaw": 29,
+    "Speedup": 30,
+    "Gustafson-Barsis": 31,
+    "MPI": 32,
+    "SIMD": 33
   },
   "_version": 3
 }
