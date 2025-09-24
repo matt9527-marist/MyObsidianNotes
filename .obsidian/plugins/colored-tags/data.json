@@ -36,7 +36,13 @@
     "InitializationVector": 24,
     "DES": 25,
     "probabiliy": 26,
-    "Classification": 27
+    "Classification": 27,
+    "AmdahlsLaw": 28,
+    "hyperthreading": 29,
+    "Speedup": 30,
+    "Gustafson-Barsis": 31,
+    "MPI": 32,
+    "SIMD": 33
   },
   "_version": 3
 }
