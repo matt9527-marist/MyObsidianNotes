@@ -83,6 +83,7 @@ Lasso
 Limit
 Later
 Lastly
+Learner
 Relevant
 Reading
 Research
@@ -234,6 +235,7 @@ GB
 Global
 Going
 Generated
+GaussianNB
 Charting
 Control
 Common
@@ -324,6 +326,7 @@ Curve
 Choose
 Computations
 Coping
+CategoricalNB
 Scikit
 Statistical
 Statistics
@@ -412,6 +415,7 @@ SGD
 Summation
 Sum
 Score
+Same
 Keras
 Key
 Kirchhoffs
@@ -477,6 +481,7 @@ Transformers
 TR
 Twofish
 True
+Tennis
 ISLP
 Iris
 Instance
@@ -855,6 +860,7 @@ Predictions
 Positive
 Probability
 Product
+Prior
 What
 We
 With
@@ -983,6 +989,7 @@ inflated
 inject
 initially
 interchange
+independence
 Field
 For
 Find
@@ -1016,6 +1023,7 @@ FPR
 Frequentist
 Formulate
 Frequency
+Freqency
 of
 or
 optimize
@@ -1283,6 +1291,7 @@ scenario
 symmetrical
 signs
 says
+saw
 giving
 good
 generalizable
@@ -1540,6 +1549,11 @@ collectively
 conditioned
 classify
 collect
+configurations
+categorical
+cardinality
+counts
+conditional
 the
 to
 training
@@ -1828,6 +1842,7 @@ events
 event
 exclusive
 exhaustive
+encode
 programmed
 patterns
 program
@@ -2170,6 +2185,7 @@ repeat
 retrieve
 removal
 repeated
+replaced
 model
 mostly
 machine
@@ -2284,6 +2300,8 @@ mutually
 multiplying
 maximizes
 maximizing
+minimizes
+mixed
 hypothesis
 handwritten
 have
@@ -2338,6 +2356,7 @@ harder
 hex
 helping
 highest
+happen
 Execution
 Examples
 Economics
@@ -2430,6 +2449,7 @@ under
 underneath
 unbalanced
 underflow
+unrestricted
 data
 driven
 dataset
@@ -2548,6 +2568,12 @@ drawbacks
 disease
 detects
 disastrous
+defines
+discrete
+distributed
+deviation
+describing
+discretize
 future
 from
 feed
@@ -2673,6 +2699,7 @@ Overview
 OFB
 Objectives
 Observations
+OHE
 kind
 know
 knowledge
@@ -2728,6 +2755,7 @@ vm
 void
 validation
 verifications
+visualized
 numerical
 no
 need
@@ -2788,6 +2816,7 @@ nonce
 needed
 negatives
 naive
+normally
 yes
 yield
 your
@@ -2885,6 +2914,7 @@ Uses
 Upper
 Unlike
 Utilizes
+Up
 Breakout
 Because
 Backpropagation
@@ -2917,6 +2947,7 @@ Binary
 Bank
 Before
 Bayesian
+BernoulliNB
 just
 jagged
 json

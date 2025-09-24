@@ -42,7 +42,10 @@
     "Speedup": 30,
     "Gustafson-Barsis": 31,
     "MPI": 32,
-    "SIMD": 33
+    "SIMD": 33,
+    "GaussianNB": 34,
+    "CategoricalNB": 35,
+    "BernoulliNB": 36
   },
   "_version": 3
 }
