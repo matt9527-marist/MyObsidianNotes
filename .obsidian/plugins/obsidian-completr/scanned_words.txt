@@ -90,6 +90,7 @@ Lightweight
 Low
 Lower
 Limitations
+Learner
 Relevant
 Reading
 Research
@@ -239,6 +240,7 @@ Good
 Graphics
 GPGPU
 General
+GaussianNB
 Charting
 Control
 Common
@@ -335,6 +337,7 @@ Considerations
 Categorizing
 Challenge
 Conditionals
+CategoricalNB
 Scikit
 Statistical
 Statistics
@@ -433,6 +436,7 @@ Saves
 Stream
 SIMT
 Supports
+Same
 Keras
 KB
 Key
@@ -491,6 +495,7 @@ TBB
 Threads
 Typical
 Taxonomy
+Tennis
 ISLP
 Iris
 Instance
@@ -862,6 +867,7 @@ Purpose
 Processes
 Protected
 Programs
+Prior
 What
 We
 With
@@ -988,6 +994,7 @@ internal
 intra
 images
 items
+independence
 Field
 For
 Find
@@ -1019,6 +1026,7 @@ Fortran
 Figure
 Flynn
 Fault
+Freqency
 of
 or
 optimize
@@ -1295,6 +1303,7 @@ significant
 suited
 structured
 streams
+saw
 giving
 good
 generalizable
@@ -1551,6 +1560,10 @@ constrained
 capabilities
 complicate
 choose
+categorical
+cardinality
+counts
+conditional
 the
 to
 training
@@ -1806,6 +1819,8 @@ early
 extra
 enable
 effective
+earlier
+encode
 programmed
 patterns
 program
@@ -2129,6 +2144,7 @@ ranks
 races
 restricted
 redundant
+replaced
 model
 mostly
 machine
@@ -2231,6 +2247,9 @@ movement
 managed
 modest
 meshes
+minimizes
+minus
+mixed
 hypothesis
 handwritten
 have
@@ -2279,6 +2298,7 @@ height
 heat
 hierarchy
 handed
+happen
 Execution
 Examples
 Economics
@@ -2369,6 +2389,7 @@ unit
 updated
 units
 understanding
+unrestricted
 data
 driven
 dataset
@@ -2492,6 +2513,10 @@ discrete
 details
 don
 depending
+defines
+deviation
+describing
+discretize
 future
 from
 feed
@@ -2605,6 +2630,7 @@ OR
 Offloading
 ONLY
 OpenMPI
+OHE
 kind
 know
 knowledge
@@ -2652,6 +2678,7 @@ vectorization
 volcano
 velocity
 vary
+visualized
 numerical
 no
 need
@@ -2699,6 +2726,8 @@ neighbors
 neighboring
 nodes
 node
+numerator
+normally
 yes
 your
 you
@@ -2807,6 +2836,7 @@ Based
 Became
 Building
 Blocks
+BernoulliNB
 just
 jagged
 json
