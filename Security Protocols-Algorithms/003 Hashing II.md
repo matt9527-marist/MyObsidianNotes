@@ -65,3 +65,4 @@ We can compare it to AES.
 **Which Hash functions do we use?**
 - Recommended SHA-2 family, or SHA-3. If SHA-2, use at least SHA256. 
 
+## Attacks on Hash Functions 
