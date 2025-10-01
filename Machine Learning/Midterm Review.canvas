@@ -26,10 +26,11 @@
 		{"id":"6aab81d5ce47bcc4","type":"text","text":"**Linear Algebra**","x":60,"y":-2120,"width":184,"height":60,"color":"#7744d5"},
 		{"id":"98126f375dd34977","type":"text","text":"**Inner Product or Dot Product**\n$$<a,b> = a^Tb = [a_{1},a_{2}] \\space * \\begin{bmatrix}\nb_{1}  \\\\\nb_{2}\n\\end{bmatrix} = a_{1}b_{1} + a_{2}b_{2} = \\sum^{}_{i}a_{i}b_{i}$$ \nwhere the result is a *scalar*.\n\n","x":60,"y":-2060,"width":420,"height":160,"color":"#7744d5"},
 		{"id":"879dbb85b4293cae","type":"text","text":"There is also the **outer product** of two vectors:\n$$ab^T = \\begin{bmatrix}\na_{1} \\\\\na_{2}\n\\end{bmatrix} * [b_{1}, b_{2}] = \\begin{bmatrix}\na_{1}b_{1} & a_{1}b_{2} \\\\\na_{2}b_{1} & a_{2}b_{2}\n\\end{bmatrix}$$\nwhich yields an n x m matrix.","x":480,"y":-2060,"width":400,"height":160,"color":"#7744d5"},
-		{"id":"8688490c1006da17","type":"file","file":"Assets/Pasted image 20251001113756.png","x":860,"y":-2301,"width":400,"height":200},
-		{"id":"859e5e6d6fc8d0a0","type":"text","text":"**Norm** - functions that measure how large or how long a vector is in space. Similar to the distance between 0 and the point represented by the vector. ","x":920,"y":-2060,"width":400,"height":240,"color":"#7744d5"},
+		{"id":"8688490c1006da17","type":"file","file":"Assets/Pasted image 20251001113756.png","x":860,"y":-2301,"width":399,"height":200},
 		{"id":"77abd920d363e5fa","type":"file","file":"Assets/Pasted image 20251001113731.png","x":460,"y":-2360,"width":400,"height":259},
-		{"id":"d5c8562566559229","type":"text","text":"","x":80,"y":-1700,"width":400,"height":240,"color":"#7744d5"}
+		{"id":"d5c8562566559229","type":"text","text":"","x":80,"y":-1700,"width":400,"height":240,"color":"#7744d5"},
+		{"id":"859e5e6d6fc8d0a0","type":"text","text":"**Norm** - functions that measure how large or how long a vector is in space. Similar to the distance between 0 and the point represented by the vector. ","x":880,"y":-2060,"width":400,"height":240,"color":"#7744d5"},
+		{"id":"92c3c434de767e54","x":652,"y":-1739,"width":400,"height":269,"type":"file","file":"Assets/Pasted image 20251001114450.png"}
 	],
 	"edges":[]
 }
