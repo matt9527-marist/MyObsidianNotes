@@ -379,8 +379,10 @@ structured, data-parallel tasks.
 **Variants of SIMD**
 • *SIMD* -> One instruction, multiple data items  
 	• Example: Vector units processing 4 or 8 values at once  
+	• Vectorization
 • *SIMT* -> Single instruction, multiple threads  
 	• Common in GPU workgroups  
+	• Same thing but in a GPU environment 
 • Challenge:  
 	• Conditionals complicate SIMD/SIMT  
 	• All threads must follow the same instruction path  
@@ -394,3 +396,40 @@ structured, data-parallel tasks.
 	• Supports independent thread/process execution  
 • Flynn’s Taxonomy helps identify parallelism patterns and choose  
 architectures suited to specific algorithm structures.
+![[Pasted image 20250929185309.png]]
+
+## Parallel Strategies 
+**Task Parallelism Approaches**
+• Focuses on different tasks, not just data split  
+• **Main–Worker Model**  
+	• One controller assigns tasks to worker threads/processes  
+	• Workers fetch next task after completion  
+	Thread-based and process-based
+• **Pipeline Parallelism**  
+	• Data flows through stages (like an assembly line)  
+	• Used in superscalar processors for parallel instruction execution  
+	Serial-kind of machine, recall organization and architecture
+• **Bucket-Brigade**  
+	• Each processor transforms data in sequence  
+	• Output of one becomes input for the next
+
+**Data Parallelism – The Most Common Strategy**  
+• Each process/thread operates on a subset of data  
+• All execute the same program logic  
+• Works well for-> Cells, Pixels, Particles, Objects  
+	Example could be using machine learning to determine if an image is a cat or a dog. 
+• Advantages:  
+	• Scales efficiently with problem size and processor count  
+	• Simple and consistent to implement  
+• Each worker handles a partitioned block of data
+
+## Speedup Metrics 
+Comparing weak vs. strong speedup. 
+• **Parallel Speedup**  
+	• Also called serial-to-parallel speedup  
+	• Compares parallel run to a serial baseline (e.g., 1 CPU core)  
+	• Shows *benefit of parallelization*  
+• **Comparative Speedup**  
+	• Compares two parallel implementations  
+	• Example: MPI on CPU vs. CUDA on GPU  
+	• Used to *compare architectures or technologies*
