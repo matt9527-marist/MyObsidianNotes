@@ -19,4 +19,8 @@ So far, everything we've discussed is about confidentiality and keeping communic
 3. The hashing function collision-resistant (> **collision** is when two differnet inputs `m` and `m'` will hash to the same output). SHA256 is the most often used, and it is secure, but we can surmise because of the **birthday paradox**, it is almost guaranteed that there are two different files in the world have the same hash. 
 	- But this is only really a problem when we start being able to consistently generate those collisions in the same computing environment. 
 
-Antiviruses like to use hashes (signature-based AV) to identify malware. Malware writers know that this is used, so they may use padding in their code or malware to force AVs to reidenfi
+Antiviruses like to use hashes (signature-based AV) to identify malware. Malware writers know that this is used, so they may use padding in their code or malware to force AVs to reidenfity malware patterns. There are other ways AVs do it though. 
+Other forms of AV:
+- Heuristic-based AV
+- Behavioral-based AV
+	Both look at the actual processes spawned by malware and noticing the patterns. 
