@@ -43,4 +43,17 @@ directly
 - Offers more security than MD5, albeit slower than MD5. 
 - 160-bit result size leads to collisions. 
 - Similar to triple DES from DES.
+**SHA2** - SHA2 is a family including SHA224, 256, 384, and 512. 
+Designed to be used with 128, 192, and 256-bit key sizes from AES.
+- Slow, takes long to compute as AES or Twofish 
+- SHA3
+	- Built of Sponge Construction (absord data like a sponge and output the fixed hash data), uses gret random permutations to "absorb" large amounts of data. 
+
+![[Pasted image 20251001145303.png]]
+1. The MD (Message Digest) Series  
+• Developed by Ron Rivest  
+• Includes MD2, MD4, MD5, & *MD6*  
+2. The SHA Series  
+• Standardized by NIST  
+• Includes SHA-0, SHA-1, *SHA-2* (might need to be replaced), and *SHA-3*
 
