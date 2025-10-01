@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"b7073ba40cab50af","type":"text","text":"Python, Scikit Learn, and Pandas Foundations","x":-920,"y":-320,"width":252,"height":94,"color":"5"},
 		{"id":"f3f47910d12b47fb","type":"text","text":"Machine learning is the field of study that gives  \ncomputers the ability to learn without being  \nexplicitly programmed","x":-120,"y":140,"width":280,"height":160,"color":"#1a4adb"},
 		{"id":"6aab81d5ce47bcc4","type":"text","text":"Linear Algebra","x":-87,"y":-640,"width":184,"height":60,"color":"#7744d5"},
 		{"id":"a2da65508021911e","type":"text","text":"Modern AI is just **optimization** at its core.","x":-370,"y":60,"width":250,"height":60,"color":"#1a4adb"},
@@ -12,7 +11,13 @@
 		{"id":"766ec1a0efbd15e7","type":"text","text":"**Reinforcement Learning**: The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return (or penalties in the form of negative rewards. It must then learn by itself via the best strategy called the *policy* to get the most rewards over time.","x":-435,"y":680,"width":300,"height":280,"color":"#1a4adb"},
 		{"id":"dd0547495287c945","type":"text","text":"*No Free Lunch* Theorem (NFL): if you make absolutely no assumption about the data, there is no reason to prefer one model over the other. No model is a priori guaranteed to work better. The only way to know for sure is to evaluate them all. This is not possible, so in practice, we will make reasonable assumptions about the data.","x":-120,"y":620,"width":360,"height":220,"color":"#1a4adb"},
 		{"id":"568a7e55d4da4238","type":"text","text":"For most problems, 5 steps:\n1. DEFINE ARCHITECTURE \n2. DEFINE OPTIMIZATION MODEL \n3. CHOOSE SOLUTION \n4. VECTORIZE \n5. EMIGRATE \nThe optimization model will bring our **loss function**","x":160,"y":60,"width":320,"height":260,"color":"#1a4adb"},
-		{"id":"518ec715a6d8f745","type":"text","text":"**Loss Function** - Often synonymous with \"cost function.\"\nreferring usually to the overall loss over a dataset. \nSometimes called empirical risk. \nThis is the function that we want to MINIMIZE.","x":280,"y":340,"width":320,"height":200,"color":"#1a4adb"}
+		{"id":"518ec715a6d8f745","type":"text","text":"**Loss Function** - Often synonymous with \"cost function.\"\nreferring usually to the overall loss over a dataset. \nSometimes called empirical risk. \nThis is the function that we want to MINIMIZE.","x":280,"y":340,"width":320,"height":200,"color":"#1a4adb"},
+		{"id":"f1a1f2ccf7f6429c","type":"text","text":"**How do computers discover new knowledge?**\n1) Filling gaps in existing knowledge\n\t- We make observations and then find ways to adapt them and explain them\n2) Simulating the brain\n3) Simulating evolution\n\t- By some standards, evolution is even greater learning algorithm \n4) Systematically reduce uncertainty\n\t- Realize that all knowledge learned is necessarily uncertain.\n5) Reason by analogy\n\t- Transfer situations that we know to situations we are faced with","x":280,"y":560,"width":518,"height":409,"color":"#1a4adb"},
+		{"id":"cef1a1c5a3364c91","type":"file","file":"Assets/Pasted image 20251001111457.png","x":-120,"y":860,"width":389,"height":126},
+		{"id":"b7073ba40cab50af","type":"text","text":"Python, Scikit Learn, and Pandas Foundations","x":-2000,"y":-640,"width":252,"height":80,"color":"5"},
+		{"id":"78082434f665c204","type":"text","text":"[Cheat sheet Numpy Python copy.indd](https://brightspace.marist.edu/content/enforced/59581-20254012901/Resources/CheatSheets/Numpy_Cheat_Sheet.pdf?isCourseFile=true&ou=59581)","x":-2000,"y":-720,"width":252,"height":80,"color":"5"},
+		{"id":"070a6b8571478ecb","type":"text","text":"[Pandas_Cheat_Sheet.pdf](https://brightspace.marist.edu/content/enforced/59581-20254012901/Resources/CheatSheets/Pandas_Cheat_Sheet.pdf?isCourseFile=true&ou=59581)","x":-1748,"y":-720,"width":252,"height":80,"color":"5"},
+		{"id":"636c2f7eb27ca5b1","type":"text","text":"[Matplotlib_Cheat_Sheet.pdf](https://brightspace.marist.edu/content/enforced/59581-20254012901/Resources/CheatSheets/Matplotlib_Cheat_Sheet.pdf?isCourseFile=true&ou=59581)","x":-1748,"y":-640,"width":252,"height":80,"color":"5"}
 	],
 	"edges":[]
 }
