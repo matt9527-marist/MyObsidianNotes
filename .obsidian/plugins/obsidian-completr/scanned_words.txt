@@ -211,6 +211,8 @@ MhK
 MJO
 Mbc
 MuDo
+MxR
+MKXKS
 Learning
 Learn
 Let
@@ -587,6 +589,8 @@ Rov
 RoET
 RwN
 RXq
+RlK
+RRl
 libraries
 learn
 learning
@@ -827,6 +831,10 @@ lxD
 lvJ
 lzTp
 lRYt
+linearly
+lCQ
+ldq
+lWs
 Graphing
 Google
 Game
@@ -1000,6 +1008,8 @@ GjmZes
 GMO
 Gqtb
 Gtg
+GHN
+Grzj
 Charting
 Control
 Common
@@ -1270,6 +1280,8 @@ Cly
 CbKK
 COVdi
 CjU
+Cim
+CDh
 Scikit
 Statistical
 Statistics
@@ -1540,6 +1552,8 @@ Snl
 SPdg
 ScI
 SFYu
+SLLH
+SQS
 Keras
 Key
 Kirchhoffs
@@ -1670,6 +1684,7 @@ KuC
 KQs
 Kdm
 Kpwg
+KLZ
 TensorFlow
 Task
 Training
@@ -2086,6 +2101,7 @@ IXU
 IuB
 INr
 IOj
+INL
 and
 ability
 approximation
@@ -2390,6 +2406,8 @@ aPG
 auq
 aOC
 aUl
+axt
+aoS
 Applications
 AI
 Analysis
@@ -2608,6 +2626,7 @@ AjL
 AUd
 AXO
 AqO
+Aam
 with
 without
 want
@@ -3684,6 +3703,7 @@ FVv
 FBKH
 FjE
 Fcu
+Flc
 of
 or
 optimize
@@ -4309,6 +4329,8 @@ sDsE
 sdX
 sIF
 sQd
+sbO
+spg
 giving
 good
 generalizable
@@ -4538,6 +4560,7 @@ gwr
 gDEn
 gMF
 gGW
+gQV
 computers
 computer
 can
@@ -4956,6 +4979,7 @@ cYU
 cJVk
 clv
 cYt
+cfdc
 the
 to
 training
@@ -5252,6 +5276,7 @@ tsB
 tRp
 tBV
 tul
+tFa
 being
 be
 by
@@ -5456,6 +5481,7 @@ boB
 bIs
 bzXu
 brM
+bzKm
 explicitly
 experience
 error
@@ -6097,6 +6123,12 @@ pRD
 pvF
 ppb
 pcC
+paD
+prm
+psp
+pMV
+psv
+pno
 Detecting
 Deepmind
 Dataset
@@ -6321,6 +6353,9 @@ DbuaP
 DCp
 Dde
 DoJt
+DAA
+DNK
+DlOz
 regularities
 respect
 recognizing
@@ -6609,6 +6644,8 @@ rJqz
 rHq
 rau
 rlfd
+rbF
+rnc
 model
 mostly
 machine
@@ -6875,6 +6912,7 @@ mns
 mgT
 mor
 mxu
+mbO
 hypothesis
 handwritten
 have
@@ -7266,6 +7304,8 @@ Env
 ENN
 EUn
 EdE
+EHs
+EQR
 using
 utility
 use
@@ -7756,6 +7796,9 @@ dBl
 dfs
 dBz
 dhXY
+diagonal
+dwJ
+dejJ
 future
 from
 feed
@@ -7981,6 +8024,8 @@ fGd
 fjm
 fvP
 faV
+fATl
+fyn
 Optimziation
 Operations
 Once
@@ -8183,6 +8228,9 @@ Olv
 Ozr
 On
 OPot
+OyY
+Ore
+OGO
 kind
 know
 knowledge
@@ -8536,6 +8584,8 @@ vaRq
 vvEkE
 vilUWz
 vsG
+vdoV
+vTHr
 numerical
 no
 need
@@ -8734,6 +8784,9 @@ ncc
 nXf
 nhH
 naW
+nRank
+nTrace
+nec
 yes
 yield
 your
@@ -8905,6 +8958,7 @@ yFh
 yadi
 yjOY
 yNI
+yjL
 How
 Hinge
 Header
@@ -9058,6 +9112,7 @@ HLJ
 HCU
 HjS
 HlA
+HAD
 Not
 NOTHING
 No
@@ -9396,6 +9451,8 @@ qqQ
 qHm
 qsF
 qwWr
+qqD
+qhcw
 Unsupervised
 UNION
 User
@@ -9545,6 +9602,7 @@ UKx
 UNe
 UoU
 UcVt
+UTo
 Breakout
 Because
 Backpropagation
@@ -9746,6 +9804,11 @@ Bux
 BYlV
 BMnE
 Bft
+BTP
+Bbz
+BRI
+Bfs
+BHv
 just
 jagged
 json
@@ -9868,6 +9931,7 @@ jwr
 jHe
 jCA
 jKv
+jYyZYx
 Vectors
 Vectorization
 Visualization
@@ -10037,6 +10101,10 @@ VuP
 VzL
 VbSR
 VFM
+Vl
+VeQ
+Vkv
+VEh
 zero
 zu
 zj
@@ -10173,6 +10241,8 @@ zhc
 zVyW
 zmC
 zpP
+zEY
+zHsE
 Java
 Jr
 Jv
@@ -10330,6 +10400,8 @@ JTy
 JXM
 JPvbT
 Jqz
+JdV
+JrR
 You
 Yw
 Ygy
@@ -10472,6 +10544,11 @@ YXK
 YmM
 YdT
 Ymp
+YNO
+YxX
+YGJ
+YTu
+YcD
 Xk
 Xt
 Xs
@@ -10598,6 +10675,7 @@ XSX
 XYA
 XEB
 XRl
+XBN
 Qw
 QV
 QG
@@ -10742,6 +10820,7 @@ QXv
 QOd
 QrB
 QGGJ
+QAN
 ZgjY
 Zy
 Zky
@@ -10870,6 +10949,7 @@ Zws
 ZGn
 ZQb
 ZGw
+Zbw
 xKJ
 xP
 xü
@@ -11053,4 +11133,5 @@ xNN
 ÖS
 Än
 Äi
+Äz
 Üup

@@ -11,9 +11,10 @@
 		{"id":"859e5e6d6fc8d0a0","type":"text","text":"**Norm** - functions that measure how large or how long a vector is in space. Similar to the distance between 0 and the point represented by the vector. \nThe inner product allows us to obtain the norm and the angle between two vectors: \n$$||\\vec{a}-\\vec{b}||^2 = ||a||^2 + ||b||^2 - 2||a||||b||\\cos \\theta$$\n$$||\\vec{a}-\\vec{b}||^2 = (\\vec{a}-\\vec{b})^T(\\vec{a}-\\vec{b}) = a^Ta+b^Tb-2a^Tb$$\nWe obtain:\n$$\\cos \\theta = \\frac{\\vec{a}^{T}\\vec{b}}{||a||||b||}$$","x":-1230,"y":460,"width":480,"height":340,"color":"#7744d5"},
 		{"id":"77abd920d363e5fa","type":"file","file":"Assets/Pasted image 20251001113731.png","x":-1650,"y":160,"width":400,"height":259},
 		{"id":"8688490c1006da17","type":"file","file":"Assets/Pasted image 20251001113756.png","x":-1250,"y":219,"width":399,"height":200},
-		{"id":"b66a3b0c66b4d726","x":-1230,"y":820,"width":490,"height":360,"type":"file","file":"Assets/Pasted image 20251001120331.png"},
-		{"id":"7be8b135c6ffd8d2","type":"text","text":"","x":-2240,"y":1120,"width":282,"height":220,"color":"#7744d5"},
-		{"id":"6e5305b5a37f25b7","type":"text","text":"**Matrix Characteristics**\n$$\\det(A) = \\det \\begin{bmatrix}\n1 & 2 \\\\\n3 & 4\n\\end{bmatrix} = 1*4 - 2*3$$\nRank = # of linearly independent rows\nTrace = Sum of the main diagonal \n","x":-1630,"y":920,"width":400,"height":310,"color":"#7744d5"}
+		{"id":"b66a3b0c66b4d726","type":"file","file":"Assets/Pasted image 20251001120331.png","x":-1230,"y":820,"width":490,"height":360},
+		{"id":"6e5305b5a37f25b7","type":"text","text":"**Matrix Characteristics**\n$$\\det(A) = \\det \\begin{bmatrix}\n1 & 2 \\\\\n3 & 4\n\\end{bmatrix} = 1*4 - 2*3$$\nRank = # of linearly independent rows\nTrace = Sum of the main diagonal \n![[Pasted image 20251001121105.png]]","x":-1630,"y":920,"width":400,"height":260,"color":"#7744d5"},
+		{"id":"ee101f1c789c794b","type":"text","text":"**Linear Independence**\n![[Pasted image 20251001121201.png]]\n![[Pasted image 20251001121242.png]]","x":-2552,"y":140,"width":491,"height":640,"color":"#7744d5"},
+		{"id":"7be8b135c6ffd8d2","type":"text","text":"*Solving a System of Equations in Vector/Matrix Form*\nGiven two equations with unknown variables:\n$$x_{1} + x_{2} = 6$$\n$$2x_{1} + x_{2} = 9$$\nCan be represented as: $$\\begin{bmatrix}\n1 & 1 \\\\\n2 & 1\n\\end{bmatrix} * \\begin{bmatrix}\nx_{1} \\\\\nx_{2}\n\\end{bmatrix} = \\begin{bmatrix}\n6  \\\\\n9\n\\end{bmatrix}$$\nOr: `A *`","x":-2515,"y":860,"width":418,"height":310,"color":"#7744d5"}
 	],
 	"edges":[]
 }
