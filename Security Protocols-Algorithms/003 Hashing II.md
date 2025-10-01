@@ -66,3 +66,8 @@ We can compare it to AES.
 - Recommended SHA-2 family, or SHA-3. If SHA-2, use at least SHA256. 
 
 ## Attacks on Hash Functions 
+![[Pasted image 20251001152927.png]]
+**Collisions**
+- Taking a prefiex file (added as a prefix onto a generated P and Q from the MD5 collision generation)
+- Echo a string into "prefix"
+- Use `md5collgen` on the file to create to binary files, msg1, and msg2. 
