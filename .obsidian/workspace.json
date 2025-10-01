@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Linear Algebra.canvas",
+                "file": "Machine Learning/Midterm Review/Calculus.canvas",
                 "viewState": {
-                  "x": -1888.0885442337894,
-                  "y": 817.5117715875934,
-                  "zoom": -1.5293395636927367
+                  "x": 142.04676394863571,
+                  "y": -0.15880523928942125,
+                  "zoom": -0.28776264088004194
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linear Algebra"
+              "title": "Calculus"
             }
           }
         ]
@@ -176,22 +176,23 @@
   },
   "active": "3f4200829f8412d6",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251001130841.png",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Calculus.canvas",
     "Assets/Pasted image 20251001121829.png",
     "Assets/Pasted image 20251001121825.png",
     "Assets/Pasted image 20251001121242.png",
     "Assets/Pasted image 20251001121201.png",
     "Assets/Pasted image 20251001121105.png",
     "Machine Learning/001 Linear Algebra Review.md",
-    "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Assets/Pasted image 20251001120331.png",
     "Assets/Pasted image 20251001120246.png",
     "Assets/Pasted image 20251001120158.png",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review",
     "Assets/Pasted image 20251001115848.png",
     "Assets/Pasted image 20251001115832.png",
-    "Assets/Pasted image 20251001115709.png",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Untitled.base",
     "Machine Learning/Google Talk on Machine Learning.md",
