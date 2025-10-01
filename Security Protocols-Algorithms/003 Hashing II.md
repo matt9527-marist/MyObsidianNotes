@@ -98,7 +98,11 @@ MAC code (tag) and message are sent to Bob.
 • The last block (or half the last block) (usually 128 bits) of the ciphertext becomes the  
 MAC.  
 • *Never use the same key for encryption & authentication.* Why? 
-	Consider, we have `K (key`
+	Consider, we have key`K`, tag`a`, message `m`, and ciphertext `c`
+	To encrypt, we could use `AES-CBC(K, m)` --> `c`
+	To decrypt, we use `AES-CBC(K, c)` --> `a`
+	If we use the same function to generate the tag, `AES-CBC(K, m)` --> `a`.
+	Notice this creates similarities between the tag and our ciphertext. We would be communicating `c` and the last block of `c`, which is the tag and not secure. 
 • Susceptible to collision attacks  
 • Steps to properly implement CBC-MAC:  
 1. Construct a string s from l and m, where l is the length of m in a  
@@ -107,3 +111,4 @@ fixed-length format.
 3. Apply CBC-MAC to s  
 4. Only output the last ciphertext block, and no other parts or  
 intermediate stages.
+**CMAC: A more secure version of 
