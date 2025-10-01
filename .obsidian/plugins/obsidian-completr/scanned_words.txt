@@ -4331,6 +4331,8 @@ sIF
 sQd
 sbO
 spg
+special
+stretched
 giving
 good
 generalizable
@@ -4980,6 +4982,7 @@ cJVk
 clv
 cYt
 cfdc
+ced
 the
 to
 training
@@ -5778,6 +5781,8 @@ eUf
 emz
 eTs
 eNs
+eigenvector
+eigenvalue
 programmed
 patterns
 program
@@ -8787,6 +8792,7 @@ naW
 nRank
 nTrace
 nec
+nOr
 yes
 yield
 your
