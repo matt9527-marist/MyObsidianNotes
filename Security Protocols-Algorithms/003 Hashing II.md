@@ -59,4 +59,5 @@ Designed to be used with 128, 192, and 256-bit key sizes from AES.
 
 Running hash functions 
 ![[Pasted image 20251001145553.png]]
-
+Performane measuring![[Pasted image 20251001150149.png]]
+We can compare it to AES.
