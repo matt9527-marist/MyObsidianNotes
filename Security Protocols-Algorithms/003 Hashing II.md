@@ -113,3 +113,12 @@ fixed-length format.  `s = m || l ...000`
 4. Only output the last ciphertext block, and no other parts or  
 intermediate stages. `a` is this last block.
 **CMAC: A more secure version of CBC-MAC**
+• NIST has standardized CMAC as a streamlined  
+implementation of CBC-MAC.  
+• Same as CBC-MAC but:  
+	• CMAC xors 1 of 2 special values into the last block prior to the  
+	last iteration of cipher encryption  
+	• Special values are derived from the CMAC key.  
+	• The special value is chosen based on whether the length of  
+	the message is a multiple of the block cipher’s block length.
+**GMAC**
