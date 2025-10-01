@@ -15,9 +15,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Calculus.canvas",
                 "viewState": {
-                  "x": 8.32026977952033,
-                  "y": 1016.1077088037946,
-                  "zoom": -0.3568628150362455
+                  "x": 404.2074751063615,
+                  "y": 163.57833099599299,
+                  "zoom": -0.9439143785643932
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -38,7 +38,8 @@
               "title": "002 Vector and Matrix Calculus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f4200829f8412d6",
+  "active": "4302c4bf17fda890",
   "lastOpenFiles": [
-    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/Midterm Review/Calculus.canvas",
+    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Assets/Pasted image 20251001132512.png",
     "Assets/Pasted image 20251001132130.png",
