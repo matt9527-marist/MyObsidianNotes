@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"9f379f087db0040b","type":"text","text":"Machine learning is the field of study that gives  \ncomputers the ability to learn without being  \nexplicitly programmed","x":-301,"y":-383,"width":280,"height":160,"color":"#1a4adb"},
+		{"id":"59dafa6b831bcd96","type":"text","text":"Modern AI is just **optimization** at its core.","x":-551,"y":-463,"width":250,"height":60,"color":"#1a4adb"},
+		{"id":"579fb5c5dd7a36ef","type":"text","text":"**Machine Learning Baseline**\n","x":-286,"y":-463,"width":250,"height":60,"color":"#1a4adb"},
+		{"id":"1b88ca4ba2742026","type":"file","file":"Assets/Pasted image 20251001110227.png","x":-301,"y":-183,"width":400,"height":260},
+		{"id":"609ac8142c2e4aa5","type":"text","text":"**Supervised Learning**: The ML system learns patterns and relationships from large amounts of data to make predictions.","x":-601,"y":-383,"width":280,"height":114,"color":"#1a4adb"},
+		{"id":"6dfc615e0502b6af","type":"file","file":"Assets/Pasted image 20251001110330.png","x":-611,"y":-243,"width":290,"height":215},
+		{"id":"fbe72dcb158e11eb","type":"text","text":"**Unsupervised Learning**: The goal is to discover “interesting structure” in the data; this is sometimes called knowledge discovery.predictions. We are NOT told what the desired output is for each input.","x":-616,"y":-28,"width":300,"height":185,"color":"#1a4adb"},
+		{"id":"c2b40efa0ff59d28","type":"text","text":"**Reinforcement Learning**: The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return (or penalties in the form of negative rewards. It must then learn by itself via the best strategy called the *policy* to get the most rewards over time.","x":-616,"y":157,"width":300,"height":280,"color":"#1a4adb"},
+		{"id":"dae5b19230ad70b7","type":"text","text":"*No Free Lunch* Theorem (NFL): if you make absolutely no assumption about the data, there is no reason to prefer one model over the other. No model is a priori guaranteed to work better. The only way to know for sure is to evaluate them all. This is not possible, so in practice, we will make reasonable assumptions about the data.","x":-301,"y":97,"width":360,"height":220,"color":"#1a4adb"},
+		{"id":"2e003d42f1a9c304","type":"text","text":"For most problems, 5 steps:\n1. DEFINE ARCHITECTURE \n2. DEFINE OPTIMIZATION MODEL \n3. CHOOSE SOLUTION \n4. VECTORIZE \n5. EMIGRATE \nThe optimization model will bring our **loss function**","x":-21,"y":-463,"width":320,"height":260,"color":"#1a4adb"},
+		{"id":"1c0b7d3b4ab4ee47","type":"text","text":"**Loss Function** - Often synonymous with \"cost function.\"\nreferring usually to the overall loss over a dataset. \nSometimes called empirical risk. \nThis is the function that we want to MINIMIZE.","x":99,"y":-183,"width":320,"height":200,"color":"#1a4adb"},
+		{"id":"ee5f07d2c501480e","type":"text","text":"**How do computers discover new knowledge?**\n1) Filling gaps in existing knowledge\n\t- We make observations and then find ways to adapt them and explain them\n2) Simulating the brain\n3) Simulating evolution\n\t- By some standards, evolution is even greater learning algorithm \n4) Systematically reduce uncertainty\n\t- Realize that all knowledge learned is necessarily uncertain.\n5) Reason by analogy\n\t- Transfer situations that we know to situations we are faced with","x":99,"y":37,"width":518,"height":409,"color":"#1a4adb"},
+		{"id":"343d181292a87579","type":"file","file":"Assets/Pasted image 20251001111457.png","x":-301,"y":337,"width":389,"height":126}
+	],
+	"edges":[]
+}

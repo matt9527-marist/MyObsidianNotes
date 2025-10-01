@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "006 Classification Concepts and Metrics"
             }
+          },
+          {
+            "id": "51320cbd78282d30",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Machine Learning/Midterm Review/Calculus.canvas",
+                "viewState": {
+                  "x": 300,
+                  "y": 360,
+                  "zoom": -0.8170188457322415
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Calculus"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +188,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47c06b89387e7862",
+  "active": "51320cbd78282d30",
   "lastOpenFiles": [
-    "Machine Learning/Assignment 1 Gradient Proof.md",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "conflict-files-obsidian-git.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
+    "Security Protocols-Algorithms/README.md",
+    "Security Protocols-Algorithms/003 Hashing II.md",
+    "Parallel Processing/103 Performance Limits and Profiling.md",
+    "Parallel Processing/102 Planning for Parallelization.md",
+    "Machine Learning/Midterm Review/Calculus.canvas",
+    "Machine Learning/Midterm Review",
+    "Assets/Pasted image 20251001114535.png",
+    "Assets/Pasted image 20251001114510.png",
+    "Assets/Pasted image 20251001114450.png",
+    "Assets/Pasted image 20251001114440.png",
+    "Assets/Pasted image 20251001114356.png",
+    "Assets/Pasted image 20251001114242.png",
+    "Assets/Pasted image 20251001113756.png",
+    "Assets/Pasted image 20251001113731.png",
+    "Assets/Pasted image 20251001113727.png",
+    "Assets/Pasted image 20251001113027.png",
+    "Machine Learning/Assignment 1 Gradient Proof.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/000 Introduction.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
@@ -191,24 +229,8 @@
     "Machine Learning/Assignment 4 Probabilities.md",
     "Machine Learning/Colab Notebooks.md",
     "Parallel Processing/005 Memory Model.md",
-    "conflict-files-obsidian-git.md",
-    "Assets/Pasted image 20250924114446.png",
-    "Assets/Pasted image 20250924114428.png",
-    "Assets/Pasted image 20250924114407.png",
-    "Assets/Pasted image 20250924114355.png",
-    "Assets/Pasted image 20250924095632.png",
-    "Assets/Pasted image 20250924093432.png",
-    "Assets/Pasted image 20250922205025.png",
-    "Assets/Pasted image 20250922204640.png",
-    "Assets/Pasted image 20250922204638.png",
-    "Assets/Pasted image 20250922204204.png",
     "Parallel Processing/004 Pointers and References.md",
-    "Parallel Processing/003 C++ Classes and OOP.md",
-    "Parallel Processing/002.1 Using Dynamic Memory.md",
-    "Parallel Processing/002.2 Vectors.md",
-    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "PP Notes/Untitled.canvas",
-    "PP Notes/PP Notes.md",
     "PP Notes",
     "Security Protocols-Algorithms",
     "Sec Prot and Algorithms",

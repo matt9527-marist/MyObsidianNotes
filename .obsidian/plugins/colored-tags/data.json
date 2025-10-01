@@ -45,7 +45,10 @@
     "SIMD": 33,
     "GaussianNB": 34,
     "CategoricalNB": 35,
-    "BernoulliNB": 36
+    "BernoulliNB": 36,
+    "logisticregression": 37,
+    "Likelihood": 38,
+    "CrossEntropy": 39
   },
   "_version": 3
 }
