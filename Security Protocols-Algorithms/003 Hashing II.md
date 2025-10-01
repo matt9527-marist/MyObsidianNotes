@@ -14,11 +14,9 @@ So far, everything we've discussed is about confidentiality and keeping communic
 
 **Properties of Hash Functions**
 `M -> h(M)`
-1. The hashing function is one-way, which is why it is also called a *trap*
+1. The hashing function is one-way, which is why it is also called a *trapdoor function*. You cannot decrypt a hash. 
 2. The hash is a fixed length
 3. The hashing function collision-resistant (> **collision** is when two differnet inputs `m` and `m'` will hash to the same output). SHA256 is the most often used, and it is secure, but we can surmise because of the **birthday paradox**, it is almost guaranteed that there are two different files in the world have the same hash. 
 	- But this is only really a problem when we start being able to consistently generate those collisions in the same computing environment. 
 
-
-
-
+Antiviruses like to use hashes (signature-based AV) to identify malware. Malware writers know that this is used, so they may use padding in their code or malware to force AVs to reidenfi
