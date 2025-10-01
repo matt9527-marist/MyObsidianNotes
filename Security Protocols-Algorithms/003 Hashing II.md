@@ -77,4 +77,4 @@ We can compare it to AES.
 May notice there is little initial difference, but this is a collision. `md5collgen` generates P and Q using edits in small, strategic spots. 
 This is due to a vulnerability in the Merkle-Damgard construction. 
 ![[Pasted image 20251001153439.png]]
-
+P and Q are generated from the program, but the prefix and suffix are what is meaningful to us. 
