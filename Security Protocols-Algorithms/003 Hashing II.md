@@ -86,3 +86,9 @@ Linux storage of passwords. Not just for the passwords, but also for the *salt* 
 
 We do not just hash once on passwords. Usually, we would hash thousandso of times over. When we scale dictionary attacks (how you attack a password vault, potentially using hashes), this makes brute force attacks much more difficult. 
 
+## Message Authentication Codes 
+**MAC** - A construction that detects tampering with messages.
+![[Pasted image 20251001155408.png]]
+Integrity vs. Confidentiality 
+MAC code (tag) and message are sent to Bob. 
+- Speaking specifically about the tag, `a`, Alice sends her message with this tag as the identifier c
