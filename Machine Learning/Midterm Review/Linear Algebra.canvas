@@ -13,7 +13,7 @@
 		{"id":"8688490c1006da17","type":"file","file":"Assets/Pasted image 20251001113756.png","x":-1250,"y":219,"width":399,"height":200},
 		{"id":"b66a3b0c66b4d726","x":-1230,"y":820,"width":490,"height":360,"type":"file","file":"Assets/Pasted image 20251001120331.png"},
 		{"id":"7be8b135c6ffd8d2","type":"text","text":"","x":-2240,"y":1120,"width":282,"height":220,"color":"#7744d5"},
-		{"id":"6e5305b5a37f25b7","type":"text","text":"**Matrix Characteristics**\n$$\\det(A) = \\det$$","x":-1630,"y":920,"width":400,"height":310,"color":"#7744d5"}
+		{"id":"6e5305b5a37f25b7","type":"text","text":"**Matrix Characteristics**\n$$\\det(A) = \\det \\begin{bmatrix}\n1 & 2 \\\\\n3 & 4\n\\end{bmatrix} = 1*4 - 2*3$$\nRank = # of linearly independent rows\nTrace = Sum of the main diagonal \n","x":-1630,"y":920,"width":400,"height":310,"color":"#7744d5"}
 	],
 	"edges":[]
 }
