@@ -78,3 +78,10 @@ May notice there is little initial difference, but this is a collision. `md5coll
 This is due to a vulnerability in the Merkle-Damgard construction. 
 ![[Pasted image 20251001153439.png]]
 P and Q are generated from the program, but the prefix and suffix are what is meaningful to us. 
+
+**Applications of Hash Functions**
+![[Pasted image 20251001154335.png]]
+Linux storage of passwords. Not just for the passwords, but also for the *salt* of the password. 
+*Salt* - used to generate different hashes for the same password according to the user by using randomness. 
+
+We do not just hash once on passwords. Usually, we would hash thousandso of times over. 

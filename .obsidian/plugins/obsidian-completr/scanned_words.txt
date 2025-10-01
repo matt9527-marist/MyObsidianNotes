@@ -215,6 +215,8 @@ MxR
 MKXKS
 MKy
 MbP
+Malware
+Merkle
 Learning
 Learn
 Let
@@ -599,6 +601,9 @@ RlK
 RRl
 REI
 Rdw
+Ron
+Rivest
+Running
 libraries
 learn
 learning
@@ -848,6 +853,7 @@ lmX
 lom
 loY
 lth
+lab
 Graphing
 Google
 Game
@@ -1304,6 +1310,9 @@ CdO
 Cbaa
 CwO
 Ccw
+Codes
+Construction
+Collisions
 Scikit
 Statistical
 Statistics
@@ -1580,6 +1589,11 @@ SQb
 SqI
 SOg
 SVv
+SHA
+Streams
+Slow
+Sponge
+Standardized
 Keras
 Key
 Kirchhoffs
@@ -1939,6 +1953,7 @@ TWe
 TSZF
 TlU
 TRX
+Taking
 ISLP
 Iris
 Instance
@@ -2138,6 +2153,10 @@ IuB
 INr
 IOj
 INL
+Interceptor
+Iterative
+Insecure
+Includes
 and
 ability
 approximation
@@ -2447,6 +2466,11 @@ aoS
 axes
 accepts
 aTo
+arbitrarily
+almost
+albeit
+absord
+absorb
 Applications
 AI
 Analysis
@@ -2667,6 +2691,8 @@ AXO
 AqO
 Aam
 Abbz
+Antiviruses
+AVs
 with
 without
 want
@@ -2885,6 +2911,7 @@ wXrZ
 wDTd
 wfub
 wlo
+writers
 Python
 Performance
 Principle
@@ -3117,6 +3144,7 @@ PYp
 PSL
 PjM
 Prot
+Performane
 What
 We
 With
@@ -4001,6 +4029,8 @@ onN
 oMF
 oXt
 obfa
+onto
+outputs
 study
 simplified
 something
@@ -4392,6 +4422,16 @@ spg
 special
 stretched
 sIG
+string
+she
+spawned
+splits
+slower
+sponge
+strategic
+spots
+suffix
+storage
 giving
 good
 generalizable
@@ -4624,6 +4664,7 @@ gGW
 gQV
 gkt
 gmVx
+gret
 computers
 computer
 can
@@ -5051,6 +5092,9 @@ coordinates
 cItc
 crb
 cGv
+confidentiality
+compression
+construction
 the
 to
 training
@@ -5352,6 +5396,9 @@ temperature
 three
 tells
 tbs
+tampered
+trapdoor
+though
 being
 be
 by
@@ -5869,6 +5916,7 @@ ews
 eyP
 egX
 eJJ
+edits
 programmed
 patterns
 program
@@ -6227,6 +6275,10 @@ pVk
 piR
 ptf
 piZ
+produces
+predecessor
+prefiex
+prefix
 Detecting
 Deepmind
 Dataset
@@ -6456,6 +6508,10 @@ DNK
 DlOz
 DyF
 Def
+Designed
+Digest
+Developed
+Damgard
 regularities
 respect
 recognizing
@@ -6748,6 +6804,11 @@ rbF
 rnc
 rVVBxz
 rWakDu
+received
+resistant
+really
+reidenfity
+rotation
 model
 mostly
 machine
@@ -7019,6 +7080,9 @@ meO
 mll
 mHM
 mHV
+malware
+msg
+meaningful
 hypothesis
 handwritten
 have
@@ -7224,6 +7288,8 @@ hcH
 hev
 hLy
 htE
+hash
+hashes
 Execution
 Examples
 Economics
@@ -7419,6 +7485,7 @@ Ebv
 Ege
 EDo
 EpQ
+Echo
 using
 utility
 use
@@ -7929,6 +7996,8 @@ dbI
 daH
 dff
 directional
+discussing
+differnet
 future
 from
 feed
@@ -8162,6 +8231,8 @@ fTInK
 fgg
 flQ
 fdcb
+force
+family
 Optimziation
 Operations
 Once
@@ -8369,6 +8440,7 @@ Ore
 OGO
 Oaz
 Ovt
+Offers
 kind
 know
 knowledge
@@ -8735,6 +8807,9 @@ vAG
 vej
 vPL
 vrh
+verifying
+verified
+vulnerability
 numerical
 no
 need
@@ -8949,6 +9024,8 @@ nqI
 nEssentially
 nWhen
 nWhich
+noticing
+notice
 yes
 yield
 your
@@ -9285,6 +9362,8 @@ HsgN
 Hrj
 Huw
 HzI
+Hash
+Heuristic
 Not
 NOTHING
 No
@@ -9464,6 +9543,7 @@ NcF
 NaTe
 Ncp
 NLO
+NIST
 quality
 question
 quickly
@@ -9995,6 +10075,8 @@ BQwa
 Bmt
 BGv
 Bnd
+Behavioral
+Built
 just
 jagged
 json

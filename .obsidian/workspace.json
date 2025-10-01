@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f4200829f8412d6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Machine Learning/Midterm Review/Calculus.canvas",
-                "viewState": {
-                  "x": 404.2074751063615,
-                  "y": 163.57833099599299,
-                  "zoom": -0.9439143785643932
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Calculus"
-            }
-          },
-          {
-            "id": "4302c4bf17fda890",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Machine Learning/Midterm Review/Calculus.canvas",
-                "viewState": {
-                  "x": 300,
-                  "y": 360,
-                  "zoom": -1.238327893269422
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Calculus"
-            }
-          },
-          {
             "id": "5bb8fdc2b5cc239d",
             "type": "leaf",
             "state": {
@@ -55,8 +21,7 @@
               "title": "003 Hashing II"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,6 +173,9 @@
   },
   "active": "5bb8fdc2b5cc239d",
   "lastOpenFiles": [
+    "Machine Learning/Midterm Review/Calculus.canvas",
+    "Security Protocols-Algorithms/003 Hashing II.md",
+    "Assets/Pasted image 20251001154335.png",
     "Assets/Pasted image 20251001153439.png",
     "Assets/Pasted image 20251001153320.png",
     "Assets/Pasted image 20251001153319.png",
@@ -217,11 +185,7 @@
     "Assets/Pasted image 20251001152927.png",
     "Assets/Pasted image 20251001150149.png",
     "Assets/Pasted image 20251001150148.png",
-    "Assets/Pasted image 20251001145553.png",
-    "Assets/Pasted image 20251001145546.png",
     "Untitled.md",
-    "Security Protocols-Algorithms/003 Hashing II.md",
-    "Machine Learning/Midterm Review/Calculus.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
