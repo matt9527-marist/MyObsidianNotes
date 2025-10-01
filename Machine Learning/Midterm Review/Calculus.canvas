@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"7c1f39fdcb6a723c","x":-480,"y":-440,"width":718,"height":307,"type":"text","text":"![[Pasted image 20251001130841.png]]"}
+		{"id":"7c1f39fdcb6a723c","x":-480,"y":-440,"width":718,"height":307,"type":"text","text":"![[Pasted image 20251001130841.png]]"},
+		{"id":"8bbd42dedb8d4a17","x":-480,"y":-133,"width":493,"height":380,"type":"text","text":"Consider the function f(x,y) = x * y + x / y. The following partial derivatives are calculated as such:\n![[Pasted image 20251001131154.png]]"},
+		{"id":"dbec1f22ee946f74","x":-27,"y":438,"width":667,"height":522,"type":"text","text":"**Gradient**\n"}
 	],
 	"edges":[]
 }
