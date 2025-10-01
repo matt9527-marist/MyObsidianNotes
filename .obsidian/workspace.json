@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review.canvas",
+                "file": "Machine Learning/Midterm Review/Linear Algebra.canvas",
                 "viewState": {
-                  "x": 225.80128639039958,
-                  "y": 479.2230072453299,
-                  "zoom": -0.7136647782302377
+                  "x": -1456.1183837537083,
+                  "y": 1041.7200529461982,
+                  "zoom": 0.296402226179353
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Midterm Review"
+              "title": "Linear Algebra"
             }
           },
           {
@@ -38,7 +38,8 @@
               "title": "001 Linear Algebra Review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,23 +189,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f4200829f8412d6",
+  "active": "d8e6b6ce7aaa819e",
   "lastOpenFiles": [
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Assets/Pasted image 20251001120331.png",
+    "Machine Learning/001 Linear Algebra Review.md",
+    "Assets/Pasted image 20251001120246.png",
+    "Assets/Pasted image 20251001120158.png",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review",
     "Assets/Pasted image 20251001115848.png",
     "Assets/Pasted image 20251001115832.png",
     "Assets/Pasted image 20251001115709.png",
-    "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
-    "Machine Learning/Midterm Review.canvas",
     "Assets/Pasted image 20251001115153.png",
     "Assets/Pasted image 20251001114749.png",
     "Untitled.base",
     "Assets/Pasted image 20251001114554.png",
     "Assets/Pasted image 20251001114546.png",
-    "Assets/Pasted image 20251001114535.png",
-    "Assets/Pasted image 20251001114510.png",
-    "Assets/Pasted image 20251001114450.png",
-    "Assets/Pasted image 20251001114440.png",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/000 Introduction.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
@@ -236,7 +239,6 @@
     "github.com/catchorg/Catch2",
     "github.com/catchorg",
     "github.com",
-    "Security Protocols-Algorithms",
-    "copilot-custom-prompts"
+    "Security Protocols-Algorithms"
   ]
 }

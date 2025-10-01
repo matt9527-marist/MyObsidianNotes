@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"6aab81d5ce47bcc4","type":"text","text":"**Linear Algebra**","x":-2050,"y":400,"width":184,"height":60,"color":"#7744d5"},
+		{"id":"98126f375dd34977","type":"text","text":"**Inner Product or Dot Product**\n$$<a,b> = a^Tb = [a_{1},a_{2}] \\space * \\begin{bmatrix}\nb_{1}  \\\\\nb_{2}\n\\end{bmatrix} = a_{1}b_{1} + a_{2}b_{2} = \\sum^{}_{i}a_{i}b_{i}$$ \nwhere the result is a *scalar*.\n\n","x":-2050,"y":460,"width":420,"height":160,"color":"#7744d5"},
+		{"id":"26c36e2111e2a00a","type":"text","text":"A matrix is any doubly subscripted array of elements arranged in rows and columns.","x":-1790,"y":620,"width":160,"height":240,"color":"#7744d5"},
+		{"id":"e3a9f444331b7ff8","type":"file","file":"Assets/Pasted image 20251001113027.png","x":-2050,"y":160,"width":400,"height":219},
+		{"id":"803e51a3a3976b23","type":"file","file":"Assets/Pasted image 20251001115709.png","x":-2050,"y":640,"width":260,"height":154},
+		{"id":"15165aee58965487","type":"file","file":"Assets/Pasted image 20251001115832.png","x":-2061,"y":860,"width":431,"height":140},
+		{"id":"879dbb85b4293cae","type":"text","text":"There is also the **outer product** of two vectors:\n$$ab^T = \\begin{bmatrix}\na_{1} \\\\\na_{2}\n\\end{bmatrix} * [b_{1}, b_{2}] = \\begin{bmatrix}\na_{1}b_{1} & a_{1}b_{2} \\\\\na_{2}b_{1} & a_{2}b_{2}\n\\end{bmatrix}$$\nwhich yields an n x m matrix.","x":-1630,"y":460,"width":400,"height":160,"color":"#7744d5"},
+		{"id":"d5c8562566559229","type":"text","text":"Norms:\nLp Norm: $$||x||_{p = (\\sum^{}_{i}|x_{i}|^p)^{1/p}}$$\nMost popular L2 Norm: $$||x||_{2} = \\sqrt{\\vec{x}^T\\vec{x}}$$\nL1 Norm: $$||x||_{1} = (\\sum^{}_{i}|x_{i}|)$$\n\n\n","x":-1630,"y":620,"width":400,"height":300,"color":"#7744d5"},
+		{"id":"859e5e6d6fc8d0a0","type":"text","text":"**Norm** - functions that measure how large or how long a vector is in space. Similar to the distance between 0 and the point represented by the vector. \nThe inner product allows us to obtain the norm and the angle between two vectors: \n$$||\\vec{a}-\\vec{b}||^2 = ||a||^2 + ||b||^2 - 2||a||||b||\\cos \\theta$$\n$$||\\vec{a}-\\vec{b}||^2 = (\\vec{a}-\\vec{b})^T(\\vec{a}-\\vec{b}) = a^Ta+b^Tb-2a^Tb$$\nWe obtain:\n$$\\cos \\theta = \\frac{\\vec{a}^{T}\\vec{b}}{||a||||b||}$$","x":-1230,"y":460,"width":480,"height":340,"color":"#7744d5"},
+		{"id":"77abd920d363e5fa","type":"file","file":"Assets/Pasted image 20251001113731.png","x":-1650,"y":160,"width":400,"height":259},
+		{"id":"8688490c1006da17","type":"file","file":"Assets/Pasted image 20251001113756.png","x":-1250,"y":219,"width":399,"height":200},
+		{"id":"b66a3b0c66b4d726","x":-1230,"y":820,"width":490,"height":360,"type":"file","file":"Assets/Pasted image 20251001120331.png"},
+		{"id":"7be8b135c6ffd8d2","type":"text","text":"","x":-2240,"y":1120,"width":282,"height":220,"color":"#7744d5"},
+		{"id":"6e5305b5a37f25b7","type":"text","text":"**Matrix Characteristics**\n$$\\det(A) = \\det$$","x":-1630,"y":920,"width":400,"height":310,"color":"#7744d5"}
+	],
+	"edges":[]
+}
