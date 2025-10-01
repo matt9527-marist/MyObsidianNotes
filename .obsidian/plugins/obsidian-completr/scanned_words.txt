@@ -1181,6 +1181,7 @@ ax
 aVP
 aA
 aAqxg
+angle
 Applications
 AI
 Analysis
@@ -2629,6 +2630,7 @@ cC
 cu
 cQ
 ca
+cosine
 the
 to
 training
@@ -2803,6 +2805,7 @@ ts
 tHi
 tqX
 tV
+typical
 being
 be
 by
@@ -2919,6 +2922,7 @@ bd
 byX
 bsfp
 bM
+bf
 explicitly
 experience
 error
@@ -3084,6 +3088,7 @@ eM
 eT
 ecb
 ef
+ec
 programmed
 patterns
 program
@@ -4176,6 +4181,8 @@ dr
 dl
 dL
 ddx
+ddfa
+dfddb
 future
 from
 feed
