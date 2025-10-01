@@ -91,4 +91,19 @@ We do not just hash once on passwords. Usually, we would hash thousandso of time
 ![[Pasted image 20251001155408.png]]
 Integrity vs. Confidentiality 
 MAC code (tag) and message are sent to Bob. 
-- Speaking specifically about the tag, `a`, Alice sends her message with this tag as the identifier c
+- Speaking specifically about the tag, `a`, Alice sends her message with this tag as the identifier confirming that the message comes from her. If Eve sends a message `m'` that Bob checks with the hashing function using the shared key between him and Alice, it will output `a'`, not `a`.
+
+**CBC-MAC**
+• Uses a CBC-mode block cipher to encrypt message m.  
+• The last block (or half the last block) (usually 128 bits) of the ciphertext becomes the  
+MAC.  
+• *Never use the same key for encryption & authentication.* Why? 
+	Consider, we have `K (key`
+• Susceptible to collision attacks  
+• Steps to properly implement CBC-MAC:  
+1. Construct a string s from l and m, where l is the length of m in a  
+fixed-length format.  
+2. Pad s until it is a multiple of the block size.  
+3. Apply CBC-MAC to s  
+4. Only output the last ciphertext block, and no other parts or  
+intermediate stages.
