@@ -71,3 +71,10 @@ We can compare it to AES.
 - Taking a prefiex file (added as a prefix onto a generated P and Q from the MD5 collision generation)
 - Echo a string into "prefix"
 - Use `md5collgen` on the file to create to binary files, msg1, and msg2. 
+- Use `md5sum` on the two messages to see the same outputs. 
+![[Pasted image 20251001153120.png]]
+![[Pasted image 20251001153320.png]]
+May notice there is little initial difference, but this is a collision. `md5collgen` generates P and Q using edits in small, strategic spots. 
+This is due to a vulnerability in the Merkle-Damgard construction. 
+![[Pasted image 20251001153439.png]]
+
