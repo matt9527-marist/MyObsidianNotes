@@ -28,8 +28,8 @@
 		{"id":"879dbb85b4293cae","type":"text","text":"There is also the **outer product** of two vectors:\n$$ab^T = \\begin{bmatrix}\na_{1} \\\\\na_{2}\n\\end{bmatrix} * [b_{1}, b_{2}] = \\begin{bmatrix}\na_{1}b_{1} & a_{1}b_{2} \\\\\na_{2}b_{1} & a_{2}b_{2}\n\\end{bmatrix}$$\nwhich yields an n x m matrix.","x":480,"y":-2060,"width":400,"height":160,"color":"#7744d5"},
 		{"id":"8688490c1006da17","type":"file","file":"Assets/Pasted image 20251001113756.png","x":860,"y":-2301,"width":399,"height":200},
 		{"id":"77abd920d363e5fa","type":"file","file":"Assets/Pasted image 20251001113731.png","x":460,"y":-2360,"width":400,"height":259},
-		{"id":"859e5e6d6fc8d0a0","type":"text","text":"**Norm** - functions that measure how large or how long a vector is in space. Similar to the distance between 0 and the point represented by the vector. \nThe inner product allows us to obtain the norm and the angle between two vectors: \n$$||\\vec{a}-\\vec{b}||^2 = ||a||^2 - ||b||^2 - 2||a||||b||\\cos \\theta$$\n$$||\\vec{a}-\\vec{b}||^2 = (\\vec{a}-\\vec{b})^T$$\n","x":880,"y":-2060,"width":460,"height":340,"color":"#7744d5"},
-		{"id":"d5c8562566559229","type":"text","text":"","x":-156,"y":-1680,"width":400,"height":240,"color":"#7744d5"}
+		{"id":"859e5e6d6fc8d0a0","type":"text","text":"**Norm** - functions that measure how large or how long a vector is in space. Similar to the distance between 0 and the point represented by the vector. \nThe inner product allows us to obtain the norm and the angle between two vectors: \n$$||\\vec{a}-\\vec{b}||^2 = ||a||^2 + ||b||^2 - 2||a||||b||\\cos \\theta$$\n$$||\\vec{a}-\\vec{b}||^2 = (\\vec{a}-\\vec{b})^T(\\vec{a}-\\vec{b}) = a^Ta+b^Tb-2a^Tb$$\nWe obtain:\n$$\\cos \\theta = \\frac{\\vec{a}^{T}\\vec{b}}{||a||||b||}$$","x":880,"y":-2060,"width":480,"height":340,"color":"#7744d5"},
+		{"id":"d5c8562566559229","type":"text","text":"Norms:\nLp Norm: $$||x||_{p = (\\sum^{}_{i}|x_{i}|^p)^{1/p}}$$\nMost popular L2 \n","x":480,"y":-1900,"width":400,"height":240,"color":"#7744d5"}
 	],
 	"edges":[]
 }
