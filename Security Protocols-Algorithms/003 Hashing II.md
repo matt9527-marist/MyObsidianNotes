@@ -57,3 +57,6 @@ Designed to be used with 128, 192, and 256-bit key sizes from AES.
 • Standardized by NIST  
 • Includes SHA-0, SHA-1, *SHA-2* (might need to be replaced), and *SHA-3*
 
+Running hash functions 
+![[Pasted image 20251001145553.png]]
+
