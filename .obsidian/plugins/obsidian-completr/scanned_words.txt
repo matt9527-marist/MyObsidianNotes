@@ -174,6 +174,8 @@ Mqj
 MgTI
 MDa
 Mws
+MgEI
+MiyBb
 Learning
 Learn
 Let
@@ -499,6 +501,11 @@ RtPm
 Rtc
 RbG
 RsyP
+RuE
+RLl
+RfP
+RjO
+Rbf
 libraries
 learn
 learning
@@ -706,6 +713,10 @@ ldhG
 lhU
 lSgG
 lmmCw
+lPAi
+loX
+lNh
+lOpc
 Graphing
 Google
 Game
@@ -850,6 +861,7 @@ GQi
 GUbX
 GHH
 GBff
+Gbp
 Charting
 Control
 Common
@@ -1094,6 +1106,7 @@ CSas
 CLl
 CKF
 CeAO
+CiEf
 Scikit
 Statistical
 Statistics
@@ -1334,6 +1347,9 @@ SM
 Szw
 SBmDt
 SDW
+SouJ
+STj
+Svu
 Keras
 Key
 Kirchhoffs
@@ -1441,6 +1457,9 @@ KNP
 KDF
 KWwQ
 Kkv
+KNz
+KNB
+KnX
 TensorFlow
 Task
 Training
@@ -1631,6 +1650,10 @@ TFe
 TQA
 TVJ
 TIQtMP
+TReO
+Tnv
+TnE
+TTr
 ISLP
 Iris
 Instance
@@ -1802,6 +1825,9 @@ Iwo
 IDDDDDD
 ICg
 IwT
+ICh
+Iws
+ICZ
 and
 ability
 approximation
@@ -2073,6 +2099,8 @@ aUu
 anO
 aBT
 aff
+amE
+aZN
 Applications
 AI
 Analysis
@@ -2261,6 +2289,8 @@ AnSv
 ACN
 AeG
 ApB
+AMsKKM
+AKR
 with
 without
 want
@@ -2440,6 +2470,12 @@ wlf
 wAU
 wFv
 wem
+wad
+wqA
+wc
+wKb
+wGY
+wxc
 Python
 Performance
 Principle
@@ -2644,6 +2680,8 @@ PPa
 PTI
 PuX
 Pty
+Pjg
+Ptgf
 What
 We
 With
@@ -2787,6 +2825,8 @@ Wyz
 Wit
 WRu
 WYC
+Wng
+WBr
 is
 in
 if
@@ -3035,6 +3075,8 @@ iA
 iCy
 iRN
 iTS
+iJc
+iqF
 Field
 For
 Find
@@ -3189,6 +3231,9 @@ FsS
 Fxi
 FSVd
 FDGR
+FQSER
+FYs
+FIT
 of
 or
 optimize
@@ -3397,6 +3442,10 @@ oMc
 oar
 oZH
 oFE
+oUI
+ozZ
+ocE
+omj
 study
 simplified
 something
@@ -3747,6 +3796,9 @@ sfs
 shQG
 sGy
 siQ
+sPV
+sss
+sir
 giving
 good
 generalizable
@@ -3948,6 +4000,7 @@ gbrs
 gQc
 ggjcW
 gIG
+gWa
 computers
 computer
 can
@@ -4324,6 +4377,11 @@ cWuE
 cUa
 cEI
 cYS
+ckj
+cTB
+cLVT
+cT
+cIH
 the
 to
 training
@@ -4576,6 +4634,9 @@ tZT
 taP
 tTg
 ttT
+tLCiE
+tBf
+tXl
 being
 be
 by
@@ -4754,6 +4815,7 @@ bXQ
 bSK
 bwT
 brZ
+btd
 explicitly
 experience
 error
@@ -5016,6 +5078,12 @@ ekC
 egwW
 etDDD
 eib
+eYV
+eEV
+eBH
+eYP
+ehM
+eGN
 programmed
 patterns
 program
@@ -5324,6 +5392,10 @@ pUwvl
 pia
 pbU
 puy
+pOJ
+peRUd
+pxw
+psE
 Detecting
 Deepmind
 Dataset
@@ -5501,6 +5573,9 @@ Dwze
 DnW
 DAJ
 DDDDDDdP
+DmM
+DWQ
+DXy
 regularities
 respect
 recognizing
@@ -5751,6 +5826,7 @@ rkw
 rzi
 rTm
 rEH
+rGwO
 model
 mostly
 machine
@@ -5986,6 +6062,9 @@ mPC
 msu
 mxp
 mhz
+mkU
+mpP
+mhoz
 hypothesis
 handwritten
 have
@@ -6154,6 +6233,8 @@ hI
 hZKT
 hrW
 heg
+hvy
+hCs
 Execution
 Examples
 Economics
@@ -6314,6 +6395,8 @@ EJhY
 EWu
 EvT
 EWZ
+EPXNKO
+EEz
 using
 utility
 use
@@ -6480,6 +6563,7 @@ uuTz
 uqqA
 umrk
 uXt
+upe
 data
 driven
 dataset
@@ -6743,6 +6827,8 @@ dcE
 dDN
 dgiB
 dnV
+dNt
+dIZq
 future
 from
 feed
@@ -6940,6 +7026,12 @@ fWm
 fDG
 fj
 fwE
+fuxP
+foS
+fxU
+fZzd
+fny
+frD
 Optimziation
 Operations
 Once
@@ -7097,6 +7189,9 @@ OaF
 OAw
 OXm
 OquF
+OcQ
+OuI
+OFjt
 kind
 know
 knowledge
@@ -7214,6 +7309,9 @@ kü
 kcF
 kDS
 kjR
+kmJ
+knh
+kFz
 value
 various
 variable
@@ -7385,6 +7483,8 @@ vtrg
 vI
 vdCw
 vQQ
+vOl
+vOXs
 numerical
 no
 need
@@ -7560,6 +7660,7 @@ nhU
 nYz
 nlxD
 nfR
+naX
 yes
 yield
 your
@@ -7706,6 +7807,7 @@ ybd
 yqS
 yrt
 yKy
+ysf
 How
 Hinge
 Header
@@ -7827,6 +7929,10 @@ HcW
 HVO
 HDDD
 Hmt
+HKKK
+HUl
+HtZ
+HsT
 Not
 NOTHING
 No
@@ -7975,6 +8081,10 @@ NPI
 NhRdB
 NKX
 NpR
+NHH
+NXkQ
+NJk
+NgZAdM
 quality
 question
 quickly
@@ -8114,6 +8224,10 @@ qjM
 qdc
 qmQ
 qfy
+qIDATx
+qcy
+qbz
+qSw
 Unsupervised
 UNION
 User
@@ -8247,6 +8361,7 @@ UmB
 UedF
 UrL
 Uzt
+UI
 Breakout
 Because
 Backpropagation
@@ -8412,6 +8527,11 @@ BiT
 Bcu
 BcNL
 BMiN
+BBB
+BtV
+BTD
+Bdd
+Byq
 just
 jagged
 json
@@ -8519,6 +8639,9 @@ jbg
 jgLX
 jkBDDD
 jQy
+jSY
+jQY
+jpu
 Vectors
 Vectorization
 Visualization
@@ -8769,6 +8892,7 @@ zcw
 zxk
 zBv
 zdP
+zBh
 Java
 Jr
 Jv
@@ -8895,6 +9019,10 @@ JhT
 JdA
 JDD
 Jjt
+JGx
+Jsu
+JDB
+Jd
 You
 Yw
 Ygy
@@ -9008,6 +9136,9 @@ Yae
 YRAq
 YCU
 YJ
+YAb
+YUg
+YNa
 Xk
 Xt
 Xs
@@ -9117,6 +9248,8 @@ XbI
 XeX
 XrO
 XPW
+XAc
+Xey
 Qw
 QV
 QG
@@ -9234,6 +9367,8 @@ QBt
 QGT
 QPWJ
 QVV
+QIDATXG
+QoO
 ZgjY
 Zy
 Zky
@@ -9335,6 +9470,10 @@ ZPsw
 ZzZT
 ZzNZ
 ZP
+ZbD
+ZyQ
+Zbq
+ZEO
 xKJ
 xP
 xü
@@ -9466,6 +9605,8 @@ xpt
 xqa
 xbc
 xauT
+xqj
+xaVd
 ßih
 ßG
 ßz
@@ -9475,6 +9616,7 @@ xauT
 üM
 üQ
 öm
+öC
 äI
 äe
 Öm

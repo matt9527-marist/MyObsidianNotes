@@ -15,9 +15,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review.canvas",
                 "viewState": {
-                  "x": 651.6755995937931,
-                  "y": -1738.7577355611243,
-                  "zoom": -0.3485164202558197
+                  "x": 1127.1725816708456,
+                  "y": -1931.318654191677,
+                  "zoom": 0.38178029569301625
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,25 +190,25 @@
   },
   "active": "3f4200829f8412d6",
   "lastOpenFiles": [
+    "Machine Learning/001 Linear Algebra Review.md",
+    "Machine Learning/Midterm Review.canvas",
+    "Assets/Pasted image 20251001114749.png",
+    "Untitled.base",
+    "Assets/Pasted image 20251001114554.png",
+    "Assets/Pasted image 20251001114546.png",
+    "Assets/Pasted image 20251001114535.png",
+    "Assets/Pasted image 20251001114510.png",
     "Assets/Pasted image 20251001114450.png",
     "Assets/Pasted image 20251001114440.png",
     "Assets/Pasted image 20251001114356.png",
-    "Machine Learning/001 Linear Algebra Review.md",
-    "Machine Learning/Midterm Review.canvas",
     "Assets/Pasted image 20251001114242.png",
     "Assets/Pasted image 20251001113756.png",
-    "Assets/Pasted image 20251001113731.png",
-    "Assets/Pasted image 20251001113727.png",
-    "Assets/Pasted image 20251001113027.png",
     "Machine Learning/Google Talk on Machine Learning.md",
-    "Assets/Pasted image 20251001111457.png",
     "Machine Learning/000 Introduction.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Parallel Processing/102 Planning for Parallelization.md",
     "Parallel Processing/101 Parallel Computing.md",
     "conflict-files-obsidian-git.md",
-    "Assets/Pasted image 20251001110330.png",
-    "Assets/Pasted image 20251001110322.png",
     "Machine Learning/008 Logistic Regression.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Machine Learning/007 NB for Text Classification.md",
@@ -236,7 +236,6 @@
     "github.com/catchorg",
     "github.com",
     "Security Protocols-Algorithms",
-    "copilot-custom-prompts",
-    "Parallel Processing"
+    "copilot-custom-prompts"
   ]
 }
