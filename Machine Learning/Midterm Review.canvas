@@ -24,8 +24,11 @@
 		{"id":"c2f3b37b27da87ec","type":"text","text":"[ML_Numpy_101.ipynb](https://gist.github.com/eitellauria/c7c9d658505b81d57ad9089804f6b42a)\n\n[ML_matplotlib_and_seaborn.ipynb](https://gist.github.com/eitellauria/93e37772e059825f04f4d7179f006812)\n\n[ML_pandas.ipynb](https://gist.github.com/eitellauria/39dd4624cbf507548f09781aa3a0b0d3)","x":-3442,"y":-420,"width":420,"height":140,"color":"5"},
 		{"id":"e3a9f444331b7ff8","type":"file","file":"Assets/Pasted image 20251001113027.png","x":60,"y":-2360,"width":400,"height":219},
 		{"id":"6aab81d5ce47bcc4","type":"text","text":"**Linear Algebra**","x":60,"y":-2120,"width":184,"height":60,"color":"#7744d5"},
+		{"id":"98126f375dd34977","type":"text","text":"**Inner Product or Dot Product**\n$$<a,b> = a^Tb = [a_{1},a_{2}] \\space * \\begin{bmatrix}\nb_{1}  \\\\\nb_{2}\n\\end{bmatrix} = a_{1}b_{1} + a_{2}b_{2} = \\sum^{}_{i}a_{i}b_{i}$$ \nwhere the result is a *scalar*.\n\n","x":60,"y":-2060,"width":420,"height":160,"color":"#7744d5"},
 		{"id":"d5c8562566559229","type":"text","text":"","x":-380,"y":-1660,"width":400,"height":240,"color":"#7744d5"},
-		{"id":"98126f375dd34977","type":"text","text":"**Inner Product or Dot Product**\n$$<a,b> = a^Tb = [a_{1},a_{2}] \\space * \\begin{bmatrix}\nb_{1}  \\\\\nb_{2}\n\\end{bmatrix} = a_{1}b_{1} + a_{2}b_{2} = \\sum^{#}_{#}$$","x":60,"y":-2060,"width":400,"height":240,"color":"#7744d5"}
+		{"id":"77abd920d363e5fa","x":460,"y":-2360,"width":400,"height":259,"type":"file","file":"Assets/Pasted image 20251001113731.png"},
+		{"id":"879dbb85b4293cae","type":"text","text":"There is also the **outer product** of two vectors:\n$$ab^T = \\begin{bmatrix}\na_{1} \\\\\na_{2}\n\\end{bmatrix} * [b_{1}, b_{2}] = \\begin{bmatrix}\na_{1}b_{1} & a_{1}b_{2} \\\\\na_{2}b_{1} & \n\\end{bmatrix}$$","x":480,"y":-2060,"width":400,"height":240,"color":"#7744d5"},
+		{"id":"8688490c1006da17","x":860,"y":-2301,"width":400,"height":200,"type":"file","file":"Assets/Pasted image 20251001113756.png"}
 	],
 	"edges":[]
 }
