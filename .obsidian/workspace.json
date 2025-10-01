@@ -15,13 +15,27 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Calculus.canvas",
                 "viewState": {
-                  "x": 353.0254386700929,
-                  "y": 306.9042036839746,
-                  "zoom": -0.3897927541862753
+                  "x": 8.32026977952033,
+                  "y": 1016.1077088037946,
+                  "zoom": -0.3568628150362455
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Calculus"
+            }
+          },
+          {
+            "id": "4302c4bf17fda890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/002 Vector and Matrix Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 Vector and Matrix Calculus"
             }
           }
         ]
@@ -176,6 +190,9 @@
   },
   "active": "3f4200829f8412d6",
   "lastOpenFiles": [
+    "Machine Learning/002 Vector and Matrix Calculus.md",
+    "Machine Learning/Midterm Review/Calculus.canvas",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
     "Assets/Pasted image 20251001132512.png",
     "Assets/Pasted image 20251001132130.png",
     "Assets/Pasted image 20251001132051.png",
@@ -184,16 +201,12 @@
     "Assets/Pasted image 20251001130841.png",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
-    "Machine Learning/Midterm Review/Calculus.canvas",
     "Assets/Pasted image 20251001121829.png",
     "Assets/Pasted image 20251001121825.png",
     "Assets/Pasted image 20251001121242.png",
     "Assets/Pasted image 20251001121201.png",
-    "Assets/Pasted image 20251001121105.png",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Midterm Review",
-    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Untitled.base",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/000 Introduction.md",
