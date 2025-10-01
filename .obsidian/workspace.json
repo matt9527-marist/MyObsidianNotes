@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Linear Algebra.canvas",
+                "file": "Machine Learning/Midterm Review/Calculus.canvas",
                 "viewState": {
-                  "x": -1646.5,
-                  "y": 1093.2223452244014,
-                  "zoom": -1.112141091628509
+                  "x": 300,
+                  "y": 360,
+                  "zoom": -1.238327893269422
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linear Algebra"
+              "title": "Calculus"
             }
           }
         ],
@@ -194,10 +194,10 @@
   },
   "active": "4302c4bf17fda890",
   "lastOpenFiles": [
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Assets/Pasted image 20251001132512.png",
