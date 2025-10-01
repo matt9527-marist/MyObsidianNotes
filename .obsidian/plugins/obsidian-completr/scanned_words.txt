@@ -2408,6 +2408,8 @@ aOC
 aUl
 axt
 aoS
+axes
+accepts
 Applications
 AI
 Analysis
@@ -3519,6 +3521,7 @@ ifjA
 iCr
 iu
 inz
+interpret
 Field
 For
 Find
@@ -4984,6 +4987,9 @@ cYt
 cfdc
 ced
 calculated
+calculate
+coordinate
+coordinates
 the
 to
 training
@@ -5281,6 +5287,9 @@ tRp
 tBV
 tul
 tFa
+temperature
+three
+tells
 being
 be
 by
@@ -6136,6 +6145,8 @@ psp
 pMV
 psv
 pno
+positions
+packes
 Detecting
 Deepmind
 Dataset
@@ -7807,6 +7818,8 @@ diagonal
 dwJ
 dejJ
 dedb
+dbec
+depicted
 future
 from
 feed
@@ -8797,6 +8810,10 @@ nTrace
 nec
 nOr
 nSo
+nIf
+nAlso
+nicely
+nGiven
 yes
 yield
 your
