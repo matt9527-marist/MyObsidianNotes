@@ -105,10 +105,11 @@ MAC.
 	Notice this creates similarities between the tag and our ciphertext. We would be communicating `c` and the last block of `c`, which is the tag and not secure. 
 • Susceptible to collision attacks  
 • Steps to properly implement CBC-MAC:  
-1. Construct a string s from l and m, where l is the length of m in a  
-fixed-length format.  
-2. Pad s until it is a multiple of the block size.  
-3. Apply CBC-MAC to s  
+We have `m`, `K`, and we want to create `a`.
+1. Construct a string `s` from l and m, where l is the length of m in a  
+fixed-length format.  `s = m || l ...000`
+2. Pad `s` until it is a multiple of the block size, usually 128 bits long.  
+3. Apply CBC-MAC to `s` : `AES-CBC(S, K_a)` --> `A`, which is really the entire encrypted `s`.
 4. Only output the last ciphertext block, and no other parts or  
-intermediate stages.
-**CMAC: A more secure version of 
+intermediate stages. `a` is this last block.
+**CMAC: A more secure version of CBC-MAC**
