@@ -121,4 +121,23 @@ implementation of CBC-MAC.
 	• Special values are derived from the CMAC key.  
 	• The special value is chosen based on whether the length of  
 	the message is a multiple of the block cipher’s block length.
+**HMAC**
+• Why would a hash be a good solution for a MAC?  
+• HMAC hashes the message and then the output is  
+hashed with the key.  $$let \space b, q$$
+$$SHA_{256}$$
+• Resistant to attacks such as key recovery attacks and  
+collision attacks  
+• It is recommended that SHA-256 be used as the hash  
+function.
 **GMAC**
+ GMAC is also standardized by NIST  
+5Attributes:  
+	• Designed for 128-block ciphers.  
+	• Very efficient  
+	• Inputs – message, nonce, and the key  
+Steps:  
+	• Computes a simple mathematical function on m  
+	• Encrypts the output of this message with a block cipher in CTR  
+	mode.  
+	• Nonce is used as the IV for CTR.
