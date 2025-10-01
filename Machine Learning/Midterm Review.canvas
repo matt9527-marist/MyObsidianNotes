@@ -29,7 +29,11 @@
 		{"id":"8688490c1006da17","type":"file","file":"Assets/Pasted image 20251001113756.png","x":860,"y":-2301,"width":399,"height":200},
 		{"id":"77abd920d363e5fa","type":"file","file":"Assets/Pasted image 20251001113731.png","x":460,"y":-2360,"width":400,"height":259},
 		{"id":"859e5e6d6fc8d0a0","type":"text","text":"**Norm** - functions that measure how large or how long a vector is in space. Similar to the distance between 0 and the point represented by the vector. \nThe inner product allows us to obtain the norm and the angle between two vectors: \n$$||\\vec{a}-\\vec{b}||^2 = ||a||^2 + ||b||^2 - 2||a||||b||\\cos \\theta$$\n$$||\\vec{a}-\\vec{b}||^2 = (\\vec{a}-\\vec{b})^T(\\vec{a}-\\vec{b}) = a^Ta+b^Tb-2a^Tb$$\nWe obtain:\n$$\\cos \\theta = \\frac{\\vec{a}^{T}\\vec{b}}{||a||||b||}$$","x":880,"y":-2060,"width":480,"height":340,"color":"#7744d5"},
-		{"id":"d5c8562566559229","type":"text","text":"Norms:\nLp Norm: $$||x||_{p = (\\sum^{}_{i}|x_{i}|^p)^{1/p}}$$\nMost popular L2 \n","x":480,"y":-1900,"width":400,"height":240,"color":"#7744d5"}
+		{"id":"d5c8562566559229","type":"text","text":"Norms:\nLp Norm: $$||x||_{p = (\\sum^{}_{i}|x_{i}|^p)^{1/p}}$$\nMost popular L2 Norm: $$||x||_{2} = \\sqrt{\\vec{x}^T\\vec{x}}$$\nL1 Norm: $$||x||_{1} = (\\sum^{}_{i}|x_{i}|)$$\n\n\n","x":480,"y":-1900,"width":400,"height":300,"color":"#7744d5"},
+		{"id":"7be8b135c6ffd8d2","type":"text","text":"","x":-130,"y":-1400,"width":282,"height":220,"color":"#7744d5"},
+		{"id":"26c36e2111e2a00a","type":"text","text":"A matrix is any doubly subscripted array of elements arranged in rows and columns.","x":320,"y":-1900,"width":160,"height":240,"color":"#7744d5"},
+		{"id":"803e51a3a3976b23","type":"file","file":"Assets/Pasted image 20251001115709.png","x":60,"y":-1880,"width":260,"height":154},
+		{"id":"15165aee58965487","x":49,"y":-1660,"width":431,"height":140,"type":"file","file":"Assets/Pasted image 20251001115832.png"}
 	],
 	"edges":[]
 }
