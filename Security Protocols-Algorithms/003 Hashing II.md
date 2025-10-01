@@ -24,3 +24,23 @@ Other forms of AV:
 - Heuristic-based AV
 - Behavioral-based AV
 	Both look at the actual processes spawned by malware and noticing the patterns. 
+
+**Real Hash Functions**
+• Very few existing functions  
+• Iterative through block sequencing, with padding at the  
+end  
+• A compression is used at the end  
+• Advantages of this model:  
+• Streams of data are processed more efficiently  
+• Easier to implement than handling variable length strings  
+directly
+
+**MD5**- 128-bit function, splits it into 32 bit "words"
+- Uses 4 rounds of addition, XOR, AND, OR, and rotation operations 
+- Very efficient for 32-bit CPUs. 
+	- Not collision resistant (as we will see in lab)
+**SHA1** - Insecure Hash Algorithm, 160-bit hash function based on MD4, the predecessor to MD5. 
+- Offers more security than MD5, albeit slower than MD5. 
+- 160-bit result size leads to collisions. 
+- Similar to triple DES from DES.
+
