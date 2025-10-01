@@ -8793,6 +8793,7 @@ nRank
 nTrace
 nec
 nOr
+nSo
 yes
 yield
 your
