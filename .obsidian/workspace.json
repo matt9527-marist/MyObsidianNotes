@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "7fac31ef17ae6dce",
+        "id": "8f32a9755a941c5a",
         "type": "tabs",
+        "dimension": 36.611675126903556,
         "children": [
           {
             "id": "47c06b89387e7862",
@@ -20,26 +21,32 @@
               "icon": "lucide-file",
               "title": "006 Classification Concepts and Metrics"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7fac31ef17ae6dce",
+        "type": "tabs",
+        "dimension": 63.388324873096444,
+        "children": [
           {
             "id": "51320cbd78282d30",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Calculus.canvas",
+                "file": "Machine Learning/Midterm Review/Classification.canvas",
                 "viewState": {
-                  "x": 300,
-                  "y": 360,
-                  "zoom": -0.8170188457322415
+                  "x": -769.7488202671001,
+                  "y": 790.0389169669551,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Calculus"
+              "title": "Classification"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,48 +195,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51320cbd78282d30",
+  "active": "47c06b89387e7862",
   "lastOpenFiles": [
-    "Machine Learning/Midterm Review/Linear Algebra.canvas",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
-    "conflict-files-obsidian-git.md",
+    "Machine Learning/007 NB for Text Classification.md",
+    "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
+    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
+    "Machine Learning/Midterm Review/Classification.canvas",
+    "Machine Learning/Midterm Review/Regularization.canvas",
+    "Assets/Pasted image 20251003180503.png",
+    "Assets/Pasted image 20251003175924.png",
+    "Assets/Pasted image 20251003175408.png",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Assets/Pasted image 20251003173125.png",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Machine Learning/Midterm Review/Data Preprocessing.canvas",
+    "Machine Learning/002 Vector and Matrix Calculus.md",
+    "Machine Learning/001 Linear Algebra Review.md",
+    "Machine Learning/Midterm Review/Calculus.canvas",
+    "Assets/Pasted image 20251003032438.png",
+    "Assets/Pasted image 20251003032433.png",
+    "Assets/Pasted image 20251003032432.png",
+    "Assets/Pasted image 20251003032431 2.png",
+    "Assets/Pasted image 20251003032431 1.png",
+    "Assets/Pasted image 20251003032431.png",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Untitled.md",
+    "Machine Learning/003 Supervised Learning and Regression.md",
+    "LaTeX Scratch.md",
+    "Formatting Template.md",
+    "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/README.md",
     "Security Protocols-Algorithms/003 Hashing II.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Parallel Processing/102 Planning for Parallelization.md",
-    "Machine Learning/Midterm Review/Calculus.canvas",
     "Machine Learning/Midterm Review",
-    "Assets/Pasted image 20251001114535.png",
-    "Assets/Pasted image 20251001114510.png",
-    "Assets/Pasted image 20251001114450.png",
-    "Assets/Pasted image 20251001114440.png",
-    "Assets/Pasted image 20251001114356.png",
-    "Assets/Pasted image 20251001114242.png",
-    "Assets/Pasted image 20251001113756.png",
-    "Assets/Pasted image 20251001113731.png",
-    "Assets/Pasted image 20251001113727.png",
-    "Assets/Pasted image 20251001113027.png",
     "Machine Learning/Assignment 1 Gradient Proof.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/000 Introduction.md",
-    "Machine Learning/002 Vector and Matrix Calculus.md",
-    "Machine Learning/003 Supervised Learning and Regression.md",
-    "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
-    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/000 Introduction.md",
     "Machine Learning/Assignment 4 Probability.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/002 C++ Introduction.md",
-    "LaTeX Scratch.md",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/Matrix Operations Sheet.md",
-    "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Assignment 4 Probabilities.md",
     "Machine Learning/Colab Notebooks.md",
-    "Parallel Processing/005 Memory Model.md",
-    "Parallel Processing/004 Pointers and References.md",
     "PP Notes/Untitled.canvas",
     "PP Notes",
     "Security Protocols-Algorithms",

@@ -27,7 +27,6 @@ How do we normalize the data?
 - Min/Max Scaling:
 $$X_{Scaled} = \frac{X - X_{Min}}{X_{Max} - X_{Min}}$$
 - Standard Scaling:
-	- *Z-scores: $$Z = \frac{X - \bar{X}}{\sigma_{x}}$$
 	- Note: if we standardize things in this way, this means we are then measuring our data in terms of standard deviations. 
 The Min/Max scaling option is far more commonly used than Z-scores. Z-scores simply allow us to use more varied ranges of values, such as negative values, more than just the range of 0-1.
 
@@ -111,6 +110,7 @@ How do we solve?
 	How do we decide which coefficients need to be shrunk?
 	
 
+We have our cost function: $$J = \frac{1}{2m}((Xw-y)^T(Xw-y)) + \frac{\lambda}{m}||w||^2_{2}$$
 We have our cost function: $$J = \frac{1}{2m}((Xw-y)^T(Xw-y)) + \frac{\lambda}{m}||w||^2_{2}$$
 Lamba is a hyperparameter. 
 Recall that ||w||<sup>2</sup> is W<sup>T</sup>W, which is just the L2 Norm. 
