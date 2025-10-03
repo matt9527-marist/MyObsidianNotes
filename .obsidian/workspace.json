@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "003 Hashing II"
             }
+          },
+          {
+            "id": "6efff95a3d479c80",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb8fdc2b5cc239d",
+  "active": "6efff95a3d479c80",
   "lastOpenFiles": [
     "Assets/Pasted image 20251001155408.png",
     "Machine Learning/Midterm Review/Calculus.canvas",
