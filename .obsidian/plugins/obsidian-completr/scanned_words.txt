@@ -1378,6 +1378,7 @@ arCT
 aI
 aPdLm
 ahC
+aecef
 Applications
 AI
 Analysis
@@ -1751,6 +1752,7 @@ PTT
 PQQ
 PZ
 Pt
+Posteriori
 What
 We
 With
@@ -3299,6 +3301,7 @@ bp
 bG
 beD
 beliefs
+belief
 explicitly
 experience
 error
@@ -3482,6 +3485,7 @@ en
 eaebd
 expressed
 eeb
+ebb
 programmed
 patterns
 program
@@ -3731,6 +3735,7 @@ pN
 pwIDAT
 poor
 pV
+posteriori
 Detecting
 Deepmind
 Dataset
@@ -4468,6 +4473,7 @@ Ez
 EK
 EyU
 Events
+Evidence
 using
 utility
 use
@@ -4961,6 +4967,7 @@ fr
 fC
 foundation
 former
+formu
 Optimziation
 Operations
 Once
@@ -5436,6 +5443,8 @@ nconditioned
 nclass
 nthat
 ndata
+normalizing
+nposterior
 yes
 your
 you
