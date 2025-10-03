@@ -89,7 +89,7 @@ How much speedup we get depends on how many cores we can use to solve the proble
 ![[Pasted image 20250922192114.png]]
 • #Speedup limited by serial portion of code  
 • Applies to fixed-size problems (strong scaling)  
-$$Speedup = \frac{1}{S + \frac{P}{N}}$$ where P + S = 1 or (100%)
+$$Speedup = \frac{1}{S + \frac{P}{N}}$$where P + S = 1 or (100%)
 (S: Serial function, P: Parallel function, N: Number of processors)
 • Key Insight:  
 	• Even with many processors, serial code limits total speedup  
