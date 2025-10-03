@@ -1475,6 +1475,7 @@ atx
 aiI
 aggg
 afR
+absent
 Applications
 AI
 Analysis
@@ -1868,6 +1869,7 @@ PK
 PP
 PINt
 PvA
+PlayTennis
 What
 We
 With
@@ -1955,6 +1957,7 @@ WLBs
 WNP
 Wi
 WI
+Wind
 is
 in
 if
@@ -2381,6 +2384,8 @@ oEX
 oLs
 oM
 oNK
+outlook
+overcast
 study
 simplified
 something
@@ -2697,6 +2702,9 @@ sHwN
 sYm
 sz
 sw
+showed
+sunny
+sampl
 giving
 good
 generalizable
@@ -3134,6 +3142,7 @@ cKi
 cv
 cQ
 chances
+cool
 the
 to
 training
@@ -3472,6 +3481,7 @@ bo
 bC
 bCik
 bdac
+bad
 explicitly
 experience
 error
@@ -4259,6 +4269,7 @@ rV
 rsz
 rE
 reports
+rain
 model
 mostly
 machine
@@ -4457,6 +4468,7 @@ mwM
 mFc
 mh
 mz
+mild
 hypothesis
 handwritten
 have
@@ -4577,6 +4589,7 @@ hl
 hHgc
 hd
 hRb
+humidity
 Execution
 Examples
 Economics
@@ -5043,6 +5056,7 @@ dc
 dPs
 dE
 dnn
+days
 future
 from
 feed
@@ -6545,6 +6559,7 @@ YL
 Yre
 Yo
 YG
+Yes
 XOR
 XORed
 Xp
