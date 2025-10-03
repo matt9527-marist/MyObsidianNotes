@@ -37,9 +37,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Classification.canvas",
                 "viewState": {
-                  "x": -830.4788455103694,
-                  "y": 1304.5693310882368,
-                  "zoom": -0.3333333333333334
+                  "x": 717.1137206723341,
+                  "y": 29.38394635300213,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,10 +197,11 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/006 Classification Concepts and Metrics.md",
+    "Machine Learning/Midterm Review/Classification.canvas",
+    "Assets/Pasted image 20251003190501.png",
     "Assets/Pasted image 20251003185937.png",
     "conflict-files-obsidian-git.md",
-    "Machine Learning/Midterm Review/Classification.canvas",
-    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/004 Data Preprocessing.md",
@@ -220,8 +221,6 @@
     "Assets/Pasted image 20251003032433.png",
     "Assets/Pasted image 20251003032432.png",
     "Assets/Pasted image 20251003032431 2.png",
-    "Assets/Pasted image 20251003032431 1.png",
-    "Assets/Pasted image 20251003032431.png",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Untitled.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
