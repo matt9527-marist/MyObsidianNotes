@@ -2,8 +2,6 @@
 	"nodes":[
 		{"id":"f016a161da50810b","type":"text","text":"**Classification** - Classification is a supervised learning method: The  \ntarget variable is specified (data is “labeled”)\n\n- **Linear Regression**:\n    \n    - Predicts a *continuous numerical value*.\n        \n    - Example: Predicting house prices, stock returns, or a person’s weight given features.\n        \n    - Output: Real numbers on the entire number line (ℝ).\n        \n- **Classification**:\n    \n    - Predicts a *categorical label*.\n        \n    - Example: Spam vs. Not Spam (binary classification), or Handwritten digit (0–9).\n        \n    - Output: A discrete class label (finite set of categories).","x":-1228,"y":-143,"width":588,"height":363},
 		{"id":"9f8e99323c4a1d2f","type":"text","text":"**Binary Classification** and **Performance Measures**\n**Confusion Matrix**  \n• A very useful device.  \n• Summarizes all the performance metrics data  \ncoming out of a classification task  \n• Counts matches (and mismatches) between actual  \nand predicted class values for each instance of the  \ntarget variable in the training and test data set(s)\n\n**Misclassification Errors**\n• Error = classifying a record as belonging to one  \nclass when it belongs to another class.  \n• Error rate = percent of misclassified records out of  \nthe total records in the validation data  \n• Accuracy (%) = 100 – Error rate","x":-580,"y":-143,"width":620,"height":403},
-		{"id":"87415e7e71ad067e","type":"text","text":"**Performance Metrics**\n","x":-1228,"y":320,"width":156,"height":69},
-		{"id":"abf4e31b3e124f54","type":"text","text":"**Classification Confusion Matrix:**","x":-1228,"y":420,"width":282,"height":50},
 		{"id":"bc68ff96779ad790","type":"text","text":"Prediction 0","x":-1108,"y":560,"width":162,"height":60},
 		{"id":"5e05d4a6a4ca46be","type":"text","text":"Prediction 1","x":-934,"y":560,"width":162,"height":60},
 		{"id":"e4c43ea511f56a60","type":"text","text":"Actual 0","x":-1280,"y":640,"width":144,"height":59},
@@ -14,10 +12,21 @@
 		{"id":"a1c02ce775e3c368","type":"text","text":"TP","x":-934,"y":720,"width":162,"height":59,"color":"1"},
 		{"id":"ed984f267c8eee82","type":"text","text":"$$Recall = \\frac{TP}{TP+FN}$$","x":-678,"y":720,"width":278,"height":80},
 		{"id":"b4fc4f1bbada3b1c","x":-678,"y":619,"width":278,"height":80,"type":"text","text":"$$FPR = \\frac{FP}{FP+TN}$$"},
-		{"id":"9eb67f9e10998c46","type":"text","text":"$$Precision = \\frac{TP}{TP+FP}$$","x":-992,"y":900,"width":278,"height":80}
+		{"id":"9eb67f9e10998c46","type":"text","text":"$$Precision = \\frac{TP}{TP+FP}$$","x":-956,"y":840,"width":206,"height":80},
+		{"id":"cb4179dd1856283a","x":-1348,"y":840,"width":321,"height":80,"type":"text","text":"$$Accuracy = \\frac{TP + TN}{TP + TN + FP + FN}$$"},
+		{"id":"0736e064aae47e4d","x":-678,"y":840,"width":250,"height":60,"type":"text","text":"Specifcity = 1 - FPR"},
+		{"id":"fe93a46daf9e08da","x":-678,"y":920,"width":250,"height":60,"type":"text","text":"Recall is sometimes called Specificity or TPR"},
+		{"id":"87415e7e71ad067e","type":"text","text":"**Performance Metrics**\n","x":-1286,"y":360,"width":156,"height":69},
+		{"id":"abf4e31b3e124f54","type":"text","text":"**Classification Confusion Matrix:**","x":-1286,"y":460,"width":282,"height":50},
+		{"id":"e2295100c650cb12","x":-1348,"y":980,"width":309,"height":59,"type":"text","text":"**Area under the ROC Curve (AUC)**"},
+		{"id":"f195e1e308ed99ad","x":-1345,"y":1060,"width":475,"height":360,"type":"file","file":"Assets/Pasted image 20251003185937.png"},
+		{"id":"8a6e9d30ae4c3988","x":-853,"y":1060,"width":489,"height":300,"type":"text","text":"• A ROC curve is the most commonly used way to visualize the performance of  \na binary classifier, and AUC is (arguably) the best way to summarize its  \nperformance in a single number.  \n• ROC (Receiver Operating Characteristic) Curves where developed in WWII to  \nstatistically model false positive and false negative detections of enemy  \nobjects by radar operators"},
+		{"id":"68ab424358671251","x":-1345,"y":1440,"width":250,"height":60,"type":"text","text":"*This graphs the TPR (Recall) vs. FPR (1-specificity)*"},
+		{"id":"f5b5a6254f3d7224","x":-1345,"y":1520,"width":361,"height":184,"type":"text","text":"*Goal: Maximize TPR and minimize FPR*  \no Max TPR: classify everything  \npositive  \no Min FPR: classify everything  \nnegative  \no Neither is acceptable"}
 	],
 	"edges":[
 		{"id":"6acaf6246d231043","fromNode":"e8ae744dfede4fff","fromSide":"right","toNode":"b4fc4f1bbada3b1c","toSide":"left"},
-		{"id":"79db44fa6087f454","fromNode":"a1c02ce775e3c368","fromSide":"right","toNode":"ed984f267c8eee82","toSide":"left"}
+		{"id":"79db44fa6087f454","fromNode":"a1c02ce775e3c368","fromSide":"right","toNode":"ed984f267c8eee82","toSide":"left"},
+		{"id":"026ebca1142da2e1","fromNode":"a1c02ce775e3c368","fromSide":"bottom","toNode":"9eb67f9e10998c46","toSide":"top"}
 	]
 }

@@ -37,9 +37,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Classification.canvas",
                 "viewState": {
-                  "x": -711.7488202671001,
-                  "y": 822.0389169669551,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -830.4788455103694,
+                  "y": 1304.5693310882368,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,6 +197,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251003185937.png",
     "conflict-files-obsidian-git.md",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/006 Classification Concepts and Metrics.md",
