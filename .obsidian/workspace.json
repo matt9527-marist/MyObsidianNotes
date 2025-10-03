@@ -37,9 +37,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Classification.canvas",
                 "viewState": {
-                  "x": 3645.080157577889,
-                  "y": 1203.2108543427578,
-                  "zoom": 3.3306690738754696e-16
+                  "x": 4336.7515734716535,
+                  "y": 1916.5121405058712,
+                  "zoom": -0.33333333333333254
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,6 +197,9 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251003195648.png",
+    "Assets/Pasted image 20251003195504.png",
+    "Assets/Pasted image 20251003195356.png",
     "Assets/Pasted image 20251003194550.png",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Midterm Review/Classification.canvas",
@@ -212,9 +215,6 @@
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/Midterm Review/Regularization.canvas",
-    "Assets/Pasted image 20251003180503.png",
-    "Assets/Pasted image 20251003175924.png",
-    "Assets/Pasted image 20251003175408.png",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
