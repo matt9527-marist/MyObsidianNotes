@@ -124,8 +124,9 @@ implementation of CBC-MAC.
 **HMAC**
 • Why would a hash be a good solution for a MAC?  
 • HMAC hashes the message and then the output is  
-hashed with the key.  $$let \space b, q$$
-$$SHA_{256}$$
+hashed with the key. 
+$$SHA_{256}(K \oplus b || h(K \oplus  q))$$
+where `b` and `q` are special values and `h` is just SHA256 hashing. 
 • Resistant to attacks such as key recovery attacks and  
 collision attacks  
 • It is recommended that SHA-256 be used as the hash  
@@ -141,3 +142,8 @@ Steps:
 	• Encrypts the output of this message with a block cipher in CTR  
 	mode.  
 	• Nonce is used as the IV for CTR.
+
+*Which one to choose?*
+• HMAC with SHA-256 is recommended  
+• GMAC is fast, but it only provides 64 bits of security
+
