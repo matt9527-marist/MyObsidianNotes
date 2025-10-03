@@ -199,6 +199,7 @@ Le
 Ln
 LSg
 Ll
+Logarithms
 Relevant
 Reading
 Research
@@ -3739,6 +3740,7 @@ poor
 pV
 posteriori
 picking
+preserving
 Detecting
 Deepmind
 Dataset
@@ -4054,6 +4056,7 @@ rS
 rL
 rT
 rvJ
+render
 model
 mostly
 machine
@@ -4971,6 +4974,7 @@ fC
 foundation
 former
 formu
+fraction
 Optimziation
 Operations
 Once
@@ -5448,6 +5452,9 @@ nthat
 ndata
 normalizing
 nposterior
+nTherefore
+nBut
+nAnd
 yes
 your
 you
