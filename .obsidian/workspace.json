@@ -37,8 +37,8 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Classification.canvas",
                 "viewState": {
-                  "x": -769.7488202671001,
-                  "y": 790.0389169669551,
+                  "x": -747.7488202671001,
+                  "y": 677.0389169669551,
                   "zoom": -1.1102230246251565e-16
                 }
               },
@@ -195,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47c06b89387e7862",
+  "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/004 Data Preprocessing.md",
-    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Assets/Pasted image 20251003180503.png",

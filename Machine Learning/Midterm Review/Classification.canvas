@@ -1,17 +1,20 @@
 {
 	"nodes":[
-		{"id":"f016a161da50810b","x":-1228,"y":-143,"width":588,"height":363,"type":"text","text":"**Classification** - Classification is a supervised learning method: The  \ntarget variable is specified (data is “labeled”)\n\n- **Linear Regression**:\n    \n    - Predicts a *continuous numerical value*.\n        \n    - Example: Predicting house prices, stock returns, or a person’s weight given features.\n        \n    - Output: Real numbers on the entire number line (ℝ).\n        \n- **Classification**:\n    \n    - Predicts a *categorical label*.\n        \n    - Example: Spam vs. Not Spam (binary classification), or Handwritten digit (0–9).\n        \n    - Output: A discrete class label (finite set of categories)."},
-		{"id":"9f8e99323c4a1d2f","x":-580,"y":-143,"width":620,"height":403,"type":"text","text":"**Binary Classification** and **Performance Measures**\n**Confusion Matrix**  \n• A very useful device.  \n• Summarizes all the performance metrics data  \ncoming out of a classification task  \n• Counts matches (and mismatches) between actual  \nand predicted class values for each instance of the  \ntarget variable in the training and test data set(s)\n\n**Misclassification Errors**\n• Error = classifying a record as belonging to one  \nclass when it belongs to another class.  \n• Error rate = percent of misclassified records out of  \nthe total records in the validation data  \n• Accuracy (%) = 100 – Error rate"},
-		{"id":"87415e7e71ad067e","x":-1228,"y":320,"width":156,"height":69,"type":"text","text":"**Performance Metrics**\n"},
-		{"id":"abf4e31b3e124f54","x":-1228,"y":420,"width":282,"height":50,"type":"text","text":"**Classification Confusion Matrix:**"},
-		{"id":"bc68ff96779ad790","x":-1108,"y":560,"width":162,"height":60,"type":"text","text":"Prediction 0"},
+		{"id":"f016a161da50810b","type":"text","text":"**Classification** - Classification is a supervised learning method: The  \ntarget variable is specified (data is “labeled”)\n\n- **Linear Regression**:\n    \n    - Predicts a *continuous numerical value*.\n        \n    - Example: Predicting house prices, stock returns, or a person’s weight given features.\n        \n    - Output: Real numbers on the entire number line (ℝ).\n        \n- **Classification**:\n    \n    - Predicts a *categorical label*.\n        \n    - Example: Spam vs. Not Spam (binary classification), or Handwritten digit (0–9).\n        \n    - Output: A discrete class label (finite set of categories).","x":-1228,"y":-143,"width":588,"height":363},
+		{"id":"9f8e99323c4a1d2f","type":"text","text":"**Binary Classification** and **Performance Measures**\n**Confusion Matrix**  \n• A very useful device.  \n• Summarizes all the performance metrics data  \ncoming out of a classification task  \n• Counts matches (and mismatches) between actual  \nand predicted class values for each instance of the  \ntarget variable in the training and test data set(s)\n\n**Misclassification Errors**\n• Error = classifying a record as belonging to one  \nclass when it belongs to another class.  \n• Error rate = percent of misclassified records out of  \nthe total records in the validation data  \n• Accuracy (%) = 100 – Error rate","x":-580,"y":-143,"width":620,"height":403},
+		{"id":"87415e7e71ad067e","type":"text","text":"**Performance Metrics**\n","x":-1228,"y":320,"width":156,"height":69},
+		{"id":"abf4e31b3e124f54","type":"text","text":"**Classification Confusion Matrix:**","x":-1228,"y":420,"width":282,"height":50},
+		{"id":"bc68ff96779ad790","type":"text","text":"Prediction 0","x":-1108,"y":560,"width":162,"height":60},
 		{"id":"5e05d4a6a4ca46be","type":"text","text":"Prediction 1","x":-934,"y":560,"width":162,"height":60},
-		{"id":"e4c43ea511f56a60","x":-1280,"y":640,"width":144,"height":59,"type":"text","text":"Actual 0"},
+		{"id":"e4c43ea511f56a60","type":"text","text":"Actual 0","x":-1280,"y":640,"width":144,"height":59},
 		{"id":"362cab5e1bc433a2","type":"text","text":"Actual 1","x":-1278,"y":720,"width":141,"height":59},
-		{"id":"5047f9e39260ea63","x":-1108,"y":640,"width":162,"height":59,"color":"1","type":"text","text":"TN"},
+		{"id":"5047f9e39260ea63","type":"text","text":"TN","x":-1108,"y":640,"width":162,"height":59,"color":"1"},
 		{"id":"e8ae744dfede4fff","type":"text","text":"FP","x":-934,"y":640,"width":162,"height":59,"color":"5"},
 		{"id":"787102c11511f462","type":"text","text":"FN","x":-1108,"y":720,"width":162,"height":59,"color":"5"},
-		{"id":"a1c02ce775e3c368","type":"text","text":"TP","x":-934,"y":720,"width":162,"height":59,"color":"1"}
+		{"id":"a1c02ce775e3c368","type":"text","text":"TP","x":-934,"y":720,"width":162,"height":59,"color":"1"},
+		{"id":"b4fc4f1bbada3b1c","x":-678,"y":630,"width":278,"height":80,"type":"text","text":"$$FPR = \\frac{FP}{FP+TN}$$"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6acaf6246d231043","fromNode":"e8ae744dfede4fff","fromSide":"right","toNode":"b4fc4f1bbada3b1c","toSide":"left"}
+	]
 }
