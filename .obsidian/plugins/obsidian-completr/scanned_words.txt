@@ -197,6 +197,8 @@ Lq
 LL
 Le
 Ln
+LSg
+Ll
 Relevant
 Reading
 Research
@@ -310,6 +312,8 @@ RS
 RcEr
 RCL
 RI
+RW
+RougG
 libraries
 learn
 learning
@@ -457,6 +461,7 @@ lU
 llk
 lp
 lbXM
+lkqE
 Graphing
 Google
 Game
@@ -535,6 +540,7 @@ GZ
 GFdP
 Gi
 GMp
+GS
 Charting
 Control
 Common
@@ -702,6 +708,7 @@ Cnj
 CxTxSB
 Crr
 CLv
+Complement
 Scikit
 Statistical
 Statistics
@@ -1053,6 +1060,8 @@ Tm
 TPy
 Tg
 TUU
+Td
+Three
 ISLP
 Iris
 Instance
@@ -1148,6 +1157,7 @@ IiJU
 IK
 Im
 Iv
+Ix
 and
 ability
 approximation
@@ -1366,6 +1376,7 @@ atd
 arCT
 aI
 aPdLm
+ahC
 Applications
 AI
 Analysis
@@ -1820,6 +1831,7 @@ Wy
 Wye
 WdW
 WLv
+Ww
 is
 in
 if
@@ -2538,6 +2550,7 @@ sOD
 sm
 sv
 sR
+st
 giving
 good
 generalizable
@@ -2646,6 +2659,8 @@ gK
 gmpp
 gE
 gHw
+gSkK
+gF
 computers
 computer
 can
@@ -2953,6 +2968,11 @@ cE
 cI
 cLJ
 cl
+cZw
+characteristic
+card
+cards
+characteristics
 the
 to
 training
@@ -3272,6 +3292,9 @@ bWE
 bT
 bcc
 bGFF
+bp
+bG
+beD
 explicitly
 experience
 error
@@ -3451,6 +3474,7 @@ eu
 eq
 efv
 eHJJR
+en
 programmed
 patterns
 program
@@ -3699,6 +3723,7 @@ pq
 pN
 pwIDAT
 poor
+pV
 Detecting
 Deepmind
 Dataset
@@ -3816,6 +3841,7 @@ DGG
 DII
 DqQ
 DaHLO
+Different
 regularities
 respect
 recognizing
@@ -4202,6 +4228,7 @@ mjS
 mHP
 mGS
 mDf
+mB
 hypothesis
 handwritten
 have
@@ -4314,6 +4341,7 @@ hW
 hUu
 hBS
 hBR
+hNa
 Execution
 Examples
 Economics
@@ -4431,6 +4459,7 @@ EEE
 Ez
 EK
 EyU
+Events
 using
 utility
 use
@@ -4753,6 +4782,10 @@ di
 ddZeI
 dYW
 dl
+dfZ
+deck
+denoted
+diamonds
 future
 from
 feed
@@ -4915,6 +4948,7 @@ fYh
 fdf
 fFBz
 fr
+fC
 Optimziation
 Operations
 Once
@@ -5007,6 +5041,8 @@ Off
 ODDD
 OJT
 ORs
+Oyi
+OaS
 kind
 know
 knowledge
@@ -5380,6 +5416,7 @@ nH
 nL
 nJ
 nY
+nI
 yes
 your
 you
@@ -5441,6 +5478,7 @@ yh
 yk
 yyy
 yi
+yT
 How
 Hinge
 Header
@@ -5517,6 +5555,7 @@ HII
 HZ
 HNF
 HXN
+HJa
 Not
 NOTHING
 No
@@ -5654,6 +5693,9 @@ qx
 qEu
 qSG
 qMm
+qo
+qpm
+qP
 Unsupervised
 UNION
 User
@@ -5728,6 +5770,8 @@ Uq
 UE
 Uas
 UW
+UI
+UC
 Breakout
 Because
 Backpropagation
@@ -5826,6 +5870,7 @@ BE
 BEY
 BCCe
 BL
+Bxz
 just
 jagged
 json
@@ -6008,6 +6053,9 @@ Jt
 Ju
 JTO
 JHK
+JH
+Ja
+Joint
 zero
 zv
 zl
@@ -6060,6 +6108,7 @@ zHvc
 zY
 zb
 zF
+zz
 Yoda
 YES
 York
@@ -6191,6 +6240,7 @@ XDG
 XAt
 XvS
 Xm
+XJ
 Zero
 ZT
 ZmM
