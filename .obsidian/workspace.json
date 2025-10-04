@@ -33,17 +33,14 @@
             "id": "51320cbd78282d30",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/Midterm Review/Text Classification.canvas",
-                "viewState": {
-                  "x": 2357.5606305655638,
-                  "y": 3666.20490934592,
-                  "zoom": -2.602211361334576
-                }
+                "file": "Machine Learning/008 Logistic Regression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Text Classification"
+              "icon": "lucide-file",
+              "title": "008 Logistic Regression"
             }
           }
         ]
@@ -197,23 +194,22 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/007 NB for Text Classification.md",
+    "Machine Learning/008 Logistic Regression.md",
+    "Machine Learning/Midterm Review/Text Classification.canvas",
+    "Assets/Pasted image 20251004173346.png",
+    "Assets/Pasted image 20251004173307.png",
+    "Assets/Pasted image 20251004173159.png",
+    "Assets/Pasted image 20251004173138.png",
     "Assets/Pasted image 20251004172610.png",
     "Assets/Pasted image 20251004171856.png",
     "Assets/Pasted image 20251004171837.png",
     "Assets/Pasted image 20251004171739.png",
     "Assets/Pasted image 20251004171632.png",
     "Assets/Pasted image 20251004171102.png",
-    "Assets/Pasted image 20251004170917.png",
-    "Assets/Pasted image 20251004170645.png",
-    "Machine Learning/007 NB for Text Classification.md",
-    "Machine Learning/Midterm Review/Text Classification.canvas",
-    "Assets/Pasted image 20251004165819.png",
-    "Assets/Pasted image 20251004165440.png",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
-    "Assets/Pasted image 20251004165201.png",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Colab Collection.md",
-    "Machine Learning/008 Logistic Regression.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Assignment 4 Probability.md",
     "conflict-files-obsidian-git.md",
