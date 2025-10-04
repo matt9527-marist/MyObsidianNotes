@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"c0478c44d8727dc0","x":-345,"y":-177,"width":505,"height":577,"type":"text","text":"**Event Models**"},
-		{"id":"89127b61a941e8fe","x":-960,"y":-177,"width":550,"height":577,"type":"text","text":"**NB Review**"}
+		{"id":"c0478c44d8727dc0","x":-345,"y":-177,"width":505,"height":577,"type":"text","text":"**Event Models**\n*Categorical Model*"},
+		{"id":"89127b61a941e8fe","x":-960,"y":-177,"width":580,"height":697,"type":"text","text":"**NB Review**\nWithin Bayesian Learning, we have a joint probability of the data and the target:\n`P(x,y) = P(x|y) * P(y)`\nThis is a way of finding the criterion for classification. The value that maximizes this joint probability. We are taking the joint probability of the data and the target, and whichever class maximizes it is the choice of the model. \nIn the framework which we have been working, we need to find a probabilistic architecture by defining a *loss function* that we need to minimize. \n- We use logarithms because it is a monotonic function. We get negative numbers instead of increasingly small multiplied numbers. \n- `logP(x,y) = logP(x|y) * logP(y)`\n$$J = -\\log P(x,y) = -\\log P(x|y)-\\log P(y)$$\nComing up with the solution to this loss function requires a lot of data. To make this easier, we can use **Naive Bayes**, and assume that all of the inputs are independent. \n$$P(\\vec{x}|y) = \\prod^{m}_{j=1}P(x_{j}|y)$$\nWith this we obtain:\n$$J = -\\sum^{m}_{j=1}\\log P(x_{j}|y)-\\log P(y)$$"}
 	],
 	"edges":[]
 }
