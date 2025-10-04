@@ -4234,6 +4234,7 @@ eB
 eOl
 eBR
 eXJ
+ecb
 programmed
 patterns
 program
@@ -5813,6 +5814,7 @@ deep
 dmK
 dKi
 dfS
+dfce
 future
 from
 feed
@@ -6017,6 +6019,7 @@ fWz
 fB
 fyw
 fU
+faa
 Optimziation
 Operations
 Once
@@ -6619,6 +6622,9 @@ nDoc
 nList
 nYC
 nnearly
+nThink
+nThere
+nsigmoid
 yes
 your
 you

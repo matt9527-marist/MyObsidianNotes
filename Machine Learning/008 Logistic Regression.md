@@ -97,7 +97,7 @@ $$\frac{ \partial J }{ \partial \hat{y} } = -\frac{1}{m}\begin{bmatrix}
 $$\frac{ \partial \hat{y} }{ \partial h } = \hat{y} \otimes (1-\hat{y})$$
 $$\frac{ \partial h }{ \partial w } = X$$
 Computing the product of all of this:
-$$= \frac{1}{m}X^T(\hat{y}-y)$$ This is our gradient for linear models, exactly the same formulation. This is the average of the dot product of the data times the error. Doing this for *b* gives us simply: $$\frac{ \partial J }{ \partial b } = \frac{1}{m}(\hat{y}-y) $$This gives us all that we need to do computations. 
+$$= \frac{1}{m}X^T(\hat{y}-y)$$This is our gradient for linear models, exactly the same formulation. This is the average of the dot product of the data times the error. Doing this for *b* gives us simply: $$\frac{ \partial J }{ \partial b } = \frac{1}{m}(\hat{y}-y) $$This gives us all that we need to do computations. 
 
 ## Regularization 
 #regularization is needed here comparatively more. 
