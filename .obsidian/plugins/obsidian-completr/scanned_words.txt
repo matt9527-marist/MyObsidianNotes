@@ -250,6 +250,7 @@ Ld
 Laplace
 LpP
 Lag
+Logistic
 Relevant
 Reading
 Research
@@ -384,6 +385,7 @@ RG
 Rfs
 RGX
 Regular
+Reg
 libraries
 learn
 learning
@@ -551,6 +553,8 @@ lL
 lr
 lZj
 likelihoods
+logisticregression
+leftarrow
 Graphing
 Google
 Game
@@ -843,6 +847,7 @@ CMH
 Cy
 Czc
 Ctg
+Connectionism
 Scikit
 Statistical
 Statistics
@@ -1034,6 +1039,7 @@ SfO
 SEb
 SaqZ
 Smoothing
+Sigmoid
 Keras
 KB
 Key
@@ -1607,6 +1613,7 @@ aLy
 aac
 assumption
 abf
+activation
 Applications
 AI
 Analysis
@@ -1760,6 +1767,7 @@ Alfv
 AHml
 ABD
 AAo
+Activation
 with
 without
 want
@@ -2592,6 +2600,10 @@ oIG
 osm
 oQ
 oK
+outlier
+old
+ourselves
+otimes
 study
 simplified
 something
@@ -2921,6 +2933,11 @@ szBkZ
 sc
 sWV
 sfr
+sigmoid
+sharp
+squash
+shaped
+shrinkage
 giving
 good
 generalizable
@@ -3052,6 +3069,8 @@ gJ
 gxo
 gNbV
 gOu
+guessed
+graphed
 computers
 computer
 can
@@ -3393,6 +3412,8 @@ cope
 cMI
 continuous
 combine
+computes
+could
 the
 to
 training
@@ -3760,6 +3781,8 @@ bBa
 bdd
 bJnl
 beauty
+bounds
+bowl
 explicitly
 experience
 error
@@ -3969,6 +3992,8 @@ eWFa
 ecv
 eaC
 eUd
+ends
+equate
 programmed
 patterns
 program
@@ -4243,6 +4268,7 @@ pDKy
 ptuf
 pke
 pUfgx
+penalizing
 Detecting
 Deepmind
 Dataset
@@ -4599,6 +4625,7 @@ rzQKu
 rQ
 rv
 rP
+reg
 model
 mostly
 machine
@@ -4803,6 +4830,7 @@ mv
 mE
 mR
 mG
+maps
 hypothesis
 handwritten
 have
@@ -5194,6 +5222,8 @@ uWv
 usg
 ug
 uw
+unbounded
+upper
 data
 driven
 dataset
@@ -5444,6 +5474,8 @@ dmv
 dni
 dDd
 distributions
+derive
+dots
 future
 from
 feed
@@ -5642,6 +5674,7 @@ fJa
 frMmBP
 feff
 fee
+firing
 Optimziation
 Operations
 Once
@@ -6191,6 +6224,9 @@ nc
 nl
 nbecause
 ndistributions
+nearly
+nonlinearity
+nice
 yes
 your
 you
