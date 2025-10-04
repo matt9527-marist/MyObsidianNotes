@@ -37,9 +37,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Text Classification.canvas",
                 "viewState": {
-                  "x": 1389.6356168232,
-                  "y": 3211.387845620408,
-                  "zoom": 0.06445530533209032
+                  "x": 1061.0283012657374,
+                  "y": 2685.4844262603983,
+                  "zoom": -1.2688780280012428
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,6 +197,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251004172610.png",
     "Assets/Pasted image 20251004171856.png",
     "Assets/Pasted image 20251004171837.png",
     "Assets/Pasted image 20251004171739.png",
@@ -210,7 +211,6 @@
     "Assets/Pasted image 20251004165440.png",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Assets/Pasted image 20251004165201.png",
-    "Assets/Pasted image 20251004165124.png",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Colab Collection.md",
     "Machine Learning/008 Logistic Regression.md",
