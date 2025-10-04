@@ -649,6 +649,7 @@ GQ
 GSk
 GAv
 GFD
+Gaussian
 Charting
 Control
 Common
@@ -6182,6 +6183,7 @@ nSz
 nWhere
 nc
 nl
+nbecause
 yes
 your
 you
