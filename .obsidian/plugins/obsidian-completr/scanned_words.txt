@@ -131,6 +131,7 @@ Ma
 MQD
 MCc
 Mp
+Mz
 Learning
 Learn
 Let
@@ -247,6 +248,8 @@ Lgf
 LT
 Ld
 Laplace
+LpP
+Lag
 Relevant
 Reading
 Research
@@ -645,6 +648,7 @@ GIr
 GQ
 GSk
 GAv
+GFD
 Charting
 Control
 Common
@@ -836,6 +840,8 @@ CJ
 Cs
 CMH
 Cy
+Czc
+Ctg
 Scikit
 Statistical
 Statistics
@@ -1116,6 +1122,7 @@ Kf
 KqM
 KXR
 KRn
+Kx
 TensorFlow
 Task
 Training
@@ -1357,6 +1364,7 @@ Iw
 Io
 IS
 IFM
+IWE
 and
 ability
 approximation
@@ -1749,6 +1757,8 @@ Ab
 AmM
 Alfv
 AHml
+ABD
+AAo
 with
 without
 want
@@ -1878,6 +1888,7 @@ wz
 wTD
 wp
 wfe
+wqj
 Python
 Performance
 Principle
@@ -2017,6 +2028,8 @@ PDi
 PM
 PKy
 Pg
+Pp
+PXL
 What
 We
 With
@@ -2111,6 +2124,7 @@ WhwJ
 WY
 WZ
 Wv
+WN
 is
 in
 if
@@ -2304,6 +2318,8 @@ iWP
 iYa
 iI
 indepdendent
+idz
+iIz
 Field
 For
 Find
@@ -2414,6 +2430,7 @@ FT
 Fr
 FjB
 FnA
+FIe
 of
 or
 optimize
@@ -2902,6 +2919,7 @@ sSMXIH
 szBkZ
 sc
 sWV
+sfr
 giving
 good
 generalizable
@@ -3371,6 +3389,7 @@ cFl
 cx
 calculating
 cope
+cMI
 the
 to
 training
@@ -3578,6 +3597,7 @@ tQKIy
 tA
 tha
 tHH
+tWj
 being
 be
 by
@@ -3735,6 +3755,7 @@ bPwL
 bN
 bBa
 bdd
+bJnl
 explicitly
 experience
 error
@@ -3942,6 +3963,8 @@ eS
 eEB
 eWFa
 ecv
+eaC
+eUd
 programmed
 patterns
 program
@@ -4906,6 +4929,7 @@ hQbjM
 hY
 hvi
 hO
+ht
 Execution
 Examples
 Economics
@@ -5053,6 +5077,7 @@ EZ
 Ei
 EZZ
 Event
+EDDDDD
 using
 utility
 use
@@ -5164,6 +5189,7 @@ uik
 uWv
 usg
 ug
+uw
 data
 driven
 dataset
@@ -5412,6 +5438,7 @@ dDBO
 dV
 dmv
 dni
+dDd
 future
 from
 feed
@@ -5607,6 +5634,7 @@ fQd
 fDy
 fKN
 fJa
+frMmBP
 Optimziation
 Operations
 Once
@@ -6152,6 +6180,8 @@ nO
 nDHvH
 nSz
 nWhere
+nc
+nl
 yes
 your
 you
@@ -6234,6 +6264,8 @@ yKc
 yxn
 yBp
 yqK
+ypM
+ygZ
 How
 Hinge
 Header
@@ -6593,6 +6625,8 @@ UENf
 UmU
 UQE
 UdY
+UgjJs
+Ult
 Breakout
 Because
 Backpropagation
@@ -6874,6 +6908,7 @@ VYw
 VvA
 Vs
 VOT
+Vu
 Java
 Japan
 Just
@@ -6941,6 +6976,7 @@ JW
 Jr
 Jjs
 JYpP
+Jsp
 zero
 zv
 zl
@@ -7012,6 +7048,7 @@ za
 zwD
 zLA
 zk
+zLT
 Yoda
 YES
 York
@@ -7086,6 +7123,7 @@ YXR
 YW
 Yx
 YHO
+Yj
 XOR
 XORed
 Xp
@@ -7320,6 +7358,7 @@ Qq
 QpB
 QE
 QI
+QfeID
 xTV
 xp
 xs
@@ -7404,5 +7443,7 @@ xtmr
 xktu
 xi
 xyS
+xg
+xyz
 üt
 ÖC
