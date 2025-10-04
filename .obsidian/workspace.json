@@ -37,9 +37,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Classification.canvas",
                 "viewState": {
-                  "x": 3293.483709586199,
-                  "y": 2787.1516380323037,
-                  "zoom": -1.333333333333332
+                  "x": 3362.600551799745,
+                  "y": 3011.2830848244557,
+                  "zoom": -0.6666666666666654
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -195,12 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47c06b89387e7862",
+  "active": "51320cbd78282d30",
   "lastOpenFiles": [
-    "Machine Learning/008 Logistic Regression.md",
+    "Machine Learning/Midterm Review/Colab Collection.md",
     "Machine Learning/007 NB for Text Classification.md",
-    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Midterm Review/Classification.canvas",
+    "Machine Learning/008 Logistic Regression.md",
+    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Assignment 4 Probability.md",
     "Assets/Pasted image 20251003220719.png",
     "Assets/Pasted image 20251003195648.png",
@@ -224,7 +225,6 @@
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
-    "Untitled.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "LaTeX Scratch.md",
     "Formatting Template.md",
