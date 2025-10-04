@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8f32a9755a941c5a",
-        "type": "tabs",
-        "dimension": 36.611675126903556,
-        "children": [
-          {
-            "id": "47c06b89387e7862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/008 Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "008 Logistic Regression"
-            }
-          }
-        ]
-      },
-      {
         "id": "7fac31ef17ae6dce",
         "type": "tabs",
-        "dimension": 63.388324873096444,
         "children": [
           {
             "id": "51320cbd78282d30",
@@ -37,9 +15,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Logistic Regression.canvas",
                 "viewState": {
-                  "x": 2274.2097638980617,
-                  "y": 394.3314351232719,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 1202.9928319526834,
+                  "y": 648.2878260660539,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
