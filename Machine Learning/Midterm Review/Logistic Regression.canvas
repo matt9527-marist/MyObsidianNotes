@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e424b911056f5f1e","x":-56,"y":344,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d1976548faa3f49f","x":-300,"y":-180,"width":342,"height":66,"type":"text","text":"**Connectionism and Logistic Regression**"},
+		{"id":"b56c2bef06c78aae","x":-300,"y":-84,"width":480,"height":384,"type":"text","text":"Linear regression is the starting point for this. We are doing *classification* here, but just using a different architecture. \n\nRecall:\nLinear regression essentially tries to fit a straight line (or hyperplane) to predict a continuous target. \nwhere: $$y = w_{0} + w_{1}x_{1} + w_{2}x_{2} + \\dots$$\nor the target output predicted as: $$y = w^Tx + b$$\nWe cannot use this for classification because we need it to output probabilities not just the main predicted target. \n"}
+	],
+	"edges":[]
+}
