@@ -16,8 +16,7 @@ And a scalar `h = summation(x_i + w_i + b)`
 $$g(h) = g(\vec{w}^{T}\vec{x} + b)$$
 (see notes)
 One example of a function we could use for *g* is the **Sigmoid Activation Function**. The sigmoid function takes a real value and maps it to the range [0,1]. Because it is  
-nearly linear around 0 but has a sharp slope toward the ends, it tends to squash  
-outlier values toward 0 or 1.
+nearly linear around 0 but has a sharp slope toward the ends, it tends to squash outlier values toward 0 or 1.
 Think about it in terms of *neurons*. It is either firing or not firing. We could not use the old linear model for classification because th output is unbounded. The activation function allows us to create lower and upper bounds of 0 and 1. This is convenient because we could equate this output value as a *probability*. 
 $$\hat{y} = P(y=1|x)$$ $$1-\hat{y}=P(y=0|x)$$
 $$P(y=1|x) = g(h) = \frac{1}{1+e^{-h}} = \frac{1}{1+e^{\sum^{m}_{i=1}w_{i}x_{i}+b}}$$
@@ -98,7 +97,7 @@ $$\frac{ \partial J }{ \partial \hat{y} } = -\frac{1}{m}\begin{bmatrix}
 $$\frac{ \partial \hat{y} }{ \partial h } = \hat{y} \otimes (1-\hat{y})$$
 $$\frac{ \partial h }{ \partial w } = X$$
 Computing the product of all of this:
-$$= \frac{1}{m}X^T(\hat{y}-y)$$ This is our gradient for linear models, exactly the same formulation. This is the average of the dot product of the data times the error. Doing this for *b* gives us simply: $$\frac{ \partial J }{ \partial b } = \frac{1}{m}(\hat{y}-y) $$This gives us all that we need to do computations. 
+$$= \frac{1}{m}X^T(\hat{y}-y)$$This is our gradient for linear models, exactly the same formulation. This is the average of the dot product of the data times the error. Doing this for *b* gives us simply: $$\frac{ \partial J }{ \partial b } = \frac{1}{m}(\hat{y}-y) $$This gives us all that we need to do computations. 
 
 ## Regularization 
 #regularization is needed here comparatively more. 
