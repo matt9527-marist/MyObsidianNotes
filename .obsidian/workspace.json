@@ -11,17 +11,14 @@
             "id": "51320cbd78282d30",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/Midterm Review/Classification.canvas",
-                "viewState": {
-                  "x": 4110.87548618353,
-                  "y": 2553.2366224079556,
-                  "zoom": 0.26724845374522527
-                }
+                "file": "Machine Learning/001 Linear Algebra Review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Classification"
+              "icon": "lucide-file",
+              "title": "001 Linear Algebra Review"
             }
           },
           {
@@ -189,6 +186,9 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/000 Introduction.md",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
@@ -200,8 +200,6 @@
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Assets/Pasted image 20251005170735.png",
-    "Machine Learning/Midterm Review/Classification.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Text Classification.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
@@ -211,7 +209,6 @@
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Midterm Review/ML Basics.canvas",
-    "Machine Learning/000 Introduction.md",
     "Machine Learning/008 Logistic Regression.md",
     "Assets/Pasted image 20251004174824.png",
     "Assets/Pasted image 20251004174545.png",
