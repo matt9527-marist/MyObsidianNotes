@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/003 Supervised Learning and Regression.md",
+                "file": "Machine Learning/006 Classification Concepts and Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 Supervised Learning and Regression"
+              "title": "006 Classification Concepts and Metrics"
             }
           }
         ]
@@ -172,8 +172,13 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
-    "Machine Learning/Midterm Review/Colab Collection.md",
+    "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
+    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
+    "Assets/Pasted image 20251005180953.png",
+    "Assets/Pasted image 20251005180947.png",
+    "Assets/Pasted image 20251005180821.png",
+    "Machine Learning/Midterm Review/Colab Collection.md",
     "Machine Learning/Midterm Review/Exam Scratch.md",
     "conflict-files-obsidian-git.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
@@ -192,8 +197,6 @@
     "Assets/Pasted image 20251005170735.png",
     "Machine Learning/Midterm Review/Text Classification.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
-    "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
-    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Midterm Review/ML Basics.canvas",
@@ -202,9 +205,6 @@
     "Assets/Pasted image 20251004174545.png",
     "Assets/Pasted image 20251004173346.png",
     "Assets/Pasted image 20251004173307.png",
-    "Assets/Pasted image 20251004173159.png",
-    "Assets/Pasted image 20251004173138.png",
-    "Assets/Pasted image 20251004172610.png",
     "Machine Learning/Assignment 4 Probability.md",
     "LaTeX Scratch.md",
     "Formatting Template.md",
@@ -218,7 +218,6 @@
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/002 C++ Introduction.md",
     "Machine Learning/Google Talk on Machine Learning.md",
-    "Machine Learning/Matrix Operations Sheet.md",
     "PP Notes",
     "Security Protocols-Algorithms",
     "Sec Prot and Algorithms",
