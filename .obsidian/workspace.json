@@ -11,14 +11,17 @@
             "id": "51320cbd78282d30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Machine Learning/008 Logistic Regression.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine Learning/Midterm Review/Classification.canvas",
+                "viewState": {
+                  "x": 3571.7028537219553,
+                  "y": 3078.9472645239994,
+                  "zoom": -0.39941821292144136
+                }
               },
-              "icon": "lucide-file",
-              "title": "008 Logistic Regression"
+              "icon": "lucide-layout-dashboard",
+              "title": "Classification"
             }
           }
         ]
@@ -172,6 +175,12 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/Midterm Review/Regularization.canvas",
+    "Machine Learning/Midterm Review/Text Classification.canvas",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Machine Learning/Google Talk on Machine Learning.md",
+    "Machine Learning/008 Logistic Regression.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
@@ -186,21 +195,16 @@
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/000 Introduction.md",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Classification.canvas",
-    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Assignment 1 Gradient Proof.md",
     "Machine Learning/Midterm Review/Data Preprocessing.canvas",
-    "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Assets/Pasted image 20251005172218.png",
     "Assets/Pasted image 20251005171609.png",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Assets/Pasted image 20251005170735.png",
-    "Machine Learning/Midterm Review/Text Classification.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
-    "Machine Learning/008 Logistic Regression.md",
     "Assets/Pasted image 20251004174824.png",
     "Assets/Pasted image 20251004174545.png",
     "Assets/Pasted image 20251004173346.png",
@@ -217,7 +221,6 @@
     "Parallel Processing/000 Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/002 C++ Introduction.md",
-    "Machine Learning/Google Talk on Machine Learning.md",
     "PP Notes",
     "Security Protocols-Algorithms",
     "Sec Prot and Algorithms",
