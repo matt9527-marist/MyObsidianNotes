@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Logistic Regression.canvas",
+                "file": "Machine Learning/Midterm Review/Linear Regression.canvas",
                 "viewState": {
-                  "x": 1202.9928319526834,
-                  "y": 648.2878260660539,
-                  "zoom": -1.3333333333333333
+                  "x": -795.906208995789,
+                  "y": 384.9124813093374,
+                  "zoom": 0.037149595600861285
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Logistic Regression"
+              "title": "Linear Regression"
             }
           }
         ]
@@ -175,8 +175,17 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
-    "Machine Learning/008 Logistic Regression.md",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
+    "Machine Learning/006 Classification Concepts and Metrics.md",
+    "Machine Learning/002 Vector and Matrix Calculus.md",
+    "Machine Learning/001 Linear Algebra Review.md",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Regularization.canvas",
+    "Machine Learning/000 Introduction.md",
+    "Machine Learning/Midterm Review/Colab Collection.md",
+    "Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Machine Learning/008 Logistic Regression.md",
     "Assets/Pasted image 20251004174824.png",
     "Assets/Pasted image 20251004174545.png",
     "Machine Learning/Midterm Review/Text Classification.canvas",
@@ -189,22 +198,14 @@
     "Assets/Pasted image 20251004171856.png",
     "Assets/Pasted image 20251004171837.png",
     "Assets/Pasted image 20251004171739.png",
-    "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/Midterm Review/Classification.canvas",
-    "Machine Learning/Midterm Review/Colab Collection.md",
-    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Assignment 4 Probability.md",
     "conflict-files-obsidian-git.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/004 Data Preprocessing.md",
-    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
-    "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Data Preprocessing.canvas",
-    "Machine Learning/002 Vector and Matrix Calculus.md",
-    "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Midterm Review/Calculus.canvas",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "LaTeX Scratch.md",
     "Formatting Template.md",
@@ -216,7 +217,6 @@
     "Machine Learning/Assignment 1 Gradient Proof.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/000 Introduction.md",
-    "Machine Learning/000 Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Parallel Processing/002 C++ Introduction.md",
     "Machine Learning/Google Talk on Machine Learning.md",

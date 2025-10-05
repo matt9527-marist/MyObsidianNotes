@@ -137,6 +137,7 @@ MNq
 MSl
 Mf
 MCz
+Matrices
 Learning
 Learn
 Let
@@ -693,6 +694,7 @@ GfM
 GCI
 GpC
 GxF
+Gradients
 Charting
 Control
 Common
@@ -901,6 +903,8 @@ CZ
 CQP
 CGt
 Cg
+Class
+Colabs
 Scikit
 Statistical
 Statistics
@@ -1112,6 +1116,13 @@ Spam
 SQk
 SZKx
 Six
+Seaborn
+Surfaces
+SERVO
+Sentiment
+Session
+Submitted
+SMOOTHING
 Keras
 KB
 Key
@@ -1468,6 +1479,7 @@ ImRR
 IXK
 Ib
 Igu
+IDF
 and
 ability
 approximation
@@ -2175,6 +2187,7 @@ PhQ
 Pk
 PHP
 Pb
+Plotting
 What
 We
 With
@@ -3117,6 +3130,8 @@ sVUU
 sBx
 sK
 sLb
+succinct
+spam
 giving
 good
 generalizable
@@ -3615,6 +3630,8 @@ cBm
 cKe
 cJI
 cPp
+comprehensive
+coding
 the
 to
 training
@@ -4235,6 +4252,7 @@ eOl
 eBR
 eXJ
 ecb
+exercises
 programmed
 patterns
 program
@@ -5120,6 +5138,7 @@ mw
 mPq
 mcb
 ma
+matplotlib
 hypothesis
 handwritten
 have
@@ -5427,6 +5446,7 @@ EBI
 EEQ
 Eh
 ED
+Exercise
 using
 utility
 use
@@ -6020,6 +6040,7 @@ fB
 fyw
 fU
 faa
+filter
 Optimziation
 Operations
 Once
@@ -6824,6 +6845,7 @@ Ham
 HABI
 HgMc
 HJ
+Homework
 Not
 NOTHING
 No
@@ -6927,6 +6949,7 @@ NXm
 NDT
 Nf
 NI
+Na
 quality
 question
 quickly
@@ -7113,6 +7136,7 @@ UVY
 UWE
 UjL
 ULA
+USE
 Breakout
 Because
 Backpropagation
@@ -7237,6 +7261,7 @@ BGy
 BTB
 BxQ
 BYg
+Bias
 just
 jagged
 json
