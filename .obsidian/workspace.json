@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Regularization.canvas",
+                "file": "Machine Learning/Midterm Review/Classification.canvas",
                 "viewState": {
-                  "x": 1402.8152334113597,
-                  "y": -188.8656126595452,
-                  "zoom": -0.5168598986863675
+                  "x": 4110.87548618353,
+                  "y": 2553.2366224079556,
+                  "zoom": 0.26724845374522527
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Regularization"
+              "title": "Classification"
             }
           },
           {
@@ -189,6 +189,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
     "Machine Learning/Midterm Review/Data Preprocessing.canvas",
@@ -202,7 +203,6 @@
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Text Classification.canvas",
-    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/004 Data Preprocessing.md",
