@@ -15,9 +15,9 @@
               "state": {
                 "file": "Machine Learning/Midterm Review/Linear Regression.canvas",
                 "viewState": {
-                  "x": 22.11606412116707,
-                  "y": 101.8042278737023,
-                  "zoom": -0.29618373773247203
+                  "x": -393.8175947765821,
+                  "y": 3250.230055754634,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -38,8 +38,7 @@
               "title": "Colab Collection"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,13 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fc137dd6cdc2f3e",
+  "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251005171609.png",
+    "Machine Learning/Midterm Review/Colab Collection.md",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Assets/Pasted image 20251005170735.png",
-    "Machine Learning/Midterm Review/Colab Collection.md",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Text Classification.canvas",

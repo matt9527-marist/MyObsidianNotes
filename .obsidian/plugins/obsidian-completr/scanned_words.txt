@@ -592,6 +592,7 @@ lyd
 lfeHZ
 lIMq
 lXI
+lCDbE
 Graphing
 Google
 Game
@@ -1133,6 +1134,7 @@ SMOOTHING
 SNq
 SOu
 SOM
+SI
 Keras
 KB
 Key
@@ -1498,6 +1500,7 @@ Ia
 IRI
 IjY
 IeJ
+Ii
 and
 ability
 approximation
@@ -2059,6 +2062,8 @@ wi
 wl
 wa
 wgG
+wDx
+wjB
 Python
 Performance
 Principle
@@ -2318,6 +2323,8 @@ WZr
 Ws
 WXa
 Wvtz
+WTPo
+WD
 is
 in
 if
@@ -2643,6 +2650,7 @@ FBI
 FYy
 Fwt
 FY
+FGmI
 of
 or
 optimize
@@ -2818,6 +2826,7 @@ oyY
 oLp
 outputs
 olS
+olq
 study
 simplified
 something
@@ -3166,6 +3175,7 @@ sLb
 succinct
 spam
 sND
+sMVr
 giving
 good
 generalizable
@@ -4066,6 +4076,8 @@ bBS
 bRK
 buZ
 bBA
+bBe
+babc
 explicitly
 experience
 error
@@ -4295,6 +4307,7 @@ ecb
 exercises
 ebM
 eBA
+eQN
 programmed
 patterns
 program
@@ -4576,6 +4589,7 @@ pF
 pJM
 pB
 pCT
+pPQ
 Detecting
 Deepmind
 Dataset
@@ -4731,6 +4745,9 @@ DEG
 DiB
 DnP
 Dq
+DqC
+DqD
+DRB
 regularities
 respect
 recognizing
@@ -5190,6 +5207,8 @@ ma
 matplotlib
 mHdC
 mBp
+mD
+mN
 hypothesis
 handwritten
 have
@@ -5334,6 +5353,7 @@ hP
 hGL
 hidden
 hFV
+hC
 Execution
 Examples
 Economics
@@ -5499,6 +5519,7 @@ EEQ
 Eh
 ED
 Exercise
+EDu
 using
 utility
 use
@@ -6455,6 +6476,8 @@ vYK
 vYk
 vBN
 vLW
+vPC
+vJP
 numerical
 no
 need
@@ -6800,6 +6823,8 @@ yTv
 yIc
 yu
 yBT
+yso
+yFD
 How
 Hinge
 Header
@@ -7110,6 +7135,7 @@ qbA
 qMl
 qK
 qOXV
+qMF
 Unsupervised
 UNION
 User
@@ -7337,6 +7363,8 @@ BDF
 BdB
 BjU
 Bvjh
+BygS
+BOD
 just
 jagged
 json
@@ -7877,6 +7905,7 @@ Xhc
 XIs
 XHP
 XzS
+XJhG
 Zero
 ZT
 ZmM
@@ -7953,6 +7982,7 @@ Zyi
 Zqs
 ZE
 ZqG
+ZtDb
 QIz
 QF
 Qn
@@ -8048,6 +8078,7 @@ Qo
 QmuJ
 QQQ
 QXQ
+QhP
 xTV
 xp
 xs
