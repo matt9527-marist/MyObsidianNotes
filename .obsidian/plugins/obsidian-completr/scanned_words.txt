@@ -138,6 +138,7 @@ MSl
 Mf
 MCz
 Matrices
+MTA
 Learning
 Learn
 Let
@@ -264,6 +265,8 @@ LBAy
 LO
 LkpS
 LsP
+LN
+LTT
 Relevant
 Reading
 Research
@@ -409,6 +412,7 @@ RFjk
 RTY
 Rj
 RJL
+RQQ
 libraries
 learn
 learning
@@ -586,6 +590,8 @@ lEM
 love
 lyd
 lfeHZ
+lIMq
+lXI
 Graphing
 Google
 Game
@@ -905,6 +911,7 @@ CGt
 Cg
 Class
 Colabs
+CO
 Scikit
 Statistical
 Statistics
@@ -1123,6 +1130,9 @@ Sentiment
 Session
 Submitted
 SMOOTHING
+SNq
+SOu
+SOM
 Keras
 KB
 Key
@@ -1357,6 +1367,8 @@ Tx
 Tgi
 TA
 TT
+TblWj
+Tvp
 ISLP
 Iris
 Instance
@@ -1480,6 +1492,12 @@ IXK
 Ib
 Igu
 IDF
+IfH
+IRcq
+Ia
+IRI
+IjY
+IeJ
 and
 ability
 approximation
@@ -1729,6 +1747,7 @@ ady
 adjusted
 aCZ
 aswV
+aBA
 Applications
 AI
 Analysis
@@ -1893,6 +1912,10 @@ Aix
 AIQ
 AK
 AP
+Ay
+AVq
+AR
+AAR
 with
 without
 want
@@ -2035,6 +2058,7 @@ wA
 wi
 wl
 wa
+wgG
 Python
 Performance
 Principle
@@ -2188,6 +2212,7 @@ Pk
 PHP
 Pb
 Plotting
+Pa
 What
 We
 With
@@ -2288,6 +2313,11 @@ WSw
 Wd
 WqG
 WX
+WQ
+WZr
+Ws
+WXa
+Wvtz
 is
 in
 if
@@ -2488,6 +2518,7 @@ iai
 ici
 iRa
 iXz
+isj
 Field
 For
 Find
@@ -2611,6 +2642,7 @@ FC
 FBI
 FYy
 Fwt
+FY
 of
 or
 optimize
@@ -2785,6 +2817,7 @@ oZs
 oyY
 oLp
 outputs
+olS
 study
 simplified
 something
@@ -3132,6 +3165,7 @@ sK
 sLb
 succinct
 spam
+sND
 giving
 good
 generalizable
@@ -3272,6 +3306,7 @@ gmA
 gZT
 gvH
 gXm
+gt
 computers
 computer
 can
@@ -3632,6 +3667,8 @@ cJI
 cPp
 comprehensive
 coding
+cIH
+cbV
 the
 to
 training
@@ -4026,6 +4063,9 @@ bkT
 bJk
 baDpb
 bBS
+bRK
+buZ
+bBA
 explicitly
 experience
 error
@@ -4253,6 +4293,8 @@ eBR
 eXJ
 ecb
 exercises
+ebM
+eBA
 programmed
 patterns
 program
@@ -4532,6 +4574,8 @@ pk
 pu
 pF
 pJM
+pB
+pCT
 Detecting
 Deepmind
 Dataset
@@ -4683,6 +4727,10 @@ DSb
 Dp
 DcE
 Dl
+DEG
+DiB
+DnP
+Dq
 regularities
 respect
 recognizing
@@ -4916,6 +4964,7 @@ rpW
 rb
 rGd
 roz
+riV
 model
 mostly
 machine
@@ -5139,6 +5188,8 @@ mPq
 mcb
 ma
 matplotlib
+mHdC
+mBp
 hypothesis
 handwritten
 have
@@ -5282,6 +5333,7 @@ hmu
 hP
 hGL
 hidden
+hFV
 Execution
 Examples
 Economics
@@ -5572,6 +5624,7 @@ uJjo
 uv
 uyH
 uZu
+uV
 data
 driven
 dataset
@@ -5835,6 +5888,10 @@ dmK
 dKi
 dfS
 dfce
+dq
+dLtP
+dsLB
+dcd
 future
 from
 feed
@@ -6041,6 +6098,9 @@ fyw
 fU
 faa
 filter
+fBA
+fgA
+fJ
 Optimziation
 Operations
 Once
@@ -6260,6 +6320,7 @@ kiB
 krm
 kM
 kVC
+kVt
 value
 various
 variable
@@ -6393,6 +6454,7 @@ vWJ
 vYK
 vYk
 vBN
+vLW
 numerical
 no
 need
@@ -6846,6 +6908,9 @@ HABI
 HgMc
 HJ
 Homework
+Hu
+HK
+Hux
 Not
 NOTHING
 No
@@ -6950,6 +7015,7 @@ NDT
 Nf
 NI
 Na
+Ny
 quality
 question
 quickly
@@ -7041,6 +7107,9 @@ qeB
 qWL
 qhw
 qbA
+qMl
+qK
+qOXV
 Unsupervised
 UNION
 User
@@ -7137,6 +7206,8 @@ UWE
 UjL
 ULA
 USE
+US
+UL
 Breakout
 Because
 Backpropagation
@@ -7262,6 +7333,10 @@ BTB
 BxQ
 BYg
 Bias
+BDF
+BdB
+BjU
+Bvjh
 just
 jagged
 json
@@ -7340,6 +7415,8 @@ jFt
 jc
 jQTT
 jFLZ
+jdU
+jey
 Vectorization
 Vectors
 Visualization
@@ -7448,6 +7525,10 @@ VZi
 VX
 VYe
 Vip
+Vlq
+VEJ
+VZHP
+Vz
 Java
 Japan
 Just
@@ -7525,6 +7606,10 @@ JQTT
 Jun
 JiX
 JL
+JbMy
+Jb
+JVX
+JilY
 zero
 zv
 zl
@@ -7689,6 +7774,8 @@ Yks
 YkN
 Yw
 YrG
+YgI
+YSp
 XOR
 XORed
 Xp
@@ -7788,6 +7875,8 @@ XVru
 XEq
 Xhc
 XIs
+XHP
+XzS
 Zero
 ZT
 ZmM
@@ -7863,6 +7952,7 @@ Zwr
 Zyi
 Zqs
 ZE
+ZqG
 QIz
 QF
 Qn
@@ -7956,6 +8046,8 @@ QHM
 QL
 Qo
 QmuJ
+QQQ
+QXQ
 xTV
 xp
 xs
@@ -8051,5 +8143,8 @@ xoo
 xzH
 xaCIC
 xjk
+xTXv
+xGz
+xm
 üt
 ÖC
