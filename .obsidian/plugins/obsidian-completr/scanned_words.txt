@@ -268,6 +268,8 @@ LkpS
 LsP
 LN
 LTT
+LXn
+Lb
 Relevant
 Reading
 Research
@@ -416,6 +418,7 @@ RJL
 RQQ
 Rct
 RHDDDDD
+RYe
 libraries
 learn
 learning
@@ -598,6 +601,7 @@ lXI
 lCDbE
 lIs
 lmmB
+lXz
 Graphing
 Google
 Game
@@ -920,6 +924,9 @@ Colabs
 CO
 Cia
 CDDDDDD
+CIy
+CLH
+CIIItT
 Scikit
 Statistical
 Statistics
@@ -1379,6 +1386,8 @@ TA
 TT
 TblWj
 Tvp
+TVVF
+TVV
 ISLP
 Iris
 Instance
@@ -1930,6 +1939,9 @@ AVq
 AR
 AAR
 Aaq
+ATp
+AHy
+AEP
 with
 without
 want
@@ -2229,6 +2241,8 @@ PHP
 Pb
 Plotting
 Pa
+PqxNp
+PVV
 What
 We
 With
@@ -2539,6 +2553,7 @@ iXz
 isj
 iXW
 inaccuracy
+ittJp
 Field
 For
 Find
@@ -2666,6 +2681,8 @@ FY
 FGmI
 FwAc
 FOo
+FGD
+FwG
 of
 or
 optimize
@@ -2843,6 +2860,7 @@ outputs
 olS
 olq
 oqX
+oiii
 study
 simplified
 something
@@ -3193,6 +3211,7 @@ spam
 sND
 sMVr
 solutions
+sCI
 giving
 good
 generalizable
@@ -3335,6 +3354,8 @@ gvH
 gXm
 gt
 gYZ
+gDb
+gDu
 computers
 computer
 can
@@ -3698,6 +3719,7 @@ coding
 cIH
 cbV
 cPHDDDDD
+cix
 the
 to
 training
@@ -3915,6 +3937,9 @@ tXj
 tqC
 tN
 tz
+tdJV
+tXp
+tBl
 being
 be
 by
@@ -4098,6 +4123,7 @@ bBA
 bBe
 babc
 bfc
+bYD
 explicitly
 experience
 error
@@ -4329,6 +4355,8 @@ ebM
 eBA
 eQN
 exam
+egc
+eGH
 programmed
 patterns
 program
@@ -4772,6 +4800,10 @@ DqD
 DRB
 Ds
 DDDDDDK
+Duw
+DQr
+DGZ
+DDy
 regularities
 respect
 recognizing
@@ -5008,6 +5040,7 @@ roz
 riV
 rak
 rlcK
+rm
 model
 mostly
 machine
@@ -5236,6 +5269,9 @@ mBp
 mD
 mN
 muU
+mtT
+maq
+mLZ
 hypothesis
 handwritten
 have
@@ -5382,6 +5418,7 @@ hidden
 hFV
 hC
 hR
+hAh
 Execution
 Examples
 Economics
@@ -5548,6 +5585,7 @@ Eh
 ED
 Exercise
 EDu
+Epw
 using
 utility
 use
@@ -5674,6 +5712,7 @@ uv
 uyH
 uZu
 uV
+uuua
 data
 driven
 dataset
@@ -6152,6 +6191,8 @@ fBA
 fgA
 fJ
 fbd
+fk
+fAB
 Optimziation
 Operations
 Once
@@ -6282,6 +6323,8 @@ OVz
 Ot
 ORl
 OrSc
+OU
+Oy
 kind
 know
 knowledge
@@ -6376,6 +6419,8 @@ kVC
 kVt
 kXYYC
 kZPr
+kjj
+kGG
 value
 various
 variable
@@ -6512,6 +6557,7 @@ vBN
 vLW
 vPC
 vJP
+vJ
 numerical
 no
 need
@@ -6768,6 +6814,7 @@ nsigmoid
 nD
 nNX
 nHb
+njy
 yes
 your
 you
@@ -6864,6 +6911,8 @@ yso
 yFD
 yDe
 ytQ
+yAu
+yfsU
 How
 Hinge
 Header
@@ -6975,6 +7024,7 @@ Homework
 Hu
 HK
 Hux
+HvH
 Not
 NOTHING
 No
@@ -7176,6 +7226,8 @@ qK
 qOXV
 qMF
 qnB
+qys
+qDx
 Unsupervised
 UNION
 User
@@ -7276,6 +7328,8 @@ US
 UL
 Upn
 UBf
+UWW
+UMX
 Breakout
 Because
 Backpropagation
@@ -7408,6 +7462,9 @@ Bvjh
 BygS
 BOD
 BN
+BdC
+Buuu
+Btx
 just
 jagged
 json
@@ -7600,6 +7657,8 @@ Vlq
 VEJ
 VZHP
 Vz
+VR
+VK
 Java
 Japan
 Just
@@ -7681,6 +7740,8 @@ JbMy
 Jb
 JVX
 JilY
+JWN
+Jgl
 zero
 zv
 zl
@@ -7850,6 +7911,8 @@ YrG
 YgI
 YSp
 YGB
+YYJ
+YXh
 XOR
 XORed
 Xp
@@ -8033,6 +8096,7 @@ Zb
 ZFDDDD
 ZEu
 ZST
+ZkY
 QIz
 QF
 Qn
@@ -8130,6 +8194,8 @@ QQQ
 QXQ
 QhP
 Qzn
+Qxt
+QDH
 xTV
 xp
 xs
@@ -8228,5 +8294,6 @@ xjk
 xTXv
 xGz
 xm
+xaa
 üt
 ÖC

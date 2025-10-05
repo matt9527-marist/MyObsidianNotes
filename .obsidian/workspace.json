@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Text Classification.canvas",
+                "file": "Machine Learning/Midterm Review/ML Basics.canvas",
                 "viewState": {
-                  "x": 3223.6019838287884,
-                  "y": 3574.618100507785,
-                  "zoom": -0.9223110504872865
+                  "x": 0.5,
+                  "y": 0,
+                  "zoom": -0.6946977058844199
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Text Classification"
+              "title": "ML Basics"
             }
           }
         ]
@@ -175,11 +175,17 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
-    "Machine Learning/Midterm Review/Classification.canvas",
-    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/Text Classification.canvas",
+    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Machine Learning/Midterm Review/Exam Scratch.md",
+    "Machine Learning/Midterm Review/Data Preprocessing.canvas",
+    "Machine Learning/Midterm Review/Classification.canvas",
+    "Machine Learning/Midterm Review/Calculus.canvas",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/008 Logistic Regression.md",
     "Machine Learning/007 NB for Text Classification.md",
@@ -191,20 +197,14 @@
     "Assets/Pasted image 20251005180947.png",
     "Assets/Pasted image 20251005180821.png",
     "Machine Learning/Midterm Review/Colab Collection.md",
-    "Machine Learning/Midterm Review/Exam Scratch.md",
     "conflict-files-obsidian-git.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/000 Introduction.md",
     "Machine Learning/Assignment 1 Gradient Proof.md",
-    "Machine Learning/Midterm Review/Data Preprocessing.canvas",
     "Assets/Pasted image 20251005172218.png",
     "Assets/Pasted image 20251005171609.png",
-    "Machine Learning/Midterm Review/Linear Algebra.canvas",
-    "Machine Learning/Midterm Review/Calculus.canvas",
     "Assets/Pasted image 20251005170735.png",
-    "Machine Learning/Midterm Review/Logistic Regression.canvas",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
     "Assets/Pasted image 20251004174824.png",
     "Assets/Pasted image 20251004174545.png",
     "Assets/Pasted image 20251004173346.png",
