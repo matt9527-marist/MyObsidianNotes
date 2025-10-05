@@ -35,7 +35,7 @@ What problems do we find here?
 - Documents like books are not fixed length.
 One possible approach: 
 - Build a **term frequency** matrix:
-(see notes)
+
 We can use a dictionary or vocabulary matrix to split the documents according to which words or phrases appear in the text. For example, if we find that the word "news" appears 3 times, it will be listed in the matrix as 3 like shown. 
 Of course, this does miss context, but for right now, we are not considering it. This is called a **Bag of Words (BOW)**. We are simply vectorizing the document in terms of as many dimensions as the dictionary has. Therefore, if we have a dictionary full of 400,000 words, we may get a matrix that is quite sparse, with lots of zeroes in the table. We also have to consider the frequency of stop words, like "and" or "there" because they can cause noise to the data, but depending on the purpose of the model, we may want to keep them to preserve meaning or context. 
 
@@ -49,7 +49,7 @@ Recall that we have been using logarithms for classification:
 $$-\log P(d, y_{i}) = -\log P(d|y_{i}) - \log P(y_{i})$$
 And now we need to calculate the probability of a word given the class:
 $$P(w_{t}|y_{i}) = \frac{count(w_{t},y_{i}) + 1}{\sum^{ }_{w \in |v|}count(w,y_{i}) + |v|}$$
-Where `count(wt,yi)` is the count of the number of words in a given class over the summation of all the words in the dictionary. This is the full expression essentially the same thing as the categorical model's equation. 
+Where `count(wt,yi)` is the count of the number of words in a given class over the summation of all the words in the dictionary. This is the full expression, essentially the same thing as the categorical model's equation. 
 
 Thus we can proceed by using logarithms to simplify the multiplication steps into addition.
 $$\min -\log P(d,y_{i}) = -\sum^{m}_{j=1}N^{t}\log P(w_{t}|y_{i}) -\log P(y_{i})$$
