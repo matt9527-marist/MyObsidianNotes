@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Classification.canvas",
+                "file": "Machine Learning/Midterm Review/Text Classification.canvas",
                 "viewState": {
-                  "x": 2990.115009542426,
-                  "y": 1395.004264218461,
-                  "zoom": -0.06608487958810805
+                  "x": 837.8997783682987,
+                  "y": 2430.7473541367226,
+                  "zoom": 0.41102228284604675
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Classification"
+              "title": "Text Classification"
             }
           }
         ]
@@ -175,6 +175,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/Text Classification.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
@@ -195,7 +196,6 @@
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/000 Introduction.md",
-    "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Assignment 1 Gradient Proof.md",
     "Machine Learning/Midterm Review/Data Preprocessing.canvas",
     "Assets/Pasted image 20251005172218.png",
