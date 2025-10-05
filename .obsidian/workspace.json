@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Linear Regression.canvas",
+                "file": "Machine Learning/Midterm Review/Regularization.canvas",
                 "viewState": {
-                  "x": 1696.9314324844754,
-                  "y": 1175.6540668856296,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 1402.8152334113597,
+                  "y": -188.8656126595452,
+                  "zoom": -0.5168598986863675
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linear Regression"
+              "title": "Regularization"
             }
           },
           {
@@ -189,10 +189,13 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/003 Supervised Learning and Regression.md",
+    "Machine Learning/Assignment 1 Gradient Proof.md",
+    "Machine Learning/Midterm Review/Data Preprocessing.canvas",
+    "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Assets/Pasted image 20251005172218.png",
     "Assets/Pasted image 20251005171609.png",
     "Machine Learning/Midterm Review/Colab Collection.md",
-    "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Assets/Pasted image 20251005170735.png",
@@ -217,11 +220,8 @@
     "Assets/Pasted image 20251004173159.png",
     "Assets/Pasted image 20251004173138.png",
     "Assets/Pasted image 20251004172610.png",
-    "Assets/Pasted image 20251004171856.png",
     "Machine Learning/Assignment 4 Probability.md",
     "conflict-files-obsidian-git.md",
-    "Machine Learning/Midterm Review/Data Preprocessing.canvas",
-    "Machine Learning/003 Supervised Learning and Regression.md",
     "LaTeX Scratch.md",
     "Formatting Template.md",
     "Security Protocols-Algorithms/README.md",
@@ -229,7 +229,6 @@
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Parallel Processing/102 Planning for Parallelization.md",
     "Machine Learning/Midterm Review",
-    "Machine Learning/Assignment 1 Gradient Proof.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/000 Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
