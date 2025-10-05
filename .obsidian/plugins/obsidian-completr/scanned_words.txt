@@ -139,6 +139,7 @@ Mf
 MCz
 Matrices
 MTA
+Mqm
 Learning
 Learn
 Let
@@ -413,6 +414,8 @@ RTY
 Rj
 RJL
 RQQ
+Rct
+RHDDDDD
 libraries
 learn
 learning
@@ -593,6 +596,8 @@ lfeHZ
 lIMq
 lXI
 lCDbE
+lIs
+lmmB
 Graphing
 Google
 Game
@@ -913,6 +918,8 @@ Cg
 Class
 Colabs
 CO
+Cia
+CDDDDDD
 Scikit
 Statistical
 Statistics
@@ -1135,6 +1142,7 @@ SNq
 SOu
 SOM
 SI
+Sg
 Keras
 KB
 Key
@@ -1751,6 +1759,8 @@ adjusted
 aCZ
 aswV
 aBA
+aeT
+aSw
 Applications
 AI
 Analysis
@@ -1919,6 +1929,7 @@ Ay
 AVq
 AR
 AAR
+Aaq
 with
 without
 want
@@ -2526,6 +2537,7 @@ ici
 iRa
 iXz
 isj
+iXW
 Field
 For
 Find
@@ -2651,6 +2663,8 @@ FYy
 Fwt
 FY
 FGmI
+FwAc
+FOo
 of
 or
 optimize
@@ -2827,6 +2841,7 @@ oLp
 outputs
 olS
 olq
+oqX
 study
 simplified
 something
@@ -3317,6 +3332,7 @@ gZT
 gvH
 gXm
 gt
+gYZ
 computers
 computer
 can
@@ -3679,6 +3695,7 @@ comprehensive
 coding
 cIH
 cbV
+cPHDDDDD
 the
 to
 training
@@ -4590,6 +4607,7 @@ pJM
 pB
 pCT
 pPQ
+pvz
 Detecting
 Deepmind
 Dataset
@@ -4748,6 +4766,8 @@ Dq
 DqC
 DqD
 DRB
+Ds
+DDDDDDK
 regularities
 respect
 recognizing
@@ -4982,6 +5002,8 @@ rb
 rGd
 roz
 riV
+rak
+rlcK
 model
 mostly
 machine
@@ -5209,6 +5231,7 @@ mHdC
 mBp
 mD
 mN
+muU
 hypothesis
 handwritten
 have
@@ -5354,6 +5377,7 @@ hGL
 hidden
 hFV
 hC
+hR
 Execution
 Examples
 Economics
@@ -5913,6 +5937,7 @@ dq
 dLtP
 dsLB
 dcd
+dmw
 future
 from
 feed
@@ -6250,6 +6275,8 @@ ODM
 OX
 OVz
 Ot
+ORl
+OrSc
 kind
 know
 knowledge
@@ -6342,6 +6369,8 @@ krm
 kM
 kVC
 kVt
+kXYYC
+kZPr
 value
 various
 variable
@@ -6731,6 +6760,9 @@ nnearly
 nThink
 nThere
 nsigmoid
+nD
+nNX
+nHb
 yes
 your
 you
@@ -6825,6 +6857,8 @@ yu
 yBT
 yso
 yFD
+yDe
+ytQ
 How
 Hinge
 Header
@@ -7136,6 +7170,7 @@ qMl
 qK
 qOXV
 qMF
+qnB
 Unsupervised
 UNION
 User
@@ -7234,6 +7269,8 @@ ULA
 USE
 US
 UL
+Upn
+UBf
 Breakout
 Because
 Backpropagation
@@ -7365,6 +7402,7 @@ BjU
 Bvjh
 BygS
 BOD
+BN
 just
 jagged
 json
@@ -7722,6 +7760,8 @@ zLtD
 zj
 zC
 zXF
+zhV
+zdvE
 Yoda
 YES
 York
@@ -7804,6 +7844,7 @@ Yw
 YrG
 YgI
 YSp
+YGB
 XOR
 XORed
 Xp
@@ -7983,6 +8024,10 @@ Zqs
 ZE
 ZqG
 ZtDb
+Zb
+ZFDDDD
+ZEu
+ZST
 QIz
 QF
 Qn
@@ -8079,6 +8124,7 @@ QmuJ
 QQQ
 QXQ
 QhP
+Qzn
 xTV
 xp
 xs
