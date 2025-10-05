@@ -2538,6 +2538,7 @@ iRa
 iXz
 isj
 iXW
+inaccuracy
 Field
 For
 Find
@@ -3191,6 +3192,7 @@ succinct
 spam
 sND
 sMVr
+solutions
 giving
 good
 generalizable
@@ -4326,6 +4328,7 @@ exercises
 ebM
 eBA
 eQN
+exam
 programmed
 patterns
 program
