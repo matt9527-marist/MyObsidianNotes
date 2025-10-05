@@ -25,12 +25,17 @@
             "id": "6efff95a3d479c80",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Machine Learning/Midterm Review/Regularization.canvas",
+                "viewState": {
+                  "x": 512.8997836046883,
+                  "y": 924.8180204862799,
+                  "zoom": -1.4225258261377087
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-layout-dashboard",
+              "title": "Regularization"
             }
           }
         ],
