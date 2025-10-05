@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/002 Vector and Matrix Calculus.md",
+                "file": "Machine Learning/003 Supervised Learning and Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Vector and Matrix Calculus"
+              "title": "003 Supervised Learning and Regression"
             }
           },
           {
@@ -186,6 +186,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/000 Introduction.md",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
@@ -207,7 +208,6 @@
     "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
-    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/008 Logistic Regression.md",
     "Assets/Pasted image 20251004174824.png",
