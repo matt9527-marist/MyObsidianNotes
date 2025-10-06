@@ -167,3 +167,14 @@ application.
 	• Overanalyzing minute performance details.  
 	• Getting lost in excessive data.
 
+• Hot Spots  
+	• **Code kernels** that consume the most execution time.  
+	• Identifying these is key for optimization.  
+• Call Graphs  
+	• Diagrams showing which subroutines call others.  
+	• Helps visualize execution flow and dependency chains.  
+• Combining Hot Spots with Call Graphs  
+	• Produces a powerful visualization to:  
+		• Pinpoint performance bottlenecks.  
+		• Organize development and avoid merge conflicts.
+

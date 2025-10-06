@@ -35,7 +35,8 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6efff95a3d479c80",
+  "active": "ea3b675fc81e5c5b",
   "lastOpenFiles": [
-    "104.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
+    "104.md",
     "Assets/Pasted image 20251006194658.png",
     "Assets/Pasted image 20251006194642.png",
     "Assets/Pasted image 20251006194601.png",
