@@ -153,3 +153,17 @@ $$B_{T} = MTR \times M_{c} \times T_{W} \times N_{S}$$
 **Machine Balance**
 ![[Pasted image 20251006193714.png]]
 
+Calculate the theoretical machine bandwidth:
+![[Pasted image 20251006194438.png]]
+![[Pasted image 20251006194601.png]]
+![[Pasted image 20251006194658.png]]
+
+![[Pasted image 20251006194642.png]]
+## Profiling CloverLeaf 
+**Main Goal**
+• Use profiling tools to identify where to invest time in parallelizing your  
+application.  
+• Avoid:  
+	• Overanalyzing minute performance details.  
+	• Getting lost in excessive data.
+
