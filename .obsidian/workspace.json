@@ -173,6 +173,7 @@
   },
   "active": "6efff95a3d479c80",
   "lastOpenFiles": [
+    "Parallel Processing/103 Performance Limits and Profiling.md",
     "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/003 C++ Classes and OOP.md",
     "Parallel Processing/002.2 Vectors.md",
@@ -212,7 +213,6 @@
     "Parallel Processing/102 Planning for Parallelization.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Machine Learning/008 Logistic Regression.md",
-    "Parallel Processing/103 Performance Limits and Profiling.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Parallel Processing/004 Pointers and References.md",
     "Parallel Processing/002 C++ Introduction.md",

@@ -882,6 +882,7 @@ loaded
 lstopo
 lscpu
 lspci
+linux
 Graphing
 Google
 Game
@@ -4612,6 +4613,8 @@ saturate
 supercomputer
 strided
 sysctl
+sysfs
+sockets
 giving
 good
 generalizable
@@ -4852,6 +4855,7 @@ generative
 generating
 gain
 graphics
+graphical
 computers
 computer
 can
@@ -5313,6 +5317,7 @@ conceptual
 consumption
 cairo
 cpuinfo
+caches
 the
 to
 training
@@ -5635,6 +5640,9 @@ tIf
 tracking
 tennis
 thumb
+toolset
+topology
+topologies
 being
 be
 by
@@ -6571,6 +6579,7 @@ proportion
 players
 peak
 proc
+programmatically
 Detecting
 Deepmind
 Dataset
@@ -7117,6 +7126,7 @@ relieve
 rankings
 ratios
 reinforces
+report
 model
 mostly
 machine
@@ -7401,6 +7411,7 @@ multinomial
 matplotlib
 mark
 macOS
+manipulate
 hypothesis
 handwritten
 have
@@ -8034,6 +8045,7 @@ unless
 unsuccessful
 underfits
 underfit
+util
 data
 driven
 dataset
@@ -8367,6 +8379,7 @@ dense
 drives
 designs
 disks
+displays
 future
 from
 feed
@@ -10005,6 +10018,7 @@ NLO
 NIST
 Next
 Network
+NUMA
 quality
 question
 quickly
@@ -10175,6 +10189,7 @@ qnb
 qiEo
 qLx
 qJx
+query
 Unsupervised
 UNION
 User

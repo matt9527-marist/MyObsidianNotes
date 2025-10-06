@@ -95,3 +95,13 @@ System Profile Inspection Example:
 **Memory Inspection Tool**
 ![[Pasted image 20250929204658.png]]
 
+• *lscpu*  
+	• A command-line utility (part of util-linux) that displays basic CPU information.  
+	• Uses /proc/cpuinfo and sysfs to report architecture, core counts, threads, etc.  
+• *hwloc*  
+	• A library + toolset to programmatically query and manipulate system topology (CPU cores,  
+	sockets, NUMA nodes, caches, I/O devices).  
+	• lstopo is a tool provided by hwloc to visualize this hierarchy.  
+• *cairo*  
+	• A 2D graphics library. Often used by hwloc to render graphical topologies via lstopo.
+
