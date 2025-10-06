@@ -35,7 +35,8 @@
               "title": "LaTeX Scratch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6efff95a3d479c80",
+  "active": "5c693645933adf2f",
   "lastOpenFiles": [
-    "LaTeX Scratch.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
+    "LaTeX Scratch.md",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Security Protocols-Algorithms/003 Hashing II.md",
