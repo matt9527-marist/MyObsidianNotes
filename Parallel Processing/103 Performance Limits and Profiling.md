@@ -105,3 +105,14 @@ System Profile Inspection Example:
 • *cairo*  
 	• A 2D graphics library. Often used by hwloc to render graphical topologies via lstopo.
 
+**Theoretical FLOP Rate** for a given system:
+$$F_{T} = C_{v} \times f_{c} \times I_{c}$$
+Where C_v = Virtual Cores
+f_c: Clock Rate
+I_c Flops/Cycle
+$$I_{c} = \frac{VW}{W_{bits}} \times Fops $$
+VW = Vector width = 256 bits 
+W_bits = word size 
+Fops = Fused multiply-add (FMA) (typicall = 2)
+
+
