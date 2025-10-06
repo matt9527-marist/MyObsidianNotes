@@ -12,8 +12,8 @@
 		{"id":"7bc4d2beb497788d","type":"text","text":"![[Pasted image 20251001132130.png]]","x":239,"y":280,"width":250,"height":274},
 		{"id":"fd31073a9df6f1e3","type":"text","text":"Compute the derivative of the dot product of two vector functions d(u(x)^Tu(x))/dx. \n$$u = f(x) = [u_{1},u_{2},\\dots,u_{n}]^T$$\n$$x = [x_{1}, x_{2},\\dots,x_{m}]$$\nFor simplicity suppose n = 2 and m = 2.\n$$\\frac{d(u^Tu)}{dx} = \\begin{bmatrix}\n\\frac{d(u^Tu)}{dx_{1}}  \\\\\n\\frac{d(u^Tu)}{dx_{2}}\n\\end{bmatrix} = \\begin{bmatrix}\n\\frac{d}{dx_{1}}(u_{1}^2+u_{2}^2) \\\\\n\\frac{d}{dx_{2}}(u_{1}^2+u_{2}^2)\n\\end{bmatrix} = \\begin{bmatrix}\n2u_{1}\\frac{du_{1}}{dx_{1}} + 2u_{2}\\frac{du_{2}}{dx_{1}}  \\\\\n2u_{1}\\frac{du_{1}}{dx_{2}} + 2u_{2}\\frac{du_{2}}{dx_{2}}\n\\end{bmatrix}$$\n$$2 * \\begin{bmatrix}\n\\frac{du_{1}}{dx_{1}} & \\frac{du_{2}}{dx_{1}} \\\\\n\\frac{du_{1}}{dx_{2}} & \\frac{du_{2}}{dx_{2}}\n\\end{bmatrix} * \\begin{bmatrix}\nu_{1}  \\\\\nu_{2}\n\\end{bmatrix}=2(\\frac{du}{dx})^Tu$$\n","x":800,"y":640,"width":495,"height":353},
 		{"id":"8951355ad0c4aa36","type":"file","file":"Assets/Pasted image 20251003032438.png","x":1160,"y":-194,"width":767,"height":814},
-		{"id":"bf90565f4546b588","x":1960,"y":-194,"width":1262,"height":694,"type":"file","file":"Assets/Pasted image 20251005170735.png"},
-		{"id":"e048dcd9d37af372","x":1338,"y":685,"width":482,"height":75,"type":"text","text":"[Copy of ml-solution_session02_assignment.ipynb - Colab](https://colab.research.google.com/drive/1CmfKGm0e_ts3elTbUDvDikYcfiibhLao?usp=sharing)"}
+		{"id":"bf90565f4546b588","type":"file","file":"Assets/Pasted image 20251005170735.png","x":1960,"y":-194,"width":1262,"height":694},
+		{"id":"e048dcd9d37af372","type":"text","text":"[Copy of ml-solution_session02_assignment.ipynb - Colab](https://colab.research.google.com/drive/1CmfKGm0e_ts3elTbUDvDikYcfiibhLao?usp=sharing)","x":1338,"y":685,"width":482,"height":75}
 	],
 	"edges":[]
 }

@@ -34,7 +34,7 @@ Other Metrics:
 $$Recall = \frac{TP}{TP + FN}$$
 "Recall" comes from "information retrieval." This allows us to know how much data was captured that did not actually fly under the radar; how many times we correctly predicted fraud, an intrusion, or a disease, etc.
 
-**False Positive Rate (FPR**
+**False Positive Rate (FPR)**
 $$FPR = \frac{FP}{FP + TN}$$
 This detects how many false alarms there were. There is a positive side of this called *specificity*, which is `1 - FPR`, in the same way that accuracy is a positive presentation of error rate. 
 
