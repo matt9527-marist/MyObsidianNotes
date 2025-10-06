@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/ML Basics.canvas",
+                "file": "Machine Learning/Midterm Review/Regularization.canvas",
                 "viewState": {
-                  "x": 0.5,
-                  "y": 0,
-                  "zoom": -0.6946977058844199
+                  "x": -64.49555837563452,
+                  "y": 778.7330563927662,
+                  "zoom": -0.5168598986863673
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ML Basics"
+              "title": "Regularization"
             }
           }
         ]
@@ -175,14 +175,14 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
-    "Machine Learning/Midterm Review/Text Classification.canvas",
-    "Machine Learning/Midterm Review/Regularization.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
-    "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Exam Scratch.md",
+    "Machine Learning/Midterm Review/Text Classification.canvas",
+    "Machine Learning/Midterm Review/Regularization.canvas",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Data Preprocessing.canvas",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
