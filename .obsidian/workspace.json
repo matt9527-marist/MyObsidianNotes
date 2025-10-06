@@ -11,14 +11,17 @@
             "id": "51320cbd78282d30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Machine Learning/007 NB for Text Classification.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine Learning/Midterm Review/Linear Regression.canvas",
+                "viewState": {
+                  "x": -822.2805594721124,
+                  "y": 151.11813859977212,
+                  "zoom": 0.037149595600861285
+                }
               },
-              "icon": "lucide-file",
-              "title": "007 NB for Text Classification"
+              "icon": "lucide-layout-dashboard",
+              "title": "Linear Regression"
             }
           }
         ]
@@ -172,14 +175,14 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/003 Supervised Learning and Regression.md",
+    "Machine Learning/004 Data Preprocessing.md",
+    "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/008 Logistic Regression.md",
-    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
-    "Machine Learning/003 Supervised Learning and Regression.md",
-    "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/Assignment 4 Probability.md",
     "Machine Learning/Matrix Operations Sheet.md",
     "Parallel Processing/001 CMake and Catch2.md",
