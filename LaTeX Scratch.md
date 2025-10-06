@@ -34,4 +34,5 @@ $$= \begin{bmatrix}
 a_{11} & a_{12} \\
 a_{21} & a_{22}
 \end{bmatrix} = A$$
-So the derivative of the product of matrix A times a vector x w.r.t. 
+So the derivative of the product of matrix A times a vector x w.r.t. vector x:
+$$\frac{d}{dx}(A*x) = A$$

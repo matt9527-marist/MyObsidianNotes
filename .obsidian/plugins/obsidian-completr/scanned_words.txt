@@ -407,6 +407,8 @@ LOz
 LBQ
 LUv
 LOT
+Logarithms
+Laplace
 Relevant
 Reading
 Research
@@ -608,6 +610,7 @@ Running
 Resistant
 Repeating
 Razor
+Regular
 libraries
 learn
 learning
@@ -863,6 +866,7 @@ literature
 labels
 litte
 lucky
+likelihoods
 Graphing
 Google
 Game
@@ -1047,6 +1051,7 @@ GMAC
 Gather
 GridSearch
 Generally
+Gaussian
 Charting
 Control
 Common
@@ -1331,6 +1336,9 @@ Construct
 CMAC
 Computes
 Combines
+Complement
+Conditional
+Criterion
 Scikit
 Statistical
 Statistics
@@ -1615,6 +1623,7 @@ Standardized
 Salt
 Speaking
 Special
+Smoothing
 Keras
 Key
 Kirchhoffs
@@ -1977,6 +1986,8 @@ TRX
 Taking
 Too
 Template
+Three
+Thereby
 ISLP
 Iris
 Instance
@@ -2503,6 +2514,13 @@ adjusting
 applies
 act
 assembles
+acd
+ace
+aecef
+argmax
+appears
+absent
+abf
 Applications
 AI
 Analysis
@@ -3182,6 +3200,8 @@ PjM
 Prot
 Performane
 Pad
+Posteriori
+PlayTennis
 What
 We
 With
@@ -3353,6 +3373,7 @@ WhP
 Wte
 Wfw
 War
+Wind
 is
 in
 if
@@ -3645,6 +3666,7 @@ infinite
 iterates
 ipynb
 inaccuracy
+indepdendent
 Field
 For
 Find
@@ -4084,6 +4106,8 @@ overview
 overly
 overreacts
 optimum
+outlook
+overcast
 study
 simplified
 something
@@ -4506,6 +4530,9 @@ samples
 separates
 sensitive
 surface
+statistical
+showed
+sunny
 giving
 good
 generalizable
@@ -4742,6 +4769,7 @@ gret
 generalization
 glossed
 graph
+generative
 computers
 computer
 can
@@ -5184,6 +5212,16 @@ competing
 choosing
 converge
 cfc
+characteristic
+card
+cards
+characteristics
+criterion
+config
+cool
+calculating
+cope
+continuous
 the
 to
 training
@@ -5501,6 +5539,10 @@ tired
 tThis
 tOur
 tMakes
+tThe
+tIf
+tracking
+tennis
 being
 be
 by
@@ -5724,6 +5766,12 @@ bbbf
 bffdefe
 behaves
 babc
+baa
+beliefs
+belief
+bdac
+bdd
+beauty
 explicitly
 experience
 error
@@ -6039,6 +6087,10 @@ essentially
 explanations
 explains
 ebe
+eaebd
+expressed
+eeb
+ebb
 programmed
 patterns
 program
@@ -6410,6 +6462,13 @@ picks
 practitioners
 procedure
 predictive
+posteriori
+picking
+preserving
+priors
+predictors
+proportion
+players
 Detecting
 Deepmind
 Dataset
@@ -6947,6 +7006,8 @@ regularizer
 recipe
 regarding
 repeatedly
+render
+rain
 model
 mostly
 machine
@@ -7224,6 +7285,9 @@ meaningful
 memorize
 meaning
 memorizing
+monotonic
+multiplication
+mild
 hypothesis
 handwritten
 have
@@ -7438,6 +7502,8 @@ holdout
 huge
 heavily
 horizontal
+happened
+humidity
 Execution
 Examples
 Economics
@@ -7636,6 +7702,9 @@ EpQ
 Echo
 Encrypts
 Euclidean
+Events
+Evidence
+Event
 using
 utility
 use
@@ -8167,6 +8236,13 @@ differentiation
 decreases
 delta
 downhill
+deck
+denoted
+diamonds
+dba
+dcf
+days
+distributions
 future
 from
 feed
@@ -8413,6 +8489,9 @@ fca
 failing
 fded
 fdae
+former
+fraction
+feff
 Optimziation
 Operations
 Once
@@ -9259,6 +9338,19 @@ nSince
 nGradient
 nTwo
 nVectorized
+nWhat
+nDenoted
+nclass
+nthat
+ndata
+normalizing
+nposterior
+nTherefore
+nBut
+nAnd
+nWhere
+nbecause
+ndistributions
 yes
 yield
 your
@@ -10312,6 +10404,7 @@ Bnd
 Behavioral
 Built
 Batch
+Bernoulli
 just
 jagged
 json
@@ -10922,6 +11015,7 @@ JmE
 Jpe
 Jxz
 Jvay
+Joint
 You
 Yw
 Ygy
@@ -11073,6 +11167,7 @@ YmD
 YeuF
 Yha
 YRgI
+Yes
 Xk
 Xt
 Xs

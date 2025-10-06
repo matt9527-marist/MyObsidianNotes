@@ -42,14 +42,31 @@
             "id": "5c693645933adf2f",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Machine Learning/Midterm Review/Classification.canvas",
+                "viewState": {
+                  "x": 2187.5758638175753,
+                  "y": 1725.8695436755684,
+                  "zoom": -1.4833495091347828
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Classification"
+            }
+          },
+          {
+            "id": "6576266c62c644b5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Scratch.md",
+                "file": "Machine Learning/006 Classification Concepts and Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTeX Scratch"
+              "title": "006 Classification Concepts and Metrics"
             }
           }
         ],
@@ -205,13 +222,14 @@
   },
   "active": "5c693645933adf2f",
   "lastOpenFiles": [
-    "Machine Learning/004 Data Preprocessing.md",
+    "Machine Learning/006 Classification Concepts and Metrics.md",
+    "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "LaTeX Scratch.md",
+    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
-    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Security Protocols-Algorithms/003 Hashing II.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/000 Introduction.md",
