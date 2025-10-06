@@ -11,17 +11,14 @@
             "id": "51320cbd78282d30",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/Midterm Review/Regularization.canvas",
-                "viewState": {
-                  "x": -64.49555837563452,
-                  "y": 778.7330563927662,
-                  "zoom": -0.5168598986863673
-                }
+                "file": "Machine Learning/006 Classification Concepts and Metrics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Regularization"
+              "icon": "lucide-file",
+              "title": "006 Classification Concepts and Metrics"
             }
           }
         ]
@@ -175,23 +172,23 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Machine Learning/007 NB for Text Classification.md",
+    "Machine Learning/004 Data Preprocessing.md",
+    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/Midterm Review/Exam Scratch.md",
     "Machine Learning/Midterm Review/Text Classification.canvas",
-    "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Data Preprocessing.canvas",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Machine Learning/Google Talk on Machine Learning.md",
     "Machine Learning/008 Logistic Regression.md",
-    "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
-    "Machine Learning/004 Data Preprocessing.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Assets/Pasted image 20251005180953.png",
     "Assets/Pasted image 20251005180947.png",
