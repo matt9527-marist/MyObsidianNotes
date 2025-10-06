@@ -138,3 +138,15 @@ $$B_{T} = MTR \times M_{c} \times T_{W} \times N_{S}$$
 		• Plots memory bandwidth + flop rate in one model
 ![[Pasted image 20251006190241.png]]
 
+**Stream Benchmark**
+![[Pasted image 20251006190931.png]]
+• Measures time to read/write large arrays  
+• Four variants:  
+	• Copy – no floating-point  
+	• Scale, Add – 1 flop  
+	• Triad – 2 flops  
+	• Shows max bandwidth when data is used only once  
+• Insight  
+	• In STREAM regime, flop rate is bounded by memory speed  
+	• Roofline plots help visualize bottlenecks and ceilings
+
