@@ -150,3 +150,6 @@ $$B_{T} = MTR \times M_{c} \times T_{W} \times N_{S}$$
 	• In STREAM regime, flop rate is bounded by memory speed  
 	• Roofline plots help visualize bottlenecks and ceilings
 
+**Machine Balance**
+![[Pasted image 20251006193714.png]]
+

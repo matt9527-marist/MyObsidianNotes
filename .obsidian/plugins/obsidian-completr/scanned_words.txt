@@ -891,6 +891,7 @@ lscpu
 lspci
 linux
 load
+leveraging
 Graphing
 Google
 Game
@@ -1672,6 +1673,7 @@ Solvers
 Solve
 System
 Sockets
+Script
 Keras
 Key
 Kirchhoffs
@@ -2044,6 +2046,7 @@ Time
 Tool
 Toolkit
 Triad
+Trojan
 ISLP
 Iris
 Instance
@@ -2590,6 +2593,7 @@ arithmetic
 appendix
 analyzing
 arrays
+alludes
 Applications
 AI
 Analysis
@@ -3453,6 +3457,7 @@ Wind
 Words
 Wasted
 Watts
+Wacatac
 is
 in
 if
@@ -3748,6 +3753,7 @@ inaccuracy
 indepdendent
 iffy
 intensity
+identifying
 Field
 For
 Find
@@ -4638,6 +4644,7 @@ sysctl
 sysfs
 sockets
 speeds
+subfields
 giving
 good
 generalizable
@@ -6607,6 +6614,7 @@ peak
 proc
 programmatically
 plots
+particularly
 Detecting
 Deepmind
 Dataset
@@ -6843,6 +6851,8 @@ Damgard
 Developer
 Dense
 Design
+Defender
+Did
 regularities
 respect
 recognizing
@@ -7442,6 +7452,10 @@ mark
 macOS
 manipulate
 max
+misfortune
+malicious
+mentioned
+mitigate
 hypothesis
 handwritten
 have
@@ -7660,6 +7674,7 @@ happened
 humidity
 helped
 hwloc
+hook
 Execution
 Examples
 Economics
@@ -8079,6 +8094,7 @@ unsuccessful
 underfits
 underfit
 util
+unknowingly
 data
 driven
 dataset
@@ -8414,6 +8430,9 @@ designs
 disks
 displays
 deepens
+duality
+downloading
+defend
 future
 from
 feed
@@ -9708,6 +9727,7 @@ ycIC
 yaJ
 yFl
 yHFY
+years
 How
 Hinge
 Header
