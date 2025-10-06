@@ -219,6 +219,8 @@ Malware
 Merkle
 MAC
 Matrices
+Mechanical
+Matters
 Learning
 Learn
 Let
@@ -410,6 +412,10 @@ LUv
 LOT
 Logarithms
 Laplace
+Limiting
+Latency
+Linpack
+Loads
 Relevant
 Reading
 Research
@@ -612,6 +618,8 @@ Resistant
 Repeating
 Razor
 Regular
+Roofline
+Row
 libraries
 learn
 learning
@@ -869,6 +877,11 @@ litte
 lucky
 likelihoods
 leak
+latency
+loaded
+lstopo
+lscpu
+lspci
 Graphing
 Google
 Game
@@ -1345,6 +1358,10 @@ Criterion
 Class
 Colabs
 Classes
+Computation
+Classic
+Characterizing
+CLI
 Scikit
 Statistical
 Statistics
@@ -1638,6 +1655,10 @@ Session
 Submitted
 SMOOTHING
 Scalability
+Speeds
+Solvers
+Solve
+System
 Keras
 Key
 Kirchhoffs
@@ -1776,6 +1797,8 @@ KZSI
 KvD
 KHV
 KMV
+Knowing
+KiB
 TensorFlow
 Task
 Training
@@ -2002,6 +2025,10 @@ Too
 Template
 Three
 Thereby
+Targeting
+Top
+Time
+Tool
 ISLP
 Iris
 Instance
@@ -2208,6 +2235,8 @@ Includes
 Integrity
 Inputs
 IDF
+Impact
+Inspection
 and
 ability
 approximation
@@ -2540,6 +2569,11 @@ allocating
 authors
 attributes
 accesses
+aspect
+achievable
+arithmetic
+appendix
+analyzing
 Applications
 AI
 Analysis
@@ -2765,6 +2799,7 @@ AVs
 Attributes
 Although
 Among
+Array
 with
 without
 want
@@ -2985,6 +3020,7 @@ wfub
 wlo
 writers
 waiting
+wmic
 Python
 Performance
 Principle
@@ -3223,6 +3259,8 @@ Posteriori
 PlayTennis
 Plotting
 Pipelines
+Plot
+Peise
 What
 We
 With
@@ -3396,6 +3434,8 @@ Wfw
 War
 Wind
 Words
+Wasted
+Watts
 is
 in
 if
@@ -3689,6 +3729,8 @@ iterates
 ipynb
 inaccuracy
 indepdendent
+iffy
+intensity
 Field
 For
 Find
@@ -3879,6 +3921,10 @@ FZx
 FSi
 FtB
 Fit
+Feeds
+Flops
+Floating
+Full
 of
 or
 optimize
@@ -4130,6 +4176,7 @@ overreacts
 optimum
 outlook
 overcast
+optimized
 study
 simplified
 something
@@ -4558,6 +4605,13 @@ sunny
 succinct
 spam
 simplifying
+streaming
+stay
+servers
+saturate
+supercomputer
+strided
+sysctl
 giving
 good
 generalizable
@@ -4796,6 +4850,8 @@ glossed
 graph
 generative
 generating
+gain
+graphics
 computers
 computer
 can
@@ -5250,6 +5306,13 @@ cope
 continuous
 comprehensive
 coding
+cache
+concerning
+concerns
+conceptual
+consumption
+cairo
+cpuinfo
 the
 to
 training
@@ -5571,6 +5634,7 @@ tThe
 tIf
 tracking
 tennis
+thumb
 being
 be
 by
@@ -5803,6 +5867,9 @@ beauty
 book
 books
 behaviors
+bounding
+bound
+bottleneck
 explicitly
 experience
 error
@@ -6123,6 +6190,7 @@ expressed
 eeb
 ebb
 exercises
+efforts
 programmed
 patterns
 program
@@ -6501,6 +6569,8 @@ priors
 predictors
 proportion
 players
+peak
+proc
 Detecting
 Deepmind
 Dataset
@@ -6734,6 +6804,9 @@ Designed
 Digest
 Developed
 Damgard
+Developer
+Dense
+Design
 regularities
 respect
 recognizing
@@ -7041,6 +7114,9 @@ repeatedly
 render
 rain
 relieve
+rankings
+ratios
+reinforces
 model
 mostly
 machine
@@ -7323,6 +7399,8 @@ multiplication
 mild
 multinomial
 matplotlib
+mark
+macOS
 hypothesis
 handwritten
 have
@@ -7539,6 +7617,8 @@ heavily
 horizontal
 happened
 humidity
+helped
+hwloc
 Execution
 Examples
 Economics
@@ -7742,6 +7822,7 @@ Evidence
 Event
 Exercise
 Easily
+Energy
 using
 utility
 use
@@ -8281,6 +8362,11 @@ dcf
 days
 distributions
 dereferences
+delivery
+dense
+drives
+designs
+disks
 future
 from
 feed
@@ -8531,6 +8617,8 @@ former
 fraction
 feff
 filter
+flops
+flop
 Optimziation
 Operations
 Once
@@ -8741,6 +8829,7 @@ Ovt
 Offers
 Occam
 Organization
+Ops
 kind
 know
 knowledge
@@ -9733,6 +9822,7 @@ Hash
 Heuristic
 HMAC
 Homework
+Helps
 Not
 NOTHING
 No
@@ -9914,6 +10004,7 @@ Ncp
 NLO
 NIST
 Next
+Network
 quality
 question
 quickly
@@ -10455,6 +10546,8 @@ Bag
 BOW
 Book
 Benefits
+Big
+Benchmarking
 just
 jagged
 json
