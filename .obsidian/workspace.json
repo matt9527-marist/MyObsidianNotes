@@ -27,33 +27,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning/Midterm Review/Regularization.canvas",
+                "file": "Machine Learning/Midterm Review/Linear Regression.canvas",
                 "viewState": {
-                  "x": 512.8997836046883,
-                  "y": 924.8180204862799,
-                  "zoom": -1.4225258261377087
+                  "x": 502.55142591972356,
+                  "y": 1774.5357205611951,
+                  "zoom": -2.4151711915831093
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Regularization"
-            }
-          },
-          {
-            "id": "a74ea63c5880bed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Linear Regression"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a74ea63c5880bed1",
+  "active": "6efff95a3d479c80",
   "lastOpenFiles": [
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20251004173159.png",
@@ -222,9 +210,7 @@
     "Untitled.md",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
-    "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/Midterm Review",
     "Untitled.base",
