@@ -868,6 +868,7 @@ labels
 litte
 lucky
 likelihoods
+leak
 Graphing
 Google
 Game
@@ -1343,6 +1344,7 @@ Conditional
 Criterion
 Class
 Colabs
+Classes
 Scikit
 Statistical
 Statistics
@@ -1635,6 +1637,7 @@ Sentiment
 Session
 Submitted
 SMOOTHING
+Scalability
 Keras
 Key
 Kirchhoffs
@@ -2533,6 +2536,10 @@ argmax
 appears
 absent
 abf
+allocating
+authors
+attributes
+accesses
 Applications
 AI
 Analysis
@@ -4550,6 +4557,7 @@ showed
 sunny
 succinct
 spam
+simplifying
 giving
 good
 generalizable
@@ -4787,6 +4795,7 @@ generalization
 glossed
 graph
 generative
+generating
 computers
 computer
 can
@@ -5791,6 +5800,9 @@ belief
 bdac
 bdd
 beauty
+book
+books
+behaviors
 explicitly
 experience
 error
@@ -7028,6 +7040,7 @@ regarding
 repeatedly
 render
 rain
+relieve
 model
 mostly
 machine
@@ -7728,6 +7741,7 @@ Events
 Evidence
 Event
 Exercise
+Easily
 using
 utility
 use
@@ -8266,6 +8280,7 @@ dba
 dcf
 days
 distributions
+dereferences
 future
 from
 feed
@@ -8725,6 +8740,7 @@ Oaz
 Ovt
 Offers
 Occam
+Organization
 kind
 know
 knowledge
@@ -9095,6 +9111,7 @@ vrh
 verifying
 verified
 vulnerability
+vect
 numerical
 no
 need
@@ -9375,6 +9392,7 @@ nAnd
 nWhere
 nbecause
 ndistributions
+notation
 yes
 yield
 your
@@ -9895,6 +9913,7 @@ NaTe
 Ncp
 NLO
 NIST
+Next
 quality
 question
 quickly
@@ -10434,6 +10453,8 @@ Bernoulli
 Bias
 Bag
 BOW
+Book
+Benefits
 just
 jagged
 json
