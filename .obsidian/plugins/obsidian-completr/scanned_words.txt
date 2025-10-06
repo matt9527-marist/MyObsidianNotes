@@ -218,6 +218,7 @@ MbP
 Malware
 Merkle
 MAC
+Matrices
 Learning
 Learn
 Let
@@ -1052,6 +1053,7 @@ Gather
 GridSearch
 Generally
 Gaussian
+Gradients
 Charting
 Control
 Common
@@ -1339,6 +1341,8 @@ Combines
 Complement
 Conditional
 Criterion
+Class
+Colabs
 Scikit
 Statistical
 Statistics
@@ -1624,6 +1628,13 @@ Salt
 Speaking
 Special
 Smoothing
+Seaborn
+Surfaces
+SERVO
+Sentiment
+Session
+Submitted
+SMOOTHING
 Keras
 Key
 Kirchhoffs
@@ -2193,6 +2204,7 @@ Insecure
 Includes
 Integrity
 Inputs
+IDF
 and
 ability
 approximation
@@ -3202,6 +3214,8 @@ Performane
 Pad
 Posteriori
 PlayTennis
+Plotting
+Pipelines
 What
 We
 With
@@ -3374,6 +3388,7 @@ Wte
 Wfw
 War
 Wind
+Words
 is
 in
 if
@@ -4533,6 +4548,8 @@ surface
 statistical
 showed
 sunny
+succinct
+spam
 giving
 good
 generalizable
@@ -5222,6 +5239,8 @@ cool
 calculating
 cope
 continuous
+comprehensive
+coding
 the
 to
 training
@@ -6091,6 +6110,7 @@ eaebd
 expressed
 eeb
 ebb
+exercises
 programmed
 patterns
 program
@@ -7288,6 +7308,8 @@ memorizing
 monotonic
 multiplication
 mild
+multinomial
+matplotlib
 hypothesis
 handwritten
 have
@@ -7705,6 +7727,7 @@ Euclidean
 Events
 Evidence
 Event
+Exercise
 using
 utility
 use
@@ -8492,6 +8515,7 @@ fdae
 former
 fraction
 feff
+filter
 Optimziation
 Operations
 Once
@@ -9690,6 +9714,7 @@ HzI
 Hash
 Heuristic
 HMAC
+Homework
 Not
 NOTHING
 No
@@ -10191,6 +10216,7 @@ UoU
 UcVt
 UTo
 URY
+USE
 Breakout
 Because
 Backpropagation
@@ -10405,6 +10431,9 @@ Behavioral
 Built
 Batch
 Bernoulli
+Bias
+Bag
+BOW
 just
 jagged
 json

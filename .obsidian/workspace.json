@@ -42,17 +42,14 @@
             "id": "5c693645933adf2f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/Midterm Review/Classification.canvas",
-                "viewState": {
-                  "x": 2187.5758638175753,
-                  "y": 1725.8695436755684,
-                  "zoom": -1.4833495091347828
-                }
+                "file": "Machine Learning/Midterm Review/Colab Collection.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Classification"
+              "icon": "lucide-file",
+              "title": "Colab Collection"
             }
           },
           {
@@ -222,8 +219,8 @@
   },
   "active": "5c693645933adf2f",
   "lastOpenFiles": [
-    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Midterm Review/Classification.canvas",
+    "Machine Learning/006 Classification Concepts and Metrics.md",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "LaTeX Scratch.md",
     "Machine Learning/004 Data Preprocessing.md",
