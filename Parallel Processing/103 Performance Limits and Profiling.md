@@ -117,7 +117,24 @@ Fops = Fused multiply-add (FMA) (typicall = 2)
 
 ![[Pasted image 20251006185303.png]]
 
+**Memory Bandwidth and Hierarchy**
+• Large arrays must load from main memory -> caches  
+• Memory hierarchy deepens as CPU speeds outpace memory  
+• Data moves in cache lines, reused at each cache level  
+• Theoretical Memory Bandwidth
+$$B_{T} = MTR \times M_{c} \times T_{W} \times N_{S}$$
+- MTR: Data Transfer Rate (MT/s)
+- M_c: Memory Channels 
+- T_w: Bytes per transfer (8 bytes)
+- N_s: Sockets (CPUs)
 
-
-
+**Measuring Memory Bandwidth Empirically**
+• Two Key Methods:  
+	• STREAM Benchmark  
+		• Created by John McCalpin (1995)  
+		• Emphasizes memory bandwidth -> peak flops  
+	• Empirical Roofline Toolkit  
+		• From LBNL (Lawrence Berkeley National Laboratory)  
+		• Plots memory bandwidth + flop rate in one model
+![[Pasted image 20251006190241.png]]
 
