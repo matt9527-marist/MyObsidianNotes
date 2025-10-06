@@ -221,6 +221,10 @@ MAC
 Matrices
 Mechanical
 Matters
+MTR
+Measuring
+McCalpin
+Measures
 Learning
 Learn
 Let
@@ -416,6 +420,9 @@ Limiting
 Latency
 Linpack
 Loads
+LBNL
+Lawrence
+Laboratory
 Relevant
 Reading
 Research
@@ -883,6 +890,7 @@ lstopo
 lscpu
 lspci
 linux
+load
 Graphing
 Google
 Game
@@ -1363,6 +1371,9 @@ Computation
 Classic
 Characterizing
 CLI
+Cycle
+Channels
+Copy
 Scikit
 Statistical
 Statistics
@@ -1660,6 +1671,7 @@ Speeds
 Solvers
 Solve
 System
+Sockets
 Keras
 Key
 Kirchhoffs
@@ -2030,6 +2042,8 @@ Targeting
 Top
 Time
 Tool
+Toolkit
+Triad
 ISLP
 Iris
 Instance
@@ -2575,6 +2589,7 @@ achievable
 arithmetic
 appendix
 analyzing
+arrays
 Applications
 AI
 Analysis
@@ -3262,6 +3277,7 @@ Plotting
 Pipelines
 Plot
 Peise
+Plots
 What
 We
 With
@@ -3926,6 +3942,11 @@ Feeds
 Flops
 Floating
 Full
+FLOP
+Fops
+Fused
+FMA
+Four
 of
 or
 optimize
@@ -4178,6 +4199,7 @@ optimum
 outlook
 overcast
 optimized
+outpace
 study
 simplified
 something
@@ -4615,6 +4637,7 @@ strided
 sysctl
 sysfs
 sockets
+speeds
 giving
 good
 generalizable
@@ -5318,6 +5341,7 @@ consumption
 cairo
 cpuinfo
 caches
+ceilings
 the
 to
 training
@@ -5643,6 +5667,7 @@ thumb
 toolset
 topology
 topologies
+typicall
 being
 be
 by
@@ -5878,6 +5903,7 @@ behaviors
 bounding
 bound
 bottleneck
+bounded
 explicitly
 experience
 error
@@ -6580,6 +6606,7 @@ players
 peak
 proc
 programmatically
+plots
 Detecting
 Deepmind
 Dataset
@@ -7127,6 +7154,8 @@ rankings
 ratios
 reinforces
 report
+reused
+regime
 model
 mostly
 machine
@@ -7412,6 +7441,7 @@ matplotlib
 mark
 macOS
 manipulate
+max
 hypothesis
 handwritten
 have
@@ -7834,6 +7864,9 @@ Event
 Exercise
 Easily
 Energy
+Empirically
+Emphasizes
+Empirical
 using
 utility
 use
@@ -8380,6 +8413,7 @@ drives
 designs
 disks
 displays
+deepens
 future
 from
 feed
@@ -9214,6 +9248,7 @@ verifying
 verified
 vulnerability
 vect
+variants
 numerical
 no
 need
@@ -9836,6 +9871,7 @@ Heuristic
 HMAC
 Homework
 Helps
+Hierarchy
 Not
 NOTHING
 No
@@ -10019,6 +10055,7 @@ NIST
 Next
 Network
 NUMA
+National
 quality
 question
 quickly
@@ -10563,6 +10600,9 @@ Book
 Benefits
 Big
 Benchmarking
+Bytes
+Benchmark
+Berkeley
 just
 jagged
 json
@@ -11174,6 +11214,7 @@ Jpe
 Jxz
 Jvay
 Joint
+John
 You
 Yw
 Ygy
