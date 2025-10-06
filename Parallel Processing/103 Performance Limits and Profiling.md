@@ -115,4 +115,9 @@ VW = Vector width = 256 bits
 W_bits = word size 
 Fops = Fused multiply-add (FMA) (typicall = 2)
 
+![[Pasted image 20251006185303.png]]
+
+
+
+
 
