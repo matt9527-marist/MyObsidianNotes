@@ -22,6 +22,23 @@
             }
           },
           {
+            "id": "03359360e1da6b47",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Machine Learning/Midterm Review/Linear Regression.canvas",
+                "viewState": {
+                  "x": 711.4271411940967,
+                  "y": 2182.339522476143,
+                  "zoom": -0.8639198243430317
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Linear Regression"
+            }
+          },
+          {
             "id": "5c693645933adf2f",
             "type": "leaf",
             "state": {
@@ -186,16 +203,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c693645933adf2f",
+  "active": "03359360e1da6b47",
   "lastOpenFiles": [
     "Machine Learning/003 Supervised Learning and Regression.md",
     "LaTeX Scratch.md",
+    "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/006 Classification Concepts and Metrics.md",
     "Security Protocols-Algorithms/003 Hashing II.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/000 Introduction.md",
-    "Machine Learning/Midterm Review/Linear Regression.canvas",
     "conflict-files-obsidian-git.md",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Assets/Pasted image 20251004173159.png",
@@ -231,7 +248,6 @@
     "Parallel Processing/001 CMake and Catch2.md",
     "Machine Learning/004 Data Preprocessing.md",
     "PP Notes/2025-09-20.md",
-    "PP Notes/PP Notes.md",
     "PP Notes/Untitled.canvas",
     "PP Notes",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7",
