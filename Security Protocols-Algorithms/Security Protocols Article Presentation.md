@@ -7,4 +7,6 @@ The focus of this presentation is the duality of AI usage in modern cybersecurit
 
 That `ml` tag at the end of the malware identifier means that Windows Defender used machine learning to classify the patterns it observed in the file as malicious. This is a good way of leveraging machine learning to help defend against security threats, and Windows Defender has been doing this for many years, but this alludes to the problem I mentioned:
 - How do we verify that Windows Defender is classifying this file properly? 
+- How can we interpret the results of the detection beyond the tag in order to better mitigate future similar threats? 
+
 
