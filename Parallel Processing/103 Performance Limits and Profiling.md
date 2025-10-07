@@ -229,3 +229,21 @@ have low arithmetic intensity, especially when not aggressively optimized.
 	• Memory bandwidth utilization (e.g., via Intel VTune or Advisor’s memory report).  
 	• Opportunities to fuse loops, reuse data in cache, or block computations spatially.
 
+**Roofline Model Insight**
+• If you overlay this point (AI = 0.11, Performance = 36 GFLOPS) on your  
+roofline chart:  
+	• The point will lie near the memory bandwidth ceiling.  
+	• If the system’s peak bandwidth is ~300 GB/s, then:  
+		• Performance bound ≈ AI × Peak bandwidth = 0.11 × 300 = 33  
+		GFLOPS/s  
+• You're near the hardware-imposed limit for your current AI. So your 36  
+GFLOPS/s is in line with expectations.
+
+• CloverLeaf is memory-bound in your setup.  
+• Achieving 36 GFLOPS/s at AI = 0.11 means you're close to peak for your  
+memory subsystem.  
+• For better performance, you'd need to:  
+	• Increase arithmetic intensity (algorithmically or via optimization),  
+	• Or run on architectures with higher bandwidth (e.g., GPUs or HBM-equipped  
+	CPUs).
+
