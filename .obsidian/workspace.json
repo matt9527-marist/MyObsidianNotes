@@ -35,8 +35,7 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea3b675fc81e5c5b",
+  "active": "6efff95a3d479c80",
   "lastOpenFiles": [
-    "Parallel Processing/103 Performance Limits and Profiling.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Logistic Regression.canvas",
+    "Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Parallel Processing/103 Performance Limits and Profiling.md",
     "104.md",
     "Assets/Pasted image 20251006194658.png",
     "Assets/Pasted image 20251006194642.png",
@@ -213,14 +216,11 @@
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/003 Supervised Learning and Regression.md",
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
-    "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/000 Introduction.md",
     "conflict-files-obsidian-git.md",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
     "Assets/Pasted image 20251004173159.png",
     "Machine Learning/Midterm Review/Calculus.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Machine Learning/001 Linear Algebra Review.md",
@@ -232,7 +232,6 @@
     "Machine Learning/008 Logistic Regression.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Parallel Processing/004 Pointers and References.md",
-    "Parallel Processing/002 C++ Introduction.md",
     "PP Notes/Untitled.canvas",
     "PP Notes",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7",

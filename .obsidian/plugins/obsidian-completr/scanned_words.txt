@@ -1088,6 +1088,7 @@ GNU
 Generating
 Graph
 GUI
+GenAI
 Charting
 Control
 Common
@@ -1390,6 +1391,7 @@ Combining
 Callgrind
 Cachegrind
 COMPILER
+ChatGPT
 Scikit
 Statistical
 Statistics
@@ -2618,6 +2620,8 @@ arrays
 alludes
 annotated
 apt
+advocating
+article
 Applications
 AI
 Analysis
@@ -3065,6 +3069,7 @@ wlo
 writers
 waiting
 wmic
+white
 Python
 Performance
 Principle
@@ -3782,6 +3787,10 @@ intensity
 identifying
 invest
 incorrect
+interpretable
+interacting
+impossible
+influenced
 Field
 For
 Find
@@ -3981,6 +3990,7 @@ Fops
 Fused
 FMA
 Four
+Forest
 of
 or
 optimize
@@ -4234,6 +4244,7 @@ outlook
 overcast
 optimized
 outpace
+obscured
 study
 simplified
 something
@@ -5714,6 +5725,9 @@ topology
 topologies
 typicall
 trojan
+transformation
+trace
+transformed
 being
 be
 by
@@ -5951,6 +5965,7 @@ bound
 bottleneck
 bounded
 black
+billions
 explicitly
 experience
 error
@@ -6659,6 +6674,7 @@ particularly
 parallelizing
 possibility
 professional
+prerequisite
 Detecting
 Deepmind
 Dataset
@@ -7725,6 +7741,7 @@ helped
 hwloc
 hook
 healthcare
+hidden
 Execution
 Examples
 Economics
@@ -8485,6 +8502,7 @@ downloading
 defend
 dependency
 diagnosis
+dfce
 future
 from
 feed
@@ -8739,6 +8757,7 @@ flops
 flop
 flow
 fno
+faa
 Optimziation
 Operations
 Once
@@ -9609,6 +9628,11 @@ nWhere
 nbecause
 ndistributions
 notation
+nnearly
+nThink
+nThere
+nsigmoid
+nonlinear
 yes
 yield
 your
