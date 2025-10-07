@@ -144,6 +144,8 @@ Malware
 May
 Merkle
 MAC
+Messages
+Must
 Learning
 Learn
 Let
@@ -427,6 +429,7 @@ Ron
 Rivest
 Running
 Resistant
+Roles
 libraries
 learn
 learning
@@ -613,6 +616,7 @@ lXz
 leveraging
 lab
 long
+layer
 Graphing
 Google
 Game
@@ -948,6 +952,8 @@ Confidentiality
 Construct
 CMAC
 Computes
+Channel
+Consists
 Scikit
 Statistical
 Statistics
@@ -1180,6 +1186,7 @@ Standardized
 Salt
 Speaking
 Special
+Security
 Keras
 KB
 Key
@@ -1279,6 +1286,7 @@ KiL
 KGg
 KVY
 Kmy
+Known
 TensorFlow
 Task
 Training
@@ -1420,6 +1428,7 @@ TVVF
 TVV
 Trojan
 Taking
+TCP
 ISLP
 Iris
 Instance
@@ -1996,6 +2005,7 @@ Alice
 Antiviruses
 AVs
 Attributes
+Authenticate
 with
 without
 want
@@ -2620,6 +2630,7 @@ interacting
 influenced
 integrity
 intermediate
+intuition
 Field
 For
 Find
@@ -3815,6 +3826,9 @@ construction
 confirming
 checks
 communicating
+client
+currently
+cryptographic
 the
 to
 training
@@ -4046,6 +4060,8 @@ trapdoor
 though
 thousandso
 tampering
+tell
+tracked
 being
 be
 by
@@ -4935,6 +4951,7 @@ Designed
 Digest
 Developed
 Damgard
+Designing
 regularities
 respect
 recognizing
@@ -5178,6 +5195,7 @@ really
 reidenfity
 rotation
 recovery
+replay
 model
 mostly
 machine
@@ -5417,6 +5435,7 @@ mitigate
 messages
 msg
 meaningful
+manipulates
 hypothesis
 handwritten
 have
@@ -6147,6 +6166,7 @@ diagnosis
 discussing
 differnet
 derived
+decrypting
 future
 from
 feed
@@ -6362,6 +6382,7 @@ fAB
 force
 family
 format
+flawed
 Optimziation
 Operations
 Once
@@ -6592,6 +6613,7 @@ kXYYC
 kZPr
 kjj
 kGG
+knows
 value
 various
 variable
@@ -6733,6 +6755,8 @@ verify
 verifying
 verified
 vulnerability
+validate
+vulnerable
 numerical
 no
 need
@@ -7207,6 +7231,7 @@ HvH
 Hash
 Heuristic
 HMAC
+Horton
 Not
 NOTHING
 No
@@ -7313,6 +7338,7 @@ NI
 Na
 Ny
 NIST
+Numbering
 quality
 question
 quickly
@@ -7514,6 +7540,7 @@ UBf
 UWW
 UMX
 Uses
+UDP
 Breakout
 Because
 Backpropagation

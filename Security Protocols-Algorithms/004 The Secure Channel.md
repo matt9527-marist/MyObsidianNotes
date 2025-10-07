@@ -23,6 +23,10 @@ Three Approaches:
 3. Encrypt-And-Authenticate
    Implement the processes in parallel. One issue: the first MAC created will not be encrypted, and will therefore be vulnerable. 
 
-* 
+**Designing a Secure Channel**
+Consists of:
+1) Message Numbering (i): Must be accurate and tracked. They identify our IVs and allow us to identify any replay of messages. We will encode a 32-bit message number for our system starting at 1. If we run out of numbers, we will NOT wrap back to 0 since it will create repeated IVs. We will generate a new key and a new session. 
+2) Authentication: Using HMAC-256, ensuring that we can parse the protocol information and x correctly. We will feed into the MAC algorithm the message number `i` and the length of additional information `x` and the message itself. 
+3) Encryption: AES-CTR. Important with CTR mode that the nonce/IV that we use is only used once. This is why we are using message numbers and recreate the session when we run out. 
 
 
