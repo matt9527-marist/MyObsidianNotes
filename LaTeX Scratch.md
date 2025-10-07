@@ -1,5 +1,5 @@
 ![[Pasted image 20251007155646.png]]
 
+![[Pasted image 20251007160654.png]]
 
-
-9553.3763 / 44542.8848
+2 threads energy:  531.28 
