@@ -95,3 +95,155 @@ System Profile Inspection Example:
 **Memory Inspection Tool**
 ![[Pasted image 20250929204658.png]]
 
+• *lscpu*  
+	• A command-line utility (part of util-linux) that displays basic CPU information.  
+	• Uses /proc/cpuinfo and sysfs to report architecture, core counts, threads, etc.  
+• *hwloc*  
+	• A library + toolset to programmatically query and manipulate system topology (CPU cores,  
+	sockets, NUMA nodes, caches, I/O devices).  
+	• lstopo is a tool provided by hwloc to visualize this hierarchy.  
+• *cairo*  
+	• A 2D graphics library. Often used by hwloc to render graphical topologies via lstopo.
+
+**Theoretical FLOP Rate** for a given system:
+$$F_{T} = C_{v} \times f_{c} \times I_{c}$$
+Where C_v = Virtual Cores
+f_c: Clock Rate
+I_c Flops/Cycle
+$$I_{c} = \frac{VW}{W_{bits}} \times Fops $$
+VW = Vector width = 256 bits 
+W_bits = word size 
+Fops = Fused multiply-add (FMA) (typicall = 2)
+
+![[Pasted image 20251006185303.png]]
+
+**Memory Bandwidth and Hierarchy**
+• Large arrays must load from main memory -> caches  
+• Memory hierarchy deepens as CPU speeds outpace memory  
+• Data moves in cache lines, reused at each cache level  
+• Theoretical Memory Bandwidth
+$$B_{T} = MTR \times M_{c} \times T_{W} \times N_{S}$$
+- MTR: Data Transfer Rate (MT/s)
+- M_c: Memory Channels 
+- T_w: Bytes per transfer (8 bytes)
+- N_s: Sockets (CPUs)
+
+**Measuring Memory Bandwidth Empirically**
+• Two Key Methods:  
+	• STREAM Benchmark  
+		• Created by John McCalpin (1995)  
+		• Emphasizes memory bandwidth -> peak flops  
+	• Empirical Roofline Toolkit  
+		• From LBNL (Lawrence Berkeley National Laboratory)  
+		• Plots memory bandwidth + flop rate in one model
+![[Pasted image 20251006190241.png]]
+
+**Stream Benchmark**
+![[Pasted image 20251006190931.png]]
+• Measures time to read/write large arrays  
+• Four variants:  
+	• Copy – no floating-point  
+	• Scale, Add – 1 flop  
+	• Triad – 2 flops  
+	• Shows max bandwidth when data is used only once  
+• Insight  
+	• In STREAM regime, flop rate is bounded by memory speed  
+	• Roofline plots help visualize bottlenecks and ceilings
+
+**Machine Balance**
+![[Pasted image 20251006193714.png]]
+
+Calculate the theoretical machine bandwidth:
+![[Pasted image 20251006194438.png]]
+![[Pasted image 20251006194601.png]]
+![[Pasted image 20251006194658.png]]
+
+![[Pasted image 20251006194642.png]]
+## Profiling CloverLeaf 
+**Main Goal**
+• Use profiling tools to identify where to invest time in parallelizing your  
+application.  
+• Avoid:  
+	• Overanalyzing minute performance details.  
+	• Getting lost in excessive data.
+
+• Hot Spots  
+	• **Code kernels** that consume the most execution time.  
+	• Identifying these is key for optimization.  
+• Call Graphs  
+	• Diagrams showing which subroutines call others.  
+	• Helps visualize execution flow and dependency chains.  
+• Combining Hot Spots with Call Graphs  
+	• Produces a powerful visualization to:  
+		• Pinpoint performance bottlenecks.  
+		• Organize development and avoid merge conflicts.
+  
+*Valgrind’s KCachegrind*  
+	• Profiles cache use and execution time.  
+	• Can generate annotated call graphs:  
+	• Shows hot spots.  
+	• Shows call relationships between subroutines.  
+• Visualization Tools  
+	• KCacheGrind: Uses X11 (common on Linux).  
+	• Both read output from Callgrind (a Valgrind tool).
+
+**Setup Instructions** 
+*Profiling with Valgrind and Cachegrind*
+• Setup Instructions  
+• Install Tools  
+	• sudo apt install valgrind kcachegrind # or qcachegrind on Mac  
+• Download MiniApp  
+	• git clone --recursive https://github.com/UK-MAC/CloverLeaf.git  
+	• cd CloverLeaf/CloverLeaf_Serial  
+• Build *Serial Version*  
+	• make COMPILER=GNU IEEE=1 C_OPTIONS="-g -fno-tree-vectorize" OPTIONS="-g -fno-  
+	tree-vectorize"
+
+Generating and Viewing the Call Graph 
+• Run the Application Under Callgrind  
+	• cp InputDecks/clover_bm256_short.in clover.in  
+	• Change cycles from 87 ->10 (faster run)  
+• Run with Callgrind:  
+	• valgrind --tool=callgrind -v ./clover_leaf  
+	• Output from callgrind-> callgrind.out.39333  
+• Launch GUI for Analysis:  
+	• kcachegrind callgrind.out.39333 # on linux  
+	• qcachegrind callgrind.out.39333 # or Mac
+
+**Roofline Summary Interpretation**  
+• Arithmetic Intensity (AI): 0.11 FLOPS/byte  
+	• This is very low, suggesting the application is memory-bound.  
+	• For every byte moved, only 0.11 floating-point operations are performed.  
+• The CPU is waiting on data more than it's doing computation.  
+	• Floating-Point Rate: 36 GFLOPS/sec  
+	• This is the achieved performance.  
+• Likely limited by memory bandwidth due to the low AI.
+
+Implications
+• You're running CloverLeaf, a CFD mini-app on a structured grid. Such codes often  
+have low arithmetic intensity, especially when not aggressively optimized.  
+	• Bottleneck: Memory bandwidth, not compute.  
+	• Vectorization or cache blocking could help, but may have limited impact if the  
+	algorithm is inherently low in AI.  
+• Consider checking:  
+	• Memory bandwidth utilization (e.g., via Intel VTune or Advisor’s memory report).  
+	• Opportunities to fuse loops, reuse data in cache, or block computations spatially.
+
+**Roofline Model Insight**
+• If you overlay this point (AI = 0.11, Performance = 36 GFLOPS) on your  
+roofline chart:  
+	• The point will lie near the memory bandwidth ceiling.  
+	• If the system’s peak bandwidth is ~300 GB/s, then:  
+		• Performance bound ≈ AI × Peak bandwidth = 0.11 × 300 = 33  
+		GFLOPS/s  
+• You're near the hardware-imposed limit for your current AI. So your 36  
+GFLOPS/s is in line with expectations.
+
+• CloverLeaf is memory-bound in your setup.  
+• Achieving 36 GFLOPS/s at AI = 0.11 means you're close to peak for your  
+memory subsystem.  
+• For better performance, you'd need to:  
+	• Increase arithmetic intensity (algorithmically or via optimization),  
+	• Or run on architectures with higher bandwidth (e.g., GPUs or HBM-equipped  
+	CPUs).
+

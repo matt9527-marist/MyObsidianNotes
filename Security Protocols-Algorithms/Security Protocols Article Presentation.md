@@ -1,0 +1,20 @@
+[Explainable Artificial Intelligence (XAI) for Malware Analysis: A Survey of Techniques, Applications, and Open Challenges](https://ieeexplore.ieee.org/abstract/document/10944807)
+[Ransomware 3.0: Self-Composing and LLM-Orchestrated](https://arxiv.org/html/2508.20444v1)
+## Introduction
+The focus of this presentation is the duality of AI usage in modern cybersecurity subfields, particularly in the early detection of malware. Machine learning approaches to identifying malware have shown high accuracy, but there is one very significant problem at hand: 
+
+> Early hook question for the class: "Has anyone ever had the misfortune of unknowingly downloading a malicious file, and suppose you were lucky to have Windows Defender flag it. Did you happen to get a message like this? # Trojan:Script/Wacatac.B!*ml"*
+
+That `ml` tag at the end of the malware identifier means that Windows Defender used machine learning to classify the patterns it observed in the file as malicious. This is a good way of leveraging machine learning to help defend against security threats, and Windows Defender has been doing this for many years, but this alludes to the problem I mentioned:
+- How do we verify that Windows Defender is classifying this file properly? 
+- How can we interpret the results of the detection beyond the tag in order to better mitigate future similar threats? 
+
+Think about this in terms of a different field. For example, in *healthcare*, medical professionals might rely on predictive ML models, but those come with the possibility of incorrect predictions. If it is a **black-box** model, how can the healthcare professional be sure that say, a cancer diagnosis is a correct prediction? Same thing for malware, how do you know if that flag given by Defender is actually a trojan? And if it is a trojan, how does it know? What does it do?
+
+> This is the issue with **black-box** models. This means that the internal decision making or data transformation process is obscured or at least not easily interpretable. Examples include Random Forest models, neural networks, or even LLMs like GenAI. Think about how ChatGPT sees billions of parameters interacting in nonlinear ways, making it nearly impossible to trace how specific parts of an input text influenced parts of the output text.
+> 
+> This is as opposed to **white-box** models, which includes linear regression, decision trees, or rule based systems, where we can clearly see or understand how certain inputs map or are transformed into outputs or predictions.
+
+What IEEE is advocating for through this article is to make **transparency** a prerequisite for malware detection and analysis models. 
+
+
