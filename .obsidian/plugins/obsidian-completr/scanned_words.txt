@@ -225,6 +225,7 @@ MTR
 Measuring
 McCalpin
 Measures
+MiniApp
 Learning
 Learn
 Let
@@ -423,6 +424,7 @@ Loads
 LBNL
 Lawrence
 Laboratory
+Launch
 Relevant
 Reading
 Research
@@ -893,6 +895,7 @@ linux
 load
 leveraging
 lost
+leaf
 Graphing
 Google
 Game
@@ -1081,6 +1084,10 @@ Gaussian
 Gradients
 Getting
 Graphs
+GNU
+Generating
+Graph
+GUI
 Charting
 Control
 Common
@@ -1380,6 +1387,9 @@ Channels
 Copy
 Calculate
 Combining
+Callgrind
+Cachegrind
+COMPILER
 Scikit
 Statistical
 Statistics
@@ -1680,6 +1690,7 @@ System
 Sockets
 Script
 Spots
+Setup
 Keras
 Key
 Kirchhoffs
@@ -1820,6 +1831,8 @@ KHV
 KMV
 Knowing
 KiB
+KCachegrind
+KCacheGrind
 TensorFlow
 Task
 Training
@@ -2261,6 +2274,9 @@ Inputs
 IDF
 Impact
 Inspection
+Install
+IEEE
+InputDecks
 and
 ability
 approximation
@@ -2600,6 +2616,8 @@ appendix
 analyzing
 arrays
 alludes
+annotated
+apt
 Applications
 AI
 Analysis
@@ -3289,6 +3307,7 @@ Plot
 Peise
 Plots
 Produces
+Profiles
 What
 We
 With
@@ -3762,6 +3781,7 @@ iffy
 intensity
 identifying
 invest
+incorrect
 Field
 For
 Find
@@ -4654,6 +4674,7 @@ sockets
 speeds
 subfields
 showing
+sudo
 giving
 good
 generalizable
@@ -4895,6 +4916,8 @@ generating
 gain
 graphics
 graphical
+graphs
+git
 computers
 computer
 can
@@ -5360,6 +5383,10 @@ caches
 ceilings
 consume
 chains
+clone
+cancer
+clover
+callgrind
 the
 to
 training
@@ -5686,6 +5713,7 @@ toolset
 topology
 topologies
 typicall
+trojan
 being
 be
 by
@@ -5922,6 +5950,7 @@ bounding
 bound
 bottleneck
 bounded
+black
 explicitly
 experience
 error
@@ -6628,6 +6657,8 @@ programmatically
 plots
 particularly
 parallelizing
+possibility
+professional
 Detecting
 Deepmind
 Dataset
@@ -6867,6 +6898,7 @@ Design
 Defender
 Did
 Diagrams
+Download
 regularities
 respect
 recognizing
@@ -7180,6 +7212,7 @@ reinforces
 report
 reused
 regime
+recursive
 model
 mostly
 machine
@@ -7691,6 +7724,7 @@ humidity
 helped
 hwloc
 hook
+healthcare
 Execution
 Examples
 Economics
@@ -8450,6 +8484,7 @@ duality
 downloading
 defend
 dependency
+diagnosis
 future
 from
 feed
@@ -8703,6 +8738,7 @@ filter
 flops
 flop
 flow
+fno
 Optimziation
 Operations
 Once
@@ -8916,6 +8952,7 @@ Organization
 Ops
 Overanalyzing
 Organize
+OPTIONS
 kind
 know
 knowledge
@@ -9067,6 +9104,7 @@ kCM
 kdgu
 kyE
 kinks
+kcachegrind
 value
 various
 variable
@@ -9289,6 +9327,7 @@ vulnerability
 vect
 variants
 visualization
+valgrind
 numerical
 no
 need
@@ -10268,6 +10307,7 @@ qiEo
 qLx
 qJx
 query
+qcachegrind
 Unsupervised
 UNION
 User
@@ -10420,6 +10460,7 @@ UcVt
 UTo
 URY
 USE
+Under
 Breakout
 Because
 Backpropagation
@@ -10949,6 +10990,8 @@ VPf
 VOO
 VeD
 VBP
+Version
+Viewing
 zero
 zu
 zj

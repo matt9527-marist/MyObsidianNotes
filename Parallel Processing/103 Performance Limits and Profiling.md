@@ -199,4 +199,13 @@ application.
 	• make COMPILER=GNU IEEE=1 C_OPTIONS="-g -fno-tree-vectorize" OPTIONS="-g -fno-  
 	tree-vectorize"
 
-
+Generating and Viewing the Call Graph 
+• Run the Application Under Callgrind  
+	• cp InputDecks/clover_bm256_short.in clover.in  
+	• Change cycles from 87 ->10 (faster run)  
+• Run with Callgrind:  
+	• valgrind --tool=callgrind -v ./clover_leaf  
+	• Output from callgrind-> callgrind.out.39333  
+• Launch GUI for Analysis:  
+	• kcachegrind callgrind.out.39333 # on linux  
+	• qcachegrind callgrind.out.39333 # or Mac
