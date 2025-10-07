@@ -11,6 +11,8 @@ That `ml` tag at the end of the malware identifier means that Windows Defender u
 
 Think about this in terms of a different field. For example, in *healthcare*, medical professionals might rely on predictive ML models, but those come with the possibility of incorrect predictions. If it is a **black-box** model, how can the healthcare professional be sure that say, a cancer diagnosis is a correct prediction? Same thing for malware, how do you know if that flag given by Defender is actually a trojan? And if it is a trojan, how does it know? What does it do?
 
+> This is the issue with black-box models. This means that the internal decision making or data transformation process is obscured or at least not easily interpretable. Examples include Random Forest models, neural networks, or even LLMs like GenAI. Think about how ChatGPT has
+
 What IEEE is advocating for through this article is to make **white-box models** a prerequisite for malware detection and analysis. 
 
 
