@@ -56,5 +56,12 @@ Function 3: **Receive Message**
 Params: secure session state (S), text received from transmitter (t), and additional data to be authenticated (x)
 Return: output (m), message that was sent. 
 
+First check that the length of `t` >= 36. Recall that SHA-256 will always give a 32-byte output. This should include that + the 4 byte message number. If the message is not at least this size, we know there must be an error, and we must request the message again. 
+First break `t` into `t` and `i`. 
+Generate the key stream, just as the sender did. 
+The first block of the key stream is a 4 byte counter, 4 bytes of `i`, and 8 zero-bytes at the end. The one difference is that we are using the subkey `KEYRECENC`. 
+
+
+> Receiving a message is exactly opposite of sending a message.
 
 
