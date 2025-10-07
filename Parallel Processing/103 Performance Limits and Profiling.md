@@ -219,3 +219,13 @@ Generating and Viewing the Call Graph
 	• This is the achieved performance.  
 • Likely limited by memory bandwidth due to the low AI.
 
+Implications
+• You're running CloverLeaf, a CFD mini-app on a structured grid. Such codes often  
+have low arithmetic intensity, especially when not aggressively optimized.  
+	• Bottleneck: Memory bandwidth, not compute.  
+	• Vectorization or cache blocking could help, but may have limited impact if the  
+	algorithm is inherently low in AI.  
+• Consider checking:  
+	• Memory bandwidth utilization (e.g., via Intel VTune or Advisor’s memory report).  
+	• Opportunities to fuse loops, reuse data in cache, or block computations spatially.
+
