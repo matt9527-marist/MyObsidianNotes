@@ -29,4 +29,9 @@ Consists of:
 2) Authentication: Using HMAC-256, ensuring that we can parse the protocol information and x correctly. We will feed into the MAC algorithm the message number `i` and the length of additional information `x` and the message itself. 
 3) Encryption: AES-CTR. Important with CTR mode that the nonce/IV that we use is only used once. This is why we are using message numbers and recreate the session when we run out. 
 
+Function 1: **Initializing the Secure Channel**
+![[Pasted image 20251006222800.png]]
+Params: input key (K) and the roles (R)
+First compute the 4 encryption keys using SHA256. All of these are subkeys derived from the original key `K`. All of these are first created for Alice. 
+If the party is Bob, just swap the sending subkey to the receiving key.
 
