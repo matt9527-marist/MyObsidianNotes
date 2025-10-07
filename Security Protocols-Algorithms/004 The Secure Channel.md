@@ -47,6 +47,14 @@ Then compute the authentication `a` using HMAC-SHA-256, using inputs `i`, `len(x
 
 Now begin the encryption process by generating the key stream. 
 Assign the subkey `KEYSENDENC` to variable `K`.
-Encrypt a key stream created out of 1) the block number ()
+Encrypt a key stream created out of 1) 4-byte counter 2) 4 bytes of `i` and 3) 8 zero-bytes. 
+XOR the keystream with the initial `t` up to the length of `t`. Concatenate this with `i`, encoded to 4 bytes, so that the receiver can pull it off. 
+Return `t`. 
+
+Function 3: **Receive Message**
+![[Pasted image 20251006224520.png]]
+Params: secure session state (S), text received from transmitter (t), and additional data to be authenticated (x)
+Return: output (m), message that was sent. 
+
 
 
