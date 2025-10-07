@@ -147,6 +147,7 @@ MAC
 Messages
 Must
 Match
+Monoalphabetic
 Learning
 Learn
 Let
@@ -621,6 +622,7 @@ long
 layer
 layered
 legitimate
+loops
 Graphing
 Google
 Game
@@ -961,6 +963,7 @@ Consists
 Complexity
 Created
 Cyphertext
+Caesar
 Scikit
 Statistical
 Statistics
@@ -1199,6 +1202,7 @@ Sbob
 Signatures
 Salice
 SIGN
+Specifically
 Keras
 KB
 Key
@@ -1443,6 +1447,7 @@ Trojan
 Taking
 TCP
 Trees
+Transposition
 ISLP
 Iris
 Instance
@@ -1850,6 +1855,8 @@ assets
 actor
 authenticating
 asymmetric
+alone
+alphabet
 Applications
 AI
 Analysis
@@ -3352,6 +3359,10 @@ securely
 symmetric
 signatures
 switch
+substitution
+stensiling
+shift
+scrambling
 giving
 good
 generalizable
@@ -3877,6 +3888,7 @@ conversation
 cleartext
 confuse
 certificate
+characters
 the
 to
 training
@@ -4112,6 +4124,8 @@ tell
 tracked
 tehcnology
 transactions
+transposition
+tattooing
 being
 be
 by
@@ -4846,6 +4860,9 @@ publishes
 people
 posted
 plaintexts
+portions
+performing
+person
 Detecting
 Deepmind
 Dataset
@@ -5665,6 +5682,7 @@ him
 half
 hashed
 his
+head
 Execution
 Examples
 Economics
@@ -7763,6 +7781,7 @@ Btx
 Behavioral
 Built
 Bob
+BC
 just
 jagged
 json
