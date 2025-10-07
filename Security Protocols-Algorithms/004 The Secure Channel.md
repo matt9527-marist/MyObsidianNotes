@@ -64,9 +64,9 @@ Now decrypt the message and the MAC field and split them. We can do this split b
 Recompute the tag `a'` using the subkey `KEYRECAUTH`.
 If `a'` =/= `a`, then we have an authentication failure-- destroy `k` and `m`. 
 Else, check if `i` < `MSGCNTREC`, if it is, we have a message out of order-- destroy `k` and `m`. 
-If all is wel
-
+If all is well, increment `MSGCNTREC` and return `m`. 
 
 > Receiving a message is exactly opposite of sending a message.
+
 
 
