@@ -892,6 +892,7 @@ lspci
 linux
 load
 leveraging
+lost
 Graphing
 Google
 Game
@@ -1078,6 +1079,8 @@ GridSearch
 Generally
 Gaussian
 Gradients
+Getting
+Graphs
 Charting
 Control
 Common
@@ -1376,6 +1379,7 @@ Cycle
 Channels
 Copy
 Calculate
+Combining
 Scikit
 Statistical
 Statistics
@@ -1675,6 +1679,7 @@ Solve
 System
 Sockets
 Script
+Spots
 Keras
 Key
 Kirchhoffs
@@ -3283,6 +3288,7 @@ Pipelines
 Plot
 Peise
 Plots
+Produces
 What
 We
 With
@@ -3755,6 +3761,7 @@ indepdendent
 iffy
 intensity
 identifying
+invest
 Field
 For
 Find
@@ -4646,6 +4653,7 @@ sysfs
 sockets
 speeds
 subfields
+showing
 giving
 good
 generalizable
@@ -5350,6 +5358,8 @@ cairo
 cpuinfo
 caches
 ceilings
+consume
+chains
 the
 to
 training
@@ -6233,6 +6243,7 @@ eeb
 ebb
 exercises
 efforts
+excessive
 programmed
 patterns
 program
@@ -6616,6 +6627,7 @@ proc
 programmatically
 plots
 particularly
+parallelizing
 Detecting
 Deepmind
 Dataset
@@ -6854,6 +6866,7 @@ Dense
 Design
 Defender
 Did
+Diagrams
 regularities
 respect
 recognizing
@@ -7457,6 +7470,8 @@ misfortune
 malicious
 mentioned
 mitigate
+minute
+merge
 hypothesis
 handwritten
 have
@@ -8434,6 +8449,7 @@ deepens
 duality
 downloading
 defend
+dependency
 future
 from
 feed
@@ -8686,6 +8702,7 @@ feff
 filter
 flops
 flop
+flow
 Optimziation
 Operations
 Once
@@ -8897,6 +8914,8 @@ Offers
 Occam
 Organization
 Ops
+Overanalyzing
+Organize
 kind
 know
 knowledge
@@ -9269,6 +9288,7 @@ verified
 vulnerability
 vect
 variants
+visualization
 numerical
 no
 need

@@ -9,4 +9,5 @@ That `ml` tag at the end of the malware identifier means that Windows Defender u
 - How do we verify that Windows Defender is classifying this file properly? 
 - How can we interpret the results of the detection beyond the tag in order to better mitigate future similar threats? 
 
+Think about this in terms of a different field. For example, in healthcare, medical professionals might rely on predictive ML models
 

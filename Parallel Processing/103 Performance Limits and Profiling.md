@@ -177,4 +177,26 @@ application.
 	• Produces a powerful visualization to:  
 		• Pinpoint performance bottlenecks.  
 		• Organize development and avoid merge conflicts.
+  
+*Valgrind’s KCachegrind*  
+	• Profiles cache use and execution time.  
+	• Can generate annotated call graphs:  
+	• Shows hot spots.  
+	• Shows call relationships between subroutines.  
+• Visualization Tools  
+	• KCacheGrind: Uses X11 (common on Linux).  
+	• Both read output from Callgrind (a Valgrind tool).
+
+**Setup Instructions** 
+*Profiling with Valgrind and Cachegrind*
+• Setup Instructions  
+• Install Tools  
+	• sudo apt install valgrind kcachegrind # or qcachegrind on Mac  
+• Download MiniApp  
+	• git clone --recursive https://github.com/UK-MAC/CloverLeaf.git  
+	• cd CloverLeaf/CloverLeaf_Serial  
+• Build *Serial Version*  
+	• make COMPILER=GNU IEEE=1 C_OPTIONS="-g -fno-tree-vectorize" OPTIONS="-g -fno-  
+	tree-vectorize"
+
 
