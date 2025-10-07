@@ -146,6 +146,7 @@ Merkle
 MAC
 Messages
 Must
+Match
 Learning
 Learn
 Let
@@ -276,6 +277,7 @@ LN
 LTT
 LXn
 Lb
+Looking
 Relevant
 Reading
 Research
@@ -617,6 +619,8 @@ leveraging
 lab
 long
 layer
+layered
+legitimate
 Graphing
 Google
 Game
@@ -954,6 +958,9 @@ CMAC
 Computes
 Channel
 Consists
+Complexity
+Created
+Cyphertext
 Scikit
 Statistical
 Statistics
@@ -1187,6 +1194,11 @@ Salt
 Speaking
 Special
 Security
+Symmetric
+Sbob
+Signatures
+Salice
+SIGN
 Keras
 KB
 Key
@@ -1287,6 +1299,7 @@ KGg
 KVY
 Kmy
 Known
+Kirchhoffs
 TensorFlow
 Task
 Training
@@ -1429,6 +1442,7 @@ TVV
 Trojan
 Taking
 TCP
+Trees
 ISLP
 Iris
 Instance
@@ -1566,6 +1580,9 @@ Insecure
 Includes
 Integrity
 Inputs
+Implementation
+Insert
+Intercept
 and
 ability
 approximation
@@ -1828,6 +1845,11 @@ almost
 albeit
 absord
 absorb
+assessment
+assets
+actor
+authenticating
+asymmetric
 Applications
 AI
 Analysis
@@ -2006,6 +2028,8 @@ Antiviruses
 AVs
 Attributes
 Authenticate
+Adding
+Actors
 with
 without
 want
@@ -2153,6 +2177,10 @@ wDx
 wjB
 white
 writers
+worst
+weaknesses
+website
+wait
 Python
 Performance
 Principle
@@ -2311,6 +2339,12 @@ PqxNp
 PVV
 Performane
 Pad
+Prioritize
+Public
+Pbob
+Palice
+PKI
+Plaintext
 What
 We
 With
@@ -2631,6 +2665,7 @@ influenced
 integrity
 intermediate
 intuition
+infrastructure
 Field
 For
 Find
@@ -2761,6 +2796,7 @@ FOo
 FGD
 FwG
 Forest
+Focus
 of
 or
 optimize
@@ -2941,6 +2977,7 @@ oqX
 oiii
 obscured
 onto
+obtains
 study
 simplified
 something
@@ -3309,6 +3346,12 @@ stages
 standardized
 streamlined
 special
+secret
+secrecy
+securely
+symmetric
+signatures
+switch
 giving
 good
 generalizable
@@ -3454,6 +3497,7 @@ gYZ
 gDb
 gDu
 gret
+generic
 computers
 computer
 can
@@ -3829,6 +3873,10 @@ communicating
 client
 currently
 cryptographic
+conversation
+cleartext
+confuse
+certificate
 the
 to
 training
@@ -4062,6 +4110,8 @@ thousandso
 tampering
 tell
 tracked
+tehcnology
+transactions
 being
 be
 by
@@ -4250,6 +4300,10 @@ black
 billions
 birthday
 brute
+breaking
+brings
+business
+became
 explicitly
 experience
 error
@@ -4486,6 +4540,9 @@ eGH
 efficiently
 edits
 encrypted
+enemy
+email
+easiest
 programmed
 patterns
 program
@@ -4781,6 +4838,14 @@ prefiex
 prefix
 passwords
 password
+protect
+primary
+prioritize
+pair
+publishes
+people
+posted
+plaintexts
 Detecting
 Deepmind
 Dataset
@@ -4952,6 +5017,9 @@ Digest
 Developed
 Damgard
 Designing
+Defense
+Depth
+Digitial
 regularities
 respect
 recognizing
@@ -5196,6 +5264,9 @@ reidenfity
 rotation
 recovery
 replay
+receive
+recipient
+reviews
 model
 mostly
 machine
@@ -5436,6 +5507,7 @@ messages
 msg
 meaningful
 manipulates
+maintaining
 hypothesis
 handwritten
 have
@@ -5592,6 +5664,7 @@ hashes
 him
 half
 hashed
+his
 Execution
 Examples
 Economics
@@ -5763,6 +5836,7 @@ Early
 Eve
 Echo
 Encrypts
+EVERYTHING
 using
 utility
 use
@@ -5891,6 +5965,8 @@ uZu
 uV
 uuua
 unknowingly
+utilizing
+unbreakable
 data
 driven
 dataset
@@ -6167,6 +6243,12 @@ discussing
 differnet
 derived
 decrypting
+damages
+decryption
+decrypted
+delay
+digital
+duplicate
 future
 from
 feed
@@ -6383,6 +6465,7 @@ force
 family
 format
 flawed
+fix
 Optimziation
 Operations
 Once
@@ -7232,6 +7315,7 @@ Hash
 Heuristic
 HMAC
 Horton
+Highlighted
 Not
 NOTHING
 No
