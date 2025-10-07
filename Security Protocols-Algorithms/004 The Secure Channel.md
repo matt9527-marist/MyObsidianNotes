@@ -41,6 +41,12 @@ Function 2: **Send Message**
 ![[Pasted image 20251006223424.png]]
 Params: the secure session state (S), message to be sent (m), additional data to be authenticated (x)
 Return: Data to be transmitted to the receiver (t)
-Check that `MSGCNTSEND` is still less than 32 bits. If it is not maxed out,  increment `MSGCNTSEND` by 1.
+Check that `MSGCNTSEND` is still less than 32 bits. If it is not maxed out,  increment `MSGCNTSEND`.  Create a variable `i` using `MSGCNTSEND`
+Then compute the authentication `a` using HMAC-SHA-256, using inputs `i`, `len(x)` (so when recveive a message, we can properly split x and m), and the message itself `m`.
+`a` is our tag. We will append `a` to the original message, so that it can be encrypted. This concatenated value will become the initial `t`. 
+
+Now begin the encryption process by generating the key stream. 
+Assign the subkey `KEYSENDENC` to variable `K`.
+Encrypt a key stream created out of 1) the block number ()
 
 
