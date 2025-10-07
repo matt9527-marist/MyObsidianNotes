@@ -60,6 +60,11 @@ First check that the length of `t` >= 36. Recall that SHA-256 will always give a
 First break `t` into `t` and `i`. 
 Generate the key stream, just as the sender did. 
 The first block of the key stream is a 4 byte counter, 4 bytes of `i`, and 8 zero-bytes at the end. The one difference is that we are using the subkey `KEYRECENC`. 
+Now decrypt the message and the MAC field and split them. We can do this split because we know the MAC field is always 32 bytes long. When we do these concatenations, we always need to be sure that we know the length of `x`, the length of `len(x)`, and the length of `i`. We do not need to know the length of `m`. When we decrypt, the result is `m` concatenated with our tag `a`.
+Recompute the tag `a'` using the subkey `KEYRECAUTH`.
+If `a'` =/= `a`, then we have an authentication failure-- destroy `k` and `m`. 
+Else, check if `i` < `MSGCNTREC`, if it is, we have a message out of order-- destroy `k` and `m`. 
+If all is wel
 
 
 > Receiving a message is exactly opposite of sending a message.
