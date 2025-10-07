@@ -209,3 +209,13 @@ Generating and Viewing the Call Graph
 • Launch GUI for Analysis:  
 	• kcachegrind callgrind.out.39333 # on linux  
 	• qcachegrind callgrind.out.39333 # or Mac
+
+**Roofline Summary Interpretation**  
+• Arithmetic Intensity (AI): 0.11 FLOPS/byte  
+	• This is very low, suggesting the application is memory-bound.  
+	• For every byte moved, only 0.11 floating-point operations are performed.  
+• The CPU is waiting on data more than it's doing computation.  
+	• Floating-Point Rate: 36 GFLOPS/sec  
+	• This is the achieved performance.  
+• Likely limited by memory bandwidth due to the low AI.
+
