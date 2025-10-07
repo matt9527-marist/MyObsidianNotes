@@ -425,6 +425,7 @@ LBNL
 Lawrence
 Laboratory
 Launch
+Likely
 Relevant
 Reading
 Research
@@ -1089,6 +1090,7 @@ Generating
 Graph
 GUI
 GenAI
+GFLOPS
 Charting
 Control
 Common
@@ -1392,6 +1394,7 @@ Callgrind
 Cachegrind
 COMPILER
 ChatGPT
+CFD
 Scikit
 Statistical
 Statistics
@@ -1693,6 +1696,8 @@ Sockets
 Script
 Spots
 Setup
+Summary
+Such
 Keras
 Key
 Kirchhoffs
@@ -2279,6 +2284,9 @@ Inspection
 Install
 IEEE
 InputDecks
+Interpretation
+Intensity
+Implications
 and
 ability
 approximation
@@ -2622,6 +2630,7 @@ annotated
 apt
 advocating
 article
+aggressively
 Applications
 AI
 Analysis
@@ -2848,6 +2857,8 @@ Attributes
 Although
 Among
 Array
+Arithmetic
+Advisor
 with
 without
 want
@@ -3313,6 +3324,7 @@ Peise
 Plots
 Produces
 Profiles
+Point
 What
 We
 With
@@ -3791,6 +3803,7 @@ interpretable
 interacting
 impossible
 influenced
+impact
 Field
 For
 Find
@@ -4686,6 +4699,9 @@ speeds
 subfields
 showing
 sudo
+suggesting
+sec
+spatially
 giving
 good
 generalizable
@@ -5398,6 +5414,7 @@ clone
 cancer
 clover
 callgrind
+codes
 the
 to
 training
@@ -5966,6 +5983,7 @@ bottleneck
 bounded
 black
 billions
+blocking
 explicitly
 experience
 error
@@ -7229,6 +7247,7 @@ report
 reused
 regime
 recursive
+reuse
 model
 mostly
 machine
@@ -7521,6 +7540,7 @@ mentioned
 mitigate
 minute
 merge
+moved
 hypothesis
 handwritten
 have
@@ -8162,6 +8182,7 @@ underfits
 underfit
 util
 unknowingly
+utilization
 data
 driven
 dataset
@@ -8758,6 +8779,7 @@ flop
 flow
 fno
 faa
+fuse
 Optimziation
 Operations
 Once
@@ -8972,6 +8994,7 @@ Ops
 Overanalyzing
 Organize
 OPTIONS
+Opportunities
 kind
 know
 knowledge
@@ -10710,6 +10733,7 @@ Bytes
 Benchmark
 Berkeley
 Balance
+Bottleneck
 just
 jagged
 json
@@ -11016,6 +11040,7 @@ VeD
 VBP
 Version
 Viewing
+VTune
 zero
 zu
 zj

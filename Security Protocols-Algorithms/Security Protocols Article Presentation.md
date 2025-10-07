@@ -15,6 +15,6 @@ Think about this in terms of a different field. For example, in *healthcare*, me
 > 
 > This is as opposed to **white-box** models, which includes linear regression, decision trees, or rule based systems, where we can clearly see or understand how certain inputs map or are transformed into outputs or predictions.
 
-What IEEE is advocating for through this article is to make **white-box models** a prerequisite for malware detection and analysis. 
+What IEEE is advocating for through this article is to make **transparency** a prerequisite for malware detection and analysis models. 
 
 
