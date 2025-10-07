@@ -31,7 +31,16 @@ Consists of:
 
 Function 1: **Initializing the Secure Channel**
 ![[Pasted image 20251006222800.png]]
-Params: input key (K) and the roles (R)
+Params: input key (K) and the roles (R), Return: state of the secure channel (S)
 First compute the 4 encryption keys using SHA256. All of these are subkeys derived from the original key `K`. All of these are first created for Alice. 
 If the party is Bob, just swap the sending subkey to the receiving key.
+Next, handle message counting: set two counters (`MSGCNTSEND`, `MSGCNTRECEIVE`) to 0. 
+Package the state into `S`, return `S`
+
+Function 2: **Send Message**
+![[Pasted image 20251006223424.png]]
+Params: the secure session state (S), message to be sent (m), additional data to be authenticated (x)
+Return: Data to be transmitted to the receiver (t)
+Check that `MSGCNTSEND` is still less than 32 bits. If it is not maxed out,  increment `MSGCNTSEND` by 1.
+
 
