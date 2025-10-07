@@ -1,1 +1,3 @@
-$$w_{new} \leftarrow w - \eta\frac{1}{n}X^T(\hat{y}-y)$$
+![[Pasted image 20251007155646.png]]
+
+9553.3763 MFLOPS/sec + (4 * )
