@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "103 Performance Limits and Profiling"
             }
+          },
+          {
+            "id": "db09b5eb0fe3da2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6efff95a3d479c80",
+  "active": "db09b5eb0fe3da2a",
   "lastOpenFiles": [
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
+    "conflict-files-obsidian-git.md",
+    "Security Protocols-Algorithms/004 The Secure Channel.md",
+    "Security Protocols-Algorithms/003 Hashing.md",
+    "Assets/Pasted image 20251007160654.png",
+    "Assets/Pasted image 20251007155646.png",
+    "Assets/Pasted image 20251006224520.png",
+    "Assets/Pasted image 20251006223424.png",
+    "Assets/Pasted image 20251006222800.png",
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
@@ -188,10 +211,6 @@
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/003 Hashing I.md",
     "Security Protocols-Algorithms/004 Hashing II.md",
-    "Assets/Pasted image 20251006190931.png",
-    "Assets/Pasted image 20251006190241.png",
-    "Assets/Pasted image 20251006190240.png",
-    "Assets/Pasted image 20251006185303.png",
     "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/003 C++ Classes and OOP.md",
     "Parallel Processing/002.2 Vectors.md",
@@ -204,8 +223,6 @@
     "Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/000 Introduction.md",
-    "conflict-files-obsidian-git.md",
-    "Assets/Pasted image 20251004173159.png",
     "Machine Learning/Midterm Review/Calculus.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
@@ -217,7 +234,6 @@
     "Parallel Processing/101 Parallel Computing.md",
     "Machine Learning/008 Logistic Regression.md",
     "Machine Learning/007 NB for Text Classification.md",
-    "Parallel Processing/004 Pointers and References.md",
     "PP Notes/Untitled.canvas",
     "PP Notes",
     "github.com/catchorg/Catch2/releases/downloads/v2.13.7",

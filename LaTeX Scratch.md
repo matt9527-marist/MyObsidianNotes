@@ -1,1 +1,0 @@
-$$w_{new} \leftarrow w - \eta\frac{1}{n}X^T(\hat{y}-y)$$
