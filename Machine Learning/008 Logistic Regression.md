@@ -101,7 +101,6 @@ $$\frac{ \partial h }{ \partial w } = X$$
 Computing the product of all of this:
 $$= \frac{1}{m}X^T(\hat{y}-y)$$This is our gradient for linear models, exactly the same formulation. This is the average of the dot product of the data times the error. Doing this for *b* gives us simply: $$\frac{ \partial J }{ \partial b } = \frac{1}{m}(\hat{y}-y) $$This gives us all that we need to do computations. 
 
-
 ## Regularization 
 #regularization is needed here comparatively more. 
 $$J^{reg}(w,b) = J(w,b) + Reg[L_{1} or L_{2}]$$
@@ -109,5 +108,13 @@ $$L_{1}: \frac{\lambda}{m}|w|$$
 $$L_{2}: \frac{\lambda}{2m}||w||^2$$
 By penalizing the weights, we are shrinking the coefficients. This shrinkage of the weights allows us to prevent **overfitting**, as we saw earlier in the course. 
 
+## Multiclass Logistic Regression 
+We need some way to output a probability but this time for multiple classes instead of just a binary. 
+![[Pasted image 20251008095701.png]]
+We cannot use the *Sigmoid* function here because that would only transform the output values between 0 and 1, or defining a probability for a single classification. 
+Instead we must use: $$\hat{y} = \frac{e^{h_{k}}}{\sum^{k}_{i=1}e^{h_{i}}}$$
+Where it must follow that:
+$$\sum^{k}_{i=1}\hat{y}_{i} = 1$$
+This is the **Softmax Function**. This is the core of modern AI. The output is a probability across several 
 
 
