@@ -115,6 +115,11 @@ We cannot use the *Sigmoid* function here because that would only transform the 
 Instead we must use: $$\hat{y} = \frac{e^{h_{k}}}{\sum^{k}_{i=1}e^{h_{i}}}$$
 Where it must follow that:
 $$\sum^{k}_{i=1}\hat{y}_{i} = 1$$
-This is the **Softmax Function**. This is the core of modern AI. The output is a probability across several 
+This is the **Softmax Function**. This is the core of modern AI, especially generative AI, which predicts the next word based on billions of probabilities. The output is a probability across several classes. The sum of the probabilities for each class will be equal to 1. This applies for not just one node, but for `n` nodes, computing `n` probabilities that will sum to 1.
+This is the simplest kind of neural network for multiclass classification that we can discuss. 
 
+In this context, the target is not between one or the other, but one among many:
+$$P(y|x) = \prod^{k}_{i=1}y_{i}^{y==i}$$
+This extends the original expression, $$P(y|x) = \hat{y}^y (1-\hat{y})^{(1-y)}$$by just allowing us to compute the individual probability for the class. 
 
+Thu
