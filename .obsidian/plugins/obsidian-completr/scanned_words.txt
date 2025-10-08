@@ -226,6 +226,8 @@ Measuring
 McCalpin
 Measures
 MiniApp
+Messages
+Must
 Learning
 Learn
 Let
@@ -631,6 +633,10 @@ Regular
 Roofline
 Row
 Refers
+Roles
+Receive
+Recompute
+Receiving
 libraries
 learn
 learning
@@ -899,6 +905,7 @@ leveraging
 lost
 leaf
 lie
+layer
 Graphing
 Google
 Game
@@ -1093,6 +1100,7 @@ Graph
 GUI
 GenAI
 GFLOPS
+Generate
 Charting
 Control
 Common
@@ -1401,6 +1409,9 @@ Corpus
 Coming
 Categorical
 Continous
+Channel
+Consists
+Concatenate
 Scikit
 Statistical
 Statistics
@@ -1705,6 +1716,7 @@ Setup
 Summary
 Such
 Shakespeare
+Send
 Keras
 Key
 Kirchhoffs
@@ -2082,6 +2094,7 @@ Triad
 Trojan
 Term
 Thus
+TCP
 ISLP
 Iris
 Instance
@@ -2296,6 +2309,8 @@ InputDecks
 Interpretation
 Intensity
 Implications
+Important
+Initializing
 and
 ability
 approximation
@@ -2642,6 +2657,8 @@ article
 aggressively
 algorithmically
 appear
+authenticated
+append
 Applications
 AI
 Analysis
@@ -2871,6 +2888,8 @@ Array
 Arithmetic
 Advisor
 Achieving
+Authenticate
+Assign
 with
 without
 want
@@ -3094,6 +3113,7 @@ waiting
 wmic
 white
 whichever
+wrap
 Python
 Performance
 Principle
@@ -3339,6 +3359,8 @@ Produces
 Profiles
 Point
 Peak
+Params
+Package
 What
 We
 With
@@ -4024,6 +4046,7 @@ Fused
 FMA
 Four
 Forest
+First
 of
 or
 optimize
@@ -4726,6 +4749,12 @@ spatially
 subsystem
 summation
 simplify
+starting
+state
+subkeys
+sending
+subkey
+sender
 giving
 good
 generalizable
@@ -5444,6 +5473,14 @@ chart
 ceiling
 corpus
 considering
+client
+currently
+cryptographic
+channel
+counting
+counters
+concatenated
+concatenations
 the
 to
 training
@@ -5778,6 +5815,10 @@ transparency
 textbraceleft
 textbraceright
 texts
+tell
+tracked
+transmitted
+transmitter
 being
 be
 by
@@ -6344,6 +6385,7 @@ expectations
 equipped
 extracting
 elegantly
+ensuring
 programmed
 patterns
 program
@@ -6738,6 +6780,9 @@ purpose
 preserve
 proceed
 placed
+parse
+protocol
+party
 Detecting
 Deepmind
 Dataset
@@ -6980,6 +7025,7 @@ Diagrams
 Download
 Document
 Documents
+Designing
 regularities
 respect
 recognizing
@@ -7295,6 +7341,12 @@ reused
 regime
 recursive
 reuse
+replay
+recreate
+roles
+receiving
+receiver
+recveive
 model
 mostly
 machine
@@ -7590,6 +7642,8 @@ merge
 moved
 multiplied
 marbles
+manipulates
+maxed
 hypothesis
 handwritten
 have
@@ -8019,6 +8073,7 @@ Energy
 Empirically
 Emphasizes
 Empirical
+Else
 using
 utility
 use
@@ -8580,6 +8635,8 @@ discretized
 denonimator
 density
 differentiate
+decrypting
+destroy
 future
 from
 feed
@@ -8838,6 +8895,7 @@ faa
 fuse
 frequent
 factorial
+flawed
 Optimziation
 Operations
 Once
@@ -9205,6 +9263,8 @@ kdgu
 kyE
 kinks
 kcachegrind
+knows
+keystream
 value
 various
 variable
@@ -9430,6 +9490,8 @@ visualization
 valgrind
 vocabulary
 vectorizing
+validate
+vulnerable
 numerical
 no
 need
@@ -10062,6 +10124,7 @@ Homework
 Helps
 Hierarchy
 HBM
+Horton
 Not
 NOTHING
 No
@@ -10246,6 +10309,7 @@ Next
 Network
 NUMA
 National
+Numbering
 quality
 question
 quickly
@@ -10572,6 +10636,7 @@ UTo
 URY
 USE
 Under
+UDP
 Breakout
 Because
 Backpropagation
