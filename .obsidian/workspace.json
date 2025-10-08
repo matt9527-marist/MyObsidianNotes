@@ -35,7 +35,8 @@
               "title": "009 TF-IDF"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8621985ed1c7e9",
+  "active": "f054b09fc4d17604",
   "lastOpenFiles": [
-    "Machine Learning/009 TF-IDF.md",
     "Machine Learning/008 Logistic Regression.md",
+    "Machine Learning/009 TF-IDF.md",
     "Assets/Pasted image 20251008095701.png",
     "Assets/Pasted image 20251008095657.png",
     "Assets/Pasted image 20251008095648.png",

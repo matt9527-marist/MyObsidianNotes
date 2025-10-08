@@ -1,4 +1,4 @@
-## Logistic Regression 
+## Binary Logistic Regression 
 #logisticregression
 Classification using a different architecture, which is actually the linear model that we were using at the start of the course. 
 • Connectionism  
@@ -40,6 +40,7 @@ If we take logarithms, we obtain the loss function:
 $$L(y,\hat{y})=-y\log(\hat{y})-(1-y)\log(1-\hat{y})$$
 This is convex, so it works much better. 
 
+#BinaryLogisticRegression
 ![[Pasted image 20251001093206.png]]
 $$h=w^Tx + b$$$$\hat{y} = \frac{1}{1+e^{-h}} = sigmoid(h)$$
 We define a loss function:
@@ -109,6 +110,7 @@ $$L_{2}: \frac{\lambda}{2m}||w||^2$$
 By penalizing the weights, we are shrinking the coefficients. This shrinkage of the weights allows us to prevent **overfitting**, as we saw earlier in the course. 
 
 ## Multiclass Logistic Regression 
+#Multinomial #MultinomalLogisticRegression
 We need some way to output a probability but this time for multiple classes instead of just a binary. 
 ![[Pasted image 20251008095701.png]]
 We cannot use the *Sigmoid* function here because that would only transform the output values between 0 and 1, or defining a probability for a single classification. 
@@ -123,12 +125,12 @@ $$P(y|x) = \prod^{k}_{i=1}y_{i}^{y==i}$$
 This extends the original expression, $$P(y|x) = \hat{y}^y (1-\hat{y})^{(1-y)}$$by just allowing us to compute the individual probability for the class. 
 
 Thus, we obtain our loss function: 
-$$L = -\sum^{k}_{i=1}(y==i)\log \hat{y}_{i}$$
+$$L = -\sum^{k}_{i=1}\textbraceleft y==k \textbraceright\\log \hat{y}_{i}$$
 
 What is happening here? The term `(y==i)` is the exponent from the previous product. We want to avoid taking products, so this term comes down into the main equation multiplied by `yhat_i`. 
 
 The cost function averages the loss over all `n` observations:
-$$J = \frac{1}{n}\sum^{n}_{i=1}\sum^{K}_{k=1}\textbraceleft y==k \textbraceleft\log \hat{y}_{k}$$
+$$J = \frac{1}{n}\sum^{n}_{i=1}\sum^{K}_{k=1}\textbraceleft y==k \textbraceright\log \hat{y}_{k}$$
 What this says: over ALL the data (i=1 to n), over ALL the classes (k=1 to K), take the value of `log yhat_k` for each of the classes, which will obtain us a value between 0 and 1. The sum of all these probabilities must sum to 1. 
-
+Note that the expression `{y==k}` is an inline conditional that will evaluate to 0 or 1 denoting true or false. 
 

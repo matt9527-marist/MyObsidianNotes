@@ -48,7 +48,10 @@
     "BernoulliNB": 36,
     "logisticregression": 37,
     "Likelihood": 38,
-    "CrossEntropy": 39
+    "CrossEntropy": 39,
+    "BinaryLogisticRegression": 40,
+    "Multinomial": 41,
+    "MultinomalLogisticRegression": 42
   },
   "_version": 3
 }
