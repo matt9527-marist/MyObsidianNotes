@@ -433,6 +433,9 @@ Rivest
 Running
 Resistant
 Roles
+Receive
+Recompute
+Receiving
 libraries
 learn
 learning
@@ -734,6 +737,7 @@ GxF
 Gradients
 GenAI
 GMAC
+Generate
 Charting
 Control
 Common
@@ -964,6 +968,8 @@ Complexity
 Created
 Cyphertext
 Caesar
+Check
+Concatenate
 Scikit
 Statistical
 Statistics
@@ -1203,6 +1209,7 @@ Signatures
 Salice
 SIGN
 Specifically
+Send
 Keras
 KB
 Key
@@ -1588,6 +1595,8 @@ Inputs
 Implementation
 Insert
 Intercept
+Important
+Initializing
 and
 ability
 approximation
@@ -1857,6 +1866,8 @@ authenticating
 asymmetric
 alone
 alphabet
+authenticated
+append
 Applications
 AI
 Analysis
@@ -2037,6 +2048,7 @@ Attributes
 Authenticate
 Adding
 Actors
+Assign
 with
 without
 want
@@ -2188,6 +2200,7 @@ worst
 weaknesses
 website
 wait
+wrap
 Python
 Performance
 Principle
@@ -2352,6 +2365,8 @@ Pbob
 Palice
 PKI
 Plaintext
+Params
+Package
 What
 We
 With
@@ -2804,6 +2819,7 @@ FGD
 FwG
 Forest
 Focus
+First
 of
 or
 optimize
@@ -3363,6 +3379,12 @@ substitution
 stensiling
 shift
 scrambling
+starting
+state
+subkeys
+sending
+subkey
+sender
 giving
 good
 generalizable
@@ -3889,6 +3911,11 @@ cleartext
 confuse
 certificate
 characters
+channel
+counting
+counters
+concatenated
+concatenations
 the
 to
 training
@@ -4126,6 +4153,8 @@ tehcnology
 transactions
 transposition
 tattooing
+transmitted
+transmitter
 being
 be
 by
@@ -4557,6 +4586,7 @@ encrypted
 enemy
 email
 easiest
+ensuring
 programmed
 patterns
 program
@@ -4863,6 +4893,9 @@ plaintexts
 portions
 performing
 person
+parse
+protocol
+party
 Detecting
 Deepmind
 Dataset
@@ -5284,6 +5317,11 @@ replay
 receive
 recipient
 reviews
+recreate
+roles
+receiving
+receiver
+recveive
 model
 mostly
 machine
@@ -5525,6 +5563,7 @@ msg
 meaningful
 manipulates
 maintaining
+maxed
 hypothesis
 handwritten
 have
@@ -5855,6 +5894,7 @@ Eve
 Echo
 Encrypts
 EVERYTHING
+Else
 using
 utility
 use
@@ -6267,6 +6307,7 @@ decrypted
 delay
 digital
 duplicate
+destroy
 future
 from
 feed
@@ -6715,6 +6756,7 @@ kZPr
 kjj
 kGG
 knows
+keystream
 value
 various
 variable
