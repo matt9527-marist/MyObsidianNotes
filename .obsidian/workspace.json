@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6efff95a3d479c80",
+            "id": "5a8621985ed1c7e9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/Midterm Review/Logistic Regression.canvas",
-                "viewState": {
-                  "x": 1250.5,
-                  "y": 640,
-                  "zoom": -1.874931446085741
-                }
+                "file": "Machine Learning/008 Logistic Regression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Logistic Regression"
+              "icon": "lucide-file",
+              "title": "008 Logistic Regression"
             }
           },
           {
@@ -38,8 +35,7 @@
               "title": "009 TF-IDF"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "5a8621985ed1c7e9",
   "lastOpenFiles": [
-    "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/009 TF-IDF.md",
+    "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
