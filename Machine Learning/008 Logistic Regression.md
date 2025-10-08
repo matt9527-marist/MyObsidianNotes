@@ -42,6 +42,7 @@ This is convex, so it works much better.
 
 ![[Pasted image 20251001093206.png]]
 $$h=w^Tx + b$$$$\hat{y} = \frac{1}{1+e^{-h}} = sigmoid(h)$$
+We define a loss function:
 If `P(y = 1 | x) = yhat` then `P(y = 0 | x) = 1 - yhat`
 We more elegantly wrote this as: $$P(y|x) = \hat{y}^y (1-\hat{y})^{(1-y)}$$
 Overall, we will have:
