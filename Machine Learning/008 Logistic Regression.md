@@ -45,6 +45,8 @@ $$h=w^Tx + b$$$$\hat{y} = \frac{1}{1+e^{-h}} = sigmoid(h)$$
 We define a loss function:
 If `P(y = 1 | x) = yhat` then `P(y = 0 | x) = 1 - yhat`
 We more elegantly wrote this as: $$P(y|x) = \hat{y}^y (1-\hat{y})^{(1-y)}$$
+We will compute the logarithm on this similarly to avoid having products. This allows us to perform a binary classification.
+$$L = -\log P(y|x)$$
 Overall, we will have:
 $$\begin{bmatrix}
 h
@@ -98,6 +100,7 @@ $$\frac{ \partial \hat{y} }{ \partial h } = \hat{y} \otimes (1-\hat{y})$$
 $$\frac{ \partial h }{ \partial w } = X$$
 Computing the product of all of this:
 $$= \frac{1}{m}X^T(\hat{y}-y)$$This is our gradient for linear models, exactly the same formulation. This is the average of the dot product of the data times the error. Doing this for *b* gives us simply: $$\frac{ \partial J }{ \partial b } = \frac{1}{m}(\hat{y}-y) $$This gives us all that we need to do computations. 
+
 
 ## Regularization 
 #regularization is needed here comparatively more. 
