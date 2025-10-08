@@ -20,4 +20,11 @@ Let us assume a corpus of 100 documents. What would be the tf-idf("cat")?
 Using the above values: 
 $$tf-idf(\text{cat}) = \frac{3}{1000} * \log \frac{10^5}{10^3 +1} = 2$$
 $$tf-idf(\text{the}) = \frac{20}{1000} * \log \frac{10^5}{10^5 + 1} = -0.3$$
-The intuition is that the `idf` term is *penalizing* the term frequency. The value 
+The intuition is that the `idf` term is *penalizing* the term frequency. The value for "cat" will be much larger because it is not so frequent, but since the value for "the" is basically in event document d, it will penalize the frequency.
+
+Very frequent occurrences of a given term will not have heavy weight in the classification. 
+
+[Sentiment Analysis using  TF-IDF in Scikit Learn](https://gist.github.com/eitellauria/66a0c58835943cfe259991c29b49e179)
+
+
+

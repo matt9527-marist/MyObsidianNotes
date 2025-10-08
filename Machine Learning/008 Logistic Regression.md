@@ -134,3 +134,5 @@ $$J = \frac{1}{n}\sum^{n}_{i=1}\sum^{K}_{k=1}\textbraceleft y==k \textbraceright
 What this says: over ALL the data (i=1 to n), over ALL the classes (k=1 to K), take the value of `log yhat_k` for each of the classes, which will obtain us a value between 0 and 1. The sum of all these probabilities must sum to 1. 
 Note that the expression `{y==k}` is an inline conditional that will evaluate to 0 or 1 denoting true or false. 
 
+[ML_Logistic_Reg_and_SGD.ipynb](https://gist.github.com/eitellauria/34fea38f7e980c9199512966e524daa6)
+
