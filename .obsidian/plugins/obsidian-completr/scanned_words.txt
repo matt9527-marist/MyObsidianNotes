@@ -897,6 +897,7 @@ load
 leveraging
 lost
 leaf
+lie
 Graphing
 Google
 Game
@@ -2631,6 +2632,7 @@ apt
 advocating
 article
 aggressively
+algorithmically
 Applications
 AI
 Analysis
@@ -2859,6 +2861,7 @@ Among
 Array
 Arithmetic
 Advisor
+Achieving
 with
 without
 want
@@ -3325,6 +3328,7 @@ Plots
 Produces
 Profiles
 Point
+Peak
 What
 We
 With
@@ -3804,6 +3808,7 @@ interacting
 impossible
 influenced
 impact
+imposed
 Field
 For
 Find
@@ -4258,6 +4263,7 @@ overcast
 optimized
 outpace
 obscured
+overlay
 study
 simplified
 something
@@ -4702,6 +4708,7 @@ sudo
 suggesting
 sec
 spatially
+subsystem
 giving
 good
 generalizable
@@ -5415,6 +5422,8 @@ cancer
 clover
 callgrind
 codes
+chart
+ceiling
 the
 to
 training
@@ -6307,6 +6316,8 @@ ebb
 exercises
 efforts
 excessive
+expectations
+equipped
 programmed
 patterns
 program
@@ -9657,6 +9668,7 @@ nThink
 nThere
 nsigmoid
 nonlinear
+near
 yes
 yield
 your
@@ -10000,6 +10012,7 @@ HMAC
 Homework
 Helps
 Hierarchy
+HBM
 Not
 NOTHING
 No
