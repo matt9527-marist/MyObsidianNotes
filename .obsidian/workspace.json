@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
+                "file": "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Protocols Article Presentation"
+              "title": "002 Attacks on Block Ciphers"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "a2273cbb9e43cf86",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Assets/Pasted image 20251008152032.png",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
-    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Security Protocols-Algorithms/003 Hashing.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
@@ -193,13 +194,11 @@
     "Assets/Pasted image 20251006224520.png",
     "Assets/Pasted image 20251006223424.png",
     "Assets/Pasted image 20251006222800.png",
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
     "104.md",
     "Assets/Pasted image 20251006194658.png",
-    "Assets/Pasted image 20251006194642.png",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/003 Hashing I.md",
     "Security Protocols-Algorithms/004 Hashing II.md",
