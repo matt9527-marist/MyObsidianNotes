@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+                "file": "Security Protocols-Algorithms/004 The Secure Channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Attacks on Block Ciphers"
+              "title": "004 The Secure Channel"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "a2273cbb9e43cf86",
   "lastOpenFiles": [
-    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Assets/Pasted image 20251008152032.png",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
