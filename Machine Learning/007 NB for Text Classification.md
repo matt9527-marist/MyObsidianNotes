@@ -57,4 +57,6 @@ This entire expression above can be placed in terms of vectors simply as:
 $$-\log P(d,y_{i}) = \vec{t}_{f}^{T}\log \vec{p} + b$$
 The summation can be written elegantly as a *vector of term frequencies* times the logarithm of each of the individual probabilities of the words for a given class, plus *b*, which is the bias or the priors of the classes. 
 
+[ml_spamfilter_nb_sklearn.ipynb](https://gist.github.com/eitellauria/efec9b85b7f9f69c25fe29134fef3d3b)
 
+[ml_coding-a_spamfilter_with_multinomialnb.ipynb](https://gist.github.com/eitellauria/da08cea7a55dd6aa5774f6f7e752cc58)

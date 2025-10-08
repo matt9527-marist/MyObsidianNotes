@@ -630,6 +630,7 @@ Razor
 Regular
 Roofline
 Row
+Refers
 libraries
 learn
 learning
@@ -1397,6 +1398,9 @@ COMPILER
 ChatGPT
 CFD
 Corpus
+Coming
+Categorical
+Continous
 Scikit
 Statistical
 Statistics
@@ -1700,6 +1704,7 @@ Spots
 Setup
 Summary
 Such
+Shakespeare
 Keras
 Key
 Kirchhoffs
@@ -2076,6 +2081,7 @@ Toolkit
 Triad
 Trojan
 Term
+Thus
 ISLP
 Iris
 Instance
@@ -2635,6 +2641,7 @@ advocating
 article
 aggressively
 algorithmically
+appear
 Applications
 AI
 Analysis
@@ -3086,6 +3093,7 @@ writers
 waiting
 wmic
 white
+whichever
 Python
 Performance
 Principle
@@ -3507,6 +3515,7 @@ Words
 Wasted
 Watts
 Wacatac
+Within
 is
 in
 if
@@ -3813,6 +3822,8 @@ impact
 imposed
 idf
 intuition
+increasingly
+infer
 Field
 For
 Find
@@ -4713,6 +4724,8 @@ suggesting
 sec
 spatially
 subsystem
+summation
+simplify
 giving
 good
 generalizable
@@ -4956,6 +4969,7 @@ graphics
 graphical
 graphs
 git
+green
 computers
 computer
 can
@@ -5429,6 +5443,7 @@ codes
 chart
 ceiling
 corpus
+considering
 the
 to
 training
@@ -5762,6 +5777,7 @@ transformed
 transparency
 textbraceleft
 textbraceright
+texts
 being
 be
 by
@@ -6001,6 +6017,7 @@ bounded
 black
 billions
 blocking
+blue
 explicitly
 experience
 error
@@ -6325,6 +6342,8 @@ efforts
 excessive
 expectations
 equipped
+extracting
+elegantly
 programmed
 patterns
 program
@@ -6713,6 +6732,12 @@ possibility
 professional
 prerequisite
 penalize
+probabilistic
+phrases
+purpose
+preserve
+proceed
+placed
 Detecting
 Deepmind
 Dataset
@@ -6954,6 +6979,7 @@ Did
 Diagrams
 Download
 Document
+Documents
 regularities
 respect
 recognizing
@@ -7562,6 +7588,8 @@ mitigate
 minute
 merge
 moved
+multiplied
+marbles
 hypothesis
 handwritten
 have
@@ -8548,6 +8576,10 @@ diagnosis
 dfce
 document
 documents
+discretized
+denonimator
+density
+differentiate
 future
 from
 feed
@@ -8805,6 +8837,7 @@ fno
 faa
 fuse
 frequent
+factorial
 Optimziation
 Operations
 Once
@@ -9395,6 +9428,8 @@ vect
 variants
 visualization
 valgrind
+vocabulary
+vectorizing
 numerical
 no
 need
@@ -9682,6 +9717,7 @@ nThere
 nsigmoid
 nonlinear
 near
+news
 yes
 yield
 your
@@ -10382,6 +10418,7 @@ qLx
 qJx
 query
 qcachegrind
+quite
 Unsupervised
 UNION
 User
@@ -10888,6 +10925,7 @@ jYyZYx
 jFG
 jql
 jXZ
+jar
 Vectors
 Vectorization
 Visualization
@@ -11209,6 +11247,7 @@ zEY
 zHsE
 zXM
 zeros
+zeroes
 Java
 Jr
 Jv
