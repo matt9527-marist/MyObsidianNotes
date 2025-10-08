@@ -124,7 +124,11 @@ This extends the original expression, $$P(y|x) = \hat{y}^y (1-\hat{y})^{(1-y)}$$
 
 Thus, we obtain our loss function: 
 $$L = -\sum^{k}_{i=1}(y==i)\log \hat{y}_{i}$$
+
 What is happening here? The term `(y==i)` is the exponent from the previous product. We want to avoid taking products, so this term comes down into the main equation multiplied by `yhat_i`. 
 
 The cost function averages the loss over all `n` observations:
-$$J = \frac{1}{n}\sum^{#}_{#}$$
+$$J = \frac{1}{n}\sum^{n}_{i=1}\sum^{K}_{k=1}\textbraceleft y==k \textbraceleft\log \hat{y}_{k}$$
+What this says: over ALL the data (i=1 to n), over ALL the classes (k=1 to K), take the value of `log yhat_k` for each of the classes, which will obtain us a value between 0 and 1. The sum of all these probabilities must sum to 1. 
+
+
