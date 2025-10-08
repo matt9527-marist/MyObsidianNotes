@@ -1396,6 +1396,7 @@ Cachegrind
 COMPILER
 ChatGPT
 CFD
+Corpus
 Scikit
 Statistical
 Statistics
@@ -2074,6 +2075,7 @@ Tool
 Toolkit
 Triad
 Trojan
+Term
 ISLP
 Iris
 Instance
@@ -3809,6 +3811,8 @@ impossible
 influenced
 impact
 imposed
+idf
+intuition
 Field
 For
 Find
@@ -5424,6 +5428,7 @@ callgrind
 codes
 chart
 ceiling
+corpus
 the
 to
 training
@@ -6707,6 +6712,7 @@ parallelizing
 possibility
 professional
 prerequisite
+penalize
 Detecting
 Deepmind
 Dataset
@@ -6947,6 +6953,7 @@ Defender
 Did
 Diagrams
 Download
+Document
 regularities
 respect
 recognizing
@@ -7776,6 +7783,7 @@ hwloc
 hook
 healthcare
 hidden
+heavy
 Execution
 Examples
 Economics
@@ -8538,6 +8546,8 @@ defend
 dependency
 diagnosis
 dfce
+document
+documents
 future
 from
 feed
@@ -8794,6 +8804,7 @@ flow
 fno
 faa
 fuse
+frequent
 Optimziation
 Operations
 Once
