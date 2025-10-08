@@ -47,7 +47,7 @@ directly
 Designed to be used with 128, 192, and 256-bit key sizes from AES.
 - Slow, takes long to compute as AES or Twofish 
 - SHA3
-	- Built of Sponge Construction (absord data like a sponge and output the fixed hash data), uses gret random permutations to "absorb" large amounts of data. 
+	- Built of Sponge Construction (absord data like a sponge and output the fixed hash data), uses random permutations to "absorb" large amounts of data. 
 
 ![[Pasted image 20251001145303.png]]
 1. The MD (Message Digest) Series  
@@ -84,7 +84,7 @@ P and Q are generated from the program, but the prefix and suffix are what is me
 Linux storage of passwords. Not just for the passwords, but also for the *salt* of the password. 
 *Salt* - used to generate different hashes for the same password according to the user by using randomness. 
 
-We do not just hash once on passwords. Usually, we would hash thousandso of times over. When we scale dictionary attacks (how you attack a password vault, potentially using hashes), this makes brute force attacks much more difficult. 
+We do not just hash once on passwords. Usually, we would hash thousands of times over. When we scale dictionary attacks (how you attack a password vault, potentially using hashes), this makes brute force attacks much more difficult. 
 
 ## Message Authentication Codes 
 **MAC** - A construction that detects tampering with messages.
