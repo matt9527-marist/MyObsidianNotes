@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+                "file": "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Attacks on Block Ciphers"
+              "title": "000 Introduction to Cryptography"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recipe",
+                "query": "chosen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,10 +174,10 @@
   },
   "active": "a2273cbb9e43cf86",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/003 Hashing.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
-    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/009 TF-IDF.md",
