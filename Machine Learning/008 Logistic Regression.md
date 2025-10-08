@@ -122,4 +122,9 @@ In this context, the target is not between one or the other, but one among many:
 $$P(y|x) = \prod^{k}_{i=1}y_{i}^{y==i}$$
 This extends the original expression, $$P(y|x) = \hat{y}^y (1-\hat{y})^{(1-y)}$$by just allowing us to compute the individual probability for the class. 
 
-Thu
+Thus, we obtain our loss function: 
+$$L = -\sum^{k}_{i=1}(y==i)\log \hat{y}_{i}$$
+What is happening here? The term `(y==i)` is the exponent from the previous product. We want to avoid taking products, so this term comes down into the main equation multiplied by `yhat_i`. 
+
+The cost function averages the loss over all `n` observations:
+$$J = \frac{1}{n}\sum^{#}_{#}$$
