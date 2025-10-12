@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/005 Memory Model.md",
+                "file": "Parallel Processing/101 Parallel Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 Memory Model"
+              "title": "101 Parallel Computing"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Parallel Processing/005 Memory Model.md",
     "Parallel Processing/004 Pointers and References.md",
     "Parallel Processing/003 C++ Classes and OOP.md",
     "Parallel Processing/002.2 Vectors.md",
@@ -212,7 +213,6 @@
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
-    "Machine Learning/Midterm Review/Exam Scratch.md",
     "Machine Learning/Midterm Review/Text Classification.canvas",
     "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review/Data Preprocessing.canvas",

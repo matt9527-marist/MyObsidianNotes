@@ -970,6 +970,10 @@ Cyphertext
 Caesar
 Check
 Concatenate
+Comparing
+Compares
+Comparative
+CUDA
 Scikit
 Statistical
 Statistics
@@ -1210,6 +1214,8 @@ Salice
 SIGN
 Specifically
 Send
+Strategies
+Shows
 Keras
 KB
 Key
@@ -1868,6 +1874,7 @@ alone
 alphabet
 authenticated
 append
+assembly
 Applications
 AI
 Analysis
@@ -2201,6 +2208,7 @@ weaknesses
 website
 wait
 wrap
+worker
 Python
 Performance
 Principle
@@ -2367,6 +2375,8 @@ PKI
 Plaintext
 Params
 Package
+Pixels
+Particles
 What
 We
 With
@@ -2475,6 +2485,8 @@ Wvtz
 WTPo
 WD
 Wacatac
+Worker
+Workers
 is
 in
 if
@@ -2820,6 +2832,7 @@ FwG
 Forest
 Focus
 First
+Focuses
 of
 or
 optimize
@@ -3001,6 +3014,7 @@ oiii
 obscured
 onto
 obtains
+organization
 study
 simplified
 something
@@ -3385,6 +3399,8 @@ subkeys
 sending
 subkey
 sender
+superscalar
+subset
 giving
 good
 generalizable
@@ -3916,6 +3932,9 @@ counting
 counters
 concatenated
 concatenations
+controller
+completion
+cat
 the
 to
 training
@@ -4155,6 +4174,8 @@ transposition
 tattooing
 transmitted
 transmitter
+transforms
+technologies
 being
 be
 by
@@ -4896,6 +4917,7 @@ person
 parse
 protocol
 party
+partitioned
 Detecting
 Deepmind
 Dataset
@@ -6308,6 +6330,7 @@ delay
 digital
 duplicate
 destroy
+dog
 future
 from
 feed
@@ -6525,6 +6548,7 @@ family
 format
 flawed
 fix
+flows
 Optimziation
 Operations
 Once
@@ -6659,6 +6683,7 @@ OU
 Oy
 Offers
 Only
+Objects
 kind
 know
 knowledge
@@ -7824,6 +7849,8 @@ Behavioral
 Built
 Bob
 BC
+Bucket
+Brigade
 just
 jagged
 json
