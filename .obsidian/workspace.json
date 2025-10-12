@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/002 C++ Introduction.md",
+                "file": "Parallel Processing/002.1 Using Dynamic Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 C++ Introduction"
+              "title": "002.1 Using Dynamic Memory"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
     "Security Protocols-Algorithms/003 Hashing.md",
     "Machine Learning/009 TF-IDF.md",
@@ -217,7 +218,6 @@
     "Machine Learning/Midterm Review/Colab Collection.md",
     "Machine Learning/001 Linear Algebra Review.md",
     "Machine Learning/000 Introduction.md",
-    "Machine Learning/Assignment 1 Gradient Proof.md",
     "Machine Learning/Midterm Review",
     "PP Notes",
     "Security Protocols-Algorithms",
