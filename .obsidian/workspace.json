@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/102 Planning for Parallelization.md",
+                "file": "Parallel Processing/103 Performance Limits and Profiling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "102 Planning for Parallelization"
+              "title": "103 Performance Limits and Profiling"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "51320cbd78282d30",
   "lastOpenFiles": [
+    "Parallel Processing/102 Planning for Parallelization.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/005 Memory Model.md",
     "Parallel Processing/002.2 Vectors.md",
@@ -209,7 +210,6 @@
     "Machine Learning/002 Vector and Matrix Calculus.md",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Assignment 4 Probability.md",
-    "Machine Learning/Matrix Operations Sheet.md",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
