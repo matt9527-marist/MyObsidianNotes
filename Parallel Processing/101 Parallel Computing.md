@@ -247,7 +247,7 @@ cycle
 
 **What Is an Accelerator Device?**
 ![[Pasted image 20250922202123.png]]
-- Discrete GPUs means that there is one bus (PCI) connecting the GPU and CPU. When running on discrete GPU, we need to send data over throug this bus.  
+- Discrete GPUs means that there is one bus (PCI) connecting the GPU and CPU. When running on discrete GPU, we need to send data over through this bus.  
 • GPU Structure:  
 	• Composed of many small cores called Streaming Multiprocessors (SMs)  
 	• SMs are simpler than CPU cores but enable massive parallelism  
