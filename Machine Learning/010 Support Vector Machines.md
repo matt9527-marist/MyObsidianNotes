@@ -121,8 +121,8 @@ Once we solve the alphas, we can derive the `w`'s from them.
 Nonlinearity:
 How do we classify this? 
 (see notes)
-
-
+What if we *increased the dimensions*?
+This means that we have transformed the function. How is this handled? We use a *kernel function*. 
 
 
 
