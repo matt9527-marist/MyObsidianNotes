@@ -41,3 +41,10 @@ math.
 	• Inlining where possible to avoid jumps and stack overhead  
 • DOD Focus: Organize data for cache & CPU efficiency
 
+**Key Principles of Data-Oriented Design**
+• Operate on arrays, not single items -> better loop performance  
+• Use arrays of values, not arrays of structs -> better cache usage  
+• Favor inlined routines, not deep call stacks  
+• Avoid hidden memory allocations — control memory explicitly  
+• Use contiguous array-based lists, not pointer-chained structures  
+• Improves data locality and prefetching
