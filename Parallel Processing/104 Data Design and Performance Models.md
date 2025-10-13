@@ -81,4 +81,8 @@ for (int j = 0; j < jmax; j++)
 for (int j = 0; j < jmax; j++) free(x[j]);  
 free(x);
 ```
+• Allocates 1 + `jmax` blocks -> may be scattered in heap  
+• Poor for cache locality, Fortran interop, file I/O, GPU transfer  
+• Still widely used due to habit and teaching
+
 
