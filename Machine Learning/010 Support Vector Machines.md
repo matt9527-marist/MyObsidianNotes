@@ -32,4 +32,5 @@ But see the diagram, you should ask yourself, "is the plotted line the best poss
 There are really infinitely possible separation lines. 
 We need to be able to draw lines such that the separation between the classes is as wide as possible. This is called an *avenue*. Therefore, we need to find the points on which to plot lines that maximize the width of that avenue. 
 
-To define the avenue, we need to define the sides and ident
+To define the avenue, we need to define the sides and identify the middle of the avenue. The middle of the avenue can be defined, as we know, as $$w^Tx + b = 0$$where anything above this center line will be classified as the +1 region, and anything below will be classified as the -1 region. 
+Without loss of generality, just by tweaking the values of `w` and `b`, we can easily say 
