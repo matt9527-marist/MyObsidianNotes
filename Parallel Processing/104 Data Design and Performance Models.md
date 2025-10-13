@@ -93,3 +93,17 @@ x[0] = malloc(jmax * imax * sizeof(double));
 for (int j = 1; j < jmax; j++)  
 	x[j] = x[j - 1] + imax;
 ```
+• Only 2 allocations  
+• Data is contiguous in memory  
+• Fast, cache-efficient, portable  
+• Easy to free, use in Fortran, or transfer to GPU
+
+**Contiguous Block**
+![[Pasted image 20251013191347.png]]
+• Why It Matters  
+	• Contiguous layout enables:  
+	• Efficient block I/O  
+	• Compatibility with numerical libraries  
+	• Better vectorization and threading  
+	• Avoid hidden performance traps in pointer-heavy allocation
+
