@@ -123,3 +123,17 @@ Accessing the array:
 • 2D access: x[j][i]  
 • Manual index: x1d[i + imax * j] (for threading/vectorization)
 
+## Structure of Arrays vs. Array of Structures 
+**Understanding Data Layouts in C++**
+• Goal: Choose data structures that align with how the CPU loads data, not  
+just how you organize code.  
+*• Array of Structures (AoS)*  
+*• Structure of Arrays (SoA)*  
+• Hybrid: Array of Structures of Arrays (AoSoA – discussed later)
+
+**Array of Structures (AoS)**
+![[Pasted image 20251013192300.png]]
+• Good when all fields are used together
+• Bad when only one field (e.g., just R) is used — wastes cache bandwidth
+• Note: Padding for alignment may add 25% memory overhead
+
