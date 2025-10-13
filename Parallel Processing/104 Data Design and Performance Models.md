@@ -145,10 +145,19 @@ just how you organize code.
 
 **Performance Depends on Usage Pattern**
 • Example 1: All components used  
-• radius[i] = sqrt(x * x + y * y + z * z); // Best with AoS  
-• All components are accessed together  
-• Good cache usage with AoS  
+	• radius[i] = sqrt(x * x + y * y + z * z); // Best with AoS  
+	• All components are accessed together  
+	• Good cache usage with AoS  
 • Example 2: Only one component used  
-• density_gradient[i] = (density[i] - density[i-1]) / (x[i] - x[i-1]);  
-• Accesses x only -> Better with SoA  
-• AoS loads x, y, z -> 66% of cache load wasted
+	• density_gradient[i] = (density[i] - density[i-1]) / (x[i] - x[i-1]);  
+	• Accesses x only -> Better with SoA  
+	• AoS loads x, y, z -> 66% of cache load wasted
+
+**SoA Example for Spatial Coordinates**
+• Efficient for both:  
+	• Full 3D operations (radius[i] = sqrt(...))  
+	• Single-axis calculations (density_gradient[i] = ...)  
+	• But as the field count increases -> Too many memory streams for the cache
+
+![[Pasted image 20251013192845.png]]
+
