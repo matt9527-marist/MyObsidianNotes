@@ -77,4 +77,6 @@ The point is classified between the middle line and the lower magin:
 Finally, we have the case where we classify the point exactly on the margin:
 ![[Pasted image 20251013170305.png]]
 This will incur a penalty of 0. 
+And finally, if we have correctly classified the point as -1, it will incur a penalty of 0. 
 
+In reality, the points that are on the margin are strictly speaking, the 
