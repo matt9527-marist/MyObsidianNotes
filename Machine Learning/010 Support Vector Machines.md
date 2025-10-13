@@ -19,4 +19,5 @@ $$w_{1}x_{1} + w_{2}x_{2} + b = 0$$as it will return repeatedly throughout this 
 
 Imagine the following:
 (see notes)
-
+The two lines represented by the differing intercepts `b1` and `b2` are parallel. That is, their slopes are the same, but the intercepts can change. 
+We want to compute `d`, the distance
