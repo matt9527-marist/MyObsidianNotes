@@ -8,4 +8,4 @@ The goal is to find the optimal VC:
 
 How do we characterize VC's?
 
-**Maximum Margin Binary Classifiers**:
+**Maximum Margin Binary Classifiers** (1990s):
