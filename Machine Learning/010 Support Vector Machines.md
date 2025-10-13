@@ -104,3 +104,6 @@ If the problem is *convex*, `A` coincides with `B`. This is perfect for what we 
 Definition: according to the **duality principle**, optimization problems may  
 be viewed from either of two perspectives, the primal problem or the dual  
 problem.
+
+**Constraint Optimization**
+The function that we layed out earlier is a function that is without constraints. If we integrate the dual, we are introducing constraints. 
