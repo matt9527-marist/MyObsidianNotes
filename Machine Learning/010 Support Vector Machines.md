@@ -109,4 +109,5 @@ problem.
 The function that we layed out earlier is a function that is without constraints. If we integrate the dual, we are introducing constraints. 
 
 The Dual Problem:
-(see notes)
+Find `alpha_i` where `i = 1,m`
+$$max\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\alpha_{i}\alpha_{j}y^{[i]}y^{[j]}x_{[i]}^T$$
