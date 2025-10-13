@@ -34,4 +34,8 @@ We need to be able to draw lines such that the separation between the classes is
 
 To define the avenue, we need to define the sides and identify the middle of the avenue. The middle of the avenue can be defined, as we know, as $$w^Tx + b = 0$$where anything above this center line will be classified as the +1 region, and anything below will be classified as the -1 region. 
 Without loss of generality, just by tweaking the values of `w` and `b`, we can easily say that the line defining the upper side will be: $$w^Tx + b = +1$$and the line defining the lower side will be: $$w^tx + b = -1$$
-Now that we have these formulae, we need to compute the distance `d`, ie. find the `w`'s and `b` that maximize this distance `d`
+Now that we have these formulae, we need to compute the distance `d`, ie. find the `w`'s and `b` that maximize this distance `d`. That is, finding the broadest possible avenue that separates the -1 data points from the +1 data points. 
+We have already kind of done this: $$d = \frac{2}{||w||}$$
+So it means that we have found a criterion to come up with the best possible classifier at least under the above circumstances. We want to maximize `d`. 
+Recall the steps for selecting an optimization strategy:
+$$max \space $$
