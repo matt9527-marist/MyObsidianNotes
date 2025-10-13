@@ -18,4 +18,5 @@ Pay close attention to the expression:
 $$w_{1}x_{1} + w_{2}x_{2} + b = 0$$as it will return repeatedly throughout this topic. 
 
 Imagine the following:
+(see notes)
 
