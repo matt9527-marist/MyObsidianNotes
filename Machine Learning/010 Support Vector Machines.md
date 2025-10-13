@@ -62,4 +62,7 @@ An additional finding that we need to consider: $$\hat{y} = w^Tx + b$$$$\geq 0 \
 
 If we misclassify inside of the avenue, we may also be misclassifying, if we are above the middle line `w^Tx + b = 0`. 
 ![[Pasted image 20251013165451.png]]
-- Case 2) `y=-1`
+- Case 2) `y=-1` and `0 < yhat < 1`.
+- This means `-1 < y * yhat < 0`. 
+- This implies that `L > 1`. This means it will incur a penalty. It is still >1 but less. 
+
