@@ -54,6 +54,7 @@ The **Hinge** loss enacts some kind of penalty for getting too close to the marg
 As we can see, if the value is less than 1, this incurs as a linear penalty, and if the penalty is equal or greater than 1, there is no penalty.
 $$L = 0 \space \text{if} \space y,\hat{y} \geq 0$$$$L > 0 \space \text{if} \space y,\hat{y} < 1$$
 This means that on the above cost function, we want to add the term that takes misclassifications into consideration. In order to do this: 
-
-
+- Suppose case #1, we have misclassified a data point. ![[Pasted image 20251013163235.png]]
+- Case 1) `y=1` but `yhat > 1` 
+- 
 
