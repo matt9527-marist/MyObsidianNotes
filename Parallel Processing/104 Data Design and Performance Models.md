@@ -143,3 +143,12 @@ just how you organize code.
 • Cache efficiency can drop when all fields are accessed together  
 • Memory allocations are separate (not guaranteed contiguous)
 
+**Performance Depends on Usage Pattern**
+• Example 1: All components used  
+• radius[i] = sqrt(x * x + y * y + z * z); // Best with AoS  
+• All components are accessed together  
+• Good cache usage with AoS  
+• Example 2: Only one component used  
+• density_gradient[i] = (density[i] - density[i-1]) / (x[i] - x[i-1]);  
+• Accesses x only -> Better with SoA  
+• AoS loads x, y, z -> 66% of cache load wasted
