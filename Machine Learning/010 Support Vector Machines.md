@@ -81,4 +81,5 @@ And finally, if we have correctly classified the point as -1, it will incur a pe
 
 In reality, the points that are on the margin are strictly speaking, the **support vectors**. They "support" the classification. The points that are inside of the marigns are also **support vectors**. The points that are misclassified are also **support vectors**. Any of the points that help us decide how to organize this using the Hinge function are the ones that determine, to a certain extent, the values of `w` and `b`. The points that are very well classified, we do not care as much about because they have no bearing on the classification. That is, they are not helping to determine the avenue. 
 
-$$J = \frac{1}{2}||w|| + $$
+$$J = \frac{1}{2}||w||^2 + C\sum^{m}_{i=1} max(0, 1 - y^{[i]}\hat{y}^{[i]})$$
+Where the first component is about defining a wide margin, and the second component is about error tolerance. If we have a very large `C`, we are more directly 
