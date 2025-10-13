@@ -94,4 +94,7 @@ Before proceeding, let us organize the following ideas:
 2) Softening the margin (Error Tolerance)
 3) Duality 
 
-Huge problem: What happens when we have the 
+Huge problem: What happens when we have a situation that is NOT *linearly separable*?
+
+
+
