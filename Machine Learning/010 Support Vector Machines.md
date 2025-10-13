@@ -24,4 +24,6 @@ We want to compute `d`, the distance between the two parallel lines.
 
 *Equation of a Hyperplane*: $$w^Tx +b = 0$$
 *Distance between two parallel lines*: $$d = \frac{|b_{1}-b_{2}|}{||w||}$$
-With these fundamentals, we can h
+With these fundamentals, let us return to the topic of classification:
+We may have the following situation: 
+(see notes)
