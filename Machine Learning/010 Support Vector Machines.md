@@ -58,4 +58,8 @@ This means that on the above cost function, we want to add the term that takes m
 - Case 1) `y=-1` but classified `yhat > 1`. This implies that `y * yhat` will be less than -1. 
 - Inputting this into Hinge, we obtain `1 - (y*yhat)`, which will give us a positive value, ie. we have some penalty.
 
-An additional finding that we need to consider: $$\hat{y} = w^Tx + b$$$$\geq 0 \to \hat{y}_{pred} = +1$$$$< 0 \to \hat{y}_{pred} = -1$$We use `y_pred` just like in Colab
+An additional finding that we need to consider: $$\hat{y} = w^Tx + b$$$$\geq 0 \to \hat{y}_{pred} = +1$$$$< 0 \to \hat{y}_{pred} = -1$$We use `y_pred` just like in Colab. This is like assigning the value according to the probability. If we are above the line (>= 0), we are in +1 region, and if we are below the line (<0), we are in -1 region. 
+
+If we misclassify inside of the avenue, we may also be misclassifying, if we are above the middle line `w^Tx + b = 0`. 
+![[Pasted image 20251013165451.png]]
+- Case 2) `y=-1`
