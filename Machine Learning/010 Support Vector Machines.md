@@ -9,3 +9,5 @@ The goal is to find the optimal VC:
 How do we characterize VC's?
 
 **Maximum Margin Binary Classifiers** (1990s):
+We need some theory: 
+(see notes):
