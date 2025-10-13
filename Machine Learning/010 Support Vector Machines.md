@@ -27,3 +27,6 @@ We want to compute `d`, the distance between the two parallel lines.
 With these fundamentals, let us return to the topic of classification:
 We may have the following situation: 
 (see notes)
+**Linearly Separable** problems are ones where the two classes of data points can be separated by a straight line. 
+But see the diagram, you should ask yourself, "is the plotted line the best possible line?"
+There are really infinitely possible separation lines. 
