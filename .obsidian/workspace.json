@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/103 Performance Limits and Profiling.md",
+                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "103 Performance Limits and Profiling"
+              "title": "Security Protocols Article Presentation"
             }
           }
         ],
@@ -203,6 +203,7 @@
   "active": "ab7cd4b24ac39c15",
   "lastOpenFiles": [
     "Parallel Processing/104 Data Design and Performance Models.md",
+    "Parallel Processing/103 Performance Limits and Profiling.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/005 Memory Model.md",
     "Parallel Processing/004 Pointers and References.md",
@@ -232,7 +233,6 @@
     "Assets/Pasted image 20251008095657.png",
     "Assets/Pasted image 20251008095648.png",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
-    "Parallel Processing/103 Performance Limits and Profiling.md",
     "conflict-files-obsidian-git.md",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
