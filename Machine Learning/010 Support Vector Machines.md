@@ -58,5 +58,4 @@ This means that on the above cost function, we want to add the term that takes m
 - Case 1) `y=-1` but classified `yhat > 1`. This implies that `y * yhat` will be less than -1. 
 - Inputting this into Hinge, we obtain `1 - (y*yhat)`, which will give us a positive value, ie. we have some penalty.
 
-An additional finding that we need to consider: $$\hat{y} = w^Tx + b$$If this value is >= 1
-
+An additional finding that we need to consider: $$\hat{y} = w^Tx + b$$$$\geq 0 \to \hat{y}_{pred} = +1$$$$< 0 \to \hat{y}_{pred} = -1$$We use `y_pred` just like in Colab
