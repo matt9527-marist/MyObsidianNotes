@@ -118,6 +118,11 @@ Why present the problem using the dual?
 
 Once we solve the alphas, we can derive the `w`'s from them. 
 
+Nonlinearity:
+How do we classify this? 
+(see notes)
+
+
 
 
 
