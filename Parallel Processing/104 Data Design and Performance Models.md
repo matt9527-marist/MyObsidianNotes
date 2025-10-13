@@ -161,3 +161,27 @@ just how you organize code.
 
 ![[Pasted image 20251013192845.png]]
 
+**Key Takeaways**
+• Think data usage first, not just code structure  
+• AoS: Good for CPU-side code using all fields together  
+• SoA: Better for performance-critical, vectorized, or GPU code  
+• Use contiguous memory when possible to avoid fragmented cache loads  
+• Test both layouts if unsure — performance can vary by use case and  
+hardware
+
+C++ Classes and Performance Pitfalls
+```c++
+class Cell {  
+	double x, y, z, radius;  
+public:  
+	void calc_radius() {  
+	radius = sqrt(x*x + y*y + z*z);  
+	}  
+	void big_calc();  
+};  
+Cell my_cells[1000];  
+for (int i = 0; i < 1000; i++)  
+	my_cells[i].calc_radius();
+```
+• Easy to read  
+• But has hidden performance issues
