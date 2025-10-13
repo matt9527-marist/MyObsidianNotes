@@ -83,11 +83,15 @@ In reality, the points that are on the margin are strictly speaking, the **suppo
 
 $$J = \frac{1}{2}||w||^2 + C\sum^{m}_{i=1} max(0, 1 - y^{[i]}\hat{y}^{[i]})$$
 Where the first component is about defining a wide margin, and the second component is about error tolerance. If we have a very large hyperparameter `C`, we are more directly penalizing the errors. This may push us in the direction of having a smaller margin. 
-
+![[Pasted image 20251013171806.png]]
 (This first term looks like regularization, and it is, but the semantics and usage is different.)
 $$\lambda = \frac{1}{C}$$$$J = \frac{\lambda}{2}||w||^2 + \sum^{m}_{i=1}max(0, 1 - y^{[i]}\hat{y}^{[i]})$$
 This looks very similar to: $$J = \frac{\lambda}{2}||w||^2 + max(0, 1 - y\hat{y})$$
 Beforehand, generally speaking, our `J` used to be an average loss. In this case, we are not taking an average. This is presented in this way because minimizing the cost function over the sum of all data points is the same thing. 
 
+Before proceeding, let us organize the following ideas:
+1) Defining a wide margin 
+2) Softening the margin (Error Tolerance)
+3) Duality 
 
-
+Huge problem: What happens when we have the 
