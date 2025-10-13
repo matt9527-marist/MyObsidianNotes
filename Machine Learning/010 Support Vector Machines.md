@@ -62,7 +62,7 @@ An additional finding that we need to consider: $$\hat{y} = w^Tx + b$$$$\geq 0 \
 
 If we misclassify inside of the avenue, we may also be misclassifying, if we are above the middle line `w^Tx + b = 0`. 
 ![[Pasted image 20251013165451.png]]
-- Case 2) `y=-1` and `0 < yhat < 1`.
+- Case 2) `y=-1` and we classified between `0 < yhat < 1`.
 - This means `-1 < y * yhat < 0`. 
 - This implies that `L > 1`. This means it will incur a penalty. It is still >1 but less. 
 
@@ -70,4 +70,11 @@ Now consider the next possible case, where a -1 point is classified below the mi
 
 The point is classified between the middle line and the lower magin:
 ![[Pasted image 20251013170043.png]]
-- Case 3)`y=-1` and we classif `-1 < yhat < 0`
+- Case 3)`y=-1` and we classified between `-1 < yhat < 0`.
+- This means `0 < y * yhat < 1`
+- This implies that `L > 0`. This means that we incur a penalty given the lack of confidence we have in our classification. 
+
+Finally, we have the case where we classify the point exactly on the margin:
+![[Pasted image 20251013170305.png]]
+This will incur a penalty of 0. 
+
