@@ -79,4 +79,6 @@ Finally, we have the case where we classify the point exactly on the margin:
 This will incur a penalty of 0. 
 And finally, if we have correctly classified the point as -1, it will incur a penalty of 0. 
 
-In reality, the points that are on the margin are strictly speaking, the 
+In reality, the points that are on the margin are strictly speaking, the **support vectors**. They "support" the classification. The points that are inside of the marigns are also **support vectors**. The points that are misclassified are also **support vectors**. Any of the points that help us decide how to organize this using the Hinge function are the ones that determine, to a certain extent, the values of `w` and `b`. The points that are very well classified, we do not care as much about because they have no bearing on the classification. That is, they are not helping to determine the avenue. 
+
+$$J = \frac{1}{2}||w|| + $$
