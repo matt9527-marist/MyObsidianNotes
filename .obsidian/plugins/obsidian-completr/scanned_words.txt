@@ -229,6 +229,7 @@ MiniApp
 Messages
 Must
 Machines
+Margin
 Learning
 Learn
 Let
@@ -429,6 +430,7 @@ Lawrence
 Laboratory
 Launch
 Likely
+Linearly
 Relevant
 Reading
 Research
@@ -638,6 +640,7 @@ Roles
 Receive
 Recompute
 Receiving
+Russian
 libraries
 learn
 learning
@@ -907,6 +910,7 @@ lost
 leaf
 lie
 layer
+layed
 Graphing
 Google
 Game
@@ -1413,6 +1417,9 @@ Continous
 Channel
 Consists
 Concatenate
+Chervonekis
+Classifiers
+Constraint
 Scikit
 Statistical
 Statistics
@@ -1719,6 +1726,11 @@ Such
 Shakespeare
 Send
 Support
+SVM
+Separable
+Softening
+Subject
+Soften
 Keras
 Key
 Kirchhoffs
@@ -2097,6 +2109,7 @@ Trojan
 Term
 Thus
 TCP
+Tolerance
 ISLP
 Iris
 Instance
@@ -2661,6 +2674,11 @@ algorithmically
 appear
 authenticated
 append
+attention
+ask
+avenue
+alpha
+alphas
 Applications
 AI
 Analysis
@@ -3116,6 +3134,8 @@ wmic
 white
 whichever
 wrap
+whatsoever
+whole
 Python
 Performance
 Principle
@@ -3363,6 +3383,8 @@ Point
 Peak
 Params
 Package
+Pay
+Present
 What
 We
 With
@@ -3540,6 +3562,7 @@ Wasted
 Watts
 Wacatac
 Within
+Widen
 is
 in
 if
@@ -3848,6 +3871,11 @@ idf
 intuition
 increasingly
 infer
+intercepts
+infinitely
+incurs
+integrate
+introducing
 Field
 For
 Find
@@ -4304,6 +4332,7 @@ optimized
 outpace
 obscured
 overlay
+organize
 study
 simplified
 something
@@ -4757,6 +4786,14 @@ subkeys
 sending
 subkey
 sender
+simplicity
+slopes
+separated
+separation
+sides
+selecting
+separable
+sophisticated
 giving
 good
 generalizable
@@ -5001,6 +5038,7 @@ graphical
 graphs
 git
 green
+generality
 computers
 computer
 can
@@ -5483,6 +5521,12 @@ counting
 counters
 concatenated
 concatenations
+characterize
+center
+circumstances
+convenience
+coincides
+constraints
 the
 to
 training
@@ -5821,6 +5865,9 @@ tell
 tracked
 transmitted
 transmitter
+theorists
+topic
+tweaking
 being
 be
 by
@@ -6061,6 +6108,8 @@ black
 billions
 blocking
 blue
+builds
+broadest
 explicitly
 experience
 error
@@ -6388,6 +6437,8 @@ equipped
 extracting
 elegantly
 ensuring
+enacts
+experiment
 programmed
 patterns
 program
@@ -6785,6 +6836,12 @@ placed
 parse
 protocol
 party
+plotted
+pred
+proceeding
+proven
+perspectives
+primal
 Detecting
 Deepmind
 Dataset
@@ -7028,6 +7085,11 @@ Download
 Document
 Documents
 Designing
+Dimension
+Distance
+Defining
+Duality
+Dual
 regularities
 respect
 recognizing
@@ -7349,6 +7411,9 @@ roles
 receiving
 receiver
 recveive
+realm
+region
+rescaling
 model
 mostly
 machine
@@ -7646,6 +7711,11 @@ multiplied
 marbles
 manipulates
 maxed
+middle
+math
+misclassifications
+misclassify
+margin
 hypothesis
 handwritten
 have
@@ -7868,6 +7938,8 @@ hook
 healthcare
 hidden
 heavy
+hyperplane
+handled
 Execution
 Examples
 Economics
@@ -8290,6 +8362,7 @@ underfit
 util
 unknowingly
 utilization
+unrealistic
 data
 driven
 dataset
@@ -8639,6 +8712,11 @@ density
 differentiate
 decrypting
 destroy
+differing
+diagram
+draw
+dual
+dimension
 future
 from
 feed
@@ -8898,6 +8976,9 @@ fuse
 frequent
 factorial
 flawed
+falls
+fundamentals
+formulae
 Optimziation
 Operations
 Once
@@ -9494,6 +9575,8 @@ vocabulary
 vectorizing
 validate
 vulnerable
+violate
+viewed
 numerical
 no
 need
@@ -10127,6 +10210,8 @@ Helps
 Hierarchy
 HBM
 Horton
+Hyperplane
+Huge
 Not
 NOTHING
 No
@@ -10312,6 +10397,7 @@ Network
 NUMA
 National
 Numbering
+Nonlinearity
 quality
 question
 quickly
@@ -10866,6 +10952,7 @@ Berkeley
 Balance
 Bottleneck
 BinaryLogisticRegression
+Beforehand
 just
 jagged
 json
@@ -11174,6 +11261,7 @@ VBP
 Version
 Viewing
 VTune
+Vapnik
 zero
 zu
 zj
