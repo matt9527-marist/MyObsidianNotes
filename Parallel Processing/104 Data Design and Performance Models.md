@@ -38,7 +38,7 @@ math.
 • For compute-heavy loops, prefer:  
 • Procedural code  
 	• Structure of Arrays (SoA) over Arrays of Structures (AoS) 
-	 
+		Structure of Arrays falls under OOP. 
 	• Inlining where possible to avoid jumps and stack overhead  
 • DOD Focus: Organize data for cache & CPU efficiency
 
