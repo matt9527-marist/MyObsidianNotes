@@ -30,3 +30,5 @@ We may have the following situation:
 **Linearly Separable** problems are ones where the two classes of data points can be separated by a straight line. 
 But see the diagram, you should ask yourself, "is the plotted line the best possible line?"
 There are really infinitely possible separation lines. 
+We need to be able to draw lines such that the separation between the classes is as wide as possible. This is called an *avenue*. Therefore, we need to find the points that maximize the width of that avenue. 
+
