@@ -58,3 +58,27 @@ math.
 • OOP structures hinder:  
 	• Thread-local vs. shared memory distinction  
 	• Efficient use of SIMD/vector instructions
+
+**Multidimensional Arrays**
+• Understand the memory layout of 2D arrays  
+• Access arrays for cache efficiency
+![[Pasted image 20251013185447.png]]
+• Memory Layout Matters  
+• C: Row-major — last index varies fastest  
+• Fortran: Column-major — first index varies fastest  
+• Inner loop must match memory layout for contiguous access  
+• we must remember which index should be in the inner loop to leverage  
+the contiguous memory in each situation
+
+**Conventional Way of Allocating a 2D Array in C++**
+```c++
+double **x = malloc(jmax * sizeof(double*));  
+for (int j = 0; j < jmax; j++)  
+	x[j] = malloc(imax * sizeof(double));  
+	
+// computation...  
+
+for (int j = 0; j < jmax; j++) free(x[j]);  
+free(x);
+```
+
