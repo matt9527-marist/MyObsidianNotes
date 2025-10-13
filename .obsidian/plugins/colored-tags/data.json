@@ -51,7 +51,8 @@
     "CrossEntropy": 39,
     "BinaryLogisticRegression": 40,
     "Multinomial": 41,
-    "MultinomalLogisticRegression": 42
+    "MultinomalLogisticRegression": 42,
+    "SVMs": 43
   },
   "_version": 3
 }
