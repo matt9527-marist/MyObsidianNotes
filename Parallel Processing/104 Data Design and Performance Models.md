@@ -165,7 +165,7 @@ just how you organize code.
 • Think data usage first, not just code structure  
 • AoS: Good for CPU-side code using all fields together  
 • SoA: Better for performance-critical, vectorized, or GPU code  
-• Use contiguous memory when possible to avoid fragmented cache loads  
+• *Use contiguous memory when possible to avoid fragmented cache loads*  
 • Test both layouts if unsure — performance can vary by use case and  
 hardware
 
@@ -185,3 +185,18 @@ for (int i = 0; i < 1000; i++)
 ```
 • Easy to read  
 • But has hidden performance issues
+• Instruction cache misses: Every calc_radius() or big_calc() call jumps to  
+new code locations.  
+• Subroutine call overhead: Stack push/pop, jump in/out = slow  
+• Cache line inefficiency: Writes to radius may force cache invalidation if  
+shared across threads.  
+• Inlining can help — but only for simple methods like calc_radius()  
+big_calc() is too complex to inline.
+
+**How to Make It Faster**
+• Use flat arrays for x, y, z, radius  
+	• Calculate in a procedural loop with dereferencing once  
+	• This reduces:  
+		• Instruction jumps  
+		• Cache reloads  
+		• Repeated pointer dereferencing
