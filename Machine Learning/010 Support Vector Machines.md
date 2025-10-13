@@ -44,4 +44,8 @@ Therefore, we can have our cost function: $$J(w,b) = \frac{1}{2}||w||^2 + \dots$
 The above cost function is *convex*. 
 
 $$w*,b* = argmin \space J(w,b) = \frac{1}{2}||w||^2 + \dots$$
-Why `+ ...`
+Why `+ ...` ?
+If we stop there, we are basically assuming that our classification is perfect, which is unrealistic. We need to be able to introduce the idea of misclassifications. How?
+
+For this, we may introduce a loss function: 
+
