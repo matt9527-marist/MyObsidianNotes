@@ -110,4 +110,5 @@ The function that we layed out earlier is a function that is without constraints
 
 The Dual Problem:
 Find `alpha_i` where `i = 1,m`
-$$max\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\alpha_{i}\alpha_{j}y^{[i]}y^{[j]}x_{[i]}^T$$
+$$max\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\alpha_{i}\alpha_{j}y^{[i]}y^{[j]}x^{[i]} \space^Tx^{[j]}$$
+Subject to: $$0 \leq \alpha_{i} \leq C$$$$\sum^{m}_{i=1}\alpha_{i}y^{[i]} = 0$$
