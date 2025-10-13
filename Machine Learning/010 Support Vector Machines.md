@@ -22,3 +22,4 @@ Imagine the following:
 The two lines represented by the differing intercepts `b1` and `b2` are parallel. That is, their slopes are the same, but the intercepts can change. 
 We want to compute `d`, the distance between the two parallel lines. 
 
+*Equation of a Hyperplane*: $$w^Tx +b = 0$$
