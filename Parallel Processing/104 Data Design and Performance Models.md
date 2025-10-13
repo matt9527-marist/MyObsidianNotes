@@ -23,3 +23,21 @@ math.
 	• Estimate performance  
 	• Predict whether a code change is worth it  
 	• Identify bottlenecks
+
+**Object-Oriented Tradeoffs**
+• OOP groups data + methods for code clarity  
+• But: CPU doesn't work like OOP — it processes data, not abstractions  
+• Performance Costs in OOP:  
+• Frequent method calls = deep call stacks  
+• Instruction cache misses from jumps  
+• Poor data locality when working on large arrays of objects  
+• Small routines may inline, complex ones do not
+
+**Guideline**
+• OOP is fine for small-scale or UI logic  
+• For compute-heavy loops, prefer:  
+• Procedural code  
+	• Structure of Arrays (SoA) over Arrays of Structures (AoS)  
+	• Inlining where possible to avoid jumps and stack overhead  
+• DOD Focus: Organize data for cache & CPU efficiency
+
