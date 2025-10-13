@@ -137,3 +137,9 @@ just how you organize code.
 • Bad when only one field (e.g., just R) is used — wastes cache bandwidth
 • Note: Padding for alignment may add 25% memory overhead
 
+**Structure of Arrays (SoA)**
+![[Pasted image 20251013192353.png]]
+• Good for accessing one field at a time (e.g., just R)  
+• Cache efficiency can drop when all fields are accessed together  
+• Memory allocations are separate (not guaranteed contiguous)
+
