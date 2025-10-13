@@ -112,3 +112,5 @@ The Dual Problem:
 Find `alpha_i` where `i = 1,m`
 $$max\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\alpha_{i}\alpha_{j}y^{[i]}y^{[j]}x^{[i]} \space^Tx^{[j]}$$
 Subject to: $$0 \leq \alpha_{i} \leq C$$$$\sum^{m}_{i=1}\alpha_{i}y^{[i]} = 0$$
+Why present the problem like this? We generally prefer problems where the data `n >= m`.
+The second reason is for the term `x[i]^Tx[j]`. This is a *dot product* of the samples. This entire expression is not a function of the individual samples, but it is a function of the dot product of the samples. The dot product is one special case of the more sophisticated *inner product*. 
