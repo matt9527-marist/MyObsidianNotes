@@ -42,3 +42,6 @@ Recall the steps for selecting an optimization strategy:
 $$max \space d = \frac{2}{||w||} = min \space \frac{1}{2}||w||^2$$where the norm is squared for convenience to avoid a double square root by taking the norm. (`||w|| = sqrt(w1,w2,...wn)`)
 Therefore, we can have our cost function: $$J(w,b) = \frac{1}{2}||w||^2 + \dots$$
 The above cost function is *convex*. 
+
+$$w*,b* = argmin \space J(w,b) = \frac{1}{2}||w||^2 + \dots$$
+Why `+ ...`
