@@ -49,3 +49,12 @@ math.
 • Avoid hidden memory allocations — control memory explicitly  
 • Use contiguous array-based lists, not pointer-chained structures  
 • Improves data locality and prefetching
+
+**DoD vs. OOP**
+• DOD aligns with HPC practices  
+• Helps with:  
+	• Shared memory programming (e.g., OpenMP)  
+	• Vectorization (needs long, homogeneous arrays)  
+• OOP structures hinder:  
+	• Thread-local vs. shared memory distinction  
+	• Efficient use of SIMD/vector instructions
