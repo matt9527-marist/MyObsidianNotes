@@ -122,7 +122,12 @@ Nonlinearity:
 How do we classify this? 
 (see notes)
 What if we *increased the dimensions*?
-This means that we have transformed the function. How is this handled? We use a *kernel function*. 
+This means that we have transformed the function. How is this handled? We use a *kernel function*, one that works in place of the dot product and increases the dimension in which we can manage. 
+Remember the core ideas:
+1) Widen the margin 
+2) Soften the margin 
+3) Present the problem as the dual 
+4) 
 
 
 
