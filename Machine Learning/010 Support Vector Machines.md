@@ -55,6 +55,7 @@ As we can see, if the value is less than 1, this incurs as a linear penalty, and
 $$L = 0 \space \text{if} \space y,\hat{y} \geq 0$$$$L > 0 \space \text{if} \space y,\hat{y} < 1$$
 This means that on the above cost function, we want to add the term that takes misclassifications into consideration. In order to do this: 
 - Suppose case #1, we have misclassified a data point. ![[Pasted image 20251013163235.png]]
-- Case 1) `y=1` but `yhat > 1` 
+- Case 1) `y=1` but `yhat > 1`. This implies that `y * yhat` will be less than -1. 
+- Inputting this into Hinge, we obtain `1 - (y*yhat)`, which will give us a positive value, ie. we have some penalty.
 - 
 
