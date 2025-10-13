@@ -49,5 +49,8 @@ If we stop there, we are basically assuming that our classification is perfect, 
 
 For this, we may introduce a loss function: 
 (see notes)
-If our classification is confident enough, there is no penalty whatsoever. However, what happens when we have a point insid
+If our classification is confident enough, there is no penalty whatsoever. However, what happens when we have a point inside of the avenue? (misclassify or classify correctly but violate the margin).
+The **Hinge** loss enacts some kind of penalty for getting too close to the margin. 
+As we can see, if the value is less than 1, this incurs as a linear penalty, and if the penalty is equal or greater than 1, there is no penalty.
+$$L = 0 \space \text{if} \space y,\hat{y}$$
 
