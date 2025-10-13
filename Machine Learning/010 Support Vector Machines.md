@@ -107,3 +107,6 @@ problem.
 
 **Constraint Optimization**
 The function that we layed out earlier is a function that is without constraints. If we integrate the dual, we are introducing constraints. 
+
+The Dual Problem:
+(see notes)
