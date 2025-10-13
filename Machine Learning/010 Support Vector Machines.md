@@ -23,3 +23,5 @@ The two lines represented by the differing intercepts `b1` and `b2` are parallel
 We want to compute `d`, the distance between the two parallel lines. 
 
 *Equation of a Hyperplane*: $$w^Tx +b = 0$$
+*Distance between two parallel lines*: $$d = \frac{|b_{1}-b_{2}|}{||w||}$$
+With these fundamentals, we can h
