@@ -12,4 +12,10 @@ How do we characterize VC's?
 **Maximum Margin Binary Classifiers** (1990s):
 We need some theory: 
 - Recall: The equation for a **hyperplane**:
-(see notes):
+(see notes)
+In this case, we are describing a line. This is visualized in 2D for simplicity. 
+Pay close attention to the expression:
+$$w_{1}x_{1} + w_{2}x_{2} + b = 0$$as it will return repeatedly throughout this topic. 
+
+Imagine the following:
+
