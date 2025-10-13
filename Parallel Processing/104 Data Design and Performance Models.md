@@ -107,3 +107,19 @@ for (int j = 1; j < jmax; j++)
 	• Better vectorization and threading  
 	• Avoid hidden performance traps in pointer-heavy allocation
 
+**Single Allocation (Optimized)**
+```c++
+double** x = malloc(jmax * sizeof(double*) + jmax * imax * sizeof(double));  
+x[0] = (double*)(x + jmax);  
+for (int j = 1; j < jmax; j++)  
+	x[j] = x[j-1] + imax;
+```
+• Just 1 allocation  
+• Row pointers + data in one block -> best cache performance  
+• Fast, compact, easy to free
+
+Accessing the array:
+• 1D access: x[0][i] or via double* x1d = x[0]; x1d[i]  
+• 2D access: x[j][i]  
+• Manual index: x1d[i + imax * j] (for threading/vectorization)
+
