@@ -85,4 +85,6 @@ $$J = \frac{1}{2}||w||^2 + C\sum^{m}_{i=1} max(0, 1 - y^{[i]}\hat{y}^{[i]})$$
 Where the first component is about defining a wide margin, and the second component is about error tolerance. If we have a very large hyperparameter `C`, we are more directly penalizing the errors. This may push us in the direction of having a smaller margin. 
 
 (This first term looks like regularization, and it is, but the semantics and usage is different.)
-$$\lambda = \frac{1}{C}$$$$J = \frac{\lambda}{2}$$
+$$\lambda = \frac{1}{C}$$$$J = \frac{\lambda}{2}||w||^2 + \sum^{m}_{i=1}max(0, 1 - y^{[i]}\hat{y}^{[i]})$$
+This looks very similar to: $$J = \frac{\lambda}{2}||w||^2 + max(0, 1 - y\hat{y})$$
+Beforehand, generally speaking, our `J` used to be an average loss. In thi case,
