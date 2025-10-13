@@ -38,4 +38,6 @@ Now that we have these formulae, we need to compute the distance `d`, ie. find t
 We have already kind of done this: $$d = \frac{2}{||w||}$$
 So it means that we have found a criterion to come up with the best possible classifier at least under the above circumstances. We want to maximize `d`. 
 Recall the steps for selecting an optimization strategy:
-$$max \space $$
+$$max \space d = \frac{2}{||w||} = min \space \frac{1}{2}||w||^2$$where the norm is squared for convenience to avoid a double square root. 
+Therefore, we can have our cost function: $$J(w,b) = \frac{1}{2}||w||^2 + \dots$$
+The above cost function is *convex*. 
