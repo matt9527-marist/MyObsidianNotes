@@ -66,4 +66,8 @@ If we misclassify inside of the avenue, we may also be misclassifying, if we are
 - This means `-1 < y * yhat < 0`. 
 - This implies that `L > 1`. This means it will incur a penalty. It is still >1 but less. 
 
-Now consider the nex
+Now consider the next possible case, where a -1 point is classified below the middle line but still above the lower margin line. This is the case where we are not completely confident of the point. If we are not completely certain, would we not incur some penalty? It is a *margin violation*. 
+
+The point is classified between the middle line and the lower magin:
+![[Pasted image 20251013170043.png]]
+- Case 3)`y=-1` and we classif `-1 < yhat < 0`
