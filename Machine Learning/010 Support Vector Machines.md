@@ -66,3 +66,4 @@ If we misclassify inside of the avenue, we may also be misclassifying, if we are
 - This means `-1 < y * yhat < 0`. 
 - This implies that `L > 1`. This means it will incur a penalty. It is still >1 but less. 
 
+Now consider the nex
