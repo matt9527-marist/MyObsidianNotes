@@ -59,3 +59,4 @@ This means that on the above cost function, we want to add the term that takes m
 - Inputting this into Hinge, we obtain `1 - (y*yhat)`, which will give us a positive value, ie. we have some penalty.
 
 
+
