@@ -96,5 +96,6 @@ Before proceeding, let us organize the following ideas:
 
 Huge problem: What happens when we have a situation that is NOT *linearly separable*?
 
-
-
+## Duality 
+(see notes)
+It can be proven that `B <= A`
