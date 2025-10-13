@@ -48,4 +48,6 @@ Why `+ ...` ?
 If we stop there, we are basically assuming that our classification is perfect, which is unrealistic. We need to be able to introduce the idea of misclassifications. How?
 
 For this, we may introduce a loss function: 
+(see notes)
+If our classification is confident enough, there is no penalty whatsoever. However, what happens when we have a point insid
 
