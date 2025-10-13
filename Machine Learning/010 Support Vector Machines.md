@@ -97,5 +97,10 @@ Before proceeding, let us organize the following ideas:
 Huge problem: What happens when we have a situation that is NOT *linearly separable*?
 
 ## Duality 
+#duality
 (see notes)
-It can be proven that `B <= A`
+It can be proven that `B <= A`. 
+If the problem is *convex*, `A` coincides with `B`. This is perfect for what we are doing. 
+Definition: according to the **duality principle**, optimization problems may  
+be viewed from either of two perspectives, the primal problem or the dual  
+problem.
