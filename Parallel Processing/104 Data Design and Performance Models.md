@@ -86,4 +86,10 @@ free(x);
 • Poor for cache locality, Fortran interop, file I/O, GPU transfer  
 • Still widely used due to habit and teaching
 
-
+**Contiguous Block with Pointer Setup**
+```c++
+double **x = malloc(jmax * sizeof(double*));  
+x[0] = malloc(jmax * imax * sizeof(double));  
+for (int j = 1; j < jmax; j++)  
+	x[j] = x[j - 1] + imax;
+```
