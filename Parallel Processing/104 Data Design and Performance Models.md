@@ -200,3 +200,52 @@ big_calc() is too complex to inline.
 		• Instruction jumps  
 		• Cache reloads  
 		• Repeated pointer dereferencing
+
+**Hash Table Example** - AoS vs. SoA
+```c++
+struct hash_type {  
+	int key;  
+	int value;  
+};  
+hash_type hash[1000];
+```
+• Key and value stored together  
+• Wastes cache space if only keys are scanned
+```c++
+struct hash_type {  
+	int* key;  
+	int* value;  
+};  
+hash_type hash;  
+hash.key = new int[1000];  
+hash.value = new int[1000];
+```
+• Only keys are loaded into cache during search  
+• Much faster for lookups  
+• Also better for vectorization
+
+Physics Simulation - more AoS vs. SoA
+```c++
+struct phys_state {  
+	double density;  
+	double momentum[3];  
+	double TotEnergy;  
+};  
+phys_state state[1000];  
+double* density = new double[1000];  
+double* momentum_x = new double[1000];  
+double* momentum_y = new double[1000];  
+double* momentum_z = new double[1000];  
+double* TotEnergy = new double[1000];
+```
+
+**Summary: Performance-Friendly C++ Tips**
+• Avoid per-object method calls in tight loops  
+	• Flatten data into arrays (SoA) when:  
+		• Only some fields are used  
+		• You need vectorization  
+• You’re working with large datasets  
+	• Use AoS when:  
+	• All fields are used together  
+	• You need simple code and don’t mind some overhead
+
