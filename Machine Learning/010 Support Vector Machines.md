@@ -89,3 +89,5 @@ $$\lambda = \frac{1}{C}$$$$J = \frac{\lambda}{2}||w||^2 + \sum^{m}_{i=1}max(0, 1
 This looks very similar to: $$J = \frac{\lambda}{2}||w||^2 + max(0, 1 - y\hat{y})$$
 Beforehand, generally speaking, our `J` used to be an average loss. In this case, we are not taking an average. This is presented in this way because minimizing the cost function over the sum of all data points is the same thing. 
 
+
+
