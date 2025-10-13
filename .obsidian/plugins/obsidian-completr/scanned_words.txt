@@ -228,6 +228,7 @@ Measures
 MiniApp
 Messages
 Must
+Machines
 Learning
 Learn
 Let
@@ -1717,6 +1718,7 @@ Summary
 Such
 Shakespeare
 Send
+Support
 Keras
 Key
 Kirchhoffs
