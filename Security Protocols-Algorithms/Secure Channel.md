@@ -44,7 +44,7 @@ sendMessage(S, m, x) --> t
 	
 	# Form the final ciphertext by prepending i 
 	# to t concatenated with t XOR'd with the keystream up to len(t)
-	t = i || (t XOR bytes(k : len(t))
+	t = i || (t XOR bytes(k : len(t)))
 	
 	return t
 ```
@@ -64,6 +64,14 @@ receiveMessage(S, t, x) --> m
 	
 	# Generate the keystream 
 	K = KeyRecEnc
-	k = E_K(0 || i || 0)
+	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
+	
+	# Decrypt the message and MAC field and split the two 
+	# We can do the split because we know the MAC field is 32 bytes long 
+	m || a = (t XOR bytes(k : len(t))) 
+	
+	# Recompute the authentication 
+	# We know the 
+	
 ```
 
