@@ -108,7 +108,18 @@ initSecureChannel(K, R):
 	KeySendAuth <- SHA256(K, "Auth Alice to Bob")
 	KeyRecAuth SHA256(K, "Auth Bob to Alice")
 	
-	#
+	# Set up the MsgCntSend and MsgCntRec counters 
+	# Initialize them to 0
+	MsgCntSend, MsgCntRec <- 0
+	
+	# Package the Secure State 
+	S <- (KeySendEnc, KeyRecEnc, KeySendAuth, KeyRecAuth, 
+	MsgCntSend, MsgCntRec)
+	
+	return S 
+```
+```Python 
+@params S session state, 
 ```
 
 
