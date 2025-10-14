@@ -23,7 +23,12 @@ initializeSecureChannel(K, R) --> S
 Send Message
 ```python 
 # params S secure session state, m message, x additional data to be auth'd 
-
+# Return t data to be transmitted to receiver 
+sendMessage(S, m, x) --> t
+	# 
+	assert(MsgCntSend < 2^32 - 1)
+	MsgCntSend++ 
+	i = MsgCntSend 
 ```
 
 
