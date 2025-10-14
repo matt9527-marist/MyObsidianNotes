@@ -119,7 +119,15 @@ initSecureChannel(K, R):
 	return S 
 ```
 ```Python 
-@params S session state, 
+# @params S session state, m message, x protocol data to be auth'd 
+# Return t ciphertext to be sent 
+sendMessage(S, m, x):
+	# First ensure that we have not maxed out MsgCntSend 
+	assert(MsgCntSend < 2^32 - 1)
+	MsgCntSend++ 
+	i = MsgCntSend 
+	
+	 
 ```
 
 
