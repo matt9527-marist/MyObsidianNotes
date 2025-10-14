@@ -43,7 +43,9 @@ sendMessage(S, m, x) --> t
 	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
 	
 	# Form the final ciphertext 
-	t = i || (t XOR )
+	t = i || (t XOR first-len(t)-Bytes(k))
+	
+	return t
 ```
 
 
