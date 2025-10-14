@@ -60,7 +60,10 @@ receiveMessage(S, t, x) --> m
 	
 	# Split t into i and the encrypted message + authenticator 
 	# Split is well defined because i is 4 bytes long
-	t = i || t
+	i || t = t
 	
+	# Generate the keystream 
+	K = KeyRecEnc
+	k = E_K(0 || i || 0)
 ```
 
