@@ -62,7 +62,7 @@ The block and key sizes are much smaller than what we use today.
 	(Cannot swap these)
 	Why have multiple options when 256 is the most secure? Why do overkill? Some may opt for lower levels of security in order to increase performance. 
 ![[Pasted image 20250917143411.png]]
-1. Break 128 bits into 16 bit inputs. 
+1. Break 128 bits into 8 bit inputs
 2. XOR the inputs with a 16 bit round key 
 3. Input the 16 bit output into an *S* box which gives an output of 8 bits.
 4. Output moves into predefined *Mix* function.
