@@ -71,7 +71,8 @@ receiveMessage(S, t, x) --> m
 	m || a = (t XOR bytes(k : len(t))) 
 	
 	# Recompute the authentication 
-	# We know the 
+	# We know the values len(x) and i are encoded in 4 bytes, LSB first 
+	a2 = HMAC_SHA256(KeyRecAuth, i || len(x) || m)
 	
 ```
 
