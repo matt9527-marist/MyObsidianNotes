@@ -153,7 +153,9 @@ receiveMessage(S, t, x):
 	k <- E_K(0 || i || 0) || E_K(1 || i || 0) ...
 	
 	# Decrypt the message and the MAC field and split the two 
-	m || a <- i || (t XOR bytes(k : len(t)))
+	m || a <- (t XOR bytes(k : len(t)))
+	
+	aprime <- HMAC_SHA256(KeyRecAuth || i || len(x) || x || t)
 	
 ```
 
