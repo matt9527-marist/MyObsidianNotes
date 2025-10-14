@@ -20,4 +20,10 @@ initializeSecureChannel(K, R) --> S
 	return S
 ```
 
+Send Message
+```python 
+# params S secure session state, m message, x additional data to be auth'd 
+
+```
+
 
