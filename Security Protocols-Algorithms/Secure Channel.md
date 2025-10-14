@@ -33,7 +33,7 @@ sendMessage(S, m, x) --> t
 	i = MsgCntSend 
 	
 	# Compute authentication
-	a = HMAC_SHA256(KeySendAuth, i || len(x) || m)
+	a = HMAC_SHA256(KeySendAuth, i || len(x) || x || m)
 	t = m || a
 	
 	# Generate the key stream. Each plaintext block of the block cipher 
@@ -72,7 +72,16 @@ receiveMessage(S, t, x) --> m
 	
 	# Recompute the authentication 
 	# We know the values len(x) and i are encoded in 4 bytes, LSB first 
-	a2 = HMAC_SHA256(KeyRecAuth, i || len(x) || m)
+	a2 = HMAC_SHA256(KeyRecAuth, i || len(x) || x || m)
 	
+	if a2 != a
+		destroy k, m
+		return AUTHENTICATION_FAILURE
+	else if i <= MsgCntRec 
+		destroy k, m
+		return MESSAGE_ORDER_FAILURE 
+	
+	MsgCntRec = i 
+	return m 
 ```
 
