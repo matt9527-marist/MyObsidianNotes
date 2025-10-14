@@ -43,10 +43,16 @@ sendMessage(S, m, x) --> t
 	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
 	
 	# Form the final ciphertext by prepending i 
-	# to t concatenated with t XOR'd with the key 
+	# to t concatenated with t XOR'd with the keystream up to len(t)
 	t = i || (t XOR bytes(k : len(t))
 	
 	return t
 ```
 
+Receive Message 
+```python 
+# @params S secure session state, t text received, x protocol data to be auth'd
+# Return m the message that was sent 
+receiveMessage(S, t , x)
+```
 
