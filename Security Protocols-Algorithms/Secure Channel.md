@@ -140,6 +140,15 @@ sendMessage(S, m, x):
 ```
 ```Python 
 # @params S session state, t ciphertext, x protocol data to be auth'd 
+# Return m the original message 
+receiveMessage(S, t, x): 
+	# Ensure the received text is at least 36 bytes in size
+	assert(len(t) >= 36)
+	
+	# Split 
+	t || i <- t
+	
+	
 ```
 
 
