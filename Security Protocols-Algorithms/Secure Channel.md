@@ -74,6 +74,7 @@ receiveMessage(S, t, x) --> m
 	# We know the values len(x) and i are encoded in 4 bytes, LSB first 
 	a2 = HMAC_SHA256(KeyRecAuth, i || len(x) || x || m)
 	
+	# Verify authentication 
 	if a2 != a
 		destroy k, m
 		return AUTHENTICATION_FAILURE
