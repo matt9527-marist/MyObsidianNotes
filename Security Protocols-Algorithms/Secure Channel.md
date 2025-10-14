@@ -127,7 +127,10 @@ sendMessage(S, m, x):
 	MsgCntSend++ 
 	i = MsgCntSend 
 	
-	 
+	# Compute auth 
+	a = HMAC_SHA256(KeySendAuth || i || len(x) || x || t)
+	t = m || a 
+	\#
 ```
 
 
