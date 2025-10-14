@@ -155,8 +155,18 @@ receiveMessage(S, t, x):
 	# Decrypt the message and the MAC field and split the two 
 	m || a <- (t XOR bytes(k : len(t)))
 	
-	aprime <- HMAC_SHA256(KeyRecAuth || i || len(x) || x || t)
+	aprime <- HMAC_SHA256(KeyRecAuth || i || len(x) || x || m)
 	
+	# verify auth 
+	if (a != aprime): 
+		destroy k, m
+		return AUTH_FAILURE 
+	else if (i <= MsgCntRec)
+		destroy k, m 
+		return MSG_ORDER_ERROR 
+	
+	MsgCntRec <- i 
+	return m
 ```
 
 
