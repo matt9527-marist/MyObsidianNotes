@@ -32,7 +32,8 @@ sendMessage(S, m, x) --> t
 	MsgCntSend++ 
 	i = MsgCntSend 
 	
-	# Compute authenticati
+	# Compute authentication
+	a = HMAC_SHA256(KeySendAuth, i || len(x) || m)
 ```
 
 
