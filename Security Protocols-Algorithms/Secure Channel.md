@@ -56,5 +56,11 @@ Receive Message
 receiveMessage(S, t, x) --> m 
 	# The received message must be at least 36 bytes, consisting of a 4
 	# byte message number and a 32 byte MAC field 
+	assert(len(t) >= 36)
+	
+	# Split t into i and the encrypted message + authenticator 
+	# Split is well defined because i is 4 bytes long
+	t = i || t
+	
 ```
 
