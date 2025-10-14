@@ -98,10 +98,17 @@ To make Secure Channel: set up the channel and session state:
 
 
 
-```
-# @ params K key, R role (determining the party)\
+```Python
+# @ params K key, R role (determining the party)
 # Return S the secure session state
-
+initSecureChannel(K, R): 
+	# First compute the required subkeys 
+	KeySendEnc <- SHA256(K, "Enc Alice to Bob")
+	KeyRecEnc <- SHA256(K, "Enc Bob to Alice")
+	KeySendAuth <- SHA256(K, "Auth Alice to Bob")
+	KeyRecAuth SHA256(K, "Auth Bob to Alice")
+	
+	#
 ```
 
 
