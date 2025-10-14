@@ -42,8 +42,9 @@ sendMessage(S, m, x) --> t
 	K = KeySendEnc 
 	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
 	
-	# Form the final ciphertext 
-	t = i || (t XOR )
+	# Form the final ciphertext by prepending i 
+	# to t concatenated with t XOR'd with the key 
+	t = i || (t XOR bytes(k : len(t))
 	
 	return t
 ```
