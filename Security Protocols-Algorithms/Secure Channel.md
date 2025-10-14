@@ -9,5 +9,9 @@ initializeSecureChannel(K, R) --> S
 	KeyRecAuth = SHA256(K, "Auth Bob to Alice")
 	# Swap keys if the party is Bob
 	if R == "Bob":
-		Swap(KeySendA)
+		Swap(KeySendEnc, KeyRecEnc)
+		Swap(KeySendAuth, KeyRecAuth)
+		
+	# Init send/receive counters at 0
+	MsgCntSend, MsgC
 ```
