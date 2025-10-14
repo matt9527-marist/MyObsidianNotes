@@ -40,6 +40,10 @@ sendMessage(S, m, x) --> t
 	# consists of a 4 byte counter, 4 bytes of i, and 8 zero bytes 
 	# Integers are LSB first, E is AES encryption with 256-bit key 
 	K = KeySendEnc 
+	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
+	
+	# Form the final ciphertext 
+	t = i || (t XOR )
 ```
 
 
