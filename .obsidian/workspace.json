@@ -35,7 +35,8 @@
               "title": "004 The Secure Channel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51320cbd78282d30",
+  "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/003 Hashing.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
@@ -213,7 +215,6 @@
     "Parallel Processing/002.1 Using Dynamic Memory.md",
     "Parallel Processing/002 C++ Introduction.md",
     "Parallel Processing/001 CMake and Catch2.md",
-    "Security Protocols-Algorithms/003 Hashing.md",
     "Machine Learning/009 TF-IDF.md",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
