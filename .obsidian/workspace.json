@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/103 Performance Limits and Profiling.md",
+                "file": "Security Protocols-Algorithms/Secure Channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "103 Performance Limits and Profiling"
+              "title": "Secure Channel"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/Secure Channel.md",
+                "file": "Security Protocols-Algorithms/004 The Secure Channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secure Channel"
+              "title": "004 The Secure Channel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,9 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8ad4dc0d52dbb3",
+  "active": "51320cbd78282d30",
   "lastOpenFiles": [
     "Parallel Processing/103 Performance Limits and Profiling.md",
+    "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Security Protocols-Algorithms/Secure Channel.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "Machine Learning/010 Support Vector Machines.md",
@@ -214,7 +214,6 @@
     "Machine Learning/009 TF-IDF.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
-    "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",

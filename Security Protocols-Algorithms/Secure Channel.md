@@ -1,3 +1,4 @@
+Start Secure Channel:
 ```python
 # @params K key of the channel, 256 bits, R role specifying party
 # Return S the state of the secure channel
@@ -13,5 +14,10 @@ initializeSecureChannel(K, R) --> S
 		Swap(KeySendAuth, KeyRecAuth)
 		
 	# Init send/receive counters at 0
-	MsgCntSend, MsgC
+	MsgCntSend, MsgCntRec = 0 
+	# Package the state 
+	S = (KeySendEnc, KeyRecEnc, KeySendAuth, KeyRecAuth, MsgCntSend, MsgCntRec)
+	return S
 ```
+
+
