@@ -86,3 +86,55 @@ receiveMessage(S, t, x) --> m
 	return m 
 ```
 
+
+
+
+
+
+To make Secure Channel: set up the channel and session state:
+
+
+
+
+
+
+```
+# @ params K key, R role (determining the party)\
+# Return S the secure session state
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
