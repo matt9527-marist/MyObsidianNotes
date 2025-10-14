@@ -145,9 +145,15 @@ receiveMessage(S, t, x):
 	# Ensure the received text is at least 36 bytes in size
 	assert(len(t) >= 36)
 	
-	# Split 
+	# Split t and i into the encrypted message + authenticator
 	t || i <- t
 	
+	# Generate the keystream 
+	K <- KeyRecEnc
+	k <- E_K(0 || i || 0) || E_K(1 || i || 0) ...
+	
+	# Decrypt the message and the MAC field and split the two 
+	m || a <- i || (t XOR bytes(k : len(t)))
 	
 ```
 
