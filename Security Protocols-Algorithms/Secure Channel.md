@@ -125,12 +125,21 @@ sendMessage(S, m, x):
 	# First ensure that we have not maxed out MsgCntSend 
 	assert(MsgCntSend < 2^32 - 1)
 	MsgCntSend++ 
-	i = MsgCntSend 
+	i <- MsgCntSend 
 	
 	# Compute auth 
-	a = HMAC_SHA256(KeySendAuth || i || len(x) || x || t)
-	t = m || a 
-	\#
+	a <- HMAC_SHA256(KeySendAuth || i || len(x) || x || t)
+	t <- m || a 
+	
+	# Generate the keystream 
+	K <- KeySendEnc
+	k <- E_K(0 || i || 0) || E_K(1 || i || 0) ... 
+	
+	t <- i || (t XOR bytes(k : len(t)))
+	return t
+```
+```Python 
+# @params S session state, t ciphertext, x protocol data to be auth'd 
 ```
 
 
