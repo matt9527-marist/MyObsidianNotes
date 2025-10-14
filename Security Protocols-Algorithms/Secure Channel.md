@@ -8,6 +8,7 @@ initializeSecureChannel(K, R) --> S
 	KeyRecEnc = SHA256(K, "Enc Bob to Alice")
 	KeySendAuth = SHA256(K, "Auth Alice to Bob")
 	KeyRecAuth = SHA256(K, "Auth Bob to Alice")
+	
 	# Swap keys if the party is Bob
 	if R == "Bob":
 		Swap(KeySendEnc, KeyRecEnc)
@@ -22,13 +23,16 @@ initializeSecureChannel(K, R) --> S
 
 Send Message
 ```python 
-# params S secure session state, m message, x additional data to be auth'd 
+# params S secure session state, m message, x protocol data to be auth'd 
 # Return t data to be transmitted to receiver 
 sendMessage(S, m, x) --> t
-	# 
+	# Ensure message count has not been maxed out
+	# Recreate session if message count is maxed out
 	assert(MsgCntSend < 2^32 - 1)
 	MsgCntSend++ 
 	i = MsgCntSend 
+	
+	# Compute authenticati
 ```
 
 
