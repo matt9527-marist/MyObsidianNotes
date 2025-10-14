@@ -53,6 +53,8 @@ Receive Message
 ```python 
 # @params S secure session state, t text received, x protocol data to be auth'd
 # Return m the message that was sent 
-receiveMessage(S, t , x)
+receiveMessage(S, t, x) --> m 
+	# The received message must be at least 36 bytes, consisting of a 4
+	# byte message number and a 32 byte MAC field 
 ```
 
