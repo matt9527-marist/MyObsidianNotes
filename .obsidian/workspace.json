@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/Secure Channel.md",
+                "file": "Machine Learning/010 Support Vector Machines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secure Channel"
+              "title": "010 Support Vector Machines"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "616cf83774cbade3",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/Secure Channel.md",
     "Security Protocols-Algorithms/003 Hashing.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "conflict-files-obsidian-git.md",
-    "Security Protocols-Algorithms/Secure Channel.md",
     "Assets/Pasted image 20251013192845.png",
     "Assets/Pasted image 20251013192841.png",
     "Assets/Pasted image 20251013192839.png",
