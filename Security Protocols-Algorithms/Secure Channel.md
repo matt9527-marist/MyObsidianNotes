@@ -130,7 +130,7 @@ InitSecureChannel(K, R):
 	MsgCntSend, MsgCntRec)
 ```
 ```Python 
-SendMessage(S, m, x)
+SendMessage(S, m, x):
 	# Make sure we haven't maxed out the counter 
 	assert(MsgCntSend < 2^32 - 1)
 	MsgCntSend++ 
@@ -143,6 +143,23 @@ SendMessage(S, m, x)
 	# Generate keystream 
 	K = KeySendEnc
 	k = E_K(0 || i || 0) || E_K(1 || i || 0)
+	
+	# Prepare final concatenated t 
+	t = i || (t XOR bytes(k : len(t)))
+	
+	return t 
+```
+```python 
+ReceiveMessage(S, t, x):
+	# Make sure the length of t is at least 36 bytes 
+	assert(len(t) <= 36)
+	
+	# Split i from t
+	i || t = t 
+	
+	# Generate keystream 
+	K = KeyRecEnc
+	k = E_K(0 )
 ```
 
 
