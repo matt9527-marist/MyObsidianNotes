@@ -38,6 +38,7 @@ sendMessage(S, m, x) --> t
 	# Ensure message count has not been maxed out
 	# Recreate session if message count is maxed out
 	assert(MsgCntSend < 2^32 - 1)
+	
 	MsgCntSend++ 
 	i = MsgCntSend 
 	
