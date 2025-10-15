@@ -29,7 +29,7 @@ Send Message:
 1) Check if the message send counter is exhausted with assert()
 2) Increment message send counter and set `i` to it
 3) Compute auth `a` using HMAC SHA256 and let `t` be the message `m` concatenated with `a`
-4) Generate the keystream. 
+4) Generate the keystream
 5) Form the ciphertext through XOR with keystream and return `t`
 ```python 
 # params S secure session state, m message, x protocol data to be auth'd 
@@ -61,6 +61,10 @@ sendMessage(S, m, x) --> t
 Receive Message:
 1) Check that the length of the ciphertext is at least 36 bytes 
 2) Split the ciphertext `t` into `t` and `i`
+3) Generate the keystream
+4) Decrypt the message and MAC field and split the two 
+5) Recompute the authentication 
+6) Verify the authentication
 ```python 
 # @params S secure session state, t text received, x protocol data to be auth'd
 # Return m the message that was sent 
