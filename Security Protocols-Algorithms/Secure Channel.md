@@ -58,7 +58,9 @@ sendMessage(S, m, x) --> t
 	return t
 ```
 
-Receive Message 
+Receive Message:
+1) Check that the length of the ciphertext is at least 36 bytes 
+2) Split the ciphertext `t` into `t` and `i`
 ```python 
 # @params S secure session state, t text received, x protocol data to be auth'd
 # Return m the message that was sent 
