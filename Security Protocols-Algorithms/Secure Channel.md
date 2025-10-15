@@ -157,5 +157,24 @@ SendMessage(s, m, x):
 	
 	# Form the final ciphertext by prepending t with i
 	# concatenated with t XOR'd with the keystream to the len(t)
-	t = i || (t XOR bytes(k : ;))
+	t = i || (t XOR bytes(k : len(t)))
+	
+	return t
+	
+	
+	
+	
+ReceiveMessage(s, t, x):
+	# Check to make sure the ciphertext is at least 36 bytes 
+	assert(len(t) >= 36)
+	
+	# Split i from t 
+	i || t = t
+	
+	# Generate the key stream 
+	K = KeyRecEnc
+	k = E_K(0 || i || 0) || E_K(1 || i || 0) ...
+	
+	# Decrypt the message and the MAC field and split the two 
+	m || a = 
 ```
