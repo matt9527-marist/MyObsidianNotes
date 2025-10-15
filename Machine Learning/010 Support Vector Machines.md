@@ -124,7 +124,7 @@ How do we classify this?
 What if we *increased the dimensions*?
 This means that we have transformed the function. How is this handled? We use a *kernel function*, one that works in place of the dot product and increases the dimension in which we can manage. 
 What kernel should we use? The only thing we can do is experiment to see what works and what does not work. 
-
+![[Pasted image 20251015094725.png]]
 
 Remember the core ideas:
 1) Widen the margin 
