@@ -66,7 +66,7 @@ The block and key sizes are much smaller than what we use today.
 2. XOR the inputs with 16 bits of the bit round key 
 3. Input the 8 bit output into an *S* box which gives an output of 8 bits.
 4. Output is transposed and moves into predefined *Mix* function.
-5. Results of the *Mix* function are output back as 8bits and are fed into the next round.
+5. Results of the *Mix* function are output back as 8 bits each and are fed into the next round.
 **Advantages**: This is all operating in **parallel**. This is what allowed us to double the block size by increasing speed significantly. AES is able to have triple speed as DES, but with significantly higher security.
 **Disadvantages**: Will be naturally broken someday. Key management is a bigger issue.
 
