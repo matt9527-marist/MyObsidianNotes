@@ -140,5 +140,17 @@ initSecureSession(K, R):
 	MsgCntSend, MsgCntRec)
 	return S
 	
-# params: s the secure session state, m the mes
+# params: s the secure session state, m the message, x protocol data 
+# Return t ciphertext 
+sendMessage(s, m, x):
+	# First ensure we have not maxed out the send counter 
+	assert(MsgCntSend < 2^32 - 1)
+	MsgCntSend++ 
+	i = MsgCntSend 
+	
+	# Compute authentication and concatenate the ouput with the message m
+	a = HMAC_SHA256(KeySendAuth || i || len(x) || x || m)
+	t = m || a
+	
+	# Generate the keystrea
 ```
