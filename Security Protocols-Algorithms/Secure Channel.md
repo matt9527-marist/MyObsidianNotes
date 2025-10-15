@@ -152,5 +152,16 @@ sendMessage(s, m, x):
 	a = HMAC_SHA256(KeySendAuth || i || len(x) || x || m)
 	t = m || a
 	
-	# Generate the keystrea
+	# Generate the keystream 
+	# Using a 4 byte counter, 4 bytes of i, and 8 zero bytes 
+	K = KeySendEnc
+	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
+	
+	# Form the final ciphertext by prepending i to t concatenated with 
+	# t XOR'd with the keystream up to the length of t 
+	t = i || (t XOR bytes(k : len(t)))
+	
+	return t 
+	
+# params: s the secure session state, t the
 ```
