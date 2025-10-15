@@ -230,6 +230,8 @@ Messages
 Must
 Machines
 Margin
+Multidimensional
+Much
 Learning
 Learn
 Let
@@ -431,6 +433,7 @@ Laboratory
 Launch
 Likely
 Linearly
+Layouts
 Relevant
 Reading
 Research
@@ -911,6 +914,11 @@ leaf
 lie
 layer
 layed
+lists
+leverage
+loads
+layouts
+lookups
 Graphing
 Google
 Game
@@ -1106,6 +1114,7 @@ GUI
 GenAI
 GFLOPS
 Generate
+Guideline
 Charting
 Control
 Common
@@ -1420,6 +1429,10 @@ Concatenate
 Chervonekis
 Classifiers
 Constraint
+Costs
+Conventional
+Compatibility
+Coordinates
 Scikit
 Statistical
 Statistics
@@ -1731,6 +1744,12 @@ Separable
 Softening
 Subject
 Soften
+Small
+SoA
+Structures
+Still
+Spatial
+Subroutine
 Keras
 Key
 Kirchhoffs
@@ -2110,6 +2129,10 @@ Term
 Thus
 TCP
 Tolerance
+Tradeoffs
+Takeaways
+Table
+Tips
 ISLP
 Iris
 Instance
@@ -2326,6 +2349,8 @@ Intensity
 Implications
 Important
 Initializing
+Inlining
+Improves
 and
 ability
 approximation
@@ -2679,6 +2704,11 @@ ask
 avenue
 alpha
 alphas
+abstractions
+allocations
+aligns
+alignment
+axis
 Applications
 AI
 Analysis
@@ -2910,6 +2940,11 @@ Advisor
 Achieving
 Authenticate
 Assign
+AoS
+Allocating
+Allocates
+AoSoA
+Accesses
 with
 without
 want
@@ -3136,6 +3171,10 @@ whichever
 wrap
 whatsoever
 whole
+worth
+widely
+wastes
+wasted
 Python
 Performance
 Principle
@@ -3385,6 +3424,14 @@ Params
 Package
 Pay
 Present
+Predict
+Poor
+Procedural
+Principles
+Pattern
+Pitfalls
+Physics
+Prefers
 What
 We
 With
@@ -3563,6 +3610,8 @@ Watts
 Wacatac
 Within
 Widen
+Way
+Writes
 is
 in
 if
@@ -3876,6 +3925,12 @@ infinitely
 incurs
 integrate
 introducing
+inlined
+index
+interop
+inefficiency
+invalidation
+improving
 Field
 For
 Find
@@ -4077,6 +4132,11 @@ FMA
 Four
 Forest
 First
+Frequent
+Favor
+Faster
+Friendly
+Flatten
 of
 or
 optimize
@@ -4795,6 +4855,13 @@ selecting
 separable
 sophisticated
 seems
+slow
+spending
+stacks
+structs
+scattered
+stored
+slices
 giving
 good
 generalizable
@@ -5528,6 +5595,10 @@ circumstances
 convenience
 coincides
 constraints
+clarity
+chained
+compact
+calc
 the
 to
 training
@@ -5869,6 +5940,10 @@ transmitter
 theorists
 topic
 tweaking
+teaching
+threading
+traps
+tight
 being
 be
 by
@@ -6111,6 +6186,7 @@ blocking
 blue
 builds
 broadest
+balances
 explicitly
 experience
 error
@@ -6440,6 +6516,7 @@ elegantly
 ensuring
 enacts
 experiment
+enables
 programmed
 patterns
 program
@@ -6843,6 +6920,11 @@ proceeding
 proven
 perspectives
 primal
+prefetching
+practices
+portable
+pop
+procedural
 Detecting
 Deepmind
 Dataset
@@ -7091,6 +7173,9 @@ Distance
 Defining
 Duality
 Dual
+DoD
+DOD
+Depends
 regularities
 respect
 recognizing
@@ -7415,6 +7500,8 @@ recveive
 realm
 region
 rescaling
+radius
+reloads
 model
 mostly
 machine
@@ -7717,6 +7804,8 @@ math
 misclassifications
 misclassify
 margin
+misses
+match
 hypothesis
 handwritten
 have
@@ -7942,6 +8031,10 @@ heavy
 hyperplane
 handled
 heart
+homogeneous
+hinder
+habit
+hybrid
 Execution
 Examples
 Economics
@@ -8150,6 +8243,7 @@ Empirically
 Emphasizes
 Empirical
 Else
+Every
 using
 utility
 use
@@ -8365,6 +8459,7 @@ util
 unknowingly
 utilization
 unrealistic
+unsure
 data
 driven
 dataset
@@ -8719,6 +8814,8 @@ diagram
 draw
 dual
 dimension
+decides
+distinction
 future
 from
 feed
@@ -8981,6 +9078,8 @@ flawed
 falls
 fundamentals
 formulae
+fine
+flat
 Optimziation
 Operations
 Once
@@ -9196,6 +9295,8 @@ Overanalyzing
 Organize
 OPTIONS
 Opportunities
+Operate
+Optimized
 kind
 know
 knowledge
@@ -10214,6 +10315,8 @@ HBM
 Horton
 Hyperplane
 Huge
+HPC
+Hybrid
 Not
 NOTHING
 No
@@ -10727,6 +10830,7 @@ URY
 USE
 Under
 UDP
+Understand
 Breakout
 Because
 Backpropagation
@@ -10955,6 +11059,8 @@ Balance
 Bottleneck
 BinaryLogisticRegression
 Beforehand
+Better
+Bad
 just
 jagged
 json
@@ -11082,6 +11188,8 @@ jFG
 jql
 jXZ
 jar
+jumps
+jump
 Vectors
 Vectorization
 Visualization

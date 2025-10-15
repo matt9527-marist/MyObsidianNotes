@@ -238,6 +238,7 @@ double* momentum_y = new double[1000];
 double* momentum_z = new double[1000];  
 double* TotEnergy = new double[1000];
 ```
+Prefers SoA
 
 **Summary: Performance-Friendly C++ Tips**
 • Avoid per-object method calls in tight loops  
@@ -249,3 +250,10 @@ double* TotEnergy = new double[1000];
 	• All fields are used together  
 	• You need simple code and don’t mind some overhead
 
+**Why use AoSoA**
+• AoSoA (Array of Structures of Arrays) is a hybrid layout that balances the  
+benefits of both:  
+• AoS: Good when accessing all fields together  
+• SoA: Good when accessing one field at a time  
+• AoSoA slices the data into blocks that match the CPU’s vector size,  
+improving vectorization and cache performance.
