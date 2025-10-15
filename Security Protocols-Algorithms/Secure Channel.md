@@ -118,3 +118,12 @@ receiveMessage(S, t, x) --> m
 
 
 
+```python 
+InitSecureChannel(K, R):
+	# Compute the subkeys 
+	# Compute 4 required subkeys 
+	KeySendEnc = SHA256(K, "Enc Alice to Bob")
+	KeyRecEnc = SHA256(K, "Enc Bob to Alice")
+	KeySendAuth = SHA256(K, "Auth Alice to Bob")
+	KeyRecAuth = SHA256(K, "Auth Bob to Alice")
+```
