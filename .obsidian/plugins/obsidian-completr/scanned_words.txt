@@ -7510,6 +7510,7 @@ region
 rescaling
 radius
 reloads
+relation
 model
 mostly
 machine
@@ -8252,6 +8253,7 @@ Emphasizes
 Empirical
 Else
 Every
+Express
 using
 utility
 use
@@ -9459,6 +9461,7 @@ kinks
 kcachegrind
 knows
 keystream
+kinds
 value
 various
 variable
@@ -10155,6 +10158,7 @@ yaJ
 yFl
 yHFY
 years
+yhat
 How
 Hinge
 Header
@@ -11381,6 +11385,7 @@ Viewing
 VTune
 Vapnik
 Verify
+Viable
 zero
 zu
 zj

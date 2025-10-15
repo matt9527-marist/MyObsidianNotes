@@ -134,5 +134,6 @@ Remember the core ideas:
 	- In the primal, we are trying to compute `w` and `b`
 	- In the dual, we are trying to compute the relations of the alphas. We will have one alpha for each data point. Two kinds: alpha = 0 and alpha > 0. We only care about the ones where alpha > 0 as they are our support vectors providing the direction of the separating line. This provides information related to the error we may have made in relation to the `c` value.
 	- Viable for problems where the data `m` is much larger than `n`
-4) Nonlinearity
+4) Kernels 
+	- Remember that in the dual, we are no longer minimizing a cost function, but we are maximizing an objective function: $$$$
 
