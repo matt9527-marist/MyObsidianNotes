@@ -163,5 +163,16 @@ sendMessage(s, m, x):
 	
 	return t 
 	
-# params: s the secure session state, t the
+# params: s the secure session state, t received ciphertext, x protocol data 
+# Return m the original message that was sent 
+receiveMessage(s, t, x):
+	# Check to ensure the received message is at least 36 bytes in size 
+	assert(len(t) >= 36)
+	
+	# Split i from t 
+	i || t <- t
+	
+	# Generate the keystream (this time using the receiver subkey)
+	K = KeyRecEnc 
+	k = E_K(0 || i || 0) || E_K(1 || i ))
 ```
