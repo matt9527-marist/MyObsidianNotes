@@ -109,23 +109,17 @@ receiveMessage(S, t, x) --> m
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```Python 
+InitSecureChannel(K, R):
+	# Compute the subkeys 
+	KeySendEnc = SHA256(K, "alice to bob")
+	KeyRecEnc = SHA256(K, "bob to alice")
+	KeySendAuth = SHA256(K, "alice to bob")
+	KeyRecAuth = SHA256(K, "bob to alice")
+	
+	# swap the keys if the party is bob 
+	if ()
+```
 
 
 
