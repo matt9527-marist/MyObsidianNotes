@@ -125,5 +125,20 @@ initSecureSession(K, R):
 	KeySendEnc = SHA256(K, "Encrypt Alice to Bob")
 	KeyRecEnc = SHA256(K, "Encrypt Bob to Alice")
 	KeySendAuth = SHA256(K, "Auth Alice to Bob")
-	Key
+	KeyRecAuth = SHA256(K, "Auth Bob to Alice")
+	
+	# Swap the send/receive keys if the party is the opposite 
+	if (R == "Bob"):
+		Swap(KeySendEnc, KeyRecEnc)
+		Swap(KeySendAuth, KeyRecAuth)
+		
+	# Initialize message counters to 0
+	MsgCntSend, MsgCntRec = 0
+	
+	# Package the state and return it 
+	S = (KeySendEnc, KeyRecEnc, KeySendAuth, KeyRecAuth,
+	MsgCntSend, MsgCntRec)
+	return S
+	
+# params: s the secure session state, m the mes
 ```
