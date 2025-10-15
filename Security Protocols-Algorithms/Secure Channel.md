@@ -118,7 +118,21 @@ InitSecureChannel(K, R):
 	KeyRecAuth = SHA256(K, "bob to alice")
 	
 	# swap the keys if the party is bob 
-	if ()
+	if (R == "Bob"):
+		Swap(KeySendEnc, KeyRecEnc)
+		Swap(KeySendAuth, KeyRecAuth)
+		
+	# Init counters 
+	MsgCntSend, MsgCntRec = 0 
+	
+	# package and return the state 
+	S = (KeySendEnc, KeyRecEnc, KeySendAuth, KeyRecAuth,
+	MsgCntSend, MsgCntRec)
+```
+```Python 
+SendMessage(S, m, x)
+	# Make sure we haven't maxed out the counter 
+	assert(MsgCntSend < 2)
 ```
 
 
