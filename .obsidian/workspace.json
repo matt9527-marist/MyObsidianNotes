@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/003 Hashing.md",
+                "file": "Security Protocols-Algorithms/Secure Channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 Hashing"
+              "title": "Secure Channel"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "616cf83774cbade3",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/003 Hashing.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/Secure Channel.md",
@@ -201,7 +202,6 @@
     "Machine Learning/008 Logistic Regression.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Security Protocols-Algorithms/003 Hashing.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/009 TF-IDF.md",
