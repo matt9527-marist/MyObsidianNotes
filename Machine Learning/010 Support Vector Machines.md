@@ -99,7 +99,7 @@ Huge problem: What happens when we have a situation that is NOT *linearly separa
 
 ## Duality 
 #duality
-![[Pasted image 20251015104713.png]]
+![[Pasted image 20251015104726.png]]
 It can be proven that `B <= A`. 
 If the problem is *convex*, `A` coincides with `B`. This is perfect for what we are doing. 
 Definition: according to the **duality principle**, optimization problems may  
@@ -121,7 +121,7 @@ Once we solve the alphas, we can derive the `w`'s from them.
 
 Nonlinearity:
 How do we classify this? 
-(see notes)
+![[Pasted image 20251015104739.png]]
 What if we *increased the dimensions*?
 This means that we have transformed the function. How is this handled? We use a *kernel function*, one that works in place of the dot product and increases the dimension in which we can manage. 
 What kernel should we use? The only thing we can do is experiment to see what works and what does not work. 
@@ -145,4 +145,11 @@ Remember the core ideas:
 	We are currently using the linear kernel (really no kernel at all)
 	There are many. We may come up with different kernels to use. Choosing one doesn't come down to any recipe. 
 	
-	
+
+[SVMs](https://gist.github.com/eitellauria/8a5fbc6c31076780336bf57587ea23eb)
+
+[Multiclass Classification with SVMs](https://gist.github.com/eitellauria/cedb76778f20e5a1cec8ff2eab32fecb)
+
+[Tuning SVMs with GridSearchCV](https://gist.github.com/eitellauria/aec459d7ec67317b659ffe79e0b75703)
+
+[Text Classification and Sentiment Analysis ](https://gist.github.com/eitellauria/ccbcbfa1100cb351a1b279f5be01ee4d)
