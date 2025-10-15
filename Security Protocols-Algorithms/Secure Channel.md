@@ -176,5 +176,19 @@ ReceiveMessage(s, t, x):
 	k = E_K(0 || i || 0) || E_K(1 || i || 0) ...
 	
 	# Decrypt the message and the MAC field and split the two 
-	m || a = 
+	m || a = (t XOR bytes(k : len(t)))
+	
+	# Recompute authentication 
+	a2 = HMAC_SHA256(KeyRecAuth || i || len(x) || x || m)
+	
+	# Verify authentication 
+	if (a2 != a)
+		destroy m, k
+		return AUTH_FAILURE 
+	else if (i <= MsgCntRec)
+		destroy m, k
+		return MSG_ORDER_ERROR 
+		
+	MsgCntRec = i 
+	return m 
 ```
