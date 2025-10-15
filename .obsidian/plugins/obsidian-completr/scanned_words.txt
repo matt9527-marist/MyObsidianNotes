@@ -1298,6 +1298,7 @@ Setup
 Summary
 Such
 Start
+Swap
 Keras
 KB
 Key
@@ -1716,6 +1717,8 @@ InputDecks
 Interpretation
 Intensity
 Implications
+Initialize
+Increment
 and
 ability
 approximation
@@ -2001,6 +2004,8 @@ annotated
 apt
 aggressively
 algorithmically
+auth
+assert
 Applications
 AI
 Analysis
@@ -4900,6 +4905,7 @@ efforts
 excessive
 expectations
 equipped
+exhausted
 programmed
 patterns
 program
@@ -5406,6 +5412,7 @@ Design
 Diagrams
 Download
 Determination
+Decrypt
 regularities
 respect
 recognizing
@@ -8461,6 +8468,7 @@ Valgrind
 Version
 Viewing
 VTune
+Verify
 Java
 Japan
 Just
