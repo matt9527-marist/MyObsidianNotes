@@ -174,5 +174,22 @@ receiveMessage(s, t, x):
 	
 	# Generate the keystream (this time using the receiver subkey)
 	K = KeyRecEnc 
-	k = E_K(0 || i || 0) || E_K(1 || i ))
+	k = E_K(0 || i || 0) || E_K(1 || i || 0)
+	
+	# Decrypt the message and the MAC field and split the two 
+	m || a = (t XOR bytes(k : len(t)))
+	
+	# Recompute the authentication 
+	a2 = HMAC_SHA256(KeyRecAuth || i || len(x) || x || m)
+	
+	# Verify authentication 
+	if (a2 != a):
+		destroy k, m 
+		return AUTH_FAILURE 
+	else if (i <= MsgCntRec):
+		destroy k, m
+		return MSG_ORDER_ERROR 
+		
+	MsgCntRec = i 
+	return m 
 ```
