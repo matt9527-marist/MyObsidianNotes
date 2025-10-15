@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+                "file": "Security Protocols-Algorithms/003 Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Attacks on Block Ciphers"
+              "title": "003 Hashing"
             }
           }
         ]
@@ -172,12 +172,12 @@
   },
   "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Security Protocols-Algorithms/Secure Channel.md",
     "Security Protocols-Algorithms/003 Hashing.md",
-    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "Machine Learning/010 Support Vector Machines.md",
