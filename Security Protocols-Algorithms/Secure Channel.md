@@ -143,5 +143,19 @@ InitSecureChannel(K, R):
 SendMessage(s, m, x):
 	# Check to ensure we have not maxed out the counter 
 	assert(MsgCntSend < 2^32 - 1)
-	 
+	MsgCntSend++ 
+	i = MsgCntSend 
+	
+	# Compute authentication 
+	a = HMAC_256(KeySendAuth || i || len(x) || x || m)
+	t = m || a
+	
+	# Generate the key stream 
+	# 4 byte counter, 4 bytes of i, 8 zero bytes
+	K = KeySendEnc
+	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
+	
+	# Form the final ciphertext by prepending t with i
+	# concatenated with t XOR'd with the keystream to the len(t)
+	t = i || (t XOR bytes(k : ;))
 ```
