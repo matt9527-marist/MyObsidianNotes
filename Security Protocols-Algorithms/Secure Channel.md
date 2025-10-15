@@ -120,10 +120,28 @@ receiveMessage(S, t, x) --> m
 
 ```python 
 InitSecureChannel(K, R):
-	# Compute the subkeys 
 	# Compute 4 required subkeys 
 	KeySendEnc = SHA256(K, "Enc Alice to Bob")
 	KeyRecEnc = SHA256(K, "Enc Bob to Alice")
 	KeySendAuth = SHA256(K, "Auth Alice to Bob")
 	KeyRecAuth = SHA256(K, "Auth Bob to Alice")
+	
+	# Swap the send and receive keys if the role is Bob
+	if (R == "Bob")
+		Swap(KeySendEnc, KeyRecEnc)
+		Swap(KeySendAuth, KeyRecAuth)
+	
+	# init counters 
+	MsgCntSend, MsgCntRec = 0
+	
+	# Package the state into s and return s
+	s = (KeySendEnc, KeyRecEnc, KeySendAuth, KeyRecAuth,
+	 MsgCntSend, MsgCntRec)
+	 
+
+
+SendMessage(s, m, x):
+	# Check to ensure we have not maxed out the counter 
+	assert(MsgCntSend < 2^32 - 1)
+	 
 ```
