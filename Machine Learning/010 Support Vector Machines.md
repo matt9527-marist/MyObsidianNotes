@@ -140,6 +140,6 @@ Remember the core ideas:
 4) Kernels (Nonlinearity)
 	- Remember that in the dual, we are no longer minimizing a cost function, but we are maximizing an objective function: $$f(x^{[i]^{T}}x^{[j]})$$
 	- This is not a formulation on the samples, but on the dot product of the samples. Recall that the dot product is a similarity measure given by the angle separating two vectors. There are others, such as the regular distance between two points. 
-	![[Pasted image 20251015095134.png]]
 	Different kinds of kernels we can use:
+	
 	
