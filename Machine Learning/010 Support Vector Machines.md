@@ -135,5 +135,6 @@ Remember the core ideas:
 	- In the dual, we are trying to compute the relations of the alphas. We will have one alpha for each data point. Two kinds: alpha = 0 and alpha > 0. We only care about the ones where alpha > 0 as they are our support vectors providing the direction of the separating line. This provides information related to the error we may have made in relation to the `c` value.
 	- Viable for problems where the data `m` is much larger than `n`
 4) Kernels 
-	- Remember that in the dual, we are no longer minimizing a cost function, but we are maximizing an objective function: $$$$
+	- Remember that in the dual, we are no longer minimizing a cost function, but we are maximizing an objective function: $$f(x^{[i]^{T}}x^{[j]})$$
+	- Recall that the dot product is a similarity measure given by the angle separating two vectors. There are others, such as the regular distance between two points. 
 
