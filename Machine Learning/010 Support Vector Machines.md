@@ -12,13 +12,13 @@ How do we characterize VC's?
 **Maximum Margin Binary Classifiers** (1990s):
 We need some theory: 
 - Recall: The equation for a **hyperplane**:
-(see notes)
+![[Pasted image 20251015104546.png]]
 In this case, we are describing a line. This is visualized in 2D for simplicity. 
 Pay close attention to the expression:
 $$w_{1}x_{1} + w_{2}x_{2} + b = 0$$as it will return repeatedly throughout this topic. 
 
 Imagine the following:
-(see notes)
+![[Pasted image 20251015104556.png]]
 The two lines represented by the differing intercepts `b1` and `b2` are parallel. That is, their slopes are the same, but the intercepts can change. 
 We want to compute `d`, the distance between the two parallel lines. 
 
@@ -26,7 +26,7 @@ We want to compute `d`, the distance between the two parallel lines.
 *Distance between two parallel lines*: $$d = \frac{|b_{1}-b_{2}|}{||w||}$$
 With these fundamentals, let us return to the topic of classification:
 We may have the following situation: 
-(see notes)
+![[Pasted image 20251015104626.png]]
 **Linearly Separable** problems are ones where the two classes of data points can be separated by a straight line. 
 But see the diagram, you should ask yourself, "is the plotted line the best possible line?"
 There are really infinitely possible separation lines. 
@@ -49,7 +49,7 @@ Why `+ ...` ?
 If we stop there, we are basically assuming that our classification is perfect, which is unrealistic. We need to be able to introduce the idea of misclassifications. How?
 
 For this, we may introduce a loss function: 
-(see notes)
+![[Pasted image 20251015104645.png]]
 If our classification is confident enough, there is no penalty whatsoever. However, what happens when we have a point inside of the avenue? (misclassify or classify correctly but violate the margin).
 The **Hinge** loss enacts some kind of penalty for getting too close to the margin. 
 As we can see, if the value is less than 1, this incurs as a linear penalty, and if the penalty is equal or greater than 1, there is no penalty.
@@ -99,7 +99,7 @@ Huge problem: What happens when we have a situation that is NOT *linearly separa
 
 ## Duality 
 #duality
-(see notes)
+![[Pasted image 20251015104713.png]]
 It can be proven that `B <= A`. 
 If the problem is *convex*, `A` coincides with `B`. This is perfect for what we are doing. 
 Definition: according to the **duality principle**, optimization problems may  
