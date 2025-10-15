@@ -132,7 +132,17 @@ InitSecureChannel(K, R):
 ```Python 
 SendMessage(S, m, x)
 	# Make sure we haven't maxed out the counter 
-	assert(MsgCntSend < 2)
+	assert(MsgCntSend < 2^32 - 1)
+	MsgCntSend++ 
+	i = MsgCntSend 
+	
+	# Compute Authentication and append a to t
+	a = HMAC_SHA256(KeySendAuth || i || len(x) || x || m)
+	t = m || a
+	
+	# Generate keystream 
+	K = KeySendEnc
+	k = E_K(0 || i || 0) || E_K(1 || i || 0)
 ```
 
 
