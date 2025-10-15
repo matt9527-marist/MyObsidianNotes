@@ -131,6 +131,8 @@ Remember the core ideas:
 	- Hinge Loss: max(1-y * yhat)
 3) Present as the dual 
 	- Express the problem as a dual problem
-	- In the primal, we are trying to compute 
+	- In the primal, we are trying to compute `w` and `b`
+	- In the dual, we are trying to compute the relations of the alphas 
+	- Viable for problems where the data `m` is much larger than `n`
 4) Nonlinearity
 
