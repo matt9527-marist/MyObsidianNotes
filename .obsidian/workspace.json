@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/104 Data Design and Performance Models.md",
+                "file": "Security Protocols-Algorithms/003 Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "104 Data Design and Performance Models"
+              "title": "003 Hashing"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "616cf83774cbade3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
+    "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/Secure Channel.md",
     "Assets/Pasted image 20251013192845.png",
     "Assets/Pasted image 20251013192841.png",
