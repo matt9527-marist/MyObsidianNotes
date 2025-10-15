@@ -133,7 +133,7 @@ collision attacks
 function.
 **GMAC**
  GMAC is also standardized by NIST  
-5Attributes:  
+5 Attributes:  
 	• Designed for 128-block ciphers.  
 	• Very efficient  
 	• Inputs – message, nonce, and the key  
