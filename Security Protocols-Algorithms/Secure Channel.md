@@ -109,67 +109,6 @@ receiveMessage(S, t, x) --> m
 
 
 
-```Python 
-InitSecureChannel(K, R):
-	# Compute the subkeys 
-	KeySendEnc = SHA256(K, "alice to bob")
-	KeyRecEnc = SHA256(K, "bob to alice")
-	KeySendAuth = SHA256(K, "alice to bob")
-	KeyRecAuth = SHA256(K, "bob to alice")
-	
-	# swap the keys if the party is bob 
-	if (R == "Bob"):
-		Swap(KeySendEnc, KeyRecEnc)
-		Swap(KeySendAuth, KeyRecAuth)
-		
-	# Init counters 
-	MsgCntSend, MsgCntRec = 0 
-	
-	# package and return the state 
-	S = (KeySendEnc, KeyRecEnc, KeySendAuth, KeyRecAuth,
-	MsgCntSend, MsgCntRec)
-```
-```Python 
-SendMessage(S, m, x):
-	# Make sure we haven't maxed out the counter 
-	assert(MsgCntSend < 2^32 - 1)
-	MsgCntSend++ 
-	i = MsgCntSend 
-	
-	# Compute Authentication and append a to t
-	a = HMAC_SHA256(KeySendAuth || i || len(x) || x || m)
-	t = m || a
-	
-	# Generate keystream 
-	K = KeySendEnc
-	k = E_K(0 || i || 0) || E_K(1 || i || 0) ...
-	
-	# Prepare final concatenated t 
-	t = i || (t XOR bytes(k : len(t)))
-	
-	return t 
-```
-```python 
-ReceiveMessage(S, t, x):
-	# Make sure the length of t is at least 36 bytes 
-	assert(len(t) <= 36)
-	
-	# Split i from t
-	i || t = t 
-	
-	# Generate keystream 
-	K = KeyRecEnc
-	k = E_K(0 || i || 0) || E_K(1 || i || 0) ... 
-	
-	# Decrypt the message and the MAC field and split the two
-	m || a = (t XOR bytes(k : len(t)))
-	
-	# Recompute authentication 
-	a2 = HMAC_SHA256(KeyRecAuth || i || len(x) || x || m)
-	
-	# Verify authentication 
-	if (a != a2)
-```
 
 
 
