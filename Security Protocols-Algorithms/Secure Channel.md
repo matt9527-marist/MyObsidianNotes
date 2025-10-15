@@ -28,7 +28,9 @@ initializeSecureChannel(K, R) --> S
 Send Message:
 1) Check if the message send counter is exhausted with assert()
 2) Increment message send counter and set `i` to it
-3) Compuit
+3) Compute auth `a` using HMAC SHA256 and let `t` be the message `m` concatenated with `a`
+4) Generate the keystream. 
+5) Form the ciphertext through XOR with keystream and return `t`
 ```python 
 # params S secure session state, m message, x protocol data to be auth'd 
 # Return t data to be transmitted to receiver 
