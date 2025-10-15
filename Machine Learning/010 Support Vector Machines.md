@@ -143,6 +143,6 @@ Remember the core ideas:
 	Different kinds of kernels we can use:
 	![[Pasted image 20251015102317.png]]
 	We are currently using the linear kernel (really no kernel at all)
-	
+	There are many. We may come up with different kernels to use. Choosing one doesn't come down to any recipe. 
 	
 	
