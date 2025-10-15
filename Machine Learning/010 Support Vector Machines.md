@@ -111,7 +111,7 @@ The function that we layed out earlier is a function that is without constraints
 
 The Dual Problem:
 Find `alpha_i` where `i = 1,m`
-$$max\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\alpha_{i}\alpha_{j}y^{[i]}y^{[j]}x^{[i]} \space^Tx^{[j]}$$
+$$max\sum^{m}_{i=1}\alpha_{i}-\frac{1}{2}\sum^{m}_{i=1}\sum^{m}_{j=1}\alpha_{i}\alpha_{j}y^{[i]}y^{[j]}x^{[i]} \space^Tx^{[j]}$$
 Subject to: $$0 \leq \alpha_{i} \leq C$$$$\sum^{m}_{i=1}\alpha_{i}y^{[i]} = 0$$
 Why present the problem using the dual?
 - We generally prefer problems where the data `n >= m`. When we have lots of features and not a lot of data. 
@@ -139,9 +139,7 @@ Remember the core ideas:
 	- Viable for problems where the data `m` is much larger than `n`
 4) Kernels (Nonlinearity)
 	- Remember that in the dual, we are no longer minimizing a cost function, but we are maximizing an objective function: $$f(x^{[i]^{T}}x^{[j]})$$
-	- Recall that the dot product is a similarity measure given by the angle separating two vectors. There are others, such as the regular distance between two points. 
+	- This is not a formulation on the samples, but on the dot product of the samples. Recall that the dot product is a similarity measure given by the angle separating two vectors. There are others, such as the regular distance between two points. 
 	![[Pasted image 20251015095134.png]]
-
-
 
 
