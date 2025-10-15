@@ -1,4 +1,8 @@
 Start Secure Channel:
+1) Compute using SHA256 the send and receive subkeys for auth and encryption 
+2) Swap() the send and receive keys if the party is opposite 
+3) Initialize message send and receive counters to 0
+4) Package the state as S, and return it
 ```python
 # @params K key of the channel, 256 bits, R role specifying party
 # Return S the state of the secure channel
@@ -21,7 +25,10 @@ initializeSecureChannel(K, R) --> S
 	return S
 ```
 
-Send Message
+Send Message:
+1) Check if the message send counter is exhausted with assert()
+2) Increment message send counter and set `i` to it
+3) Compuit
 ```python 
 # params S secure session state, m message, x protocol data to be auth'd 
 # Return t data to be transmitted to receiver 
@@ -107,6 +114,11 @@ initSecureChannel(K, R):
 	KeyRecEnc <- SHA256(K, "Enc Bob to Alice")
 	KeySendAuth <- SHA256(K, "Auth Alice to Bob")
 	KeyRecAuth SHA256(K, "Auth Bob to Alice")
+	
+	# Swap keys if the party is Bob
+	if R == "Bob":
+		Swap(KeySendEnc, KeyRecEnc)
+		Swap(KeySendAuth, KeyRecAuth)
 	
 	# Set up the MsgCntSend and MsgCntRec counters 
 	# Initialize them to 0
