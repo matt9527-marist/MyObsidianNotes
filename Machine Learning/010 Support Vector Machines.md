@@ -126,8 +126,11 @@ This means that we have transformed the function. How is this handled? We use a 
 What kernel should we use? The only thing we can do is experiment to see what works and what does not work. 
 Remember the core ideas:
 1) Widen the margin 
-	- 
+	- (1/2||w||^2) to some extent meaning that we are trying to reduce this term. 
 2) Soften the margin 
+	- Hinge Loss: max(1-y * yhat)
 3) Present as the dual 
+	- Express the problem as a dual problem
+	- In the primal, we are trying to compute 
 4) Nonlinearity
 
