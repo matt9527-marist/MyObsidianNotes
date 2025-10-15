@@ -68,7 +68,7 @@ We can compare it to AES.
 ## Attacks on Hash Functions 
 ![[Pasted image 20251001152927.png]]
 **Collisions**
-- Taking a prefiex file (added as a prefix onto a generated P and Q from the MD5 collision generation)
+- Taking a prefix file (added as a prefix onto a generated P and Q from the MD5 collision generation)
 - Echo a string into "prefix"
 - Use `md5collgen` on the file to create to binary files, msg1, and msg2. 
 - Use `md5sum` on the two messages to see the same outputs. 
@@ -133,7 +133,7 @@ collision attacks
 function.
 **GMAC**
  GMAC is also standardized by NIST  
-5Attributes:  
+5 Attributes:  
 	• Designed for 128-block ciphers.  
 	• Very efficient  
 	• Inputs – message, nonce, and the key  
