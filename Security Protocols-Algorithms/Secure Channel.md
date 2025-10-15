@@ -118,5 +118,12 @@ receiveMessage(S, t, x) --> m
 
 
 ```Python
-# 
+# params: K session key, R roles for the two parties (Alice and Bob)
+# Return S the secure session state 
+initSecureSession(K, R):
+	# Compute the 4 required subkeys for enc and auth 
+	KeySendEnc = SHA256(K, "Encrypt Alice to Bob")
+	KeyRecEnc = SHA256(K, "Encrypt Bob to Alice")
+	KeySendAuth = SHA256(K, "Auth Alice to Bob")
+	Key
 ```
