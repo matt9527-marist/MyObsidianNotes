@@ -80,6 +80,9 @@ Another way of writing this:
 $$G =  (1-\sum^{k}_{k=1}p_{k})^2$$
 How can we measure the improvement by splitting? 
 We use the Gini for the above situation: 
-$$1 - $$
+$$G = 1 - [(\frac{6}{11})^2 + (\frac{5}{11})^2]$$
+After we split this:
+$$G_{R_{1}} = 1 - [(\frac{2}{5})^2 + (\frac{3}{5})^2]$$
+$$G$$
 
 
