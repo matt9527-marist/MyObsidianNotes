@@ -2744,6 +2744,7 @@ aligned
 activity
 ash
 avg
+adequate
 Applications
 AI
 Analysis
@@ -4445,6 +4446,7 @@ overlay
 organize
 opcode
 ops
+opaque
 study
 simplified
 something
@@ -6023,6 +6025,7 @@ transformations
 trigger
 trust
 traffic
+transparent
 being
 be
 by
@@ -6268,6 +6271,7 @@ broadest
 balances
 benign
 branches
+breakdown
 explicitly
 experience
 error
