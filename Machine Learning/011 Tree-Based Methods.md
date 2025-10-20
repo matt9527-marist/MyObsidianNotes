@@ -15,4 +15,7 @@ How do we split DTs:?
 - number of branches per split: 
 	- Binary (CART)
 	- Multiway (C4.5)
-(see notes)
+- Split criterion: 
+	- CART can be both a classifier and a regression model, whereas C4.5 is more of a classifier. 
+
+**CART**
