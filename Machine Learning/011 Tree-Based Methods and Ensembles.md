@@ -123,4 +123,7 @@ Example ensemble usage using decision trees:
 Essentially breaking the initial dataset D into a set of datasets organized in a tree, where we can use multiple decision trees for each division. 
 $$X \to \frac{x_{1}, x_{2}, \dots x_{B}}{\bar{x}}$$
 $$var(\bar{x}) = \frac{\sigma}{B}$$
-One problem: the trees are highly correlated. We may have hund
+One problem: the trees are highly correlated. We may have hundreds of estimators, but perhaps the majority of them look very alike because some features are more relevant than the rest. 
+How can we fix this? This brings us to Random Forests.
+
+**Random Forests**: Keep the structure, but extract at random a subset of the features. By doing so, the correlation among trees disappears. The same feat
