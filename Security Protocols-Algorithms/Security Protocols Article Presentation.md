@@ -38,4 +38,5 @@ This is brings us to the issue at hand: the reasons for why AI outputs something
 
 ![[Pasted image 20251020190944.png]]
 
-> How can we trust systems that we cannot explain?
+> How can we trust systems that we cannot explain? 
+

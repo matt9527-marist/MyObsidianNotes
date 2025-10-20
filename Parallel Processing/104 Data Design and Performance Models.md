@@ -338,3 +338,4 @@ spatial and temporal locality play huge roles in cache behavior.
 	• Write-allocate: On a store miss, a line is first loaded into cache, then written.  
 	• Write-back vs Write-through affects when data is flushed to memory and can change eviction behavior.
 
+**4th C**:
