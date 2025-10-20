@@ -18,4 +18,10 @@ How do we split DTs:?
 - Split criterion: 
 	- CART can be both a classifier and a regression model, whereas C4.5 is more of a classifier. 
 
-**CART**:
+**CART**
+(see notes)
+Select a predictor and within the predictor itself, let us choose a split:
+> FOR each x in X 
+
+What we have done is specify:
+(see notes)
