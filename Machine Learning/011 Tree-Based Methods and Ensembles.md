@@ -116,5 +116,5 @@ Suppose each of the above lines is one linear classifier. On their own, they hav
 1) Homogeneous:
 	- Decision tree ensembles: Bagging, Boosting, 
 		- Variants of Bagging: Random Forests (RF), Extra Trees
-2) Heterogeneous:
+2) Heterogeneous: Stacked Estimators 
 	
