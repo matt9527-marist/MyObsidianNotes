@@ -257,3 +257,33 @@ benefits of both:
 • SoA: Good when accessing one field at a time  
 • AoSoA slices the data into blocks that match the CPU’s vector size,  
 improving vectorization and cache performance.
+
+**C++ AoSoA Implementation Example**
+```c++
+const int V = 4; // Set vector length
+struct SoA_type {
+	int R[V], G[V], B[V]; // Structure of Arrays
+};
+
+int len = 1000;
+SoA_type AoSoA[len / V]; // Array of Structs of Arrays
+
+for (int j = 0; j < len / V; j++) {
+	for (int i = 0; i < V; i++) {
+		AoSoA[j].R[i] = 0;
+		AoSoA[j].G[i] = 0;
+		AoSoA[j].B[i] = 0;
+	}
+}
+len/4 =250
+```
+Performance Insight:
+In benchmark studies, AoSoA matched the  
+better of AoS and SoA  
+• Performs well across both:  
+• Cache-bound CPU code  
+• SIMD vectorization  
+• GPU workgroup tuning  
+• V = 1 -> behaves like AoS  
+• V = len -> behaves like SoA  
+• V = 8 -> optimal on an 8-wide vector machine
