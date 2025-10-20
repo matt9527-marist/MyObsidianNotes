@@ -25,7 +25,8 @@ We will also be later discussing Ransomware 3.0, which is the reverse narrative 
 Let us first explain modern malware detection techniques. These are categorized into 2 distinct approaches: 
 1) *File Classification*
 	- File classification looks at the file's code to check if it is malicious. There are three ways this is done:
-	1) Static Analysis: examine the code without executing the file. This usually uses a signature-based approach to extract suspicious features in the code. That is, by using 
+	1) Static Analysis: examine the code without executing the file. This usually uses a signature-based approach to extract suspicious features in the code. This can include specific API calls, instruction opcode sequences, or n-grams identified from known suspicious files. While useful, static analysis fails to catch more complex or new malware that needs to be running on a system to see its effects. 
+	2) Dynamic Analysis: 
 2) *Online Detection*
 
 
