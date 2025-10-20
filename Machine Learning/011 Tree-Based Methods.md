@@ -31,4 +31,8 @@ We can split again within the first region as we see with `t2`. This is what we 
 (see notes)
 
 The region selection is not the prediction. The prediction comes from doing `yhat(Ri)`
-`yhat(R1)` is just the mean of all of the values within R1. 
+`yhat(R1)`, in terms of regression, is just the mean of all of the values within R1. 
+$$\hat{y} = mean(\hat{y}_{i \in R_{i}})$$
+
+This is regression, but what would change if we want to do *classification*? 
+Let's assume that the following is binary: 
