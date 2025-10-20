@@ -127,4 +127,6 @@ One problem: the trees are highly correlated. We may have hundreds of estimators
 How can we fix this? This brings us to Random Forests.
 
 **Random Forests**: Keep the structure, but extract at random a subset of the features to be used in each of the splits. By doing so, the correlation among trees disappears. The same feature that appeared at the top of trees beforehand may not be used. The value of how many features to select is a hyperparameter, and it can be chosen at random. 
-*Random Walk*: 
+*Random Walk*: Assuming we use no logical criterion to produce a split. At random, choose a set of features and produce a split with them. 
+
+
