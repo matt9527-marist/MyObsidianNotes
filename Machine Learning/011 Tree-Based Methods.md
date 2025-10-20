@@ -89,6 +89,5 @@ $$\bar{G_{R_{1}, R_{2}}} = \frac{N_{R_{1}}}{N}G(R_{1}) + \frac{N_{R_{2}}}{N}G(R_
 $$= \frac{5}{11}G(R_{1}) + \frac{6}{11}G(R_{2})$$
 This gives us our *improvement*. We start with a level of impurity for the full box before splitting. Because we split, we have less impurity in the regions. 
 $$G - \bar{G_{R_{1},R_{2}}}$$
-We could have placed a split that gives certainty for one data point, but it would be one-sided. For each potential split `ts` that the system considers, the system will compute the SSE for the right and left sides of the split or the 
-
+We could have placed a split that gives certainty for one data point, but it would be one-sided. For each potential split `ts` that the system considers, the system will compute the SSE for the right and left sides of the split for regression, or compute the improvement for classification. 
 
