@@ -73,7 +73,10 @@ How do we make the determination that the above split `t1` is the best one?
 Use the *Gini Index*:
 $$Gini = \sum^{k}_{k=1}p^{k}(1-p_{k})$$
 We could have a target that contains up to `k` classes. In the case above, `k=2` classes. 
-`P(closed) = 6`
-`P(`
+`P(closed) = 6 / 11`
+`P(open) = 5/ 11`
+What is the probability of misclassification? For example, predicting an open (6/11). 
+Another way of writing this:
+$$G =  1-\sum^{k}_{k=1})$$
 
 
