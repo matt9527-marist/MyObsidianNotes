@@ -67,7 +67,7 @@ We need a cost function. If it is regression, we can use sum of square errors on
 Find `xi*, ts*` that minimizes `J`
 
 What do we do in classification? We do not have the sum of square errors or a quadratic form of loss. The researchers who developed CART use the metric: 
-Classification: *Impurity Metric*: 
+Classification: ***Impurity Metric***: 
 (see notes)
 How do we make the determination that the above split `t1` is the best one?
 Use the *Gini Index*:
@@ -90,4 +90,6 @@ $$= \frac{5}{11}G(R_{1}) + \frac{6}{11}G(R_{2})$$
 This gives us our *improvement*. We start with a level of impurity for the full box before splitting. Because we split, we have less impurity in the regions. 
 $$G - \bar{G_{R_{1},R_{2}}}$$
 We could have placed a split that gives certainty for one data point, but it would be one-sided. For each potential split `ts` that the system considers, the system will compute the SSE for the right and left sides of the split for regression, or compute the improvement for classification. 
+
+Another metric is **entropy**: $$H = -\sum^{k}_{k=1}p_{k}\log p_{k}$$We owe this to Claude Shannon. 
 
