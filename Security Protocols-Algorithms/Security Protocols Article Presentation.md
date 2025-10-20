@@ -43,3 +43,6 @@ This is brings us to the issue at hand: the reasons for why AI outputs something
 Explainable AI (XAI) is suggested by the article as one method by which we can obtain clear justifications from a model on why it makes certain predictions. 
 XAI is meant to be *accurate* in its ability to generalize on new data, in this case, new malware or unseen programs. We should be able to assign a degree of *fidelity* depending on how the model justifies its prediction. Predictions and explanations for predictions should be *consistent*. 
 We should be able to derive *degree of importance*, meaning we should be able to learn how much weight a model assigns to a certain feature. 
+
+
+## Transparent vs. Opaque Machine Learning Models 
