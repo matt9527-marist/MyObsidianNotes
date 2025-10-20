@@ -40,3 +40,5 @@ This is brings us to the issue at hand: the reasons for why AI outputs something
 
 > How can we trust systems that we cannot explain? 
 
+Explainable AI (XAI) is suggested by the article as one method by which we can obtain clear justifications from a model on why it makes certain predictions. 
+XAI is meant to be *accurate* na

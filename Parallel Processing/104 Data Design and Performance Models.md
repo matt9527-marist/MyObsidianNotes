@@ -338,4 +338,13 @@ spatial and temporal locality play huge roles in cache behavior.
 	• Write-allocate: On a store miss, a line is first loaded into cache, then written.  
 	• Write-back vs Write-through affects when data is flushed to memory and can change eviction behavior.
 
-**4th C**:
+**4th C - Coherency**:
+• Definition: Coherency refers to ensuring that all processors in a multiprocessor system  
+see consistent values of shared variables.  
+• Relevance in parallel programming:  
+• Writes in one core’s cache must be propagated to other caches if the data is  
+shared.  
+• Often maintained using MESI protocol or similar cache coherence mechanisms.  
+• Cache update storms can occur:  
+• If many cores are writing to shared variables frequently.  
+• This introduces bus traffic and invalidations, severely degrading performance.
