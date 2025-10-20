@@ -105,4 +105,6 @@ Organized the same way as computing the Gini Index.
 Intuition: If we have to make a prediction about something, would we ask the person next to us or the whole class? Why not use an *ensemble* of estimators instead of just one? 
 --> No Free Lunch Theorem (NFL):
 - If we average all possible problems, there is no single estimator that performs better than the rest. 
-- Consequences: there may be some algorithms that are better for certain problems than others, but it is difficult to iden
+- Consequences: there may be some algorithms that are better for certain problems than others, but it is difficult to identify the best possible algorithm. We cannot possibly try every algorithm. 
+- If we take a group of algorithms, it may be better off, since there is no best singular algorithm. 
+
