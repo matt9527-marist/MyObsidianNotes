@@ -44,5 +44,5 @@ Explainable AI (XAI) is suggested by the article as one method by which we can o
 XAI is meant to be *accurate* in its ability to generalize on new data, in this case, new malware or unseen programs. We should be able to assign a degree of *fidelity* depending on how the model justifies its prediction. Predictions and explanations for predictions should be *consistent*. 
 We should be able to derive *degree of importance*, meaning we should be able to learn how much weight a model assigns to a certain feature. 
 
-
+These aspects of XAI are proposed by IEEE to improve trust and hand the regulatory power over AI back to humans.
 ## Transparent vs. Opaque Machine Learning Models 
