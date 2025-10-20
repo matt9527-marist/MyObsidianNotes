@@ -46,3 +46,5 @@ This renders an interesting point:
 > 	FOR each split ts in xi 
 > 		Keep the pair(xi, ts) that minimizes J, a cost function 
 
+In the case of regression, we usually use some cost function of a quadratic loss.
+$$SSE_{R}$$
