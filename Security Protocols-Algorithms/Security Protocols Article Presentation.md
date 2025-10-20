@@ -36,3 +36,6 @@ In practice, these detection approaches show some patterns on which we can train
 ## Explainablity in Machine Learning 
 This is brings us to the issue at hand: the reasons for why AI outputs something is not interpretable by humans. Lots of ML algorithms are a black box, like we said, where we cannot easily comprehend what patterns or what weights an algorithm is assigning to a certain variable to make a prediction. 
 
+![[Pasted image 20251020190944.png]]
+
+> How can we trust 
