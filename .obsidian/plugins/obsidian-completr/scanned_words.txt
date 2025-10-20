@@ -644,6 +644,7 @@ Receive
 Recompute
 Receiving
 Russian
+Ransomware
 libraries
 learn
 learning
@@ -7185,6 +7186,7 @@ DoD
 DOD
 Depends
 Decrypt
+Detected
 regularities
 respect
 recognizing
@@ -7512,6 +7514,7 @@ rescaling
 radius
 reloads
 relation
+reverse
 model
 mostly
 machine
@@ -8471,6 +8474,7 @@ unknowingly
 utilization
 unrealistic
 unsure
+uncontrollable
 data
 driven
 dataset
@@ -9980,6 +9984,7 @@ nsigmoid
 nonlinear
 near
 news
+narrative
 yes
 yield
 your

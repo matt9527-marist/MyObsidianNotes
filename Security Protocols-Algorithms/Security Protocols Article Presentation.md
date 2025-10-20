@@ -22,6 +22,8 @@ What IEEE is advocating for through this article is to make **transparency** a p
 We will also be later discussing Ransomware 3.0, which is the reverse narrative that we bring to this presentation, where, without transparency, AI and machine learning becomes its own potentially uncontrollable attack vector.
 
 ## How Malware is Detected
-
+Let us first explain modern malware detection techniques. These are categorized into 2 distinct approaches: 
+1) *File Classification*
+2) *Online Detection*
 
 

@@ -161,6 +161,8 @@ just how you organize code.
 
 ![[Pasted image 20251013192845.png]]
 
+![[Pasted image 20251020183856.png]]
+
 **Key Takeaways**
 • Think data usage first, not just code structure  
 • AoS: Good for CPU-side code using all fields together  
@@ -284,6 +286,14 @@ better of AoS and SoA
 • Cache-bound CPU code  
 • SIMD vectorization  
 • GPU workgroup tuning  
-• V = 1 -> behaves like AoS  
-• V = len -> behaves like SoA  
-• V = 8 -> optimal on an 8-wide vector machine
+	• V = 1 -> behaves like AoS  
+	• V = len -> behaves like SoA  
+	• V = 8 -> optimal on an 8-wide vector machine
+
+Best use for AoSoA:
+- Matching the hardware
+	• When your data needs both field-wide and object-wide access  
+	• When you want to exploit SIMD while keeping the structure  
+	• When you want a portable layout that adapts to CPU, GPU, or  
+	architecture
+
