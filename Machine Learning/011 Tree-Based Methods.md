@@ -66,7 +66,8 @@ Can be affected by random state starts.
 We need a cost function. If it is regression, we can use sum of square errors on the left side of the split (R1) + sum of the square errors on the right side of the split (R2).
 Find `xi*, ts*` that minimizes `J`
 
-What do we do in classification? We do not have the sum of square errors or a quadratic form of loss. The researchers who developed CART use the me
+What do we do in classification? We do not have the sum of square errors or a quadratic form of loss. The researchers who developed CART use the metric: 
+Classification: *Impurity Metric*: 
 
 
 
