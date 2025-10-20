@@ -36,3 +36,8 @@ $$\hat{y} = mean(\hat{y}_{i \in R_{i}})$$
 
 This is regression, but what would change if we want to do *classification*? 
 Let's assume that the following is binary: 
+(see notes)
+Classification means to take the probability of the majority class:
+$$\hat{y} = prob(\text{majority class})$$
+This renders an interesting point: 
+- It will render a class, but it will have attached probability coming from calculating the proportions. This can be seen as a probabilistic algorithm. 
