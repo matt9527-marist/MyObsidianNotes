@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "616cf83774cbade3",
+            "id": "88d5c868415c1043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/104 Data Design and Performance Models.md",
+                "file": "Parallel Processing/105 Stencil With Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "104 Data Design and Performance Models"
+              "title": "105 Stencil With Materials"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,9 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db04d4f05f77082",
+  "active": "88d5c868415c1043",
   "lastOpenFiles": [
     "Parallel Processing/104 Data Design and Performance Models.md",
+    "Parallel Processing/105 Stencil With Materials.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Assets/Pasted image 20251020190944.png",
     "Assets/Pasted image 20251020184243.png",

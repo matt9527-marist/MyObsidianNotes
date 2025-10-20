@@ -235,6 +235,7 @@ Much
 Matching
 Misses
 Mapping
+MESI
 Learning
 Learn
 Let
@@ -650,6 +651,7 @@ Recompute
 Receiving
 Russian
 Ransomware
+Relevance
 libraries
 learn
 learning
@@ -1440,6 +1442,7 @@ Costs
 Conventional
 Compatibility
 Coordinates
+Coherency
 Scikit
 Statistical
 Statistics
@@ -3958,6 +3961,8 @@ invalidation
 improving
 intrinsics
 identifies
+introduces
+invalidations
 Field
 For
 Find
@@ -4897,6 +4902,8 @@ sets
 shortly
 suspicious
 sequences
+storms
+severely
 giving
 good
 generalizable
@@ -5640,6 +5647,7 @@ categorized
 conflict
 collapses
 comprehend
+coherence
 the
 to
 training
@@ -5990,6 +5998,7 @@ temporal
 transformations
 trigger
 trust
+traffic
 being
 be
 by
@@ -6979,6 +6988,7 @@ portable
 pop
 procedural
 prefetch
+propagated
 Detecting
 Deepmind
 Dataset
@@ -7868,6 +7878,8 @@ margin
 misses
 match
 matched
+multiprocessor
+maintained
 hypothesis
 handwritten
 have
@@ -8884,6 +8896,7 @@ decides
 distinction
 distinct
 decimal
+degrading
 future
 from
 feed
@@ -9151,6 +9164,7 @@ flat
 fetched
 flushed
 fails
+frequently
 Optimziation
 Operations
 Once
