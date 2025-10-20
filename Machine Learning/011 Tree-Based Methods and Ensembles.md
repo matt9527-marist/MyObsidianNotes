@@ -101,3 +101,5 @@ Why would we prefer the left side mapping? We know that the letters `A` and `E` 
 Coming from thermodynamics, we know that in any closed system, entropy always increases. If entropy always increases, we have a gain in information. 
 Organized the same way as computing the Gini Index. 
 
+## Ensembles 
+Intuition: If we have to make a prediction about something, would we 
