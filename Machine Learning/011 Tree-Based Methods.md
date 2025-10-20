@@ -42,6 +42,7 @@ $$\hat{y} = prob(\text{majority class})$$
 This renders an interesting point: 
 - It will render a class, but it will have attached probability coming from calculating the proportions. This can be seen as a probabilistic algorithm. 
 
+**Recursive Splitting**
 > FOR each x in X
 > 	FOR each split ts in xi 
 > 		Keep the pair(xi, ts) that minimizes J, a cost function 
@@ -61,5 +62,6 @@ Decision trees are very popular for two reasons:
 One big problem: This algorithm has extremely low bias and very high variance. When the tree grows, it is essentially adding more and more rules. The tree *grows aorund the data*. 
 Can be affected by random state starts. 
 - What to do? Start cutting branche (reducing ruleset), called pruning. 
-- 
+
+We need a 
 
