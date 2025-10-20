@@ -93,3 +93,7 @@ We could have placed a split that gives certainty for one data point, but it wou
 
 Another metric is **entropy**: $$H = -\sum^{k}_{k=1}p_{k}\log p_{k}$$We owe this to Claude Shannon. This is an information theoretical metric. 
 
+Suppose we perform a mapping of a small alphabet to prefix codes: 
+(see notes)
+
+
