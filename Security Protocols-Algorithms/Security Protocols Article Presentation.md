@@ -57,4 +57,5 @@ There is no need to fully describe each of these models, but we will give an ade
 ![[Pasted image 20251020195315.png]]
 The structure of this model has a simple additive equation consisting of weights that are easily quantifiable. 
 $$y = w_{1}x_{1} + w_{2}x_{2} + w_{3}x_{3} + \dots + w_{n}x_{n} + b$$
-- `w`'s are the weights given for each `x` feature in a given dataset. 
+- `w`'s are the weights given for each `x` feature in a given dataset. What we are determining with the above expression is how much `y` changes when  `xi` changes by one unit. 
+- We can easily understand and visualize this equation. The weights themselves can be listed in a table. The graph of the model is basically a line of best fit
