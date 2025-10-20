@@ -55,4 +55,6 @@ There is no need to fully describe each of these models, but we will give an ade
 
 **Regression Models** - This includes linear and logistic regression. These models are inherently very explainable.
 ![[Pasted image 20251020195315.png]]
-The structure of this m
+The structure of this model has a simple additive equation consisting of weights that are easily quantifiable. 
+$$y = w_{1}x_{1} + w_{2}x_{2} + w_{3}x_{3} + \dots + w_{n}x_{n} + b$$
+- `w`'s are the weights given for each `x` feature in a given dataset. 
