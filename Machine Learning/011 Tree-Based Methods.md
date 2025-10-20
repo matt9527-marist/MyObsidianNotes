@@ -25,4 +25,7 @@ Select a predictor and within the predictor itself, let us choose a split:
 
 What we have done is specify two regions defined by `t1`, where `x1 <= t1`
 We are taking the predictor `x` and determining a certain split on it. 
-> FOR each feasible split i
+> FOR each split `ts` in `xi`
+
+We can split again within the first region as we see with `t2`. This is what we see when we choose the predictor `x2`. What we are saying here is:
+(see notes)
