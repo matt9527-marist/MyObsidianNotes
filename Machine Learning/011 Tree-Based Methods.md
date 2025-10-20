@@ -54,5 +54,10 @@ This will allow us to find the best possible pair to place a split across all po
 How many times will we repeat the selection process?
 - Stopping Criterion: set count of times, or a specific condition. 
 	- Why can't we let the tree continuously grow? Remember training vs. testing error. We do not want overfitting. 
-- 
+
+Decision trees are very popular for two reasons:
+1) Recursive situations over a lot of attributes. Combinatorial explosions like this are handled relatively quickly by modern computers. 
+2) The tree by itself is a graphical representation of a collection of rules. Just a few thousand conditional branches checking the values of attributes. 
+One big problem: This algorithm has extremely low bias and very high variance. When the tree grows, it is essentially adding more and more rules. The tree *grows aorund the data*. 
+
 
