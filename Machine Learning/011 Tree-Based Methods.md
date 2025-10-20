@@ -23,5 +23,6 @@ How do we split DTs:?
 Select a predictor and within the predictor itself, let us choose a split:
 > FOR each x in X 
 
-What we have done is specify:
-(see notes)
+What we have done is specify two regions defined by `t1`, where `x1 <= t1`
+We are taking the predictor `x` and determining a certain split on it. 
+> FOR each feasible split i
