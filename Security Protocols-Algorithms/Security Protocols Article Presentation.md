@@ -53,3 +53,6 @@ These aspects of XAI are proposed by IEEE to improve trust and hand the regulato
 
 There is no need to fully describe each of these models, but we will give an adequate breakdown of just one of the models for each of the two categories: transparent and opaque. 
 
+**Regression Models** - This includes linear and logistic regression. These models are inherently very explainable.
+![[Pasted image 20251020195315.png]]
+The structure of this m
