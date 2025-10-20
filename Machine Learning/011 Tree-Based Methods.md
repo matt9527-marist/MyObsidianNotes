@@ -29,3 +29,6 @@ We are taking the predictor `x` and determining a certain split on it.
 
 We can split again within the first region as we see with `t2`. This is what we see when we choose the predictor `x2`. What we are saying here is:
 (see notes)
+
+The region selection is not the prediction. The prediction comes from doing `yhat(Ri)`
+`yhat(R1)` is just the mean of all of the values within R1. 
