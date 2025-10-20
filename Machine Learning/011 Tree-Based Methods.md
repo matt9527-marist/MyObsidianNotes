@@ -71,7 +71,9 @@ Classification: *Impurity Metric*:
 (see notes)
 How do we make the determination that the above split `t1` is the best one?
 Use the *Gini Index*:
-$$$$
-
+$$Gini = \sum^{k}_{k=1}p^{k}(1-p_{k})$$
+We could have a target that contains up to `k` classes. In the case above, `k=2` classes. 
+`P(closed) = 6`
+`P(`
 
 
