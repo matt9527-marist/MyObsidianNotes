@@ -50,3 +50,37 @@ Key Terms:
 access  
 • This means these are bandwidth-limited problems (limited by how fast  
 memory can move, not how fast CPU can calculate)
+
+**Two Datasets**
+Geometric Shapes Problem  
+• Mesh is filled with neat rectangles of materials  
+• 95% of cells are pure (1 material)  
+• 5% of cells are mixed (multiple materials)  
+• There’s some data locality (similar data is near each other)  
+• Estimated branch prediction miss = 0.7
+
+**Randomly Initialized Mesh**
+Scenario  
+• Mesh Composition:  
+• 80% pure cells, 20% mixed cells  
+• Low data locality  
+• Branch prediction miss: Bp = 1.0
+
+**Two Key Design Dimensions**
+• Data Layout  
+	• Cell-centric: organized by cell  
+	• Material-centric: organized by material  
+	• Affects memory stride and cache behavior  
+• Loop Order  
+	• Cell-dominant loop: outer loop over cells  
+	• Material-dominant loop: outer loop over materials  
+	• Affects access patterns
+
+**Performance Insight**
+• Best performance occurs when:  
+- Data layout ↔ Loop order match
+• Trade-off:  
+	• One kernel may favor a cell-based layout  
+	• Another may favor a material-based layout  
+• No one-size-fits-all — tune per kernel  
+

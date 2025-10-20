@@ -35,8 +35,7 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db04d4f05f77082",
+  "active": "88d5c868415c1043",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Assets/Pasted image 20251020194133.png",
     "Parallel Processing/105 Stencil With Materials.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Assets/Pasted image 20251020190944.png",
     "Assets/Pasted image 20251020184243.png",
     "Assets/Pasted image 20251020183856.png",
@@ -210,7 +209,6 @@
     "Assets/Pasted image 20251015104645.png",
     "Assets/Pasted image 20251015104626.png",
     "Assets/Pasted image 20251015104556.png",
-    "Assets/Pasted image 20251015104546.png",
     "Machine Learning/009 TF-IDF.md",
     "conflict-files-obsidian-git.md",
     "Parallel Processing/101 Parallel Computing.md",

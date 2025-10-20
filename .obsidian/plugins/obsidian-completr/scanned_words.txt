@@ -652,6 +652,8 @@ Receiving
 Russian
 Ransomware
 Relevance
+Result
+Representative
 libraries
 learn
 learning
@@ -928,6 +930,7 @@ loads
 layouts
 lookups
 len
+law
 Graphing
 Google
 Game
@@ -1443,6 +1446,10 @@ Conventional
 Compatibility
 Coordinates
 Coherency
+Compressed
+Count
+Calculations
+Calculated
 Scikit
 Statistical
 Statistics
@@ -1762,6 +1769,8 @@ Spatial
 Subroutine
 Start
 Swap
+Sparse
+Store
 Keras
 Key
 Kirchhoffs
@@ -1904,6 +1913,7 @@ Knowing
 KiB
 KCachegrind
 KCacheGrind
+Kernels
 TensorFlow
 Task
 Training
@@ -2147,6 +2157,7 @@ Table
 Tips
 Thrashing
 Transparent
+Terms
 ISLP
 Iris
 Instance
@@ -2731,6 +2742,8 @@ adapts
 associative
 aligned
 activity
+ash
+avg
 Applications
 AI
 Analysis
@@ -2969,6 +2982,7 @@ AoSoA
 Accesses
 Associativity
 API
+Average
 with
 without
 want
@@ -3461,6 +3475,7 @@ Prefers
 PDE
 Prefetching
 Policies
+Pressure
 What
 We
 With
@@ -3641,6 +3656,8 @@ Within
 Widen
 Way
 Writes
+Worth
+Waste
 is
 in
 if
@@ -4427,6 +4444,7 @@ obscured
 overlay
 organize
 opcode
+ops
 study
 simplified
 something
@@ -5153,6 +5171,8 @@ green
 generality
 goes
 grams
+gases
+gas
 computers
 computer
 can
@@ -5651,6 +5671,7 @@ collapses
 comprehend
 coherence
 challenging
+compressed
 the
 to
 training
@@ -6246,6 +6267,7 @@ builds
 broadest
 balances
 benign
+branches
 explicitly
 experience
 error
@@ -7250,6 +7272,7 @@ Depends
 Decrypt
 Detected
 Detection
+Decide
 regularities
 respect
 recognizing
@@ -7889,6 +7912,9 @@ match
 matched
 multiprocessor
 maintained
+materials
+maintain
+memops
 hypothesis
 handwritten
 have
@@ -8909,6 +8935,7 @@ distinction
 distinct
 decimal
 degrading
+densities
 future
 from
 feed
@@ -9178,6 +9205,8 @@ flushed
 fails
 frequently
 fidelity
+fluid
+fluids
 Optimziation
 Operations
 Once
@@ -10070,6 +10099,7 @@ nonlinear
 near
 news
 narrative
+nRT
 yes
 yield
 your
