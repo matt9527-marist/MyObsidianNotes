@@ -60,4 +60,6 @@ Decision trees are very popular for two reasons:
 2) The tree by itself is a graphical representation of a collection of rules. Just a few thousand conditional branches checking the values of attributes. 
 One big problem: This algorithm has extremely low bias and very high variance. When the tree grows, it is essentially adding more and more rules. The tree *grows aorund the data*. 
 Can be affected by random state starts. 
+- What to do? Start cutting branche (reducing ruleset), called pruning. 
+- 
 
