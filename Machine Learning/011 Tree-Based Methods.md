@@ -91,5 +91,5 @@ This gives us our *improvement*. We start with a level of impurity for the full 
 $$G - \bar{G_{R_{1},R_{2}}}$$
 We could have placed a split that gives certainty for one data point, but it would be one-sided. For each potential split `ts` that the system considers, the system will compute the SSE for the right and left sides of the split for regression, or compute the improvement for classification. 
 
-Another metric is **entropy**: $$H = -\sum^{k}_{k=1}p_{k}\log p_{k}$$We owe this to Claude Shannon. 
+Another metric is **entropy**: $$H = -\sum^{k}_{k=1}p_{k}\log p_{k}$$We owe this to Claude Shannon. This is an information theoretical metric. 
 
