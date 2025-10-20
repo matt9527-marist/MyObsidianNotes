@@ -29,4 +29,6 @@ Let us first explain modern malware detection techniques. These are categorized 
 	2) Dynamic Analysis: execute the code in a closed environment to see what it does. Here, we can compare system call patterns and memory usage between benign and malicious programs. The issue here is that this can be time and resource expensive. 
 	3) Hybrid Analysis: combine the above two approaches. There is a website that does this for us: [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://hybrid-analysis.com/)
 2) *Online Detection*
-	- Focuses on the behavior of the entire machine rather than individual malware behaviors. 
+	- Focuses on the behavior of the entire machine rather than individual malware behaviors, which enables us to capture malware in real-time, regardless of its specific activity level. 
+
+
