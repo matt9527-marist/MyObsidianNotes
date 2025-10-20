@@ -41,3 +41,8 @@ Classification means to take the probability of the majority class:
 $$\hat{y} = prob(\text{majority class})$$
 This renders an interesting point: 
 - It will render a class, but it will have attached probability coming from calculating the proportions. This can be seen as a probabilistic algorithm. 
+
+> FOR each x in X
+> 	FOR each split ts in xi 
+> 		Keep the pair(xi, ts) that minimizes J, a cost function 
+
