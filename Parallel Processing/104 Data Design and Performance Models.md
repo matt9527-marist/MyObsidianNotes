@@ -300,4 +300,19 @@ Best use for AoSoA:
 ## Cache 
 **Three C's of Cache Misses**
 ![[Pasted image 20251020184243.png]]
+**Memory Address Mapping**
+```c++
+float a[1024]; // Base address: 0x100000  
+float b[1024]; // Base address: 0x110000  
+for (int i = 0; i < 1024; i++) {  
+	sum += a[i] + b[i];  
+}
+```
+• a[0] address = 0x100000 = 1048576 (decimal)  
+-> Cache line = (1048576 / 64) % 256 = 16384 % 256 = 0  
+• b[0] address = 0x110000 = 1114112 (decimal)  
+-> Cache line = (1114112 / 64) % 256 = 17408 % 256 = 0  
+• Both map to cache line 0 → conflict!  
+• Load a[i] → goes to cache line 0, Load b[i] → overwrites line 0  
+• Next a[i+1] → needs to reload
 
