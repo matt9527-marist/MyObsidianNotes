@@ -2146,6 +2146,7 @@ Takeaways
 Table
 Tips
 Thrashing
+Transparent
 ISLP
 Iris
 Instance
@@ -4904,6 +4905,7 @@ suspicious
 sequences
 storms
 severely
+suggested
 giving
 good
 generalizable
@@ -5648,6 +5650,7 @@ conflict
 collapses
 comprehend
 coherence
+challenging
 the
 to
 training
@@ -6579,6 +6582,8 @@ evictions
 evict
 eviction
 examine
+explainable
+explainability
 programmed
 patterns
 program
@@ -6989,6 +6994,8 @@ pop
 procedural
 prefetch
 propagated
+proposed
+post
 Detecting
 Deepmind
 Dataset
@@ -7573,6 +7580,8 @@ relation
 reverse
 reload
 reasons
+regulatory
+requiring
 model
 mostly
 machine
@@ -8109,6 +8118,7 @@ homogeneous
 hinder
 habit
 hybrid
+hoc
 Execution
 Examples
 Economics
@@ -8321,6 +8331,7 @@ Every
 Express
 Engineering
 Explainablity
+Explainable
 using
 utility
 use
@@ -8538,6 +8549,7 @@ utilization
 unrealistic
 unsure
 uncontrollable
+unseen
 data
 driven
 dataset
@@ -9165,6 +9177,7 @@ fetched
 flushed
 fails
 frequently
+fidelity
 Optimziation
 Operations
 Once
@@ -9383,6 +9396,7 @@ Opportunities
 Operate
 Optimized
 Online
+Opaque
 kind
 know
 knowledge
@@ -11279,6 +11293,8 @@ jXZ
 jar
 jumps
 jump
+justifications
+justifies
 Vectors
 Vectorization
 Visualization
@@ -12053,6 +12069,7 @@ XRl
 XBN
 XYeRQyLl
 XEez
+XAI
 Qw
 QV
 QG
