@@ -13,5 +13,6 @@ We will be organizing the predictors in a specific order. The set of branches le
 
 How do we split DTs:?
 - number of branches per split: 
-	- Binary 
-	- Multiway (C)
+	- Binary (CART)
+	- Multiway (C4.5)
+(see notes)
