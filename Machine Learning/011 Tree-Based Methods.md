@@ -83,6 +83,8 @@ We use the Gini for the above situation:
 $$G = 1 - [(\frac{6}{11})^2 + (\frac{5}{11})^2]$$
 After we split this:
 $$G_{R_{1}} = 1 - [(\frac{2}{5})^2 + (\frac{3}{5})^2]$$
-$$G$$
+$$G_{R_{2}} = 1 - [(\frac{2}{6})^2 + (\frac{4}{6})^2]$$
+We go from 1 Gini Index to 2 Gini Indexes after the split. Next step is take the average: 
+$$\bar{G_{R_{1}, R_{2}}} = \frac{N_{R_{1}}}{N}G(R_{1}) + \frac{N_{R_{2}}}{N}G(R_{2})$$
 
 
