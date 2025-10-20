@@ -108,3 +108,6 @@ Intuition: If we have to make a prediction about something, would we ask the per
 - Consequences: there may be some algorithms that are better for certain problems than others, but it is difficult to identify the best possible algorithm. We cannot possibly try every algorithm. 
 - If we take a group of algorithms, it may be better off, since there is no best singular algorithm. 
 
+Imagine the following situation:
+(see notes)
+Suppose each of the above lines is one linear classifier. On their own, they have a lot of errors, but when we use them together, we get a much better classi
