@@ -84,3 +84,18 @@ Scenario
 	• Another may favor a material-based layout  
 • No one-size-fits-all — tune per kernel  
 
+**Full Matrix Storage (Cell-Centric)**
+• This method assumes that every cell has all materials — even if  
+most cells only need one or two. That’s why we call it a full  
+matrix.  
+• Layout  
+	• You store values like this: variable[cell][material]  
+	• This means: For each cell, you list all its materials.  
+	• This matches how C stores arrays: the material index varies  
+	fastest in memory, so the data for one cell is grouped  
+	together.
+
+Downsides: 
+• Most entries are zero, because most materials are not in most cells.  
+• In big simulations, over 95% of the entries are zeros.  
+• So, a lot of memory is wasted.
