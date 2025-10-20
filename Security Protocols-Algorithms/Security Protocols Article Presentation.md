@@ -47,4 +47,5 @@ We should be able to derive *degree of importance*, meaning we should be able to
 These aspects of XAI are proposed by IEEE to improve trust and hand the regulatory power over AI back to humans.
 ## Transparent vs. Opaque Machine Learning Models 
 **Transparent Machine Learning Models** are inherently explainable, typically not requiring post-hoc explainability techniques.
-**Opaque Machine Learning Models** are highly accurate but complex and difficult to explain. It is challenging for a human to understand the patterns that th
+**Opaque Machine Learning Models** are highly accurate but complex and difficult to explain. It is challenging for a human to understand the patterns that the model is predicting upon, or there are layers of computation being performed by the ML algorithm that are not intuitive. 
+
