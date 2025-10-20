@@ -91,9 +91,11 @@ This gives us our *improvement*. We start with a level of impurity for the full 
 $$G - \bar{G_{R_{1},R_{2}}}$$
 We could have placed a split that gives certainty for one data point, but it would be one-sided. For each potential split `ts` that the system considers, the system will compute the SSE for the right and left sides of the split for regression, or compute the improvement for classification. 
 
-Another metric is **entropy**: $$H = -\sum^{k}_{k=1}p_{k}\log p_{k}$$We owe this to Claude Shannon. This is an information theoretical metric. 
+Another metric is **entropy**: $$H = -\sum^{k}_{k=1}p_{k}\log p_{k}$$We owe this to Claude Shannon. This is an information theoretical metric, a measure of uncertainty associated with a random variable. 
 
 Suppose we perform a mapping of a small alphabet to prefix codes: 
 (see notes)
-Why would we prefer the left side mapping? We know that the letters `A` and `E` are very common. If `A` appears 8% of the time, and `E` appears 13% of the time vs. `Q` and `Y` appearing 0.1% and 2% of the time, we want *shorter prefix codes* for `A`
+Why would we prefer the left side mapping? We know that the letters `A` and `E` are very common. If `A` appears 8% of the time, and `E` appears 13% of the time vs. `Q` and `Y` appearing 0.1% and 2% of the time, we want *shorter prefix codes* for `A` and `E`. 
+
+
 
