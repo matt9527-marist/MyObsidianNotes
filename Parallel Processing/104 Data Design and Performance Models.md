@@ -297,3 +297,7 @@ Best use for AoSoA:
 	• When you want a portable layout that adapts to CPU, GPU, or  
 	architecture
 
+## Cache 
+**Three C's of Cache Misses**
+![[Pasted image 20251020184243.png]]
+

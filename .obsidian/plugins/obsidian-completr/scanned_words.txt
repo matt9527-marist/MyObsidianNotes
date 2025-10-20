@@ -232,6 +232,7 @@ Machines
 Margin
 Multidimensional
 Much
+Matching
 Learning
 Learn
 Let
@@ -920,6 +921,7 @@ leverage
 loads
 layouts
 lookups
+len
 Graphing
 Google
 Game
@@ -2716,6 +2718,7 @@ alignment
 axis
 auth
 assert
+adapts
 Applications
 AI
 Analysis
@@ -3182,6 +3185,7 @@ worth
 widely
 wastes
 wasted
+workgroup
 Python
 Performance
 Principle
@@ -6526,6 +6530,7 @@ enacts
 experiment
 enables
 exhausted
+exploit
 programmed
 patterns
 program
@@ -7819,6 +7824,7 @@ misclassify
 margin
 misses
 match
+matched
 hypothesis
 handwritten
 have
