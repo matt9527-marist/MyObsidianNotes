@@ -119,3 +119,4 @@ Suppose each of the above lines is one linear classifier. On their own, they hav
 	- Variants of Bagging: Random Forests (RF), Extra Trees
 
 Example ensemble usage using decision trees:
+(see notes)
