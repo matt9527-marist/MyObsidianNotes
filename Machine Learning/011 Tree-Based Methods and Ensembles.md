@@ -115,6 +115,6 @@ Suppose each of the above lines is one linear classifier. On their own, they hav
 **Types of Ensembles**:
 1) Homogeneous:
 	- Decision tree ensembles: Bagging, Boosting, 
-		- Variants of Bagging: Random Forests (RF), Et
+		- Variants of Bagging: Random Forests (RF), Extra Trees
 2) Heterogeneous:
 	
