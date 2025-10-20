@@ -45,6 +45,12 @@ This renders an interesting point:
 > FOR each x in X
 > 	FOR each split ts in xi 
 > 		Keep the pair(xi, ts) that minimizes J, a cost function 
+>* Recursively grow the tree until stopping criterion
 
 In the case of regression, we usually use some cost function of a quadratic loss.
-$$SSE_{R}$$
+$$SSE_{R_{1}} + SSE_{R_{2}} + \dots$$
+Minimize the sum of squared errors on the left of the split and on the right of the split, and on the top of the split and on the bottom of the split. 
+This will allow us to find the best possible pair to place a split across all possible pairs. 
+How many times will we repeat the selection process?
+- Stopping Criterion: set count of times, 
+
