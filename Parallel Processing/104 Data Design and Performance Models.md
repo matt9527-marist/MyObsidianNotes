@@ -316,3 +316,25 @@ for (int i = 0; i < 1024; i++) {
 • Load a[i] → goes to cache line 0, Load b[i] → overwrites line 0  
 • Next a[i+1] → needs to reload
 
+**Why this matters**:
+• Cache misses stall the CPU while data is fetched from memory — and  
+hundreds of FLOPs could have been executed in that time.  
+• For stencil kernels (like blur operators in image processing or PDE solvers),  
+spatial and temporal locality play huge roles in cache behavior.
+
+**Performance Engineering Notes**
+• Prefetching:  
+	• Modern CPUs can prefetch data based on regular access patterns (like row-wise loops).  
+	• You can also explicitly prefetch in software using compiler intrinsics or manual loop transformations.  
+• Associativity:  
+	• Set-associative caches mitigate conflict misses compared to direct-mapped ones.  
+	• Still, bad address alignment can trigger frequent evictions — for example, if two arrays are stride-aligned and map  
+	to the same sets.  
+• Thrashing:  
+	• When capacity/conflict misses repeatedly evict useful cache lines and reload them shortly after, performance  
+	collapses.  
+	• This is especially common with large working sets or poor memory access patterns.  
+• Write Policies:  
+	• Write-allocate: On a store miss, a line is first loaded into cache, then written.  
+	• Write-back vs Write-through affects when data is flushed to memory and can change eviction behavior.
+

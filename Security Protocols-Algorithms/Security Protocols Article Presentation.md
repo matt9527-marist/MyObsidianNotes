@@ -24,6 +24,7 @@ We will also be later discussing Ransomware 3.0, which is the reverse narrative 
 ## How Malware is Detected
 Let us first explain modern malware detection techniques. These are categorized into 2 distinct approaches: 
 1) *File Classification*
+	- File classification looks at the file's code
 2) *Online Detection*
 
 

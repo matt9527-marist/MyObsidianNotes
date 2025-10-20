@@ -5610,6 +5610,7 @@ clarity
 chained
 compact
 calc
+categorized
 the
 to
 training
@@ -7192,6 +7193,7 @@ DOD
 Depends
 Decrypt
 Detected
+Detection
 regularities
 respect
 recognizing
@@ -8837,6 +8839,7 @@ dual
 dimension
 decides
 distinction
+distinct
 future
 from
 feed
@@ -9318,6 +9321,7 @@ OPTIONS
 Opportunities
 Operate
 Optimized
+Online
 kind
 know
 knowledge
