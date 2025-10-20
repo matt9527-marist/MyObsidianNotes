@@ -52,5 +52,7 @@ $$SSE_{R_{1}} + SSE_{R_{2}} + \dots$$
 Minimize the sum of squared errors on the left of the split and on the right of the split, and on the top of the split and on the bottom of the split. 
 This will allow us to find the best possible pair to place a split across all possible pairs. 
 How many times will we repeat the selection process?
-- Stopping Criterion: set count of times, 
+- Stopping Criterion: set count of times, or a specific condition. 
+	- Why can't we let the tree continuously grow? Remember training vs. testing error. We do not want overfitting. 
+- 
 
