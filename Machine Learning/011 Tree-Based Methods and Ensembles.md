@@ -110,4 +110,11 @@ Intuition: If we have to make a prediction about something, would we ask the per
 
 Imagine the following situation:
 (see notes)
-Suppose each of the above lines is one linear classifier. On their own, they have a lot of errors, but when we use them together, we get a much better classi
+Suppose each of the above lines is one linear classifier. On their own, they have a lot of errors, but when we use them together, we get much better results. 
+
+**Types of Ensembles**:
+1) Homogeneous:
+	- Decision tree ensembles: Bagging, Boosting, 
+		- Variants of Bagging: Random Forests (RF), Et
+2) Heterogeneous:
+	
