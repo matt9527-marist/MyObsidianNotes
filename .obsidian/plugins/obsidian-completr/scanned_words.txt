@@ -233,6 +233,8 @@ Margin
 Multidimensional
 Much
 Matching
+Misses
+Mapping
 Learning
 Learn
 Let
@@ -435,6 +437,8 @@ Launch
 Likely
 Linearly
 Layouts
+Load
+Lots
 Relevant
 Reading
 Research
@@ -2138,6 +2142,7 @@ Tradeoffs
 Takeaways
 Table
 Tips
+Thrashing
 ISLP
 Iris
 Instance
@@ -2719,6 +2724,9 @@ axis
 auth
 assert
 adapts
+associative
+aligned
+activity
 Applications
 AI
 Analysis
@@ -2955,6 +2963,8 @@ Allocating
 Allocates
 AoSoA
 Accesses
+Associativity
+API
 with
 without
 want
@@ -3186,6 +3196,7 @@ widely
 wastes
 wasted
 workgroup
+wise
 Python
 Performance
 Principle
@@ -3443,6 +3454,9 @@ Pattern
 Pitfalls
 Physics
 Prefers
+PDE
+Prefetching
+Policies
 What
 We
 With
@@ -3942,6 +3956,8 @@ interop
 inefficiency
 invalidation
 improving
+intrinsics
+identifies
 Field
 For
 Find
@@ -4404,6 +4420,7 @@ outpace
 obscured
 overlay
 organize
+opcode
 study
 simplified
 something
@@ -4873,6 +4890,13 @@ structs
 scattered
 stored
 slices
+stall
+solvers
+stride
+sets
+shortly
+suspicious
+sequences
 giving
 good
 generalizable
@@ -5118,6 +5142,8 @@ graphs
 git
 green
 generality
+goes
+grams
 computers
 computer
 can
@@ -5611,6 +5637,9 @@ chained
 compact
 calc
 categorized
+conflict
+collapses
+comprehend
 the
 to
 training
@@ -5957,6 +5986,10 @@ threading
 traps
 tight
 transposed
+temporal
+transformations
+trigger
+trust
 being
 be
 by
@@ -6200,6 +6233,7 @@ blue
 builds
 broadest
 balances
+benign
 explicitly
 experience
 error
@@ -6532,6 +6566,10 @@ experiment
 enables
 exhausted
 exploit
+evictions
+evict
+eviction
+examine
 programmed
 patterns
 program
@@ -6940,6 +6978,7 @@ practices
 portable
 pop
 procedural
+prefetch
 Detecting
 Deepmind
 Dataset
@@ -7522,6 +7561,8 @@ radius
 reloads
 relation
 reverse
+reload
+reasons
 model
 mostly
 machine
@@ -8266,6 +8307,8 @@ Empirical
 Else
 Every
 Express
+Engineering
+Explainablity
 using
 utility
 use
@@ -8840,6 +8883,7 @@ dimension
 decides
 distinction
 distinct
+decimal
 future
 from
 feed
@@ -9104,6 +9148,9 @@ fundamentals
 formulae
 fine
 flat
+fetched
+flushed
+fails
 Optimziation
 Operations
 Once
