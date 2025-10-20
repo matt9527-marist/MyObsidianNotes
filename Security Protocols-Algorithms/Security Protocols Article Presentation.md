@@ -34,4 +34,4 @@ Let us first explain modern malware detection techniques. These are categorized 
 In practice, these detection approaches show some patterns on which we can train ML algorithms. System calls for example, in dynamic analysis, can be a key feature or attribute that identifies a file as malware, so we might say that feature holds a lot of weight in decision tree or neural network. 
 
 ## Explainablity in Machine Learning 
-
+This is brings us to the issue at hand: the reasons for why AI outputs something is 
