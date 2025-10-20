@@ -31,4 +31,7 @@ Let us first explain modern malware detection techniques. These are categorized 
 2) *Online Detection*
 	- Focuses on the behavior of the entire machine rather than individual malware behaviors, which enables us to capture malware in real-time, regardless of its specific activity level. 
 
-In practice, these detection approaches show some patterns, which we cn 
+In practice, these detection approaches show some patterns on which we can train ML algorithms. System calls for example, in dynamic analysis, can be a key feature or attribute that identifies a file as malware, so we might say that feature holds a lot of weight in decision tree or neural network. 
+
+## Explainablity in Machine Learning 
+
