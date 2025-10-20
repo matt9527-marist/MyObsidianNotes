@@ -77,6 +77,9 @@ We could have a target that contains up to `k` classes. In the case above, `k=2`
 `P(open) = 5/ 11`
 What is the probability of misclassification? For example, predicting an open (6/11). 
 Another way of writing this:
-$$G =  1-\sum^{k}_{k=1})$$
+$$G =  (1-\sum^{k}_{k=1}p_{k})^2$$
+How can we measure the improvement by splitting? 
+We use the Gini for the above situation: 
+$$1 - $$
 
 
