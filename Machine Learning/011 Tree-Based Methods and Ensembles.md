@@ -120,3 +120,7 @@ Suppose each of the above lines is one linear classifier. On their own, they hav
 
 Example ensemble usage using decision trees:
 (see notes)
+Essentially breaking the initial dataset D into a set of datasets organized in a tree, where we can use multiple decision trees for each division. 
+$$X \to \frac{x_{1}, x_{2}, \dots x_{B}}{\bar{x}}$$
+$$var(\bar{x}) = \frac{\sigma}{B}$$
+
