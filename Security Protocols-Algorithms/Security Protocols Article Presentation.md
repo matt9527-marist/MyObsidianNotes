@@ -21,4 +21,7 @@ What IEEE is advocating for through this article is to make **transparency** a p
 
 We will also be later discussing Ransomware 3.0, which is the reverse narrative that we bring to this presentation, where, without transparency, AI and machine learning becomes its own potentially uncontrollable attack vector.
 
+## How Malware is Detected
+
+
 
