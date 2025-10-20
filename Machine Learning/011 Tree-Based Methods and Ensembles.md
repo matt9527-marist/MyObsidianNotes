@@ -113,9 +113,9 @@ Imagine the following situation:
 Suppose each of the above lines is one linear classifier. On their own, they have a lot of errors, but when we use them together, we get much better results. 
 
 **Types of Ensembles**:
-1) Homogeneous:
+1) Homogeneous: Trees are the same
 	- Decision tree ensembles: Bagging, Boosting, 
-2) Heterogeneous: Stacked Estimators 
+2) Heterogeneous: Stacked Estimators: Trees are different
 	- Variants of Bagging: Random Forests (RF), Extra Trees
 
 Example ensemble usage using decision trees:
@@ -126,4 +126,5 @@ $$var(\bar{x}) = \frac{\sigma}{B}$$
 One problem: the trees are highly correlated. We may have hundreds of estimators, but perhaps the majority of them look very alike because some features are more relevant than the rest. 
 How can we fix this? This brings us to Random Forests.
 
-**Random Forests**: Keep the structure, but extract at random a subset of the features. By doing so, the correlation among trees disappears. The same feat
+**Random Forests**: Keep the structure, but extract at random a subset of the features to be used in each of the splits. By doing so, the correlation among trees disappears. The same feature that appeared at the top of trees beforehand may not be used. The value of how many features to select is a hyperparameter, and it can be chosen at random. 
+*Random Walk*: 
