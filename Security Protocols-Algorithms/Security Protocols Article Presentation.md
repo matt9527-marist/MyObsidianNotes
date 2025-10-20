@@ -51,3 +51,5 @@ These aspects of XAI are proposed by IEEE to improve trust and hand the regulato
 
 ![[Pasted image 20251020194133.png]]
 
+There is no need to fully describe each of these models, but we will give an adequate breakdown of just one of the models for each of the two categories: transparent and opaque. 
+
