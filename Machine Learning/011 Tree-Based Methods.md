@@ -68,6 +68,10 @@ Find `xi*, ts*` that minimizes `J`
 
 What do we do in classification? We do not have the sum of square errors or a quadratic form of loss. The researchers who developed CART use the metric: 
 Classification: *Impurity Metric*: 
+(see notes)
+How do we make the determination that the above split `t1` is the best one?
+Use the *Gini Index*:
+$$$$
 
 
 
