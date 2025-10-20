@@ -97,5 +97,5 @@ Suppose we perform a mapping of a small alphabet to prefix codes:
 (see notes)
 Why would we prefer the left side mapping? We know that the letters `A` and `E` are very common. If `A` appears 8% of the time, and `E` appears 13% of the time vs. `Q` and `Y` appearing 0.1% and 2% of the time, we want *shorter prefix codes* for `A` and `E`. 
 
-
-
+**Information Gain**
+Coming from thermodynamics, we know that in any closed system, entropy always increases. If entropy always increases, we have a gain in information. 
