@@ -19,6 +19,6 @@ Think about this in terms of a different field. For example, in *healthcare*, me
 
 What IEEE is advocating for through this article is to make **transparency** a prerequisite for malware detection and analysis models. 
 
-What we bri 
+We will also be later discussing Ransomware 3.0, which is the reverse narrative that we bring to this presentation, where, without transparency, AI and machine learning becomes its own potentially uncontrollable attack vector.
 
 
