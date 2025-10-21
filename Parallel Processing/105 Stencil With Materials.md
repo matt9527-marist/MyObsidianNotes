@@ -99,3 +99,17 @@ Downsides:
 • Most entries are zero, because most materials are not in most cells.  
 • In big simulations, over 95% of the entries are zeros.  
 • So, a lot of memory is wasted.
+
+**Benefit**
+• This layout is simple and easy to use.  
+• It works well with parallelization and optimization tools.  
+• But because it uses much more memory, it may slow down performance due to  
+higher memory bandwidth usage.  
+• Solution?  
+	• We can try compressed sparse data structures, which only store the materials  
+	that are actually present in a cell.  
+	• Even though this structure is more complex, it can save a lot of memory (95% or  
+	more) and can make the program run much faster (up to 90%) — if designed well.
+
+![[Pasted image 20251020201708.png]]
+
