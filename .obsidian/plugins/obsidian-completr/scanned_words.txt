@@ -935,6 +935,8 @@ layouts
 lookups
 len
 law
+logistic
+layering
 Graphing
 Google
 Game
@@ -2756,6 +2758,7 @@ activity
 ash
 avg
 adequate
+additive
 Applications
 AI
 Analysis
@@ -6038,6 +6041,7 @@ trigger
 trust
 traffic
 transparent
+themselves
 being
 be
 by
@@ -7626,6 +7630,7 @@ reasons
 regulatory
 requiring
 rectangles
+representation
 model
 mostly
 machine
@@ -10835,6 +10840,7 @@ qJx
 query
 qcachegrind
 quite
+quantifiable
 Unsupervised
 UNION
 User

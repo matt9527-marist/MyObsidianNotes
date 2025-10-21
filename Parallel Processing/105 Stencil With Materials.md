@@ -113,3 +113,5 @@ higher memory bandwidth usage.
 
 ![[Pasted image 20251020201708.png]]
 
+![[Pasted image 20251020202607.png]]
+
