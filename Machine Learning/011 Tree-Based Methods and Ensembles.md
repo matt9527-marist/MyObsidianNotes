@@ -148,4 +148,8 @@ Given the training data `xi, yi`, number of trees `B`, and the shrinkage paramet
    Our new prediction is based on our previous prediction + the fitted tree on the residuals
    Update the residuals again:
    $$r_{i}^{b}=y_{i} - f^{b}(x_{i})$$
-   These new residuals represent what is still left to explain.
+   These new residuals represent what is still left to explain. 
+
+How many times do we boost the trees? Stop after a given number of iterations or after some criterion (for example until the error MSE reaches a threshold)
+If we, at each stage compute a new prediction, we are creating a sequence of trees. 
+$$f^{(B)}(x) = \sum^{B}_{b=1}\lambda T_{b}(x)$$
