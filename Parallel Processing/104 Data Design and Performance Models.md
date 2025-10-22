@@ -161,6 +161,8 @@ just how you organize code.
 
 ![[Pasted image 20251013192845.png]]
 
+![[Pasted image 20251020183856.png]]
+
 **Key Takeaways**
 • Think data usage first, not just code structure  
 • AoS: Good for CPU-side code using all fields together  
@@ -257,3 +259,92 @@ benefits of both:
 • SoA: Good when accessing one field at a time  
 • AoSoA slices the data into blocks that match the CPU’s vector size,  
 improving vectorization and cache performance.
+
+**C++ AoSoA Implementation Example**
+```c++
+const int V = 4; // Set vector length
+struct SoA_type {
+	int R[V], G[V], B[V]; // Structure of Arrays
+};
+
+int len = 1000;
+SoA_type AoSoA[len / V]; // Array of Structs of Arrays
+
+for (int j = 0; j < len / V; j++) {
+	for (int i = 0; i < V; i++) {
+		AoSoA[j].R[i] = 0;
+		AoSoA[j].G[i] = 0;
+		AoSoA[j].B[i] = 0;
+	}
+}
+len/4 =250
+```
+Performance Insight:
+In benchmark studies, AoSoA matched the  
+better of AoS and SoA  
+• Performs well across both:  
+• Cache-bound CPU code  
+• SIMD vectorization  
+• GPU workgroup tuning  
+	• V = 1 -> behaves like AoS  
+	• V = len -> behaves like SoA  
+	• V = 8 -> optimal on an 8-wide vector machine
+
+Best use for AoSoA:
+- Matching the hardware
+	• When your data needs both field-wide and object-wide access  
+	• When you want to exploit SIMD while keeping the structure  
+	• When you want a portable layout that adapts to CPU, GPU, or  
+	architecture
+
+## Cache 
+**Three C's of Cache Misses**
+![[Pasted image 20251020184243.png]]
+**Memory Address Mapping**
+```c++
+float a[1024]; // Base address: 0x100000  
+float b[1024]; // Base address: 0x110000  
+for (int i = 0; i < 1024; i++) {  
+	sum += a[i] + b[i];  
+}
+```
+• a[0] address = 0x100000 = 1048576 (decimal)  
+-> Cache line = (1048576 / 64) % 256 = 16384 % 256 = 0  
+• b[0] address = 0x110000 = 1114112 (decimal)  
+-> Cache line = (1114112 / 64) % 256 = 17408 % 256 = 0  
+• Both map to cache line 0 → conflict!  
+• Load a[i] → goes to cache line 0, Load b[i] → overwrites line 0  
+• Next a[i+1] → needs to reload
+
+**Why this matters**:
+• Cache misses stall the CPU while data is fetched from memory — and  
+hundreds of FLOPs could have been executed in that time.  
+• For stencil kernels (like blur operators in image processing or PDE solvers),  
+spatial and temporal locality play huge roles in cache behavior.
+
+**Performance Engineering Notes**
+• Prefetching:  
+	• Modern CPUs can prefetch data based on regular access patterns (like row-wise loops).  
+	• You can also explicitly prefetch in software using compiler intrinsics or manual loop transformations.  
+• Associativity:  
+	• Set-associative caches mitigate conflict misses compared to direct-mapped ones.  
+	• Still, bad address alignment can trigger frequent evictions — for example, if two arrays are stride-aligned and map  
+	to the same sets.  
+• Thrashing:  
+	• When capacity/conflict misses repeatedly evict useful cache lines and reload them shortly after, performance  
+	collapses.  
+	• This is especially common with large working sets or poor memory access patterns.  
+• Write Policies:  
+	• Write-allocate: On a store miss, a line is first loaded into cache, then written.  
+	• Write-back vs Write-through affects when data is flushed to memory and can change eviction behavior.
+
+**4th C - Coherency**:
+• Definition: Coherency refers to ensuring that all processors in a multiprocessor system  
+see consistent values of shared variables.  
+• Relevance in parallel programming:  
+• Writes in one core’s cache must be propagated to other caches if the data is  
+shared.  
+• Often maintained using MESI protocol or similar cache coherence mechanisms.  
+• Cache update storms can occur:  
+• If many cores are writing to shared variables frequently.  
+• This introduces bus traffic and invalidations, severely degrading performance.

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "002 Attacks on Block Ciphers"
             }
+          },
+          {
+            "id": "4e4323ea668960fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8ad4dc0d52dbb3",
+  "active": "4e4323ea668960fd",
   "lastOpenFiles": [
-    "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "conflict-files-obsidian-git.md",
+    "Parallel Processing/105 Stencil With Materials.md",
+    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
+    "Assets/Pasted image 20251020202607.png",
+    "Assets/Pasted image 20251020201708.png",
+    "Assets/Pasted image 20251020195315.png",
+    "Assets/Pasted image 20251020194133.png",
+    "Assets/Pasted image 20251020190944.png",
+    "Assets/Pasted image 20251020184243.png",
+    "Assets/Pasted image 20251020183856.png",
+    "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Security Protocols-Algorithms/Secure Channel.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
@@ -185,13 +210,6 @@
     "Assets/Pasted image 20251013192845.png",
     "Assets/Pasted image 20251013192841.png",
     "Assets/Pasted image 20251013192839.png",
-    "Assets/Pasted image 20251013192353.png",
-    "Assets/Pasted image 20251013192300.png",
-    "Assets/Pasted image 20251013191347.png",
-    "Assets/Pasted image 20251013185447.png",
-    "Assets/Pasted image 20251013171806.png",
-    "Assets/Pasted image 20251013170305.png",
-    "Assets/Pasted image 20251013170043.png",
     "Parallel Processing/102 Planning for Parallelization.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/005 Memory Model.md",
@@ -205,10 +223,7 @@
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
-    "conflict-files-obsidian-git.md",
     "Machine Learning/003 Supervised Learning and Regression.md",
-    "Machine Learning/004 Data Preprocessing.md",
-    "Machine Learning/007 NB for Text Classification.md",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
