@@ -28,4 +28,4 @@ One of the main methods used for validation within an environment. The above is 
 1. `C` wants to auth. `AS` agrees. Auth the user to the ticket granting server: Message B (a ticket), and Message A (session key) encrypted with the client key. 
 2. `C` forwards ticket to `TGS` as Message C. (Message B and Message C are the same ticket), alongside Message D, which is a server request for a certain service. Message C also has the red key, the session key, encrypted with it. 
 3. `TGS` must decrypt the ticket using a shared key with `AS` (yellow key). Sends back the client-service exchange key (blue) to `C`, along with encrypted new ticket in Message E. `C` will not have the black key. 
-4. 
+4. `C` sends over the ticket (the same Message E) and the requested service to `SS`. `SS` has the service key to decrypt this ticket (black key). Validates `C` for the serv
