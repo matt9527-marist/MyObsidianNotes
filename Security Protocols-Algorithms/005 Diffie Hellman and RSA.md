@@ -18,4 +18,10 @@ Risks:
 **The Key Server**
 ![[Pasted image 20251022154411.png]]
 How does Bob trust that Alice is indeed Alice? (know that this is a legitimate ticket?)
-- Because the only other person that shou
+- Because the only other person that should have K(B) is the Key Server. 
+- Almost acts like a signature from the key server. 
+
+**Kerberos**
+![[Pasted image 20251022155006.png]]
+One of the main methods used for validation within an environment. The above is the same previous model but expanded. 
+
