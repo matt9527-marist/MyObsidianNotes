@@ -50,4 +50,6 @@ Silver ticket – A forged ticket that grants access to the service
 
 Credential stuffing and brute force – automated continued attempts to guess a password
 
-Skeleton Key Malware - take advantage of vulnerabilities with Active Directory, the main auth service for Microsoft (which implements )
+Skeleton Key Malware - take advantage of vulnerabilities with Active Directory, the main auth service for Microsoft (which implements Kerberos). Acts very similar to golden ticket, where this key can gain one access to any service. Specifically through this type of vulnerability. 
+
+DC Shadow Attack - Hackers take down the TGS and set up their own with a bed domain controller, embedding themselves into the environment. The system itself requires the TGS to auth legitimate users. 
