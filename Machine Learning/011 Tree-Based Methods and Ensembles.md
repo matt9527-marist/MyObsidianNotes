@@ -177,3 +177,5 @@ Sum of weak models sequentially. Each new tree corrects the errors made by the p
 $$\hat{f}^{(B)}(x) = \hat{f}^{(0)}(x) + \eta \sum^{B}_{b=1}T_{b}(x)$$
 Key Insight: Do not compute the derivative of the tree itself, just the gradient with respect to the predictions. 
 ![[Pasted image 20251022101443.png]]
+![[Pasted image 20251022102011.png]]
+
