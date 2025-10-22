@@ -173,4 +173,7 @@ The residual is just a special case of fitting our models on the -derivative of 
 Insight: We are not just fitting on the residuals. What we are fitting is really on the (-gradient) of the loss with respect to the prediction at each stage. 
 
 **Gradient Boosting**
-Sum of weak models sequentially. Each new tree corrects the errors
+Sum of weak models sequentially. Each new tree corrects the errors made by the previous trees by fitting to the negative gradient of the loss function w.r.t. the current model predictions: 
+$$\hat{f}^{(B)}(x) = \hat{f}^{(0)}(x) + \eta \sum^{B}_{b=1}T_{b}(x)$$
+Key Insight: Do not compute the derivative of the tree itself, just the gradient with respect to the predictions. 
+
