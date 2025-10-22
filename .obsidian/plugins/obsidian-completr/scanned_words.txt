@@ -943,6 +943,8 @@ law
 logistic
 layering
 led
+learners
+learner
 Graphing
 Google
 Game
@@ -1141,6 +1143,7 @@ Generate
 Guideline
 Geometric
 Gain
+Guestrin
 Charting
 Control
 Common
@@ -1469,6 +1472,7 @@ Cell
 CART
 Combinatorial
 Claude
+Chen
 Scikit
 Statistical
 Statistics
@@ -1798,6 +1802,9 @@ Stopping
 SSE
 Shannon
 Stacked
+Sequentially
+Stop
+Schapire
 Keras
 Key
 Kirchhoffs
@@ -2783,6 +2790,8 @@ attached
 aorund
 appearing
 appeared
+adaptive
+aggregates
 Applications
 AI
 Analysis
@@ -3023,6 +3032,7 @@ Associativity
 API
 Average
 Assuming
+Adaboost
 with
 without
 want
@@ -3517,6 +3527,7 @@ PDE
 Prefetching
 Policies
 Pressure
+Probably
 What
 We
 With
@@ -4024,6 +4035,7 @@ identifies
 introduces
 invalidations
 impurity
+incrementally
 Field
 For
 Find
@@ -4232,6 +4244,8 @@ Friendly
 Flatten
 FOR
 Forests
+Freund
+Friedman
 of
 or
 optimize
@@ -4975,6 +4989,8 @@ suggested
 stopping
 starts
 sided
+sequentially
+stage
 giving
 good
 generalizable
@@ -5224,6 +5240,8 @@ goes
 grams
 gases
 gas
+grown
+generalized
 computers
 computer
 can
@@ -5729,6 +5747,7 @@ cutting
 certainty
 considers
 correlation
+corrects
 the
 to
 training
@@ -6332,6 +6351,9 @@ branches
 breakdown
 branch
 branche
+bagging
+boost
+boosting
 explicitly
 experience
 error
@@ -7687,6 +7709,9 @@ representation
 renders
 researchers
 rest
+residual
+residuals
+reaches
 model
 mostly
 machine
@@ -9300,6 +9325,7 @@ fluid
 fluids
 filled
 favor
+formulated
 Optimziation
 Operations
 Once
@@ -11061,6 +11087,7 @@ USE
 Under
 UDP
 Understand
+Update
 Breakout
 Because
 Backpropagation
@@ -12200,6 +12227,7 @@ XBN
 XYeRQyLl
 XEez
 XAI
+XGBoost
 Qw
 QV
 QG
