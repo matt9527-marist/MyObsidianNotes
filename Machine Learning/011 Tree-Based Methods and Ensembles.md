@@ -167,4 +167,6 @@ function. https://statweb.stanford.edu/~jhf/ftp/trebst.pdf
 Probably the best performing supervised learning algorithm when applied  
 to structured data. https://arxiv.org/abs/1603.02754  
 
-**Gradient Boosting**: fit the model, in a generalized matter, not necessarily on the residuals, but fit the data on the *negative gradient* of a chosen loss function with 
+**Gradient Boosting**: fit the model, in a generalized matter, not necessarily on the residuals, but fit the data on the *negative gradient* of a chosen loss function with respect to, NOT the parameters, but current the predictors. 
+![[Pasted image 20251022100948.png]]
+The residual is just a special case of fitting our models on the -derivative of the loss with respect to the predictions. If we apply this to Cross Entropy, 
