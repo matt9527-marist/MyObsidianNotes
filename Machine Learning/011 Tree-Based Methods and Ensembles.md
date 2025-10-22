@@ -169,4 +169,8 @@ to structured data. https://arxiv.org/abs/1603.02754
 
 **Gradient Boosting**: fit the model, in a generalized matter, not necessarily on the residuals, but fit the data on the *negative gradient* of a chosen loss function with respect to, NOT the parameters, but current the predictors. 
 ![[Pasted image 20251022100948.png]]
-The residual is just a special case of fitting our models on the -derivative of the loss with respect to the predictions. If we apply this to Cross Entropy, 
+The residual is just a special case of fitting our models on the -derivative of the loss with respect to the predictions. If we apply this to Cross Entropy, we get the same thing (very similar to Hinge Loss).
+Insight: We are not just fitting on the residuals. What we are fitting is really on the (-gradient) of the loss with respect to the prediction at each stage. 
+
+**Gradient Boosting**
+Sum of weak models sequentially. Each new tree corrects the errors
