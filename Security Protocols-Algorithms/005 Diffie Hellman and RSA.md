@@ -27,4 +27,5 @@ One of the main methods used for validation within an environment. The above is 
 - 4 Entities (Client `C`, Authentication Server `AS`, Ticket Granting Server `TGS`, and Service Server `SS`). 4 differeny keys color-coded. The Authentication Server is meant to auth the user. The ticket granting server is meant to manage access to different services within the environment. Each service server will host a different application that the end user will want to use. Kerberos is normally deployed in a corporate environment. 
 1. `C` wants to auth. `AS` agrees. Auth the user to the ticket granting server: Message B (a ticket), and Message A (session key) encrypted with the client key. 
 2. `C` forwards ticket to `TGS` as Message C. (Message B and Message C are the same ticket), alongside Message D, which is a server request for a certain service. Message C also has the red key, the session key, encrypted with it. 
-3. `TGS` must decrypt the ticket using a shared key with `AS` (yellow key). 
+3. `TGS` must decrypt the ticket using a shared key with `AS` (yellow key). Sends back the client-service exchange key (blue) to `C`, along with encrypted new ticket in Message E. `C` will not have the black key. 
+4. 
