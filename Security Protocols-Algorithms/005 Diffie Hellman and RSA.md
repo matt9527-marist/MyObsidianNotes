@@ -55,3 +55,4 @@ If you cannot, significant time and resources wil lgo into developing a secure s
 
 **Current State of Key Exchange**
 ![[Pasted image 20251022162057.png]]
+It is profoundly difficult to do key management and key exchange. 
