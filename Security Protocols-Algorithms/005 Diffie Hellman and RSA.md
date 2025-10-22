@@ -42,4 +42,12 @@ One of the main methods used for validation within an environment. The above is 
 
 Possible Ways to Hack Kerberos
 ![[Pasted image 20251022160923.png]]
+Pass-the-ticket – refers to the process of forging a session key and presenting that forgery to the resource as credentials
 
+Golden Ticket – A ticket that grants a user domain admin access
+
+Silver ticket – A forged ticket that grants access to the service
+
+Credential stuffing and brute force – automated continued attempts to guess a password
+
+Skeleton Key Malware - take advantage of vulnerabilities with Active Directory, the main auth service for Microsoft (which implements )
