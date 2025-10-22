@@ -179,3 +179,5 @@ Key Insight: Do not compute the derivative of the tree itself, just the gradient
 ![[Pasted image 20251022101443.png]]
 ![[Pasted image 20251022102011.png]]
 
+[ml_dt_methods_for_classification.ipynb](https://gist.github.com/eitellauria/fba50741c08985a74ab1650051d85447)
+
