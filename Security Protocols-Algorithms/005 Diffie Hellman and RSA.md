@@ -40,3 +40,6 @@ One of the main methods used for validation within an environment. The above is 
 1. Participants need to have reliable time keeping  
 2. The authentication server needs to maintain all of the tickets that are sent to it
 
+Possible Ways to Hack Kerberos
+![[Pasted image 20251022160923.png]]
+
