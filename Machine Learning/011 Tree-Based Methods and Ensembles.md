@@ -130,4 +130,6 @@ How can we fix this? This brings us to Random Forests.
 *Random Walk*: Assuming we use no logical criterion to produce a split. At random, choose a set of features and produce a split with them. 
 
 **Boosting**: adaptive algorithm that reduces the error due to both variance and bias. Focuses on training examples that are hard to classify. 
-- Sequentially build new and 
+- Sequentially build newer and newer weak learners. Each learner learns from the one before. 
+- This is as opposed to *bagging* which aggregates all the learners in parallel. 
+Trees are grown sequentially. 
