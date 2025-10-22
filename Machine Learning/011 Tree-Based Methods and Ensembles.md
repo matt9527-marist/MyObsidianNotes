@@ -153,3 +153,4 @@ Given the training data `xi, yi`, number of trees `B`, and the shrinkage paramet
 How many times do we boost the trees? Stop after a given number of iterations or after some criterion (for example until the error MSE reaches a threshold)
 If we, at each stage compute a new prediction, we are creating a sequence of trees. 
 $$f^{(B)}(x) = \sum^{B}_{b=1}\lambda T_{b}(x)$$
+**Boosting Methods**
