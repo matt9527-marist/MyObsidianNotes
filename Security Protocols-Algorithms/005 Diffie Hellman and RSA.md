@@ -17,4 +17,5 @@ Risks:
 
 **The Key Server**
 ![[Pasted image 20251022154411.png]]
-
+How does Bob trust that Alice is indeed Alice? (know that this is a legitimate ticket?)
+- Because the only other person that shou
