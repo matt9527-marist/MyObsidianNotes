@@ -141,4 +141,11 @@ Given the training data `xi, yi`, number of trees `B`, and the shrinkage paramet
 1. Initialize the model:
    f(xi) = 0, ri = 0 
 2. For each iteration: 
-   Compute the fitted values of the tree for each observation (fitted on the re)
+   Compute the fitted values of the tree for each observation (fitted on the residuals).
+   $$T_{b}(x_{i})=r_{i}^{b}$$
+   Update the model incrementally:
+   $$f^{(b)}(x_{i}) = f^{(b-1)}(x_{i}) + \lambda T_{b}(\xi)$$
+   Our new prediction is based on our previous prediction + the fitted tree on the residuals
+   Update the residuals again:
+   $$r_{i}^{b}=y_{i} - f^{b}(x_{i})$$
+   These new residuals represent what is still left to explain.
