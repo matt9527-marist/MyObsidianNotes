@@ -140,6 +140,7 @@ Trees are grown sequentially.
 Given the training data `xi, yi`, number of trees `B`, and the shrinkage parameter `lambda`, and tree depth `d`.
 1. Initialize the model:
    f(xi) = 0, ri = 0 
+   `ri` is the residual (difference between `y` and `yhat`)
 2. For each iteration: 
    Compute the fitted values of the tree for each observation (fitted on the residuals).
    $$T_{b}(x_{i})=r_{i}^{b}$$
