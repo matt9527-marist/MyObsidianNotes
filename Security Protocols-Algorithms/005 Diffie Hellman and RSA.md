@@ -55,5 +55,5 @@ If you cannot, significant time and resources wil lgo into developing a secure s
 
 **Current State of Key Exchange**
 ![[Pasted image 20251022162057.png]]
-It is profoundly difficult to do key management and key exchange. It is also not scalable because at some you get 
+It is profoundly difficult to do key management and key exchange. It is also not scalable because at some point, you just end up with too many keys!
 Asymmetric cryptography decreases the need for shared keys between all. 
