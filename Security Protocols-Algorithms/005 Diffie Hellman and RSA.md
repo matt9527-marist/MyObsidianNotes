@@ -37,3 +37,6 @@ One of the main methods used for validation within an environment. The above is 
 3. Maintained and updated constantly
 
 **Limitations of Kerberos**
+1. Participants need to have reliable time keeping  
+2. The authentication server needs to maintain all of the tickets that are sent to it
+
