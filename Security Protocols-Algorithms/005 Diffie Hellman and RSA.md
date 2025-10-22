@@ -24,4 +24,4 @@ How does Bob trust that Alice is indeed Alice? (know that this is a legitimate t
 **Kerberos**
 ![[Pasted image 20251022155006.png]]
 One of the main methods used for validation within an environment. The above is the same previous model but expanded. 
-
+- 4 Entities (Client `C`, Authentication Server `AS`, Ticket Granting Server `TGS`, and Service Server `SS`). 4 differeny keys color-coded. The Authentication Server is meant to auth the user. The ticket granting server is meant to manage access to different services within the environment. Each
