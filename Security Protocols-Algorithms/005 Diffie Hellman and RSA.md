@@ -30,3 +30,10 @@ One of the main methods used for validation within an environment. The above is 
 3. `TGS` must decrypt the ticket using a shared key with `AS` (yellow key). Sends back the client-service exchange key (blue) to `C`, along with encrypted new ticket in Message E. `C` will not have the black key. 
 4. `C` sends over the ticket (the same Message E) and the requested service to `SS`. `SS` has the service key to decrypt this ticket (black key). Validates `C` for the service. 
 5. Return a timestamp to `C`. 
+
+**Advantages of Kerberos**
+1. The TGS does not track the tickets it shares with users 
+2. Kerberos has been heavily scrutinized 
+3. Maintained and updated constantly
+
+**Limitations of Kerberos**
