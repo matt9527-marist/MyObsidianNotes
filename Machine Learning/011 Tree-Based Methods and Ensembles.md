@@ -155,3 +155,16 @@ How many times do we boost the trees? Stop after a given number of iterations or
 If we, at each stage compute a new prediction, we are creating a sequence of trees. 
 $$f^{(B)}(x) = \sum^{B}_{b=1}\lambda T_{b}(x)$$
 **Boosting Methods**
+• Adaboost: originally formulated by Freund and Schapire in 1997, became  
+one of the most widely used ensemble methods in the years that  
+followed. https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.8918  
+
+• Gradient boosting: (Friedman 2001). A variation of Adaboost,  
+generalizing it by allowing optimization of an arbitrary differentiable loss  
+function. https://statweb.stanford.edu/~jhf/ftp/trebst.pdf  
+
+• XGBoost (Chen and Guestrin, 2016): A variation of gradient boosting.  
+Probably the best performing supervised learning algorithm when applied  
+to structured data. https://arxiv.org/abs/1603.02754  
+
+**Gradient Boosting**: fit the model, in a generalized matter, not necessarily on the residuals, but fit the data on the *negative gradient* of a chosen loss function with 
