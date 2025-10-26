@@ -89,3 +89,4 @@ In an ensemble of trees (random forest):
 > 	Final decision -> Malicious by majority vote 
 
 As we can see, the process for a human to trace the decision-making through the model is a lot more obscure. No single interpretable rule path explains why the ensemble arrived at its conclusion. 
+
