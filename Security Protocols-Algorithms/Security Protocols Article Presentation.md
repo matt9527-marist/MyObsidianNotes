@@ -90,3 +90,4 @@ In an ensemble of trees (random forest):
 
 As we can see, the process for a human to trace the decision-making through the model is a lot more obscure. No single interpretable rule path explains why the ensemble arrived at its conclusion. 
 
+**Deep Neural Networks**: In the same way that a human cannot trace the decision-making path for a given output through a random forest, it is very difficult to explain the same through a neural network, especially when there are several layers. 
