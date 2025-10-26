@@ -65,4 +65,5 @@ $$y = w_{1}x_{1} + w_{2}x_{2} + w_{3}x_{3} + \dots + w_{n}x_{n} + b$$
 ![[Pasted image 20251026181653.png]]
 Decision trees are composed of "branches" that stem from conditional `if-then` rules. Binary decision trees like the one shown above resemble how humans logically think through problems. 
 - The key is that the **structure is the model**. There is no hidden computation, just rules that when followed lead down to intermediate conditions or a prediction. 
-- 
+- Domain experts can follow the same decision-making process that the tree follows, leading them to the same conclusions as the model. 
+
