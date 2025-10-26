@@ -91,3 +91,6 @@ In an ensemble of trees (random forest):
 As we can see, the process for a human to trace the decision-making through the model is a lot more obscure. No single interpretable rule path explains why the ensemble arrived at its conclusion. 
 
 **Deep Neural Networks**: In the same way that a human cannot trace the decision-making path for a given output through a random forest, it is very difficult to explain the same through a neural network, especially when there are several layers. 
+
+These models are also computationally intensive with a lot of internal mechanisms that lead to answers. You can certainly ask ChatGPT for example to give a reason why it outputs something, but that still does not let us know the actual weights and factors that are being considered internally. 
+
