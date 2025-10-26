@@ -97,4 +97,5 @@ These models are also computationally intensive with a lot of internal mechanism
 ## Post-Hoc Explainability 
 These are methods that allow us to interpret opaque, complex ML models' predictions, especially in high-stakes applications where transparency in decision-making is required. There are two ways to do this:
 - **Model-Agnostic Explainability**: applicable to any model 
+	- **Global Explanation**: 
 - **Model Specific Explainability**: tailored to particular model architectures. 
