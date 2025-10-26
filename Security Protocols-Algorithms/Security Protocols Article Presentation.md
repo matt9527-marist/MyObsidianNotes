@@ -70,3 +70,6 @@ Decision trees are composed of "branches" that stem from conditional `if-then` r
 - Domain experts can follow the same decision-making process that the tree follows, leading them to the same conclusions as the model. 
 
 ### Opaque Models 
+**Random forests** - An ensemble of many decision trees whose predictions are averaged or chosen based on majority vote to determine the output conclusion. 
+![[Pasted image 20251026183416.png]]
+There is a notable disconnect here that al
