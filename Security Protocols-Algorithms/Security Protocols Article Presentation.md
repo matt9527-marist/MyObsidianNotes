@@ -51,7 +51,7 @@ These aspects of XAI are proposed by IEEE to improve trust and hand the regulato
 
 ![[Pasted image 20251020194133.png]]
 
-There is no need to fully describe each of these models, but we will give an adequate breakdown of just one of the models for each of the two categories: transparent and opaque. 
+There is no need to fully describe each of these models, but we will give an adequate breakdown of just two of the models for each of the two categories: transparent and opaque. 
 
 **Regression Models** - This includes linear and logistic regression. These models are inherently very explainable.
 ![[Pasted image 20251020195315.png]]
@@ -60,3 +60,5 @@ $$y = w_{1}x_{1} + w_{2}x_{2} + w_{3}x_{3} + \dots + w_{n}x_{n} + b$$
 - `w`'s are the weights given for each `x` feature in a given dataset. What we are determining with the above expression is how much `y` changes when  `xi` changes by one unit. 
 - We can easily understand and visualize this equation. The weights themselves can be listed in a table. The simplest representation of the model is basically a line of best fit. 
 - There is no layering or hidden weights. 
+
+**Decision Trees** - Also inherently explainable and can be visualized very easily. 
