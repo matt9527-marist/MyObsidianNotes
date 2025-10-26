@@ -72,4 +72,8 @@ Decision trees are composed of "branches" that stem from conditional `if-then` r
 ### Opaque Models 
 **Random forests** - An ensemble of many decision trees whose predictions are averaged or chosen based on majority vote to determine the output conclusion. 
 ![[Pasted image 20251026183416.png]]
-There is a notable disconnect here that al
+There is a notable disconnect here compared to just a single decision tree. 
+In a single tree: 
+> The model predicts on a series of if-then rules: 
+> 	if known malicious API calls < 30 and network usage by process < 20%
+> 	then prediction for process is not malicius 
