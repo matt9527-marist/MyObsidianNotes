@@ -75,9 +75,15 @@ Decision trees are composed of "branches" that stem from conditional `if-then` r
 There is a notable disconnect here compared to just a single decision tree. 
 In a single tree: 
 > The model predicts on a series of if-then rules: 
-> 	if known malicious API calls < 30 and network usage by process < 20%
+> 	if known malicious API calls < 30 and REG_KEY created == FALSE
 > 	then prediction for process is not malicious 
 
 In an ensemble of trees (random forest): 
 > Hundreds of trees make different decisions on the features in a given sample.
-> 	
+> 	Tree 1: Malicious (based on API calls)
+> 	Tree 2: Benign (based on network behavior)
+> 	Tree 3: Malicious (based on file entropy)
+> 	... 
+> 	327 trees say malicious
+> 	173 trees say benign 
+> 	Final decision -> Malicious by 
