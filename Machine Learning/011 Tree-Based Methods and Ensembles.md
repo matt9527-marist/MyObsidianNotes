@@ -102,6 +102,7 @@ Coming from thermodynamics, we know that in any closed system, entropy always in
 Organized the same way as computing the Gini Index. 
 
 ## Ensembles 
+#Ensembles
 Intuition: If we have to make a prediction about something, would we ask the person next to us or the whole class? Why not use an *ensemble* of estimators instead of just one? 
 --> No Free Lunch Theorem (NFL):
 - If we average all possible problems, there is no single estimator that performs better than the rest. 
@@ -129,4 +130,54 @@ How can we fix this? This brings us to Random Forests.
 **Random Forests**: Keep the structure, but extract at random a subset of the features to be used in each of the splits. By doing so, the correlation among trees disappears. The same feature that appeared at the top of trees beforehand may not be used. The value of how many features to select is a hyperparameter, and it can be chosen at random. 
 *Random Walk*: Assuming we use no logical criterion to produce a split. At random, choose a set of features and produce a split with them. 
 
+#Boosting
+**Boosting**: adaptive algorithm that reduces the error due to both variance and bias. Focuses on training examples that are hard to classify. 
+- Sequentially build newer and newer weak learners. Each learner learns from the one before. 
+- This is as opposed to *bagging* which aggregates all the learners in parallel. 
+Trees are grown sequentially. 
+
+**Boosting Algorithm**
+Given the training data `xi, yi`, number of trees `B`, and the shrinkage parameter `lambda`, and tree depth `d`.
+1. Initialize the model:
+   f(xi) = 0, ri = 0 
+   `ri` is the residual (difference between `y` and `yhat`)
+2. For each iteration: 
+   Compute the fitted values of the tree for each observation (fitted on the residuals).
+   $$T_{b}(x_{i})=r_{i}^{b}$$
+   Update the model incrementally:
+   $$f^{(b)}(x_{i}) = f^{(b-1)}(x_{i}) + \lambda T_{b}(\xi)$$
+   Our new prediction is based on our previous prediction + the fitted tree on the residuals
+   Update the residuals again:
+   $$r_{i}^{b}=y_{i} - f^{b}(x_{i})$$
+   These new residuals represent what is still left to explain. 
+
+How many times do we boost the trees? Stop after a given number of iterations or after some criterion (for example until the error MSE reaches a threshold)
+If we, at each stage compute a new prediction, we are creating a sequence of trees. 
+$$f^{(B)}(x) = \sum^{B}_{b=1}\lambda T_{b}(x)$$
+**Boosting Methods**
+• Adaboost: originally formulated by Freund and Schapire in 1997, became  
+one of the most widely used ensemble methods in the years that  
+followed. https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.8918  
+
+• Gradient boosting: (Friedman 2001). A variation of Adaboost,  
+generalizing it by allowing optimization of an arbitrary differentiable loss  
+function. https://statweb.stanford.edu/~jhf/ftp/trebst.pdf  
+
+• XGBoost (Chen and Guestrin, 2016): A variation of gradient boosting.  
+Probably the best performing supervised learning algorithm when applied  
+to structured data. https://arxiv.org/abs/1603.02754  
+
+**Gradient Boosting**: fit the model, in a generalized matter, not necessarily on the residuals, but fit the data on the *negative gradient* of a chosen loss function with respect to, NOT the parameters, but current the predictors. 
+![[Pasted image 20251022100948.png]]
+The residual is just a special case of fitting our models on the -derivative of the loss with respect to the predictions. If we apply this to Cross Entropy, we get the same thing (very similar to Hinge Loss).
+Insight: We are not just fitting on the residuals. What we are fitting is really on the (-gradient) of the loss with respect to the prediction at each stage. 
+
+**Gradient Boosting Algorithm**
+Sum of weak models sequentially. Each new tree corrects the errors made by the previous trees by fitting to the negative gradient of the loss function w.r.t. the current model predictions: 
+$$\hat{f}^{(B)}(x) = \hat{f}^{(0)}(x) + \eta \sum^{B}_{b=1}T_{b}(x)$$
+Key Insight: Do not compute the derivative of the tree itself, just the gradient with respect to the predictions. 
+![[Pasted image 20251022101443.png]]
+![[Pasted image 20251022102011.png]]
+
+[ml_dt_methods_for_classification.ipynb](https://gist.github.com/eitellauria/fba50741c08985a74ab1650051d85447)
 

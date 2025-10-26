@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "002 Attacks on Block Ciphers"
             }
+          },
+          {
+            "id": "a28046e527f197f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security Protocols Article Presentation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,19 +185,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8ad4dc0d52dbb3",
+  "active": "a28046e527f197f2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+    "Assets/Pasted image 20251022162057.png",
+    "Assets/Pasted image 20251022160923.png",
+    "Assets/Pasted image 20251022155006.png",
+    "Assets/Pasted image 20251022154411.png",
+    "Assets/Pasted image 20251022102011.png",
+    "Assets/Pasted image 20251022101443.png",
+    "Assets/Pasted image 20251022100948.png",
     "Parallel Processing/105 Stencil With Materials.md",
     "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Assets/Pasted image 20251020202607.png",
     "Assets/Pasted image 20251020201708.png",
     "Assets/Pasted image 20251020195315.png",
-    "Assets/Pasted image 20251020194133.png",
-    "Assets/Pasted image 20251020190944.png",
-    "Assets/Pasted image 20251020184243.png",
-    "Assets/Pasted image 20251020183856.png",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Security Protocols-Algorithms/Secure Channel.md",
@@ -192,9 +211,6 @@
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "Machine Learning/010 Support Vector Machines.md",
-    "Assets/Pasted image 20251013192845.png",
-    "Assets/Pasted image 20251013192841.png",
-    "Assets/Pasted image 20251013192839.png",
     "Parallel Processing/102 Planning for Parallelization.md",
     "Parallel Processing/101 Parallel Computing.md",
     "Parallel Processing/005 Memory Model.md",
@@ -208,7 +224,6 @@
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
-    "Machine Learning/003 Supervised Learning and Regression.md",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",

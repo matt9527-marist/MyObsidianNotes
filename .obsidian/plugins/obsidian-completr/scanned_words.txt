@@ -298,6 +298,7 @@ Lawrence
 Laboratory
 Launch
 Likely
+Lots
 Relevant
 Reading
 Research
@@ -460,6 +461,7 @@ Resdesigned
 Race
 Roofline
 Row
+Ransomware
 libraries
 learn
 learning
@@ -661,6 +663,7 @@ load
 lost
 leaf
 lie
+layering
 Graphing
 Google
 Game
@@ -1561,6 +1564,7 @@ Time
 Tool
 Toolkit
 Triad
+Transparent
 ISLP
 Iris
 Instance
@@ -2006,6 +2010,9 @@ aggressively
 algorithmically
 auth
 assert
+activity
+adequate
+additive
 Applications
 AI
 Analysis
@@ -2195,6 +2202,7 @@ Array
 Arithmetic
 Advisor
 Achieving
+API
 with
 without
 want
@@ -2881,6 +2889,7 @@ intensity
 invest
 impact
 imposed
+identifies
 Field
 For
 Find
@@ -3216,6 +3225,8 @@ overwrites
 optimized
 outpace
 overlay
+opcode
+opaque
 study
 simplified
 something
@@ -3629,6 +3640,9 @@ suggesting
 sec
 spatially
 subsystem
+suspicious
+sequences
+suggested
 giving
 good
 generalizable
@@ -3783,6 +3797,7 @@ gain
 graphics
 graphical
 graphs
+grams
 computers
 computer
 can
@@ -4201,6 +4216,9 @@ callgrind
 codes
 chart
 ceiling
+categorized
+comprehend
+challenging
 the
 to
 training
@@ -4455,6 +4473,9 @@ topology
 topologies
 typicall
 transposed
+trust
+transparent
+themselves
 being
 be
 by
@@ -4658,6 +4679,8 @@ bound
 bottleneck
 bounded
 blocking
+benign
+breakdown
 explicitly
 experience
 error
@@ -4907,6 +4930,10 @@ excessive
 expectations
 equipped
 exhausted
+examine
+enables
+explainable
+explainability
 programmed
 patterns
 program
@@ -5231,6 +5258,8 @@ proc
 programmatically
 plots
 parallelizing
+proposed
+post
 Detecting
 Deepmind
 Dataset
@@ -5414,6 +5443,8 @@ Diagrams
 Download
 Determination
 Decrypt
+Detected
+Detection
 regularities
 respect
 recognizing
@@ -5680,6 +5711,11 @@ reused
 regime
 recursive
 reuse
+reverse
+reasons
+regulatory
+requiring
+representation
 model
 mostly
 machine
@@ -6091,6 +6127,7 @@ his
 head
 helped
 hwloc
+hoc
 Execution
 Examples
 Economics
@@ -6272,6 +6309,8 @@ Energy
 Empirically
 Emphasizes
 Empirical
+Explainablity
+Explainable
 using
 utility
 use
@@ -6405,6 +6444,8 @@ unbreakable
 unpredictable
 util
 utilization
+uncontrollable
+unseen
 data
 driven
 dataset
@@ -6700,6 +6741,8 @@ disks
 displays
 deepens
 dependency
+diagram
+distinct
 future
 from
 feed
@@ -6923,6 +6966,8 @@ flop
 flow
 fno
 fuse
+fails
+fidelity
 Optimziation
 Operations
 Once
@@ -7068,6 +7113,8 @@ Overanalyzing
 Organize
 OPTIONS
 Opportunities
+Online
+Opaque
 kind
 know
 knowledge
@@ -7578,6 +7625,7 @@ noticing
 notice
 nightly
 near
+narrative
 yes
 your
 you
@@ -7800,6 +7848,7 @@ Hands
 Helps
 Hierarchy
 HBM
+Hybrid
 Not
 NOTHING
 No
@@ -8011,6 +8060,7 @@ qys
 qDx
 query
 qcachegrind
+quantifiable
 Unsupervised
 UNION
 User
@@ -8349,6 +8399,8 @@ jFLZ
 jdU
 jey
 judge
+justifications
+justifies
 Vectorization
 Vectors
 Visualization
@@ -8827,6 +8879,7 @@ XIs
 XHP
 XzS
 XJhG
+XAI
 Zero
 ZT
 ZmM
