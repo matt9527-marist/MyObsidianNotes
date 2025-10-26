@@ -53,6 +53,8 @@ These aspects of XAI are proposed by IEEE to improve trust and hand the regulato
 
 There is no need to fully describe each of these models, but we will give an adequate breakdown of just two of the models for each of the two categories: transparent and opaque. 
 
+### Transparent Models
+
 **Regression Models** - This includes linear and logistic regression. These models are inherently very explainable.
 ![[Pasted image 20251020195315.png]]
 The structure of this model has a simple additive equation consisting of weights that are easily quantifiable. 
@@ -67,3 +69,4 @@ Decision trees are composed of "branches" that stem from conditional `if-then` r
 - The key is that the **structure is the model**. There is no hidden computation, just rules that when followed lead down to intermediate conditions or a prediction. 
 - Domain experts can follow the same decision-making process that the tree follows, leading them to the same conclusions as the model. 
 
+### Opaque Models 
