@@ -95,4 +95,6 @@ As we can see, the process for a human to trace the decision-making through the 
 These models are also computationally intensive with a lot of internal mechanisms that lead to answers. You can certainly ask ChatGPT for example to give a reason why it outputs something, but that still does not let us know the actual weights and factors that are being considered internally. 
 
 ## Post-Hoc Explainability 
-These are methods that
+These are methods that allow us to interpret opaque, complex ML models' predictions, especially in high-stakes applications where transparency in decision-making is required. There are two ways to do this:
+- **Model-Agnostic Explainability**: applicable to any model 
+- **Model Specific Explainability**: tailored to particular model architectures. 
