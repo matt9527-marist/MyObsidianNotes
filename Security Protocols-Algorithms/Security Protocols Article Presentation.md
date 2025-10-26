@@ -88,4 +88,4 @@ In an ensemble of trees (random forest):
 > 	173 trees say benign 
 > 	Final decision -> Malicious by majority vote 
 
-As we can see, the process for a human to trace the decision-making process 
+As we can see, the process for a human to trace the decision-making through the model is a lot more obscure. 
