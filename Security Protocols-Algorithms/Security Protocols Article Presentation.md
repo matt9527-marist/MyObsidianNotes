@@ -111,4 +111,5 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 	- Saliency Maps
 
 ## Explainable Malware Classification and Detection Approaches
-
+In the following section, the article summarizes several ways explainable AI can be applied to malware detections, organized by the type of target system. 
+For the sake of simplicity, we will only be diving
