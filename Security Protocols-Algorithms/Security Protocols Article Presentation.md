@@ -172,3 +172,20 @@ arrays
 
 **Mesh Structure Type**
 ![[Pasted image 20251027192559.png]]
+**Spatial Hashing**
+• Used to locate cells in unstructured AMR  
+• Allows fast, parallel search of nearby neighbors  
+• Enables scalable spatial operations (e.g., lookups, joins)
+*Key Insight*: 
+• Spatial hashing supports parallelism in irregular grids  
+• AMR trades simplicity for efficiency and flexibility  
+• Ideal for scientific simulations with variable spatial detail
+
+**Spatial Hashing in AMR and Particle Simulations**
+• Hashing Strategy  
+• Spatial hash -> maps cells/objects into grid buckets  
+• Bucket size:  
+	• AMR mesh: minimum cell size  
+	• Particles: interaction distance
+
+**Performance Benefit**: 
