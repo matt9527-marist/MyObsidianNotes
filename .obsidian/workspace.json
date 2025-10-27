@@ -35,8 +35,7 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "598100de2ba30e51",
+  "active": "88d5c868415c1043",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Parallel Processing/105 Stencil With Materials.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20251026183416.png",
