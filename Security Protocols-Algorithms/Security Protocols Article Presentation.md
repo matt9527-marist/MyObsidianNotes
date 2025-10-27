@@ -138,6 +138,6 @@ CNNs are a kind of "black box" model because humans cannot easily track how a pa
 3. **Image-Based Approach**: We know that CNNs are often used to classify images (identify letters/digits, cats vs. dogs). We can use this baseline with malware detection by converting executable binary files into grayscale images. By doing this, we can leverage CNNs' strengths in pattern recognition. By doing gradient analysis like in the first approach, we can then figure out which pixel regions most impact the model's predictions, and then security analysts can easily trace those regions back to individual snippets of code. 
 
 One problem that we notice about the article is that it goes at length listing other studies doing indepdendent but relevant research. The article omits too many details for each approach, almost focusing on too broad of an audience. However, the goal is made clear. Each technique tries to balance interpretability, detection accuracy, and model complexity. 
-
-
-
+## XAI Conclusions 
+The article lists several ways by which research on this topic can be improved. The most critical points made are the following:
+1. Improve Datasets: Malware detection datasets are limited or imbalanced. For example, a dataset for Android malware DREBIN has 
