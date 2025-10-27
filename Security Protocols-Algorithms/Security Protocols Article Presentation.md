@@ -114,4 +114,11 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 In the following section, the article summarizes several ways explainable AI can be applied to malware detections, organized by the type of target system. 
 For the sake of simplicity, we will only be detailing the processes used for Windows PE (portable executable files), since that is likely what is most familiar to the class. This also makes sense since Windows is the most widely used desktop OS. 
 There are three detection methods relevant for use here: 
-1. 
+1. Gradient-based 
+2. Model-Agnostic 
+3. Image-based 
+
+### Windows PE File Malware Detection 
+Windows .exe file format is base on "Common Object File Format" (COFF) specification: 
+- File begins with a header used by the MS-DOS OS. 
+- When loaded, MS-DOS checks for backward compatibility using a stub program.
