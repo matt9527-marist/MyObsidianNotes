@@ -103,5 +103,6 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 		- LIME
 		- KernalSHAP
 	- **Visual Explanation**: Produce visual representations of models that make them accessible and comprehensible. Convey model patterns using graphs or plots. 
-		- 
+		- Partial Dependence Plots 
+		- Individual Condition Expectation 
 - **Model Specific Explainability**: tailored to particular model architectures. 
