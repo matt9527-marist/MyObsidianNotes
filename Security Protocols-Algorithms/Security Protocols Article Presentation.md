@@ -145,4 +145,8 @@ The article lists several ways by which research on this topic can be improved. 
 3. Analyze Model-Agnostic Techniques: Automate explainability by further decoupling it from the underlying ML model. 
 4. Apply Explainability Approach to Multiple Models
 5. Use Pre-Trained Models
-6. Improve Detection Efficiency: For example 
+6. Improve Detection Efficiency: For example, improving the processing time for a decision tree by pruning or removing branches that do not provide enough information about an instance of malware. 
+7. Mitigate Attacks: Stop threat actors from poisoning ML datasets or feature spaces. 
+8. Hardware Malware Detectors: Further explore ways to leverage malware detection at the hardware level. 
+
+
