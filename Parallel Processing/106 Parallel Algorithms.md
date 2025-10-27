@@ -108,3 +108,10 @@ arrays
 **Performance Benefit**: Query only adjacent blocks, reduces complexity O(N^2) to O(N)
 Exploits spatial locality. 
 
+**Applications**
+• AMR & unstructured meshes: differential discretization  
+• Particles/objects:  
+	• Molecular dynamics  
+	• Smoothed Particle Hydrodynamics (SPH) simulations  
+	• Game engines & graphics
+
