@@ -115,3 +115,10 @@ higher memory bandwidth usage.
 
 ![[Pasted image 20251020202607.png]]
 
+**Network Application Performance Model**
+![[Pasted image 20251027184233.png]]
+• Reduction Operation (Global Sum)  
+• What is a Reduction?  
+	• A reduction operation combines values across processes:  
+	• Reduces from higher dimension (array) to lower (scalar)  
+	• Common operations: sum, max, min, product

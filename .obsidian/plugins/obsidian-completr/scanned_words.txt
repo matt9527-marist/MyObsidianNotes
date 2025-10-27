@@ -245,6 +245,7 @@ Method
 Maintained
 Microsoft
 Malicious
+MalConv
 Learning
 Learn
 Let
@@ -1490,6 +1491,9 @@ Client
 Credential
 Convey
 Centric
+COFF
+CNNs
+Convolutional
 Scikit
 Statistical
 Statistics
@@ -1832,6 +1836,7 @@ Shadow
 State
 Saliency
 Storage
+Section
 Keras
 Key
 Kirchhoffs
@@ -2453,6 +2458,7 @@ Indexes
 Information
 Intuition
 Individual
+Image
 and
 ability
 approximation
@@ -3587,6 +3593,7 @@ Participants
 Pass
 Post
 Produce
+Pooling
 What
 We
 With
@@ -4311,6 +4318,8 @@ Freund
 Friedman
 FALSE
 Final
+Format
+Fully
 of
 or
 optimize
@@ -4573,6 +4582,7 @@ opaque
 organizing
 owe
 obscure
+organizes
 study
 simplified
 something
@@ -5071,6 +5081,9 @@ surrogate
 section
 summarizes
 sake
+specification
+stub
+specs
 giving
 good
 generalizable
@@ -5843,6 +5856,11 @@ conclusion
 certainly
 considered
 comprehensible
+compatibility
+comprising
+conducted
+convolutional
+compress
 the
 to
 training
@@ -6454,6 +6472,8 @@ bagging
 boost
 boosting
 bed
+begins
+backward
 explicitly
 experience
 error
@@ -6800,6 +6820,7 @@ exchange
 embedding
 experts
 entries
+emerges
 programmed
 patterns
 program
@@ -7223,6 +7244,7 @@ profoundly
 predicts
 pinpoint
 primarily
+pooling
 Detecting
 Deepmind
 Dataset
@@ -7488,6 +7510,8 @@ Deep
 Dependence
 DeepSHAP
 Downsides
+DOS
+Despite
 regularities
 respect
 recognizing
@@ -9191,6 +9215,8 @@ designed
 detections
 detailing
 desktop
+divides
+detect
 future
 from
 feed
