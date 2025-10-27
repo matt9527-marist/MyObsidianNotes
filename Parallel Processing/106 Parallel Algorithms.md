@@ -62,3 +62,8 @@ string into an integer representation.
 ![[Pasted image 20251027191654.png]]
 
 **Why this matters in Parallel Algorithms**
+• Hash functions allow independent work — processors can compute and  
+store without interfering.  
+• This is essential in parallel sorting, searching, or data distribution, where  
+we aim for O(1) time per item.
+
