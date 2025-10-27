@@ -244,6 +244,7 @@ Metric
 Method
 Maintained
 Microsoft
+Malicious
 Learning
 Learn
 Let
@@ -449,6 +450,8 @@ Layouts
 Load
 Lots
 Loop
+Lets
+LIME
 Relevant
 Reading
 Research
@@ -667,6 +670,7 @@ Randomly
 Recursive
 Recursively
 Risks
+REG
 libraries
 learn
 learning
@@ -950,6 +954,8 @@ led
 learners
 learner
 lgo
+logically
+lets
 Graphing
 Google
 Game
@@ -1482,6 +1488,8 @@ Claude
 Chen
 Client
 Credential
+Convey
+Centric
 Scikit
 Statistical
 Statistics
@@ -1822,6 +1830,8 @@ Silver
 Skeleton
 Shadow
 State
+Saliency
+Storage
 Keras
 Key
 Kirchhoffs
@@ -1966,6 +1976,8 @@ KCachegrind
 KCacheGrind
 Kernels
 Kerberos
+KEY
+KernalSHAP
 TensorFlow
 Task
 Training
@@ -2213,6 +2225,8 @@ Terms
 Trade
 Ticket
 TGS
+Tree
+TreeSHAP
 ISLP
 Iris
 Instance
@@ -2438,6 +2452,7 @@ Impurity
 Indexes
 Information
 Intuition
+Individual
 and
 ability
 approximation
@@ -2819,6 +2834,11 @@ alongside
 admin
 attempts
 advantage
+averaged
+arrived
+answers
+approximations
+anomalies
 Applications
 AI
 Analysis
@@ -3065,6 +3085,7 @@ Aspects
 Almost
 Auth
 Acts
+Agnostic
 with
 without
 want
@@ -3564,6 +3585,8 @@ Pressure
 Probably
 Participants
 Pass
+Post
+Produce
 What
 We
 With
@@ -4074,6 +4097,8 @@ impurity
 incrementally
 indeed
 implements
+intensive
+internally
 Field
 For
 Find
@@ -4284,6 +4309,8 @@ FOR
 Forests
 Freund
 Friedman
+FALSE
+Final
 of
 or
 optimize
@@ -4545,6 +4572,7 @@ ops
 opaque
 organizing
 owe
+obscure
 study
 simplified
 something
@@ -5036,6 +5064,10 @@ shares
 scrutinized
 stuffing
 scalable
+stem
+stakes
+systemic
+surrogate
 giving
 good
 generalizable
@@ -5289,6 +5321,7 @@ grown
 generalized
 grants
 golden
+grouped
 computers
 computer
 can
@@ -5801,6 +5834,12 @@ corporate
 constantly
 credentials
 continued
+composed
+conclusions
+conclusion
+certainly
+considered
+comprehensible
 the
 to
 training
@@ -6159,6 +6198,7 @@ thermodynamics
 ticket
 timestamp
 tickets
+think
 being
 be
 by
@@ -6755,6 +6795,8 @@ ensemble
 ensembles
 exchange
 embedding
+experts
+entries
 programmed
 patterns
 program
@@ -7175,6 +7217,9 @@ possibly
 parties
 presenting
 profoundly
+predicts
+pinpoint
+primarily
 Detecting
 Deepmind
 Dataset
@@ -7435,6 +7480,11 @@ Dimensions
 Decision
 DTs
 Directory
+Domain
+Deep
+Dependence
+DeepSHAP
+Downsides
 regularities
 respect
 recognizing
@@ -7777,6 +7827,9 @@ residuals
 reaches
 requested
 reliable
+resemble
+replications
+representations
 model
 mostly
 machine
@@ -8090,6 +8143,8 @@ memops
 misclassification
 maintains
 members
+metadata
+matches
 hypothesis
 handwritten
 have
@@ -8538,6 +8593,10 @@ Ensembles
 Extra
 Entities
 Exchange
+Explainability
+Explanation
+Expectation
+Explanations
 using
 utility
 use
@@ -9124,6 +9183,8 @@ division
 disappears
 differeny
 developing
+disconnect
+designed
 future
 from
 feed
@@ -9401,6 +9462,9 @@ formulated
 forging
 forgery
 forged
+forests
+forest
+factors
 Optimziation
 Operations
 Once
@@ -10006,6 +10070,8 @@ vulnerable
 violate
 viewed
 vulnerabilities
+vote
+visual
 numerical
 no
 need
@@ -10298,6 +10364,7 @@ narrative
 nRT
 neat
 negotiate
+notable
 yes
 yield
 your
@@ -10652,6 +10719,8 @@ Hybrid
 Homogeneous
 Hack
 Hackers
+Hundreds
+Hoc
 Not
 NOTHING
 No
@@ -10838,6 +10907,8 @@ NUMA
 National
 Numbering
 Nonlinearity
+Neural
+Networks
 quality
 question
 quickly
@@ -11401,6 +11472,8 @@ Bad
 Branch
 Bagging
 Boosting
+Benign
+Benefit
 just
 jagged
 json

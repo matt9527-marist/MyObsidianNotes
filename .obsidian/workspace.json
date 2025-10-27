@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+                "file": "Parallel Processing/105 Stencil With Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 Diffie Hellman and RSA"
+              "title": "105 Stencil With Materials"
+            }
+          },
+          {
+            "id": "598100de2ba30e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security Protocols Article Presentation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,15 +186,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88d5c868415c1043",
+  "active": "598100de2ba30e51",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Parallel Processing/105 Stencil With Materials.md",
+    "Parallel Processing/104 Data Design and Performance Models.md",
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+    "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20251026183416.png",
     "Assets/Pasted image 20251026183342.png",
     "Assets/Pasted image 20251026181653.png",
     "Assets/Pasted image 20251022163312.png",
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Assets/Pasted image 20251022162057.png",
     "Assets/Pasted image 20251022160923.png",
@@ -192,8 +209,6 @@
     "Assets/Pasted image 20251022101443.png",
     "Machine Learning/010 Support Vector Machines.md",
     "Machine Learning/Google Talk on Machine Learning.md",
-    "Parallel Processing/104 Data Design and Performance Models.md",
-    "Parallel Processing/105 Stencil With Materials.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/003 Hashing.md",
