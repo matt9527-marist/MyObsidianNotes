@@ -140,4 +140,5 @@ CNNs are a kind of "black box" model because humans cannot easily track how a pa
 One problem that we notice about the article is that it goes at length listing other studies doing indepdendent but relevant research. The article omits too many details for each approach, almost focusing on too broad of an audience. However, the goal is made clear. Each technique tries to balance interpretability, detection accuracy, and model complexity. 
 ## XAI Conclusions 
 The article lists several ways by which research on this topic can be improved. The most critical points made are the following:
-1. Improve Datasets: Malware detection datasets are limited or imbalanced. For example, a dataset for Android malware DREBIN has 
+1. Improve Datasets: Malware detection datasets are limited or imbalanced. For example, a dataset for Android malware DREBIN has ~5,000 malware instances but 121,000 benign instances. This can hinder our ability to train effective models. 
+2. Combine static and dynamic analysis: There exists a gap in research between using ML to analyze malware source code vs. malware actively running. 
