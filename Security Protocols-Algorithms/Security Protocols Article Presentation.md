@@ -1,5 +1,6 @@
 [Explainable Artificial Intelligence (XAI) for Malware Analysis: A Survey of Techniques, Applications, and Open Challenges](https://ieeexplore.ieee.org/abstract/document/10944807)
 [Ransomware 3.0: Self-Composing and LLM-Orchestrated](https://arxiv.org/html/2508.20444v1)
+# Explainable AI (XAI) For Malware Detection ML Models
 ## Introduction
 The focus of this presentation is the duality of AI usage in modern cybersecurity subfields, particularly in the early detection of malware. Machine learning approaches to identifying malware have shown high accuracy, but there is one very significant problem at hand: 
 
@@ -154,3 +155,4 @@ The main idea that we can take away from this research is that while machine lea
 
 To further express the importance of this research, for the rest of this presentation, we would like to give the example of Ransomware 3.0.
 
+# Ransomware 3.0 - LLM Orchestrated Malware 
