@@ -157,3 +157,5 @@ To further express the importance of this research, for the rest of this present
 
 # Ransomware 3.0 - LLM Orchestrated Malware 
 A separate article listed on Arxiv by researchers at NYU discuss the evolution of ransomware over time. 
+- Initial ransomware attacks going back to the well-known CryptoLocker, WannaCry, and Petya attacks utilized encryption schemes and gained access through phishing emails or vulnerability exploits. This is Ransomware 1.0.
+- Ransomware 2.0 saw a paradigm shift where attackers not only encrypted the victim's data but also threatened to publish private 
