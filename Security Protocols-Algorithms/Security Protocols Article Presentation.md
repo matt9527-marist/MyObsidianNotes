@@ -98,5 +98,5 @@ These models are also computationally intensive with a lot of internal mechanism
 These are methods that allow us to interpret opaque, complex ML models' predictions, especially in high-stakes applications where transparency in decision-making is required. There are two ways to do this:
 - **Model-Agnostic Explainability**: applicable to any model 
 	- **Global Explanation**: Look at all instances instead of individual predictions. This lets us determine which features are relevant on a systemic level. 
-		- Use *surrogate models*. These models approximate the decision-making process of an opaque model by training an interpretable alternative (decision tree or linear model)
+		- Use *surrogate models*. These models approximate the decision-making process of an opaque model by training an interpretable alternative (decision tree or linear model). Adds explainability by allowing us to pinpoint how important a given feature is in determining malware (API calls or file metadata for example). However, is limited because they are just approximations/replications of the full opaque model. 
 - **Model Specific Explainability**: tailored to particular model architectures. 
