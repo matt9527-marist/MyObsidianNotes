@@ -57,3 +57,13 @@ If you cannot, significant time and resources wil lgo into developing a secure s
 ![[Pasted image 20251022162057.png]]
 It is profoundly difficult to do key management and key exchange. It is also not scalable because at some point, you just end up with too many keys!
 Asymmetric cryptography decreases the need for shared keys between all. 
+
+**Public Key Cryptography**
+1. Bob generates a pair of keys (*Sbob, Pbob*) which are his private and  
+public key.  
+2. He publishes his public key  
+3. Alice obtains public key from a website, etc. and uses it to encrypt her  
+message and send it to Bob
+4. Bob uses his secret key to decrypt the message
+![[Pasted image 20251022163312.png]]
+
