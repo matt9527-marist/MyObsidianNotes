@@ -67,3 +67,44 @@ store without interfering.
 • This is essential in parallel sorting, searching, or data distribution, where  
 we aim for O(1) time per item.
 
+**Hash Function Design Example**
+• Simple key: First letter of last name -> uneven distribution  
+• Better: hash on first 4 characters  
+• Consider character set range: e.g., 52 letters -> avoid waste on 256-byte  
+range
+## Spatial Hashing
+**Spatial Hashing & Parallel AMR**
+• Use Case: Krakatau Wave Simulation  
+• Need higher resolution near:  
+	• Wave fronts  
+	• Shorelines  
+• Coarser mesh used elsewhere -> improves performance
+![[Pasted image 20251027192519.png]]
+• Cell-based AMR: finer resolution where
+needed
+• Replaces structured grid with a 1D array of
+cells
+• Position & size stored in separate metadata
+arrays
+
+**Mesh Structure Type**
+![[Pasted image 20251027192559.png]]
+**Spatial Hashing**
+• Used to locate cells in unstructured AMR  
+• Allows fast, parallel search of nearby neighbors  
+• Enables scalable spatial operations (e.g., lookups, joins)
+*Key Insight*: 
+• Spatial hashing supports parallelism in irregular grids  
+• AMR trades simplicity for efficiency and flexibility  
+• Ideal for scientific simulations with variable spatial detail
+
+**Spatial Hashing in AMR and Particle Simulations**
+• Hashing Strategy  
+• Spatial hash -> maps cells/objects into grid buckets  
+• Bucket size:  
+	• AMR mesh: minimum cell size  
+	• Particles: interaction distance
+
+**Performance Benefit**: Query only adjacent blocks, reduces complexity O(N^2) to O(N)
+Exploits spatial locality. 
+

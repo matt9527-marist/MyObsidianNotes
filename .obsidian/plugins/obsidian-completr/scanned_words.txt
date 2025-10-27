@@ -246,6 +246,8 @@ Maintained
 Microsoft
 Malicious
 MalConv
+Minimal
+Mitigate
 Learning
 Learn
 Let
@@ -673,6 +675,7 @@ Recursively
 Risks
 REG
 Romero
+Replaces
 libraries
 learn
 learning
@@ -959,6 +962,8 @@ lgo
 logically
 lets
 listing
+lookup
+locate
 Graphing
 Google
 Game
@@ -1499,6 +1504,10 @@ Convolutional
 Comparison
 Conclusions
 Combine
+Compact
+Compresses
+Case
+Coarser
 Scikit
 Statistical
 Statistics
@@ -1845,6 +1854,8 @@ Section
 SHAP
 Sorting
 Sort
+Shorelines
+Simulations
 Keras
 Key
 Kirchhoffs
@@ -2240,6 +2251,8 @@ Ticket
 TGS
 Tree
 TreeSHAP
+Techniques
+Trained
 ISLP
 Iris
 Instance
@@ -2859,6 +2872,8 @@ analysts
 audience
 analyze
 actively
+aim
+adjacent
 Applications
 AI
 Analysis
@@ -3108,6 +3123,9 @@ Acts
 Agnostic
 Algorithmic
 Android
+Analyze
+Automate
+AMR
 with
 without
 want
@@ -3343,6 +3361,7 @@ wise
 whereas
 wants
 wil
+waste
 Python
 Performance
 Principle
@@ -3612,6 +3631,9 @@ Produce
 Pooling
 People
 Put
+Perfect
+Position
+Particle
 What
 We
 With
@@ -4130,6 +4152,11 @@ inefficient
 interpretability
 independently
 imbalanced
+integer
+interfering
+item
+irregular
+interaction
 Field
 For
 Find
@@ -4344,6 +4371,7 @@ FALSE
 Final
 Format
 Fully
+Further
 of
 or
 optimize
@@ -5115,6 +5143,8 @@ snippets
 sorts
 sort
 sign
+sorting
+supports
 giving
 good
 generalizable
@@ -5370,6 +5400,7 @@ grants
 golden
 grouped
 grayscale
+grids
 computers
 computer
 can
@@ -5897,6 +5928,7 @@ classifiers
 cats
 compares
 converts
+construct
 the
 to
 training
@@ -6258,6 +6290,7 @@ tickets
 think
 trait
 technique
+trades
 being
 be
 by
@@ -6514,6 +6547,8 @@ begins
 backward
 bubble
 broad
+bucket
+buckets
 explicitly
 experience
 error
@@ -6861,6 +6896,9 @@ embedding
 experts
 entries
 emerges
+essential
+explore
+elsewhere
 programmed
 patterns
 program
@@ -7285,6 +7323,7 @@ predicts
 pinpoint
 primarily
 pooling
+poisoning
 Detecting
 Deepmind
 Dataset
@@ -7554,6 +7593,7 @@ DOS
 Despite
 DLLs
 DREBIN
+Detectors
 regularities
 respect
 recognizing
@@ -7900,6 +7940,8 @@ resemble
 replications
 representations
 restart
+reading
+removing
 model
 mostly
 machine
@@ -8671,6 +8713,7 @@ Explanation
 Expectation
 Explanations
 Everyone
+Exploits
 using
 utility
 use
@@ -8892,6 +8935,9 @@ unseen
 users
 utilizes
 username
+underlying
+uneven
+unstructured
 data
 driven
 dataset
@@ -9270,6 +9316,8 @@ dumps
 drivers
 digits
 dogs
+decoupling
+detail
 future
 from
 feed
@@ -9552,6 +9600,9 @@ forest
 factors
 filters
 focusing
+fronts
+finer
+flexibility
 Optimziation
 Operations
 Once
@@ -10454,6 +10505,7 @@ nRT
 neat
 negotiate
 notable
+nearby
 yes
 yield
 your
@@ -10810,6 +10862,8 @@ Hack
 Hackers
 Hundreds
 Hoc
+Hashes
+Hashing
 Not
 NOTHING
 No
@@ -11330,6 +11384,7 @@ Under
 UDP
 Understand
 Update
+Uneven
 Breakout
 Because
 Backpropagation
@@ -11698,6 +11753,8 @@ jump
 justifications
 justifies
 job
+jumping
+joins
 Vectors
 Vectorization
 Visualization
@@ -12623,6 +12680,7 @@ QAN
 QeDJ
 QebL
 QUEST
+Query
 ZgjY
 Zy
 Zky

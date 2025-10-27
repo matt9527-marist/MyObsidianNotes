@@ -35,8 +35,7 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "598100de2ba30e51",
+  "active": "dd7bbbb12b3a0368",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
+    "Parallel Processing/106 Parallel Algorithms.md",
     "Assets/Pasted image 20251027192559.png",
     "Assets/Pasted image 20251027192519.png",
-    "Parallel Processing/106 Parallel Algorithms.md",
     "Assets/Pasted image 20251027191654.png",
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Parallel Processing/105 Stencil With Materials.md",
     "Assets/Pasted image 20251027184233.png",
     "Parallel Processing/104 Data Design and Performance Models.md",
@@ -206,7 +205,6 @@
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Assets/Pasted image 20251022162057.png",
     "Assets/Pasted image 20251022160923.png",
-    "Assets/Pasted image 20251022155006.png",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Security Protocols-Algorithms/Secure Channel.md",
     "Machine Learning/011 Tree-Based Methods and Ensembles.md",
