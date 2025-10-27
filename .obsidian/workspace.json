@@ -35,7 +35,8 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +186,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd7bbbb12b3a0368",
+  "active": "598100de2ba30e51",
   "lastOpenFiles": [
+    "Parallel Processing/106 Parallel Algorithms.md",
+    "Assets/Pasted image 20251027194915.png",
     "Assets/Pasted image 20251027194835.png",
     "Assets/Pasted image 20251027194800.png",
     "Assets/Pasted image 20251027194735.png",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
-    "Parallel Processing/106 Parallel Algorithms.md",
     "Assets/Pasted image 20251027193712.png",
     "Assets/Pasted image 20251027192559.png",
     "Assets/Pasted image 20251027192519.png",
@@ -203,8 +205,6 @@
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20251026183416.png",
-    "Assets/Pasted image 20251026183342.png",
-    "Assets/Pasted image 20251026181653.png",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Security Protocols-Algorithms/Secure Channel.md",

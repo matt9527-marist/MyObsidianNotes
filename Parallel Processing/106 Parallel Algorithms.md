@@ -190,9 +190,11 @@ Hash Setup:
 • Allocate hash table matching resolution of finest  
 cells  
 • Write Phase:  
-• For each cell, store its index in all hash buckets it  
+	• For each cell, store its index in all hash buckets it  
 covers  
 • Read Phase:  
-• For each side (left, right, top, bottom):  
-• Compute neighbor's bucket index  
-• Read from hash to get neighbor cell
+	• For each side (left, right, top, bottom):  
+		• Compute neighbor's bucket index  
+		• Read from hash to get neighbor cell
+![[Pasted image 20251027194915.png]]
+
