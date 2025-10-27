@@ -128,3 +128,34 @@ Exploits spatial locality.
 	• Example: ntop[nleft[ic]] retrieves second neighbor
 ![[Pasted image 20251027193712.png]]
 
+**Neighbor Finding with Spatial Perfect Hash**
+• Goal: Efficiently locate neighbors in a cell-based  
+AMR mesh  
+	• Key Operation  
+		• Move material or analyze data using info from  
+		adjacent cells  
+		• One level jump in refinement allowed (graded  
+		mesh)
+	
+**Naive Search for Neighbor Finding**
+```c++
+for (int ic = 0; ic < N; ic++) {  
+	for (int jc = 0; jc < N; jc++) {  
+		if (is_adjacent(ic, jc)) {  
+		neighbors[ic] = jc;  
+		break;  
+		}  
+	}  
+}
+```
+• Concept  
+	• Check every other cell to find adjacent neighbors  
+	• Use (i, j, level) values to match locations
+
+• Complexity  
+	• O(N^2) time -> slow for large N  
+	• Each of N cells checks N others  
+• Limitations  
+	• Works fine for small datasets  
+	• Scales poorly for large AMR meshes  
+	• Ignores spatial locality -> inefficient memory use  

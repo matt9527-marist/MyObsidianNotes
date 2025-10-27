@@ -457,6 +457,7 @@ Loop
 Lets
 LIME
 LLM
+Left
 Relevant
 Reading
 Research
@@ -678,6 +679,7 @@ Risks
 REG
 Romero
 Replaces
+Rules
 libraries
 learn
 learning
@@ -1510,6 +1512,7 @@ Compact
 Compresses
 Case
 Coarser
+CLAMR
 Scikit
 Statistical
 Statistics
@@ -1860,6 +1863,7 @@ Shorelines
 Simulations
 Smoothed
 SPH
+Scientific
 Keras
 Key
 Kirchhoffs
@@ -7334,6 +7338,7 @@ pinpoint
 primarily
 pooling
 poisoning
+pixels
 Detecting
 Deepmind
 Dataset
@@ -7953,6 +7958,7 @@ restart
 reading
 removing
 requirement
+retrieves
 model
 mostly
 machine
@@ -10523,6 +10529,7 @@ neat
 negotiate
 notable
 nearby
+ntop
 yes
 yield
 your
@@ -11071,6 +11078,7 @@ Nonlinearity
 Neural
 Networks
 NlogN
+Neighbor
 quality
 question
 quickly
@@ -11639,6 +11647,7 @@ Boosting
 Benign
 Benefit
 Bubble
+Bottom
 just
 jagged
 json
@@ -12699,6 +12708,7 @@ QeDJ
 QebL
 QUEST
 Query
+Quickly
 ZgjY
 Zy
 Zky
