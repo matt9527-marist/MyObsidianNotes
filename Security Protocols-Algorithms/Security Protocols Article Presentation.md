@@ -113,4 +113,5 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 ## Explainable Malware Classification and Detection Approaches
 In the following section, the article summarizes several ways explainable AI can be applied to malware detections, organized by the type of target system. 
 For the sake of simplicity, we will only be detailing the processes used for Windows PE (portable executable files), since that is likely what is most familiar to the class. This also makes sense since Windows is the most widely used desktop OS. 
-
+There are three detection methods relevant for use here: 
+1. 
