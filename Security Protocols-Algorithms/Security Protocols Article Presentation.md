@@ -149,3 +149,4 @@ The article lists several ways by which research on this topic can be improved. 
 7. Mitigate Attacks: Stop threat actors from poisoning ML datasets or feature spaces. 
 8. Hardware Malware Detectors: Further explore ways to leverage malware detection at the hardware level. 
 
+The main idea that we can take away from this research is that while machine learning is a useful tool for cybersecurity, data-driven frameworks are vulnerable to exploitation, misdirection, and circumvention. 
