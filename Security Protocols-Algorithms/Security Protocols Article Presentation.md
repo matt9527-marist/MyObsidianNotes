@@ -133,6 +133,6 @@ CNNs are a kind of "black box" model because humans cannot easily track how a pa
 
 > How can we make clear the decision-making process of MalConv?
 
-1. **Gradient Based Approach**: 
+1. **Gradient Based Approach**: Use gradient analysis
 2. **Model-Agnostic Approach**:
 3. **Image-Based Approach**:
