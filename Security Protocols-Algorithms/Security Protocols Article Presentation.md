@@ -131,4 +131,8 @@ An **opaque** model that we can look at is *MalConv*, an architecture that detec
 - Fully connected layers combine all information learned to make a final decision. 
 CNNs are a kind of "black box" model because humans cannot easily track how a pattern emerges as "important" within the model.
 
+> How can we make clear the decision-making process of MalConv?
 
+1. **Gradient Based Approach**:
+2. **Model-Agnostic Approach**:
+3. **Image-Based Approach**:
