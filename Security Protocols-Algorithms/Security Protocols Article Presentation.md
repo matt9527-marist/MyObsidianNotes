@@ -156,3 +156,4 @@ The main idea that we can take away from this research is that while machine lea
 To further express the importance of this research, for the rest of this presentation, we would like to give the example of Ransomware 3.0.
 
 # Ransomware 3.0 - LLM Orchestrated Malware 
+A separate article listed on Arxiv by researchers at NYU discuss the evolution of ransomware over time. 
