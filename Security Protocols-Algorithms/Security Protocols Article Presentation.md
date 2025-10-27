@@ -51,7 +51,9 @@ These aspects of XAI are proposed by IEEE to improve trust and hand the regulato
 
 ![[Pasted image 20251020194133.png]]
 
-There is no need to fully describe each of these models, but we will give an adequate breakdown of just one of the models for each of the two categories: transparent and opaque. 
+There is no need to fully describe each of these models, but we will give an adequate breakdown of just two of the models for each of the two categories: transparent and opaque. 
+
+### Transparent Models
 
 **Regression Models** - This includes linear and logistic regression. These models are inherently very explainable.
 ![[Pasted image 20251020195315.png]]
@@ -60,3 +62,53 @@ $$y = w_{1}x_{1} + w_{2}x_{2} + w_{3}x_{3} + \dots + w_{n}x_{n} + b$$
 - `w`'s are the weights given for each `x` feature in a given dataset. What we are determining with the above expression is how much `y` changes when  `xi` changes by one unit. 
 - We can easily understand and visualize this equation. The weights themselves can be listed in a table. The simplest representation of the model is basically a line of best fit. 
 - There is no layering or hidden weights. 
+
+**Decision Trees** - Also inherently explainable and can be visualized very easily. 
+![[Pasted image 20251026181653.png]]
+Decision trees are composed of "branches" that stem from conditional `if-then` rules. Binary decision trees like the one shown above resemble how humans logically think through problems. 
+- The key is that the **structure is the model**. There is no hidden computation, just rules that when followed lead down to intermediate conditions or a prediction. 
+- Domain experts can follow the same decision-making process that the tree follows, leading them to the same conclusions as the model. 
+
+### Opaque Models 
+**Random forests** - An ensemble of many decision trees whose predictions are averaged or chosen based on majority vote to determine the output conclusion. 
+![[Pasted image 20251026183416.png]]
+There is a notable disconnect here compared to just a single decision tree. 
+In a single tree: 
+> The model predicts on a series of if-then rules: 
+> 	if known malicious API calls < 30 and REG_KEY created == FALSE
+> 	then prediction for process is not malicious 
+
+In an ensemble of trees (random forest): 
+> Hundreds of trees make different decisions on the features in a given sample.
+> 	Tree 1: Malicious (based on API calls)
+> 	Tree 2: Benign (based on network behavior)
+> 	Tree 3: Malicious (based on file entropy)
+> 	... 
+> 	327 trees say malicious
+> 	173 trees say benign 
+> 	Final decision -> Malicious by majority vote 
+
+As we can see, the process for a human to trace the decision-making through the model is a lot more obscure. No single interpretable rule path explains why the ensemble arrived at its conclusion. 
+
+**Deep Neural Networks**: In the same way that a human cannot trace the decision-making path for a given output through a random forest, it is very difficult to explain the same through a neural network, especially when there are several layers. 
+
+These models are also computationally intensive with a lot of internal mechanisms that lead to answers. You can certainly ask ChatGPT for example to give a reason why it outputs something, but that still does not let us know the actual weights and factors that are being considered internally. 
+
+## Post-Hoc Explainability 
+These are methods that allow us to interpret opaque, complex ML models' predictions, especially in high-stakes applications where transparency in decision-making is required. There are two ways to do this:
+- **Model-Agnostic Explainability**: applicable to any model 
+	- **Global Explanation**: Look at all instances instead of individual predictions. This lets us determine which features are relevant on a systemic level. 
+		- Use *surrogate models*. These models approximate the decision-making process of an opaque model by training an interpretable alternative (decision tree or linear model). Adds explainability by allowing us to pinpoint how important a given feature is in determining malware (API calls or file metadata for example). However, is limited because they are just approximations/replications of the full opaque model. 
+	- **Local Explanation**: Focus on one particular instance instead of the overall model behavior. Lets us look at anomalies. There are two primarily used implementations:
+		- LIME
+		- KernalSHAP
+	- **Visual Explanation**: Produce visual representations of models that make them accessible and comprehensible. Convey model patterns using graphs or plots. 
+		- Partial Dependence Plots 
+		- Individual Condition Expectation 
+- **Model Specific Explainability**: tailored to particular model architectures. 
+	- TreeSHAP and DeepSHAP
+	- Feature Relevance Explanations
+	- Saliency Maps
+
+## Explainable Malware Classification and Detection Approaches
+

@@ -54,8 +54,8 @@
     "MultinomalLogisticRegression": 42,
     "SVMs": 43,
     "duality": 44,
-    "Boosting": 45,
-    "Ensembles": 46
+    "Ensembles": 45,
+    "Boosting": 46
   },
   "_version": 3
 }
