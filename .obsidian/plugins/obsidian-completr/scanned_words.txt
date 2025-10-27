@@ -1494,6 +1494,7 @@ Centric
 COFF
 CNNs
 Convolutional
+Comparison
 Scikit
 Statistical
 Statistics
@@ -1839,6 +1840,7 @@ Storage
 Section
 SHAP
 Sorting
+Sort
 Keras
 Key
 Kirchhoffs
@@ -3598,6 +3600,7 @@ Pass
 Post
 Produce
 Pooling
+People
 What
 We
 With
@@ -4112,6 +4115,7 @@ intensive
 internally
 influential
 improved
+inefficient
 Field
 For
 Find
@@ -5093,6 +5097,8 @@ specs
 shortest
 strengths
 snippets
+sorts
+sort
 giving
 good
 generalizable
@@ -5873,6 +5879,7 @@ convolutional
 compress
 classifiers
 cats
+compares
 the
 to
 training
@@ -6487,6 +6494,7 @@ boosting
 bed
 begins
 backward
+bubble
 explicitly
 experience
 error
@@ -7871,6 +7879,7 @@ reliable
 resemble
 replications
 representations
+restart
 model
 mostly
 machine
@@ -8187,6 +8196,7 @@ members
 metadata
 matches
 min
+mergesort
 hypothesis
 handwritten
 have
@@ -10965,6 +10975,7 @@ Numbering
 Nonlinearity
 Neural
 Networks
+NlogN
 quality
 question
 quickly
@@ -11139,6 +11150,7 @@ query
 qcachegrind
 quite
 quantifiable
+quicksort
 Unsupervised
 UNION
 User
@@ -11530,6 +11542,7 @@ Bagging
 Boosting
 Benign
 Benefit
+Bubble
 just
 jagged
 json
