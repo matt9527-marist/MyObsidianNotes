@@ -159,3 +159,40 @@ for (int ic = 0; ic < N; ic++) {
 	• Works fine for small datasets  
 	• Scales poorly for large AMR meshes  
 	• Ignores spatial locality -> inefficient memory use  
+
+**Simplified k-d Tree for Selected AMR Cells**
+![[Pasted image 20251027194735.png]]
+• What is a k-d Tree?  
+	• k = number of dimensions (e.g., k = 2 for 2D space)  
+	• A k-dimensional binary search tree for organizing points in space  
+	• Alternates splits across k axes (e.g., x, then y, then x...)
+![[Pasted image 20251027194800.png]]
+• Advantages  
+	• Much faster than naive search for large N  
+	• Good spatial locality -> better cache usage  
+• Considerations  
+	• More complex to implement  
+	• Tree must be rebuilt if the mesh changes
+
+**Quadtree for the AMR Mesh**
+• A quadtree is ideal for hierarchical 2D spatial subdivisions like this mesh.  
+• Start with the entire domain (root node).  
+• Subdivide into 4 quadrants.  
+• For each quadrant, if it contains multiple cells or finer levels, subdivide again.  
+• Recursively proceed until each leaf node contains:  
+	• Either a single cell  
+	• Or cells of the same refinement level
+![[Pasted image 20251027194835.png]]
+
+**Spatial Perfect Hash Algorithm to perform the  
+neighbor finding**
+Hash Setup:  
+• Allocate hash table matching resolution of finest  
+cells  
+• Write Phase:  
+• For each cell, store its index in all hash buckets it  
+covers  
+• Read Phase:  
+• For each side (left, right, top, bottom):  
+• Compute neighbor's bucket index  
+• Read from hash to get neighbor cell
