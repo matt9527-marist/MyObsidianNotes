@@ -37,3 +37,28 @@ structure called a hash table to store or find a value.
 	59  
 	• Then we use index 59 in the table to store or look up  
 	data like a username
+	
+**Problems with Simple Hashes**
+Using just the first letter of a name (e.g., 'R' for Romero) can cause:  
+	• Uneven distribution – too many people under some letters  
+	• More collisions – slower lookups  
+• A better hash function would consider more letters or even convert the  
+string into an integer representation.
+
+*Why Use Hash Functions?*:  Computers can’t efficiently search data like a human reading a dictionary.  
+	• Hashing gives us fast access – almost like jumping directly to the right page.
+
+**Hashing Strategies: Perfect, Minimal & Compact**
+• Types of Hashes  
+	• Perfect Hash:  
+		• At most one entry per bucket  
+		• Fast lookup, may use more memory  
+	• Minimal Perfect Hash:  
+		• One entry per bucket, no empty buckets  
+		• Space-efficient, slower to construct  
+	• Compact Hash:  
+		• Compresses hash table to use less memory  
+		• Allows collisions, uses key checking on lookup
+![[Pasted image 20251027191654.png]]
+
+**Why this matters in Parallel Algorithms**
