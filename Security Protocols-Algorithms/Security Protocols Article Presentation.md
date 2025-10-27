@@ -150,3 +150,7 @@ The article lists several ways by which research on this topic can be improved. 
 8. Hardware Malware Detectors: Further explore ways to leverage malware detection at the hardware level. 
 
 The main idea that we can take away from this research is that while machine learning is a useful tool for cybersecurity, data-driven frameworks are vulnerable to exploitation, misdirection, and circumvention. 
+**Transparency is a key requirement** for security experts to be able to trust and deploy these models. 
+
+To further express the importance of this research, for the rest of this presentation, we would like to give the example of Ransomware 3.0.
+
