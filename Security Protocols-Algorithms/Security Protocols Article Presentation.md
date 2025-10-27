@@ -161,4 +161,4 @@ A separate article listed on Arxiv by researchers at NYU discuss the evolution o
 - Ransomware 2.0 saw a paradigm shift where attackers not only encrypted the victim's data but also threatened to publish the data unless the ransom was paid. This also saw the creation of Ransomware-as-a-service (RaaS) where groups of developers generated ransomware payloads and sold them to buyers. 
 - This brings us to **Ransomware 3.0**. We are in an age where software engineers are commonly consulting LLMs like ChatGPT in assisted IDE's like Cursor for writing code. How is this done?
 
-Without going into too much detail, the
+Without going into too much detail, this second article assumes that an attacker has access to a target machine and is wanting to perform a ransomware attack. Instead of using RaaS, the attacker has outbound connectivity to an LLM service. They then proceed using prompts to have the LLM orchestrate the attack, including identifying sensitive data on the system to target and developing the payload. 
