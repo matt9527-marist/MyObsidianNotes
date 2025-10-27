@@ -157,6 +157,7 @@ Measuring
 McCalpin
 Measures
 MiniApp
+Malicious
 Learning
 Learn
 Let
@@ -462,6 +463,7 @@ Race
 Roofline
 Row
 Ransomware
+REG
 libraries
 learn
 learning
@@ -1409,6 +1411,7 @@ Knowing
 KiB
 KCachegrind
 KCacheGrind
+KEY
 TensorFlow
 Task
 Training
@@ -1566,6 +1569,7 @@ Tool
 Toolkit
 Triad
 Transparent
+Tree
 ISLP
 Iris
 Instance
@@ -2014,6 +2018,10 @@ assert
 activity
 adequate
 additive
+averaged
+arrived
+answers
+ask
 Applications
 AI
 Analysis
@@ -2204,6 +2212,7 @@ Arithmetic
 Advisor
 Achieving
 API
+Agnostic
 with
 without
 want
@@ -2548,6 +2557,7 @@ Peak
 Path
 Permissions
 PATH
+Post
 What
 We
 With
@@ -2891,6 +2901,8 @@ invest
 impact
 imposed
 identifies
+intensive
+internally
 Field
 For
 Find
@@ -3038,6 +3050,8 @@ Fused
 FMA
 Four
 File
+FALSE
+Final
 of
 or
 optimize
@@ -3228,6 +3242,7 @@ outpace
 overlay
 opcode
 opaque
+obscure
 study
 simplified
 something
@@ -3645,6 +3660,9 @@ suspicious
 sequences
 suggested
 stem
+stakes
+systemic
+surrogate
 giving
 good
 generalizable
@@ -3903,7 +3921,6 @@ combined
 constexpr
 completes
 convert
-create
 creating
 compared
 contain
@@ -4223,6 +4240,8 @@ comprehend
 challenging
 composed
 conclusions
+conclusion
+certainly
 the
 to
 training
@@ -4941,6 +4960,8 @@ enables
 explainable
 explainability
 experts
+ensemble
+entropy
 programmed
 patterns
 program
@@ -5267,6 +5288,7 @@ plots
 parallelizing
 proposed
 post
+predicts
 Detecting
 Deepmind
 Dataset
@@ -5454,6 +5476,7 @@ Detected
 Detection
 Decision
 Domain
+Deep
 regularities
 respect
 recognizing
@@ -6321,6 +6344,8 @@ Emphasizes
 Empirical
 Explainablity
 Explainable
+Explainability
+Explanation
 using
 utility
 use
@@ -6753,6 +6778,7 @@ deepens
 dependency
 diagram
 distinct
+disconnect
 future
 from
 feed
@@ -6979,6 +7005,8 @@ fuse
 fails
 fidelity
 forests
+forest
+factors
 Optimziation
 Operations
 Once
@@ -7374,6 +7402,7 @@ varies
 variants
 visualization
 valgrind
+vote
 numerical
 no
 need
@@ -7637,6 +7666,7 @@ notice
 nightly
 near
 narrative
+notable
 yes
 your
 you
@@ -7860,6 +7890,8 @@ Helps
 Hierarchy
 HBM
 Hybrid
+Hundreds
+Hoc
 Not
 NOTHING
 No
@@ -7971,6 +8003,8 @@ Need
 Network
 NUMA
 National
+Neural
+Networks
 quality
 question
 quickly
@@ -8329,6 +8363,7 @@ Benchmark
 Berkeley
 Balance
 Bottleneck
+Benign
 just
 jagged
 json
