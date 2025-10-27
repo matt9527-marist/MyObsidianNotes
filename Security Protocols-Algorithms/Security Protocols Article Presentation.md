@@ -106,3 +106,9 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 		- Partial Dependence Plots 
 		- Individual Condition Expectation 
 - **Model Specific Explainability**: tailored to particular model architectures. 
+	- TreeSHAP and DeepSHAP
+	- Feature Relevance Explanations
+	- Saliency Maps
+
+## Explainable Malware Classification and Detection Approaches
+
