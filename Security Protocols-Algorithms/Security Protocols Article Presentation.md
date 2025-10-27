@@ -122,3 +122,7 @@ There are three detection methods relevant for use here:
 Windows .exe file format is base on "Common Object File Format" (COFF) specification: 
 - File begins with a header used by the MS-DOS OS. 
 - When loaded, MS-DOS checks for backward compatibility using a stub program.
+- COFF header provides specs for the executable file 
+- Section header divides the executable into segments, each comprising blocks of memory. This organizes the executable for more efficient execution. 
+Despite Windows being so popular, limited research has been conducted on applying explainable machine learning frameworks to malware detection on it. 
+
