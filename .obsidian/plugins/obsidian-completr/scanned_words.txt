@@ -248,6 +248,7 @@ Malicious
 MalConv
 Minimal
 Mitigate
+Molecular
 Learning
 Learn
 Let
@@ -455,6 +456,7 @@ Lots
 Loop
 Lets
 LIME
+LLM
 Relevant
 Reading
 Research
@@ -1856,6 +1858,8 @@ Sorting
 Sort
 Shorelines
 Simulations
+Smoothed
+SPH
 Keras
 Key
 Kirchhoffs
@@ -2253,6 +2257,7 @@ Tree
 TreeSHAP
 Techniques
 Trained
+Transparency
 ISLP
 Iris
 Instance
@@ -2874,6 +2879,7 @@ analyze
 actively
 aim
 adjacent
+away
 Applications
 AI
 Analysis
@@ -5929,6 +5935,7 @@ cats
 compares
 converts
 construct
+circumvention
 the
 to
 training
@@ -6899,6 +6906,9 @@ emerges
 essential
 explore
 elsewhere
+engines
+exploitation
+express
 programmed
 patterns
 program
@@ -7942,6 +7952,7 @@ representations
 restart
 reading
 removing
+requirement
 model
 mostly
 machine
@@ -8259,6 +8270,7 @@ metadata
 matches
 min
 mergesort
+misdirection
 hypothesis
 handwritten
 have
@@ -9318,6 +9330,10 @@ digits
 dogs
 decoupling
 detail
+differential
+discretization
+dynamics
+deploy
 future
 from
 feed
@@ -9824,6 +9840,7 @@ Online
 Opaque
 Organized
 Operation
+Orchestrated
 kind
 know
 knowledge
@@ -10864,6 +10881,7 @@ Hundreds
 Hoc
 Hashes
 Hashing
+Hydrodynamics
 Not
 NOTHING
 No

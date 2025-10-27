@@ -115,3 +115,16 @@ Exploits spatial locality.
 	• Smoothed Particle Hydrodynamics (SPH) simulations  
 	• Game engines & graphics
 
+**Using perfect hashing for spatial mesh operations**
+• Purpose  
+	• Quickly locate neighboring cells in AMR meshes  
+	• Avoid costly collision handling via perfect hashing  
+	• Use Cases  
+		• Scientific computing: material transfer across cells  
+		• Image analysis: infer data from neighboring pixels  
+• Cell based AMR Neighbor Rules (CLAMR)  
+	• Only 1-level difference across adjacent cells  
+	• Left/Bottom neighbor = lower cell of the adjacent pair  
+	• Example: ntop[nleft[ic]] retrieves second neighbor
+![[Pasted image 20251027193712.png]]
+
