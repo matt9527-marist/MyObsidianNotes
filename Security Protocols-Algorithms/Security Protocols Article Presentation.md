@@ -135,4 +135,19 @@ CNNs are a kind of "black box" model because humans cannot easily track how a pa
 
 1. **Gradient Based Approach**: Use gradient analysis to define clear decision boundaries between categories (benign vs. malware). This allows us to define something like a heatmap for the CNN filters, which will allow us to view how the model determines a trait as being malicious in an executable. We can therefore pinpoint which segments or bytes of an executable are most influential for classification. 
 2. **Model-Agnostic Approach**: Simplify the complex original model into a surrogate model. In one study, a system utilizes a variety of more transparent classifiers such as logistic regression or decision trees to detect malware based on memory dumps, in an attempt to approximate the processes used by MalConv. Explainability is further improved by SHAP, which gives us insight into the impact of each feature (DLLs, handles, kernel drivers, accessed services) on the prediction. 
-3. **Image-Based Approach**: We know that CNNs are often used to classify images (identify letters/digits, cats vs. dogs). We can use this baseline with malware detection by converting executable binary files into grayscale images. By doing this, we can leverage CNNs' strengths in pattern recognition. By doing gradient analysis like in the first approach, we can then figure out which pixel regions most impact the model's predictions, and then security analysts can easily trace those regions back to individual snippets of oc
+3. **Image-Based Approach**: We know that CNNs are often used to classify images (identify letters/digits, cats vs. dogs). We can use this baseline with malware detection by converting executable binary files into grayscale images. By doing this, we can leverage CNNs' strengths in pattern recognition. By doing gradient analysis like in the first approach, we can then figure out which pixel regions most impact the model's predictions, and then security analysts can easily trace those regions back to individual snippets of code. 
+
+## Algorithm Analysis for parallel computing applications 
+**Comparison Sort (like Bubble Sort)**
+• Each person compares their name to a neighbor and moves accordingly.  
+• This process is repeated many times.  
+• Problem for parallelism: People (or processors) must wait on each other.  
+• On a GPU: If a group (workgroup) finishes its row, it must stop and restart to  
+work with the next row -> inefficient.  
+• Performance:  
+• Comparison sorts like bubble sort have a performance of in the worst  
+case, or for better algorithms like quicksort or mergesort.  
+
+O(NlogN)  
+Since communication within GPU  
+workgroups is not possible

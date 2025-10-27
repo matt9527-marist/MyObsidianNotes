@@ -1838,6 +1838,7 @@ Saliency
 Storage
 Section
 SHAP
+Sorting
 Keras
 Key
 Kirchhoffs
@@ -2847,6 +2848,7 @@ answers
 approximations
 anomalies
 attempt
+analysts
 Applications
 AI
 Analysis
@@ -5088,6 +5090,9 @@ sake
 specification
 stub
 specs
+shortest
+strengths
+snippets
 giving
 good
 generalizable
@@ -5342,6 +5347,7 @@ generalized
 grants
 golden
 grouped
+grayscale
 computers
 computer
 can
@@ -5866,6 +5872,7 @@ conducted
 convolutional
 compress
 classifiers
+cats
 the
 to
 training
@@ -9229,6 +9236,8 @@ divides
 detect
 dumps
 drivers
+digits
+dogs
 future
 from
 feed
@@ -11652,6 +11661,7 @@ jumps
 jump
 justifications
 justifies
+job
 Vectors
 Vectorization
 Visualization
