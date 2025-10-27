@@ -164,3 +164,5 @@ A separate article listed on Arxiv by researchers at NYU discuss the evolution o
 Without going into too much detail, this second article assumes that an attacker has access to a target machine and is wanting to perform a ransomware attack. Instead of using RaaS, the attacker has outbound connectivity to an LLM service. They then proceed using prompts to have the LLM orchestrate the attack, including identifying sensitive data on the system to target and developing the payload. 
 **Jailbreaking** - LLMs are restricted by their creators. You cannot tell ChatGPT to build a encryption payload for you for use in a ransomware attack. Threat actors can make use of *jailbreaking prompts*. These are elaborate requests made to the LLM to circumvent safeguards and ignore policies. 
 
+![[Pasted image 20251027195645.png]]![[Pasted image 20251027195719.png]]
+
