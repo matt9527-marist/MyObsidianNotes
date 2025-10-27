@@ -149,4 +149,26 @@ The article lists several ways by which research on this topic can be improved. 
 7. Mitigate Attacks: Stop threat actors from poisoning ML datasets or feature spaces. 
 8. Hardware Malware Detectors: Further explore ways to leverage malware detection at the hardware level. 
 
+**Hash Function Design Example**
+• Simple key: First letter of last name -> uneven distribution  
+• Better: hash on first 4 characters  
+• Consider character set range: e.g., 52 letters -> avoid waste on 256-byte  
+range
 
+## Spatial Hashing
+**Spatial Hashing & Parallel AMR**
+• Use Case: Krakatau Wave Simulation  
+• Need higher resolution near:  
+	• Wave fronts  
+	• Shorelines  
+• Coarser mesh used elsewhere -> improves performance
+![[Pasted image 20251027192519.png]]
+• Cell-based AMR: finer resolution where
+needed
+• Replaces structured grid with a 1D array of
+cells
+• Position & size stored in separate metadata
+arrays
+
+**Mesh Structure Type**
+![[Pasted image 20251027192559.png]]
