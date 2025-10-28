@@ -170,4 +170,5 @@ The article continues by describing an elaborate proof-of-concept ransomware con
 
 From this summary of both research articles, we can see the dual-use nature of AI in cybersecurity. 
 **Shared Theme**: XAI stresses the risk that AI can be exploited. That risk is laid out very clearly with Ransomware 3.0.
-**Complementarity**: XAI provides transparency. Security experts need to understand how these models work in order to improve their ability to detect and prevent future threats that are supported
+**Complementarity**: XAI provides transparency. Security experts need to understand how these models work in order to improve their ability to detect and prevent future threats that are supported by these models. 
+**Conflicting Outcomes**: A lot of XAI methods offer post-hoc explainability. Ransomware 3.0 is real-time orchestration. It can make payloads polymorphic, meaning it can create malware that adapts itself to detection techniques and interpretability. 
