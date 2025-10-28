@@ -192,4 +192,5 @@ We can expect AI to continue to evolve within the cybersecurity landscape. The k
 > What is more important? Transparency in detection methods or accuracy and security in detection methods? 
 - Can full transparency about how malware detectors operate inadvertently make them easier to evade?
 
-> As AI is more commonly used in software development, where does human agency fall for snr
+> As AI is more commonly used in software development, where does human agency fall for ensuring ethical command? 
+- Are we looking at a future where cyber conflicts are played out autonomously?
