@@ -1,6 +1,7 @@
 [Explainable Artificial Intelligence (XAI) for Malware Analysis: A Survey of Techniques, Applications, and Open Challenges](https://ieeexplore.ieee.org/abstract/document/10944807)
 [Ransomware 3.0: Self-Composing and LLM-Orchestrated](https://arxiv.org/html/2508.20444v1)
 # Explainable AI (XAI) For Malware Detection ML Models
+#Presentation_Part_1
 ## Introduction
 The focus of this presentation is the duality of AI usage in modern cybersecurity subfields, particularly in the early detection of malware. Machine learning approaches to identifying malware have shown high accuracy, but there is one very significant problem at hand: 
 
@@ -47,6 +48,8 @@ XAI is meant to be *accurate* in its ability to generalize on new data, in this 
 We should be able to derive *degree of importance*, meaning we should be able to learn how much weight a model assigns to a certain feature. 
 
 These aspects of XAI are proposed by IEEE to improve trust and hand the regulatory power over AI back to humans.
+
+#Presentation_Part_2
 ## Transparent vs. Opaque Machine Learning Models 
 **Transparent Machine Learning Models** are inherently explainable, typically not requiring post-hoc explainability techniques.
 **Opaque Machine Learning Models** are highly accurate but complex and difficult to explain. It is challenging for a human to understand the patterns that the model is predicting upon, or there are layers of computation being performed by the ML algorithm that are not intuitive. 

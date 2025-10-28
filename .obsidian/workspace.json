@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Presentation_Part_2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "598100de2ba30e51",
+  "active": "bb591b961291a489",
   "lastOpenFiles": [
     "Parallel Processing/106 Parallel Algorithms.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
