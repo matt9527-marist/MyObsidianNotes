@@ -157,11 +157,13 @@ The main idea that we can take away from this research is that while machine lea
 To further express the importance of this research, for the rest of this presentation, we would like to give the example of Ransomware 3.0.
 
 # Ransomware 3.0 - LLM Orchestrated Malware 
+## Introduction
 A separate article listed on Arxiv by researchers at NYU discuss the evolution of ransomware over time. 
 - Initial ransomware attacks going back to the well-known CryptoLocker, WannaCry, and Petya attacks utilized encryption schemes and gained access through phishing emails or vulnerability exploits. This is Ransomware 1.0.
 - Ransomware 2.0 saw a paradigm shift where attackers not only encrypted the victim's data but also threatened to publish the data unless the ransom was paid. This also saw the creation of Ransomware-as-a-service (RaaS) where groups of developers generated ransomware payloads and sold them to buyers. 
 - This brings us to **Ransomware 3.0**. We are in an age where software engineers are commonly consulting LLMs like ChatGPT in assisted IDE's like Cursor for writing code. How is this done?
 
+## Threat Actor Assumptions and Objectives
 Without going into too much detail, this second article assumes that an attacker has access to a target machine and is wanting to perform a ransomware attack. Instead of using RaaS, the attacker has outbound connectivity to an LLM service. They then proceed using prompts to have the LLM orchestrate the attack, including identifying sensitive data on the system to target and developing the payload. 
 **Jailbreaking** - LLMs are restricted by their creators. You cannot tell ChatGPT to build a encryption payload for you for use in a ransomware attack. Threat actors can make use of *jailbreaking prompts*. These are elaborate requests made to the LLM to circumvent safeguards and ignore policies. 
 
@@ -169,12 +171,13 @@ Without going into too much detail, this second article assumes that an attacker
 
 The article continues by describing an elaborate proof-of-concept ransomware construction pipeline that delegates all attack phases, including reconnaissance, encryption payload generation, and even ransom note creation to an LLM in real time.
 
+## Conclusion 
 From this summary of both research articles, we can see the dual-use nature of AI in cybersecurity. 
 **Shared Theme**: XAI stresses the risk that AI can be exploited. That risk is laid out very clearly with Ransomware 3.0.
 **Complementarity**: XAI provides transparency. Security experts need to understand how these models work in order to improve their ability to detect and prevent future threats that are supported by these models. 
 **Conflicting Outcomes**: A lot of XAI methods offer post-hoc explainability. Ransomware 3.0 is real-time orchestration. It can make payloads polymorphic, meaning it can create malware that adapts itself to detection techniques and interpretability. 
 
-We can expect AI to continue to evolve within the cybersecurity landscape. The key takeaway from this discussion 
+We can expect AI to continue to evolve within the cybersecurity landscape. The key takeaway from this discussion is that, as future software engineers or security experts, we need to closely watch how new AI models are being developed and emphasize the importance of transparency and safeguards. 
 
 > If we step outside of this topic as security analysts, what should the goal of future legislation be surrounding AI usage in cybersecurity? 
 
