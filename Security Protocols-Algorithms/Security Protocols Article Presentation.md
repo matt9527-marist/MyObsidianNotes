@@ -48,8 +48,6 @@ XAI is meant to be *accurate* in its ability to generalize on new data, in this 
 We should be able to derive *degree of importance*, meaning we should be able to learn how much weight a model assigns to a certain feature. 
 
 These aspects of XAI are proposed by IEEE to improve trust and hand the regulatory power over AI back to humans.
-
-#Presentation_Part_2
 ## Transparent vs. Opaque Machine Learning Models 
 **Transparent Machine Learning Models** are inherently explainable, typically not requiring post-hoc explainability techniques.
 **Opaque Machine Learning Models** are highly accurate but complex and difficult to explain. It is challenging for a human to understand the patterns that the model is predicting upon, or there are layers of computation being performed by the ML algorithm that are not intuitive. 
@@ -58,6 +56,7 @@ These aspects of XAI are proposed by IEEE to improve trust and hand the regulato
 
 There is no need to fully describe each of these models, but we will give an adequate breakdown of just two of the models for each of the two categories: transparent and opaque. 
 
+#Presentation_Part_2
 ### Transparent Models
 
 **Regression Models** - This includes linear and logistic regression. These models are inherently very explainable.
@@ -73,7 +72,6 @@ $$y = w_{1}x_{1} + w_{2}x_{2} + w_{3}x_{3} + \dots + w_{n}x_{n} + b$$
 Decision trees are composed of "branches" that stem from conditional `if-then` rules. Binary decision trees like the one shown above resemble how humans logically think through problems. 
 - The key is that the **structure is the model**. There is no hidden computation, just rules that when followed lead down to intermediate conditions or a prediction. 
 - Domain experts can follow the same decision-making process that the tree follows, leading them to the same conclusions as the model. 
-
 ### Opaque Models 
 **Random forests** - An ensemble of many decision trees whose predictions are averaged or chosen based on majority vote to determine the output conclusion. 
 ![[Pasted image 20251026183416.png]]
@@ -116,6 +114,7 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 	- Feature Relevance Explanations - methods used to measure feature importance (how much each feature/input contributes to a model's predictions), feature relevance, and how those features interact with each other (measured by the H-statistic). the entire SHAP family are examples of different feature relevance explanations (H-statistic - does changing one feature's value change the effect of another feature on the output?)
 	- Saliency Maps - gradient-based methods designed specifically for neural networks, most commonly used in image classification, that show which inputs (such as pixels in an image) had the greatest influence on the model’s prediction
 
+#Presentation_Part_3
 ## Explainable Malware Classification and Detection Approaches
 In the following section, the article summarizes several ways explainable AI can be applied to malware detections, organized by the type of target system. 
 For the sake of simplicity, we will only be detailing the processes used for Windows PE (portable executable files), since that is likely what is most familiar to the class. This also makes sense since Windows is the most widely used desktop OS. 
@@ -160,6 +159,7 @@ The main idea that we can take away from this research is that while machine lea
 
 To further express the importance of this research, for the rest of this presentation, we would like to give the example of Ransomware 3.0.
 
+#Presentation_Part_4
 # Ransomware 3.0 - LLM Orchestrated Malware 
 ## Introduction
 A separate article listed on Arxiv by researchers at NYU discuss the evolution of ransomware over time. 

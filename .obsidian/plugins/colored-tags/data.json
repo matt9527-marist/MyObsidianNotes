@@ -57,7 +57,9 @@
     "Boosting": 45,
     "Ensembles": 46,
     "Presentation_Part_1": 47,
-    "Presentation_Part_2": 48
+    "Presentation_Part_2": 48,
+    "Presentation_Part_3": 49,
+    "Presentation_Part_4": 50
   },
   "_version": 3
 }
