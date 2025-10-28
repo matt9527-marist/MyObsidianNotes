@@ -1527,6 +1527,7 @@ Concept
 Complementarity
 Conflicting
 Corner
+Compression
 Scikit
 Statistical
 Statistics
@@ -2286,6 +2287,7 @@ Techniques
 Trained
 Transparency
 Theme
+Tables
 ISLP
 Iris
 Instance
@@ -2918,6 +2920,7 @@ ahead
 agnostic
 agency
 autonomously
+addressing
 Applications
 AI
 Analysis
@@ -3177,6 +3180,8 @@ Actor
 Assumptions
 Additive
 Are
+Addressing
+Avoids
 with
 without
 want
@@ -3690,6 +3695,8 @@ Position
 Particle
 Petya
 Phase
+Presentation
+Part
 What
 We
 With
@@ -4704,6 +4711,7 @@ orchestrate
 offer
 orchestration
 optimizing
+occupied
 study
 simplified
 something
@@ -5226,6 +5234,8 @@ skip
 safely
 slightly
 statistic
+sparsity
+slot
 giving
 good
 generalizable
@@ -7020,6 +7030,7 @@ evade
 exponentially
 effect
 ethical
+excess
 programmed
 patterns
 program
@@ -7459,6 +7470,7 @@ polymorphic
 production
 polymorphism
 played
+probes
 Detecting
 Deepmind
 Dataset
@@ -8088,6 +8100,8 @@ reconnaissance
 reflect
 rewriting
 relevance
+ratio
+resolves
 model
 mostly
 machine
@@ -8409,6 +8423,7 @@ misdirection
 matching
 midpoint
 midpoints
+multiplier
 hypothesis
 handwritten
 have
@@ -8866,6 +8881,7 @@ Explanations
 Everyone
 Exploits
 Efficiently
+Entry
 using
 utility
 use
@@ -9997,6 +10013,7 @@ Operation
 Orchestrated
 Outcomes
 Optimizations
+Open
 kind
 know
 knowledge

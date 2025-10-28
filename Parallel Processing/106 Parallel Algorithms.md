@@ -250,4 +250,19 @@ little branching or conflict
 	• This lets you skip or safely check unfilled spots during neighbor search.
 
 ![[Pasted image 20251027203706.png]]
+**Optimizations**
+• Writing full area -> lots of buckets  
+• Writing edges -> fewer buckets  
+• Writing just corners or center -> minimal writes  
+• Reading from all needed spots -> gets neighbors without excess writing
+
+**Compact Hash Tables and Open Addressing**
+• Perfect hashes often contain unused space (sparsity)  
+• Compression ratio can be as low as 1.25× entries  
+• Hash load factor = entries / table size  
+• For size multiplier of 1.25 -> load factor = 0.8  
+• Typical load factor used ≈ 0.333 (i.e., 3× table size)  
+• Open addressing resolves collisions:  
+• Entry probes next available slot if original is occupied  
+• Avoids dynamic memory allocation -> ideal for GPU
 
