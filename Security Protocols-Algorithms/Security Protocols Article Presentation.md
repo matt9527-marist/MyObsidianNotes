@@ -188,4 +188,6 @@ We can expect AI to continue to evolve within the cybersecurity landscape. The k
 - The audience should surmise that malware rewriting itself at runtime breaks common static analysis patterns or signature-based detection. 
 - Machine learning detection coupled wit XAI on features extracted from dynamic analysis sees a great use case here. 
 
-> Should we favor transparenc
+> What is more important? Transparency in detection methods or accuracy and security in detection methods? 
+- Can full transparency about how malware detectors operate inadvertently make them easier to evade?
+

@@ -1174,6 +1174,8 @@ Gain
 Guestrin
 Granting
 Golden
+Gold
+GHz
 Charting
 Control
 Common
@@ -1877,6 +1879,8 @@ Scientific
 Search
 Selected
 Subdivide
+Skylake
+Simplicity
 Keras
 Key
 Kirchhoffs
@@ -8034,6 +8038,7 @@ ransom
 refinement
 rebuilt
 reconnaissance
+reflect
 model
 mostly
 machine

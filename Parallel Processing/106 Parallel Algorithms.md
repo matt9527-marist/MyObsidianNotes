@@ -213,3 +213,17 @@ covers
 	• Input: 1D arrays i, j, level for each cell
 ![[Pasted image 20251027201352.png]]
 
+**Hash Sort**
+![[Pasted image 20251027202341.png]]
+
+**Performance Summary**
+• No comparisons (unlike quicksort)  
+• Perfect hash due to spatial  
+knowledge (Δmin)  
+• Uses prefix sums (parallel-friendly  
+technique) during read phase  
+• Runs very efficiently on GPU with  
+little branching or conflict
+![[Pasted image 20251027202402.png]]
+
+
