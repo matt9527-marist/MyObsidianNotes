@@ -249,3 +249,5 @@ little branching or conflict
 	• Initialize all buckets to -1 to mean "empty".  
 	• This lets you skip or safely check unfilled spots during neighbor search.
 
+![[Pasted image 20251027203706.png]]
+
