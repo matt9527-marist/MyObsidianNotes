@@ -174,5 +174,7 @@ From this summary of both research articles, we can see the dual-use nature of A
 **Complementarity**: XAI provides transparency. Security experts need to understand how these models work in order to improve their ability to detect and prevent future threats that are supported by these models. 
 **Conflicting Outcomes**: A lot of XAI methods offer post-hoc explainability. Ransomware 3.0 is real-time orchestration. It can make payloads polymorphic, meaning it can create malware that adapts itself to detection techniques and interpretability. 
 
+We can expect AI to continue to evolve within the cybersecurity landscape. The key takeaway from this discussion 
+
 > If we step outside of this topic as security analysts, what should the goal of future legislation be surrounding AI usage in cybersecurity? 
 
