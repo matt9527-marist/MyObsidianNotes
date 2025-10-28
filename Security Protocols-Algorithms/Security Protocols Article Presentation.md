@@ -178,5 +178,8 @@ From this summary of both research articles, we can see the dual-use nature of A
 
 We can expect AI to continue to evolve within the cybersecurity landscape. The key takeaway from this discussion is that, as future software engineers or security experts, we need to closely watch how new AI models are being developed and emphasize the importance of transparency and safeguards. 
 
-> If we step outside of this topic as security analysts, what should the goal of future legislation be surrounding AI usage in cybersecurity? 
+##  Discussion Questions
 
+> If we step outside of this topic as security analysts, what should the goal of future legislation be surrounding AI usage in cybersecurity? 
+- If the audience says that AI as a whole should be restricted, stress that its evolution seems inevitable. It is already deeply embedded in our way of life. Is this really the solution?
+- 

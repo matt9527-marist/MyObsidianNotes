@@ -970,6 +970,9 @@ lets
 listing
 lookup
 locate
+laid
+landscape
+legislation
 Graphing
 Google
 Game
@@ -1518,6 +1521,8 @@ CLAMR
 CryptoLocker
 Cursor
 Concept
+Complementarity
+Conflicting
 Scikit
 Statistical
 Statistics
@@ -2018,6 +2023,7 @@ Kernels
 Kerberos
 KEY
 KernalSHAP
+Kirchhoff
 TensorFlow
 Task
 Training
@@ -2270,6 +2276,7 @@ TreeSHAP
 Techniques
 Trained
 Transparency
+Theme
 ISLP
 Iris
 Instance
@@ -3151,6 +3158,8 @@ AMR
 Arxiv
 Alternates
 Allocate
+Actor
+Assumptions
 with
 without
 want
@@ -3387,6 +3396,7 @@ whereas
 wants
 wil
 waste
+watch
 Python
 Performance
 Principle
@@ -4664,6 +4674,10 @@ owe
 obscure
 organizes
 omits
+outbound
+orchestrate
+offer
+orchestration
 study
 simplified
 something
@@ -5177,6 +5191,9 @@ schemes
 sold
 subdivisions
 subdivide
+safeguards
+summary
+stresses
 giving
 good
 generalizable
@@ -5967,6 +5984,12 @@ circumvention
 creation
 consulting
 covers
+connectivity
+creators
+circumvent
+concept
+continue
+closely
 the
 to
 training
@@ -6330,6 +6353,7 @@ trait
 technique
 trades
 threatened
+takeaway
 being
 be
 by
@@ -6945,6 +6969,10 @@ express
 emails
 exploits
 engineers
+elaborate
+exploited
+evolve
+emphasize
 programmed
 patterns
 program
@@ -7376,6 +7404,11 @@ paradigm
 publish
 paid
 payloads
+prompts
+payload
+policies
+phases
+polymorphic
 Detecting
 Deepmind
 Dataset
@@ -8000,6 +8033,7 @@ ransomware
 ransom
 refinement
 rebuilt
+reconnaissance
 model
 mostly
 machine
@@ -9386,6 +9420,8 @@ discretization
 dynamics
 deploy
 dimensional
+delegates
+discussion
 future
 from
 feed
@@ -9894,6 +9930,7 @@ Opaque
 Organized
 Operation
 Orchestrated
+Outcomes
 kind
 know
 knowledge
@@ -10578,6 +10615,7 @@ negotiate
 notable
 nearby
 ntop
+nature
 yes
 yield
 your
@@ -11834,6 +11872,7 @@ justifies
 job
 jumping
 joins
+jailbreaking
 Vectors
 Vectorization
 Visualization
@@ -12328,6 +12367,7 @@ Jxz
 Jvay
 Joint
 John
+Jailbreaking
 You
 Yw
 Ygy
