@@ -109,7 +109,7 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 		- Partial Dependence Plots 
 		- Individual Condition Expectation 
 - **Model Specific Explainability**: tailored to particular model architectures. 
-	- TreeSHAP and DeepSHAP - 
+	- TreeSHAP and DeepSHAP - Different approaches for optimizing SHAP calculation, one for tree-based methods and one for deep learning (neural network) models. 
 	- Feature Relevance Explanations - methods used to measure feature importance (how much each feature/input contributes to a model's predictions), feature relevance, and how those features interact with each other (measured by the H-statistic). the entire SHAP family are examples of different feature relevance explanations (H-statistic - does changing one feature's value change the effect of another feature on the output?)
 	- Saliency Maps - gradient-based methods designed specifically for neural networks, most commonly used in image classification, that show which inputs (such as pixels in an image) had the greatest influence on the model’s prediction
 
@@ -192,3 +192,4 @@ We can expect AI to continue to evolve within the cybersecurity landscape. The k
 > What is more important? Transparency in detection methods or accuracy and security in detection methods? 
 - Can full transparency about how malware detectors operate inadvertently make them easier to evade?
 
+> As AI is more commonly used in software development, where does human agency fall for snr
