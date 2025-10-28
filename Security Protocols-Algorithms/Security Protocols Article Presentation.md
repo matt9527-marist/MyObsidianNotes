@@ -170,7 +170,6 @@ Without going into too much detail, this second article assumes that an attacker
 ![[Pasted image 20251027195645.png]]![[Pasted image 20251027195719.png]]
 
 The article continues by describing an elaborate proof-of-concept ransomware construction pipeline that delegates all attack phases, including reconnaissance, encryption payload generation, and even ransom note creation to an LLM in real time.
-
 ## Conclusion 
 From this summary of both research articles, we can see the dual-use nature of AI in cybersecurity. 
 **Shared Theme**: XAI stresses the risk that AI can be exploited. That risk is laid out very clearly with Ransomware 3.0.

@@ -249,6 +249,7 @@ MalConv
 Minimal
 Mitigate
 Molecular
+Move
 Learning
 Learn
 Let
@@ -1516,6 +1517,7 @@ Coarser
 CLAMR
 CryptoLocker
 Cursor
+Concept
 Scikit
 Statistical
 Statistics
@@ -1867,6 +1869,9 @@ Simulations
 Smoothed
 SPH
 Scientific
+Search
+Selected
+Subdivide
 Keras
 Key
 Kirchhoffs
@@ -2494,6 +2499,7 @@ Individual
 Image
 Improve
 IDE
+Ignores
 and
 ability
 approximation
@@ -3143,6 +3149,8 @@ Analyze
 Automate
 AMR
 Arxiv
+Alternates
+Allocate
 with
 without
 want
@@ -3652,6 +3660,7 @@ Perfect
 Position
 Particle
 Petya
+Phase
 What
 We
 With
@@ -5166,6 +5175,8 @@ sorting
 supports
 schemes
 sold
+subdivisions
+subdivide
 giving
 good
 generalizable
@@ -5423,6 +5434,7 @@ grouped
 grayscale
 grids
 gained
+graded
 computers
 computer
 can
@@ -5954,6 +5966,7 @@ construct
 circumvention
 creation
 consulting
+covers
 the
 to
 training
@@ -7985,6 +7998,8 @@ requirement
 retrieves
 ransomware
 ransom
+refinement
+rebuilt
 model
 mostly
 machine
@@ -8303,6 +8318,7 @@ matches
 min
 mergesort
 misdirection
+matching
 hypothesis
 handwritten
 have
@@ -8534,6 +8550,7 @@ habit
 hybrid
 hoc
 heatmap
+hierarchical
 Execution
 Examples
 Economics
@@ -8758,6 +8775,7 @@ Expectation
 Explanations
 Everyone
 Exploits
+Efficiently
 using
 utility
 use
@@ -9367,6 +9385,7 @@ differential
 discretization
 dynamics
 deploy
+dimensional
 future
 from
 feed
@@ -9652,6 +9671,7 @@ focusing
 fronts
 finer
 flexibility
+finest
 Optimziation
 Operations
 Once
@@ -11283,6 +11303,9 @@ qcachegrind
 quite
 quantifiable
 quicksort
+quadtree
+quadrants
+quadrant
 Unsupervised
 UNION
 User
@@ -12738,6 +12761,7 @@ QebL
 QUEST
 Query
 Quickly
+Quadtree
 ZgjY
 Zy
 Zky

@@ -198,3 +198,18 @@ covers
 		• Read from hash to get neighbor cell
 ![[Pasted image 20251027194915.png]]
 
+**Method Comparison**
+![[Pasted image 20251027201257.png]]
+
+**2D neighbor calculation with various algorithms**
+• Test Setup  
+	• GPU: NVIDIA V100  
+	• CPU: Skylake Gold 5118 @ 2.30 GHz  
+	• Results reflect Best(2018) architecture  
+• Scalability  
+	• Parallel speedup achievable on CPUs with 24 virtual cores  
+• Code Simplicity  
+	• CPU implementation of spatial hash table ≈ 12 lines of code  
+	• Input: 1D arrays i, j, level for each cell
+![[Pasted image 20251027201352.png]]
+
