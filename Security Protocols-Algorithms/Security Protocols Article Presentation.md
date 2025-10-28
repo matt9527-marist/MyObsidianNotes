@@ -40,6 +40,7 @@ This is brings us to the issue at hand: the reasons for why AI outputs something
 ![[Pasted image 20251020190944.png]]
 
 > How can we trust systems that we cannot explain? 
+> (Parallel to Kirchhoff's Principle)
 
 Explainable AI (XAI) is suggested by the article as one method by which we can obtain clear justifications from a model on why it makes certain predictions. 
 XAI is meant to be *accurate* in its ability to generalize on new data, in this case, new malware or unseen programs. We should be able to assign a degree of *fidelity* depending on how the model justifies its prediction. Predictions and explanations for predictions should be *consistent*. 
