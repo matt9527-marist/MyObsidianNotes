@@ -226,4 +226,26 @@ technique) during read phase
 little branching or conflict
 ![[Pasted image 20251027202402.png]]
 
+**Problem with Basic Perfect Hashing:**
+• In an AMR mesh, some cells are very coarse (big), some are very fine  
+(small).  
+• A coarse cell might cover 64 hash buckets, while a fine cell covers just 1.  
+• That means:  
+	• More memory used  
+	• Slower writes  
+	• Load imbalance in parallel (some threads do more work than others)
+
+**Key Optimizations Introduced**
+• Skip interior writes:  
+	• Only the edges or boundaries of a cell are used for neighbor finding.  
+	• So, don’t waste time writing the whole area of the cell to the hash table.  
+• Corner/midpoint writes only:  
+	• Even better: only write the corners or midpoints of the cell to the hash table.  
+	• Neighbor queries only need those spots.  
+• Compact hash = fewer writes:  
+	• Write only one value per cell into the hash table.  
+	• When looking for neighbors, read multiple locations instead.  
+• Use a sentinel value (like -1):  
+	• Initialize all buckets to -1 to mean "empty".  
+	• This lets you skip or safely check unfilled spots during neighbor search.
 

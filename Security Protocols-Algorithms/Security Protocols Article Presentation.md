@@ -102,7 +102,7 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 	- **Global Explanation**: Look at all instances instead of individual predictions. This lets us determine which features are relevant on a systemic level. 
 		- Use *surrogate models*. These models approximate the decision-making process of an opaque model by training an interpretable alternative (decision tree or linear model). Adds explainability by allowing us to pinpoint how important a given feature is in determining malware (API calls or file metadata for example). However, is limited because they are just approximations/replications of the full opaque model. 
 	- **Local Explanation**: Focus on one particular instance instead of the overall model behavior. Lets us look at anomalies. There are two primarily used implementations:
-		- LIME
+		- LIME - (Local Interpretable Model-Agnostic Explanations) explains why a ML model made a specific prediction by using a smaller, surrogate model and slightly changing the input data that caused the prediction and observing how the prediction changes. 
 		- KernalSHAP
 	- **Visual Explanation**: Produce visual representations of models that make them accessible and comprehensible. Convey model patterns using graphs or plots. 
 		- Partial Dependence Plots 
