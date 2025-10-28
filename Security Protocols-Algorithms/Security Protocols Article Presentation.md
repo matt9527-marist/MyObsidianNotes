@@ -182,4 +182,5 @@ We can expect AI to continue to evolve within the cybersecurity landscape. The k
 
 > If we step outside of this topic as security analysts, what should the goal of future legislation be surrounding AI usage in cybersecurity? 
 - If the audience says that AI as a whole should be restricted, stress that its evolution seems inevitable. It is already deeply embedded in our way of life. Is this really the solution?
-- 
+- AI model production should have explainability enforced and there should be benchmarks in place that allow security analysts to test the performance of malware detection models using AI, in order to stay ahead of threat actors who are trying to do the opposite. 
+
