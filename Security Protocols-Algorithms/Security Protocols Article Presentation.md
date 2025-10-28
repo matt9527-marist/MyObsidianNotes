@@ -185,4 +185,7 @@ We can expect AI to continue to evolve within the cybersecurity landscape. The k
 - AI model production should have explainability enforced and there should be benchmarks in place that allow security analysts to test the performance of malware detection models using AI, in order to stay ahead of threat actors who are trying to do the opposite. 
 
 > Why is AI-driven polymorphism a particularly worrying issue for malware detection? 
-- The audience should surmise that malware w
+- The audience should surmise that malware rewriting itself at runtime breaks common static analysis patterns or signature-based detection. 
+- Machine learning detection coupled wit XAI on features extracted from dynamic analysis sees a great use case here. 
+
+> Should we favor transparenc
