@@ -103,14 +103,15 @@ These are methods that allow us to interpret opaque, complex ML models' predicti
 		- Use *surrogate models*. These models approximate the decision-making process of an opaque model by training an interpretable alternative (decision tree or linear model). Adds explainability by allowing us to pinpoint how important a given feature is in determining malware (API calls or file metadata for example). However, is limited because they are just approximations/replications of the full opaque model. 
 	- **Local Explanation**: Focus on one particular instance instead of the overall model behavior. Lets us look at anomalies. There are two primarily used implementations:
 		- LIME - (Local Interpretable Model-Agnostic Explanations) explains why a ML model made a specific prediction by using a smaller, surrogate model and slightly changing the input data that caused the prediction and observing how the prediction changes. 
-		- KernalSHAP
+		- KernalSHAP - model-agnostic, very computationally demanding (takes an exponentially long time to calculate SHAP values). 
+			- Shapley Additive Explanations (SHAP) is a unified framework for interpreting machine learning models. It provides a way to understand the contributions of each input feature to the model’s predictions.
 	- **Visual Explanation**: Produce visual representations of models that make them accessible and comprehensible. Convey model patterns using graphs or plots. 
 		- Partial Dependence Plots 
 		- Individual Condition Expectation 
 - **Model Specific Explainability**: tailored to particular model architectures. 
-	- TreeSHAP and DeepSHAP
-	- Feature Relevance Explanations
-	- Saliency Maps
+	- TreeSHAP and DeepSHAP - 
+	- Feature Relevance Explanations - methods used to measure feature importance (how much each feature/input contributes to a model's predictions), feature relevance, and how those features interact with each other (measured by the H-statistic). the entire SHAP family are examples of different feature relevance explanations (H-statistic - does changing one feature's value change the effect of another feature on the output?)
+	- Saliency Maps - gradient-based methods designed specifically for neural networks, most commonly used in image classification, that show which inputs (such as pixels in an image) had the greatest influence on the model’s prediction
 
 ## Explainable Malware Classification and Detection Approaches
 In the following section, the article summarizes several ways explainable AI can be applied to malware detections, organized by the type of target system. 
