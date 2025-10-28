@@ -193,4 +193,4 @@ We can expect AI to continue to evolve within the cybersecurity landscape. The k
 - Can full transparency about how malware detectors operate inadvertently make them easier to evade?
 
 > As AI is more commonly used in software development, where does human agency fall for ensuring ethical command? 
-- Are we looking at a future where cyber conflicts are played out autonomously?
+- Are we looking at a future where cyber conflicts are played out autonomously? Is there a way to make sure humans maintain control?
