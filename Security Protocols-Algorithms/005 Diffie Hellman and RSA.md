@@ -130,5 +130,9 @@ RSA(p, q, e):
 
 **Overview of Diffie Hellman**
 ![[Pasted image 20251029155741.png]]
-Using the above structure, Alice can keep `a` secret, and Bob can keep `b` secret, but can create a shared key. Bob is able to share some information about `b` using `B`, and Alice is able to share some information about `a` using `B`, by using their secret number 
+Using the above structure, Alice can keep `a` secret, and Bob can keep `b` secret, but can create a shared key. Bob is able to share some information about `b` using `B`, and Alice is able to share some information about `a` using `B`, by using their secret number `p`.
+- How is this powerful with encryption? This allows us to establish a shared *symmetric* key by using the Law of Products of Exponentiation. 
+- In this, Alice and Bob are able to calculate a shared secret number, with which they can encrypt and decrypt communications. 
+
+
 
