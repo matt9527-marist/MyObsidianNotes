@@ -90,7 +90,7 @@ For `d` we can try to find all of the multiples for `e`.
 - 1, 2, 3, 4, 5
 - 5, 10, 15, 20, 25
 	- Then take mod(6) for each of the above numbers and find where this evaluates to 1. 
-	- There is more than one answer for `d`.
+	- There is more than one answer for `d`. Usually, we want to take the largest `d` we can find. However, this does make math harder. 
 
 `Private Key = (d, N)`
 `Public Key = (e, N)`
