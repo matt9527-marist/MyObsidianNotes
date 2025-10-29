@@ -125,6 +125,9 @@ RSA(p, q, e):
 	D = ciphertext^d (mod N)
 ```
 
+**PKI Solution**
+![[Pasted image 20251029155707.png]]
+
 **Overview of Diffie Hellman**
 ![[Pasted image 20251029155741.png]]
 Using the above structure, Alice can keep `a` secret, and Bob can keep `b` secret, but can create a shared key. Bob is able to share some information about `b` using `B`, and Alice is able to share some information about `a` using `B`, by using their secret number `p`.
@@ -141,6 +144,6 @@ Suppose we had a bad actor Eve, who is able to capture data "in the middle" of t
 Eve can then create her own public and secret keys, discarding the original keys coming in from one of the parties. Eve can then pose as the opposite party when sending her new forged keys back over the channel. 
 In this method, Eve then has shared secret keys with both Alice and Bob, but Alice and Bob think that it is only between them. 
 
-**PKI - Asymmetric Cryptographic Solution**
-![[Pasted image 20251029155707.png]]
-With this scenario, 
+
+
+
