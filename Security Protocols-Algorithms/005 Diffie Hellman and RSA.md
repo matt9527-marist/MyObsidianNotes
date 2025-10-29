@@ -109,3 +109,10 @@ Let's decrypt a given ciphertext `"D"`
 This would be `4^11 mod(14)` = `4,194,304 mod(14) = 2`, so therefore `D = 2`, encoding to `"b"`
 
 We can do all of the above in Excel using MOD() and POWER() functions. 
+
+```python 
+RSA(p, q, e):
+	# p and q are very big numbers 
+	N = p * q; 
+	TotientN = (1-p) * (1-q)
+```
