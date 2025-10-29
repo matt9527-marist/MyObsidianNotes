@@ -68,4 +68,11 @@ message and send it to Bob
 ![[Pasted image 20251022163312.png]]
 
 ## RSA Algorithm 
+Takes advantage of the fact that computers are very bad at factoring large prime numbers. 
 ![[Pasted image 20251029151058.png]]
+`Private Key = (d, N)`
+`Public Key = (e, N)`
+
+E = `plaintext^e (mod n)`
+D = `ciphertext^d (mod n)`
+
