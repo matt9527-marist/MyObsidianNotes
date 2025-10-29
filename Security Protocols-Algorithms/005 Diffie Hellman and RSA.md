@@ -130,9 +130,5 @@ RSA(p, q, e):
 
 **Overview of Diffie Hellman**
 ![[Pasted image 20251029155741.png]]
-
-
-
-
-
+Using the above structure, Alice can keep `a` secret, and Bob can keep `b` secret, but can create a shared key. Bob is able to share some information about `b` using `B`, and Alice is able to share some information about `a` using `B`, by using their secret number 
 
