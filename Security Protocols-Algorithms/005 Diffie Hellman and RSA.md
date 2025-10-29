@@ -67,3 +67,5 @@ message and send it to Bob
 4. Bob uses his secret key to decrypt the message
 ![[Pasted image 20251022163312.png]]
 
+## RSA Algorithm 
+![[Pasted image 20251029151058.png]]
