@@ -141,6 +141,6 @@ The modulus utilized by Diffie Hellman increases very quickly and very drastical
 **MITM Attacks on Diffie Hellman**
 ![[Pasted image 20251029160415.png]]
 Suppose we had a bad actor Eve, who is able to capture data "in the middle" of the communication. Bob wants to send ciphertext to Alice. Eve will collect that ciphertext, and send to Alice a different ciphertext instead. 
-
-
+Eve can then create her own public and secret keys, discarding the original keys coming in from one of the parties. Eve can then pose as the opposite party when sending her new forged keys back over the channel. 
+In this method, Eve can for the fut
 
