@@ -84,7 +84,9 @@ Calculate the `Totient(N)` as `T`
 Select `5` as the GCD of both 6 and 5 is 1. 
 
 Next goal is to find `d` such that:
-$$d * e $$
+$$e * d \mod{T} = 1$$
+$$5 * d \mod{6} = 1$$
+For `d` we 
 
 `Private Key = (d, N)`
 `Public Key = (e, N)`
