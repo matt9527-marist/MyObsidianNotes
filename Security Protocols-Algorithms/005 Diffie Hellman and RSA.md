@@ -74,7 +74,13 @@ Takes advantage of the fact that computers are very bad at factoring large prime
 `p = 2` and `q = 7`
 We want to generate `e`, `d`, and `N`
 `N = p * q` = `N = 14`
+Calculate the `Totient(N)` as `T`
+`T = (p -1) * (q-1)` = `6`
 
+`e` can be selected, but it has to meet two characteristics:
+1) Be within the vector space of 1 ... Totient (1-6 in our example)
+2) Must have a GCD between the totient and itself of 1. 
+`e = 1, 2, 3, 4, 5, 6?`
 
 `Private Key = (d, N)`
 `Public Key = (e, N)`
