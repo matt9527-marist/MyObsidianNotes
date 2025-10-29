@@ -70,6 +70,12 @@ message and send it to Bob
 ## RSA Algorithm 
 Takes advantage of the fact that computers are very bad at factoring large prime numbers. 
 ![[Pasted image 20251029151058.png]]
+`p` and `q` are typically very large prime numbers. For simplicity, we will use:
+`p = 2` and `q = 7`
+We want to generate `e`, `d`, and `N`
+`N = p * q` = `N = 14`
+
+
 `Private Key = (d, N)`
 `Public Key = (e, N)`
 
