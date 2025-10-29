@@ -134,5 +134,11 @@ Using the above structure, Alice can keep `a` secret, and Bob can keep `b` secre
 - How is this powerful with encryption? This allows us to establish a shared *symmetric* key by using the Law of Products of Exponentiation. 
 - In this, Alice and Bob are able to calculate a shared secret number, with which they can encrypt and decrypt communications. 
 
+**Modulus Key Size Problem**
+![[Pasted image 20251029160308.png]]
+The modulus utilized by Diffie Hellman increases very quickly and very drastically with higher key size. If we wanted to use 256-bit AES, the modulus will be very large. 
 
+**MITM Attacks on Diffie Hellman**
+![[Pasted image 20251029160415.png]]
+Suppose we had a bad actor Eve
 
