@@ -91,7 +91,9 @@ For `d` we can try to find all of the multiples for `e`.
 - 5, 10, 15, 20, 25
 	- Then take mod(6) for each of the above numbers and find where this evaluates to 1. 
 	- There is more than one answer for `d`. Usually, we want to take the largest `d` we can find. However, this does make math harder. 
-- Let's assume we continued up to 45, 50, 55. `55 mod(6) = 1`. We can say: ``
+- Let's assume we continued up to 45, 50, 55. `55 mod(6) = 1`. We can say:
+	- `Private Key = (11, 14)`
+	- `Public Key = (5, 14)`
 
 `Private Key = (d, N)`
 `Public Key = (e, N)`
@@ -99,3 +101,5 @@ For `d` we can try to find all of the multiples for `e`.
 E = `plaintext^e (mod n)`
 D = `ciphertext^d (mod n)`
 
+Let's encrypt a given plaintext: `"b" -> 2`
+This would be `2^(5) mod(14)` = `32 mod(14) = 2`
