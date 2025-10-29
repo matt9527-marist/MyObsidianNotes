@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 Diffie Hellman and RSA"
+              "title": "Security Protocols Article Presentation"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "dd7bbbb12b3a0368",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Parallel Processing/105 Stencil With Materials.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
@@ -188,7 +189,6 @@
     "Assets/Pasted image 20251027194915.png",
     "Assets/Pasted image 20251027194835.png",
     "Assets/Pasted image 20251027194800.png",
-    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
