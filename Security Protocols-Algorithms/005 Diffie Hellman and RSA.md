@@ -140,5 +140,7 @@ The modulus utilized by Diffie Hellman increases very quickly and very drastical
 
 **MITM Attacks on Diffie Hellman**
 ![[Pasted image 20251029160415.png]]
-Suppose we had a bad actor Eve
+Suppose we had a bad actor Eve, who is able to capture data "in the middle" of the communication. Bob wants to send ciphertext to Alice. Eve will collect that ciphertext, and send to Alice a different ciphertext instead. 
+
+
 
