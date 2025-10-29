@@ -119,11 +119,19 @@ RSA(p, q, e):
 	e * d mod(TotientN) = 1
 	
 	Private_Key = (d, N)
-	Public Key = (e, N)
+	Public_Key = (e, N)
 	
-	E = `plaintext^e (mod n)`
-	D = `ciphertext^d (mod n)`
+	E = plaintext^e (mod N)
+	D = ciphertext^d (mod N)
 ```
+
+**PKI Solution**
+![[Pasted image 20251029155707.png]]
+
+**Overview of Diffie Hellman**
+![[Pasted image 20251029155741.png]]
+
+
 
 
 
