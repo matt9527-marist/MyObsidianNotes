@@ -115,4 +115,16 @@ RSA(p, q, e):
 	# p and q are very big numbers 
 	N = p * q; 
 	TotientN = (1-p) * (1-q)
+	e = {1 ... TotientN} where GCD(e) == 1
+	e * d mod(TotientN) = 1
+	
+	Private_Key = (d, N)
+	Public Key = (e, N)
+	
+	E = `plaintext^e (mod n)`
+	D = `ciphertext^d (mod n)`
 ```
+
+
+
+
