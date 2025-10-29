@@ -101,5 +101,6 @@ For `d` we can try to find all of the multiples for `e`.
 E = `plaintext^e (mod n)`
 D = `ciphertext^d (mod n)`
 
+Define an encoding scheme of "A" = 1, "B" = 2, "C" = 3...
 Let's encrypt a given plaintext: `"b" -> 2`
-This would be `2^(5) mod(14)` = `32 mod(14) = 2`
+This would be `2^(5) mod(14)` = `32 mod(14) = 4`, so therefore `E = 4`, encoding to 
