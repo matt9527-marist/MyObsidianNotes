@@ -80,7 +80,11 @@ Calculate the `Totient(N)` as `T`
 `e` can be selected, but it has to meet two characteristics:
 1) Be within the vector space of 1 ... Totient (1-6 in our example)
 2) Must have a GCD between the totient and itself of 1. 
-`e = 1, 2, 3, 4, 5, 6?`
+`e = 1, 2, 3, 4, 5, 6?` (really cannot be 6). 
+Select `5` as the GCD of both 6 and 5 is 1. 
+
+Next goal is to find `d` such that:
+$$d * e $$
 
 `Private Key = (d, N)`
 `Public Key = (e, N)`
