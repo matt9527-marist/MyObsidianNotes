@@ -88,7 +88,7 @@ $$e * d \mod{T} = 1$$
 $$5 * d \mod{6} = 1$$
 For `d` we can try to find all of the multiples for `e`. 
 - 1, 2, 3, 4, 5
-- 6, 7, 8, 9, 10, 11
+- 
 
 `Private Key = (d, N)`
 `Public Key = (e, N)`
