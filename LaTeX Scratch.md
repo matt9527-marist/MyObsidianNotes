@@ -1,1 +1,1 @@
-$$\text{Flops per iteration} = 5 * \alpha (2002 - 2)(2002 -2) = $$
+$$\text{Flops per iteration} = 5 * \alpha (2002 - 2)(2002 -2) = 4,000,000$$
