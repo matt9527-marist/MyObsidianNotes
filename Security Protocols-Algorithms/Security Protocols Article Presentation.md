@@ -131,7 +131,7 @@ Windows .exe file format is base on "Common Object File Format" (COFF) specifica
 - Section header divides the executable into segments, each comprising blocks of memory. This organizes the executable for more efficient execution. 
 Despite Windows being so popular, limited research has been conducted on applying explainable machine learning frameworks to malware detection on Windows. 
 An **opaque** model that we can look at is *MalConv*, an architecture that detects malware that takes as input the entire executable for a convolutional neural network (CNN). A CNN works by applying multiple layers of mathematical transformations to data. For MalConv, the data is not an image, as we might have seen CNNs more commonly used for, but instead a sequence of raw bytes from a given executable. 
-- Convolutional layers detect small, local patterns
+- Convolutional layers detect small, local patterns from the input.
 - Pooling layers compress the information, keeping the most important features and reducing noise. In this case, max pooling is used. 
 - Fully connected layers combine all information learned to make a final decision. 
 CNNs are a kind of "black box" model because humans cannot easily track how a pattern emerges as "important" within the model.
