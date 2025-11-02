@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Attacks on Block Ciphers"
-            }
-          },
-          {
-            "id": "a28046e527f197f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX Scratch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTeX Scratch"
+              "title": "Security Protocols Article Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,11 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a28046e527f197f2",
+  "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
-    "LaTeX Scratch.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "LaTeX Scratch.md",
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Assets/Pasted image 20251027194800.png",
     "Assets/Pasted image 20251027194735.png",
     "Assets/Pasted image 20251027193712.png",
