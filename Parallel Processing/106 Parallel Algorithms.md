@@ -307,3 +307,5 @@ Options:
 • C1-C2 share a vertical face  
 • C1-C3 share a horizontal face
 ![[Pasted image 20251103183803.png]]
+![[Pasted image 20251103183812.png]]
+
