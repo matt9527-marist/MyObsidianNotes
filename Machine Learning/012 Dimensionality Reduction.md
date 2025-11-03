@@ -82,3 +82,5 @@ For a given square matrix, there are certain instrinsic characteristics of the m
 - This needs to be solvable in this way:
 $$(A - \lambda \mathbf{I}) * e = 0$$
 $$\det(A-\lambda \mathbf{I}) = 0$$
+These properties are intrinsic/proper to the matrix, and thy are called *eigenvalues* and *eigenvectors*, which represent the number of derived solutions from the equation above. (`lambda`, `e`)
+The eigenvectors corresponding to distinct eigenvalues of a square matrix are *orthogonal*
