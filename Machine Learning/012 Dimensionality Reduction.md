@@ -27,4 +27,8 @@ This indicates that we are operating within an extremely sparse space. We cannot
 ![[Pasted image 20251103163616.png]]
 How do we go from an initial dataset X to a dataset P, where the number of dimensions is `k` and is as much as possible `k < m`, a reduced number of predictors. 
 
-One approach: 
+One approach: Think about it in terms of photography. If we want to take a picture of an object, say a teapot, from what angle can we take a 2D image of the teapot to capture the full variation of the data? 
+
+Suppose we have a 2D dataset:
+
+
