@@ -57,4 +57,12 @@ Recall: the square root of covariance is the standard deviation `s`.
 $$= \frac{1}{m-1}\sum^{m}_{i=1}z^{[i]}_{j} * z^{[i]}_{k}$$
 $$R = \frac{1}{m-1}z^Tz$$
 Recall: the dot product.
-Important note: the covariance matrix is a square matrix. It is a positive definite matrix. This means that it is a special kind of square matrix that has a special property to consider kat
+Important note: the covariance matrix is a square matrix. It is a positive definite matrix. This means it is special kind of square matrix with specific properties that will be relevant. 
+It is also a symmetric matrix. 
+
+The correlation matrix `R`:
+$$R = \begin{bmatrix}
+1 && r_{1,2} \\
+r_{2,1} && 1
+\end{bmatrix}$$
+Along the principle diagonal, 
