@@ -65,4 +65,6 @@ $$R = \begin{bmatrix}
 1 && r_{1,2} \\
 r_{2,1} && 1
 \end{bmatrix}$$
-Along the principle diagonal, 
+Along the principle diagonal, the value is 1 because the correlation coefficient of a value with itself is always 1. 
+
+**Brief Detour (Linear Algebra)**
