@@ -54,4 +54,7 @@ Let us relate the correlation coefficient to the covariance:
 $$r_{jk} = \frac{cov(x_{j},x_{k})}{s_{j} s_{k}}$$
 $$= \frac{1}{m-1}\sum^{m}_{i=1}\frac{x^{[i]}_{j} - \bar{x_{j}}}{s_{j}}\frac{x^{[i]}_{k} - \bar{x_{k}}}{s_{k}}$$
 Recall: the square root of covariance is the standard deviation `s`.
-$$= \frac{1}{m-1}\sum^{m}_{i=1}$$
+$$= \frac{1}{m-1}\sum^{m}_{i=1}z^{[i]}_{j} * z^{[i]}_{k}$$
+$$R = \frac{1}{m-1}z^Tz$$
+Recall: the dot product.
+Important note: the covariance matrix is a square matrix. It is a positive definite matrix. This means that it is a special kind of square matrix that has a special property to consider kat
