@@ -92,4 +92,8 @@ If C is (m x m), we will extract m eigenvalues and eigenvectors.
 Suppose we have X that is (n x m). We convert this to standard deviations (n x m) using the averages of the observations. We then convert this into PC (n x m) by doing PCA. 
 
 `Z (n x m) features`
-$$\lambda_{1}$$
+We have eigenvalues:
+$$\lambda_{1}, \lambda_{2}, \dots \lambda _{m}$$
+and eigenvectors:
+$$\bar{e}_{1}, \bar{e}_{2}, \dots \bar{e}_{m}$$
+(see notes)
