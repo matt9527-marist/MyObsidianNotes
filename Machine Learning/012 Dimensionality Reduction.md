@@ -31,4 +31,6 @@ One approach: Think about it in terms of photography. If we want to take a pictu
 
 Suppose we have a 2D dataset:
 
+We notice that the points lie on a specific axis. We can define `PC1` and `PC2`, which are linear combinations of `x1` and `x2`. 
+We have gone from our original feature space (x1, x2) 2D space into principle component feature space. In this way, we can just choose to keep `PC1`. It represents 80-90% of the variation of the data.
 
