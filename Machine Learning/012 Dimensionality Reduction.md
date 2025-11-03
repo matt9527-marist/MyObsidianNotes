@@ -76,3 +76,8 @@ What would happen if we are in a special situation:
 ![[Pasted image 20251103172614.png]]
 We start with a vector `v1` and we multiply it by a a value `lambda` that does not change the angle but increases its magnitude for `v2`.
 $$v_{2} = \lambda v_{1} = A * v_{1}$$
+$$A * v_{1} = \lambda * v_{1}$$
+For a given square matrix, there are certain instrinsic characteristics of the matrix itself that give way to this:
+- The matrix A has a collection of pairs `lambda` and `e` such that: $$Ae = \lambda e$$
+- This needs to be solvable in this way:
+$$(A - \lambda )$$
