@@ -20,4 +20,7 @@ For 2 dimensions, for example:
 $$d_{2D}=\sqrt{ \frac{2}{6} } = 0.52$$
 What happens if we are working within a space of one million dimensions? 
 $$d_{10^6D} = \sqrt{ \frac{10^6}{6} } = 408.25$$
-This indicates that we are operating within an extremely sparse space. We cannot work in such a space because the chances that we will be able to come up with a 
+This indicates that we are operating within an extremely sparse space. We cannot work in such a space because the chances that we will be able to come up with a good estimate or find data in it is very difficult. 
+
+## Principle Component Analysis
+#PCA
