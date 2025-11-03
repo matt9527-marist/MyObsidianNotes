@@ -24,3 +24,7 @@ This indicates that we are operating within an extremely sparse space. We cannot
 
 ## Principle Component Analysis
 #PCA
+![[Pasted image 20251103163616.png]]
+How do we go from an initial dataset X to a dataset P, where the number of dimensions is `k` and is as much as possible `k < m`, a reduced number of predictors. 
+
+One approach: 
