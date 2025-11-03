@@ -184,4 +184,7 @@ Key Insight: Do not compute the derivative of the tree itself, just the gradient
 ## Stacked Ensembles 
 #stackedensembles 
 Suppose the following: (these are probalistic classifiers)
-[see notes]
+![[Pasted image 20251103155011.png]]
+![[Pasted image 20251103155023.png]]
+There is the risk of *data leakage* - filtering information from the training set into the test set
+- This is what can happen if we use the same
