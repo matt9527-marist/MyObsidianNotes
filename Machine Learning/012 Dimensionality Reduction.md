@@ -107,3 +107,5 @@ r_{2,1} && 1
 The process of eigen decomposition will *diagonalize* `R`. 
 Also important to remember:
 $$\sum var(z) = \sum var(PC) = \sum \lambda_{j} = m$$
+and remember:
+$$\%var(PC_{j}) = \frac{\lambda_{j}}{\sum \lambda_{j}} = \frac{\lambda_{j}}{m}$$
