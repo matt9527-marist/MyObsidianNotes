@@ -265,4 +265,17 @@ little branching or conflict
 • Open addressing resolves collisions:  
 • Entry probes next available slot if original is occupied  
 • Avoids dynamic memory allocation -> ideal for GPU
+![[Pasted image 20251103183453.png]]
 
+**Probing Strategies and Performance Tradeoffs**
+• Probing options for open addressing:  
+	• *Linear probing*: Try next bucket in order  
+	• *Quadratic probing*: Use +1, +4, +9... offsets  
+	• *Double hashing*: Use second hash for jumps  
+• Quadratic probing favored: better cache usage  
+• On read: stored key is compared to read key  
+• Optimizations affect:  
+	• Read/write count per cache line  
+	• Conditional logic and cache performance
+
+![[Pasted image 20251103183558.png]]
