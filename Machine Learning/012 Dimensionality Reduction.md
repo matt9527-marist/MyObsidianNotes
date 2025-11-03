@@ -52,5 +52,6 @@ cov(x_{2},x_{1}) && S^2_{2}
 This is more familiar to the *correlation coefficient*, a value between -1 and 1 that is measuring the linear relationship between two variables. 
 Let us relate the correlation coefficient to the covariance:
 $$r_{jk} = \frac{cov(x_{j},x_{k})}{s_{j} s_{k}}$$
-$$= \frac{1}{m-1}\sum^{m}_{i=1}x$$
+$$= \frac{1}{m-1}\sum^{m}_{i=1}\frac{x^{[i]}_{j} - \bar{x_{j}}}{s_{j}}\frac{x^{[i]}_{k} - \bar{x_{k}}}{s_{k}}$$
 Recall: the square root of covariance is the standard deviation `s`.
+$$= \frac{1}{m-1}\sum^{m}_{i=1}$$
