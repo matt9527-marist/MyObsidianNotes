@@ -68,3 +68,8 @@ r_{2,1} && 1
 Along the principle diagonal, the value is 1 because the correlation coefficient of a value with itself is always 1. 
 
 **Brief Detour (Linear Algebra)**
+![[Pasted image 20251103172500.png]]
+![[Pasted image 20251103172353.png]]
+Given a vector `v1`:
+v2 = A * v1 
+What would happen if we are in a special situation: 
