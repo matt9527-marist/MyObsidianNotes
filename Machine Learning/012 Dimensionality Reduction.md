@@ -86,4 +86,6 @@ These properties are intrinsic/proper to the matrix, and thy are called *eigenva
 The eigenvectors corresponding to distinct eigenvalues of a square matrix are *orthogonal*, meaning we can use them to produce that earlier dimensionality reduction. 
 
 From a square matrix C, we can extract the eigenvalues `lambda` and eigenvectors `e`. 
-If C is (m x m), we will extrat m eigenvalues a
+If C is (m x m), we will extract m eigenvalues and eigenvectors. 
+
+Suppose we have X that is (n x m). 
