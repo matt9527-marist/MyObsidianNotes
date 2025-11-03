@@ -7,5 +7,5 @@ This creates a number of issues:
 ![[Pasted image 20251103162500.png]]
 - Suppose we wanted to compute the average distance between random points that uniformly distributed between 0 and 1. 
 - This is computing the expectation $$E[d^2]$$
-- Suppose we have two points A and B: $$E[(b-a)^2]$$
-- 
+- Suppose we have two points A and B: $$E[(b-a)^2]$$$$E[x] = \int xf(x)dx$$where f(x) is the density function:
+$$f(x) = \frac{1}{x_{2}-x_{1}}$$
