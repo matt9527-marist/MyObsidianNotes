@@ -194,3 +194,5 @@ There is the risk of *data leakage* - filtering information from the training se
 3) Use the previous outputs in the next stage. 
 4) We may optionally use datasets A+B to retrain stage 1. 
 5) By doing this, we have designated dataset C as our testing data on which to make predictions. In this way, we have separated the training and the testing data. 
+
+We can also do cross-validation. Instead of working on more than one dataset, we can cross-validate on the data we already have. The implementation in SkLearn already does this. 
