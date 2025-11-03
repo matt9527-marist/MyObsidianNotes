@@ -11,4 +11,10 @@ This creates a number of issues:
 $$f(x) = \frac{1}{x_{2}-x_{1}}$$
 Recall this works similarly to the product of probabilities of independent events. 
 $$f(a,b) = f(a) * f(b) = 1 * 1 = 1$$
-$$E[d^2] = E[(b-a)^2] = \int^{1}_{a}\int^{1}_{b}(a-b)^2f(a,b)dadb$$
+$$E[d^2] = E[(b-a)^2] = \int^{1}_{a}\int^{1}_{b}(a-b)^2[f(a,b)=1]dadb$$
+$$= \frac{1}{6}$$
+This means that the distance squared in 1D between two uniformly distributed random points is equal to 1/6. If we have n dimensions, we have `n * 1/6`.
+The distance in n dimensions is given by:
+$$d_{nD} = \sqrt{\frac{n}{6}}$$
+For 2 dimensions, for example:
+$$d_{2D}$$
