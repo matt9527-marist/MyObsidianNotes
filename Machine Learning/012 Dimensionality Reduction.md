@@ -112,4 +112,6 @@ $$\%var(PC_{j}) = \frac{\lambda_{j}}{\sum \lambda_{j}} = \frac{\lambda_{j}}{m}$$
 As shown below:
 ![[Pasted image 20251103175057.png]]
 ![[Pasted image 20251103175131.png]]
-
+All of this analysis is *linear*. If there is nonlinear variance, we cannot capture it, but it is still extremely useful to reduce dimensionality. 
+*How many axes are needed?*
+Just depends on how much of the variance that we want to explain. Ifw
