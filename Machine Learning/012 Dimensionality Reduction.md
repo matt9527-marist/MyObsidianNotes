@@ -41,4 +41,5 @@ The variance:
 $$S^2_{j} = \frac{1}{m-1}\sum^{m}_{i=1}(x^{[i]}_{j} - \bar{x}_{j})^2$$
 Compute the difference squared, added over all the observations, divided by `m-1`
 
-The covariance:
+The covariance: $$cov(x_{j}x_{k}) = \frac{1}{m-1}\sum^{}_{}(x^{[j]}_{j}-\bar{x}_{j})(x^{[i]}_{k}-\bar{x_{k}})$$
+How much variance there is along a specific variable when it changes. 
