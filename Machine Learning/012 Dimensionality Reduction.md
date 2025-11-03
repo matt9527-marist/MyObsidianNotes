@@ -73,3 +73,6 @@ Along the principle diagonal, the value is 1 because the correlation coefficient
 Given a vector `v1`:
 v2 = A * v1 
 What would happen if we are in a special situation: 
+![[Pasted image 20251103172614.png]]
+We start with a vector `v1` and we multiply it by a a value `lambda` that does not change the angle but increases its magnitude for `v2`.
+$$v_{2} = \lambda v_{1} = A * v_{1}$$
