@@ -37,9 +37,16 @@ We have gone from our original feature space (x1, x2) 2D space into principle co
 *PCA = Eigen Decomposition*
 
 **Brief Detour (Statistics)**
+Suppose we have `xj ... xj`, `xk ... xn`
 The variance:
 $$S^2_{j} = \frac{1}{m-1}\sum^{m}_{i=1}(x^{[i]}_{j} - \bar{x}_{j})^2$$
 Compute the difference squared, added over all the observations, divided by `m-1`
 
-The covariance: $$cov(x_{j}x_{k}) = \frac{1}{m-1}\sum^{}_{}(x^{[j]}_{j}-\bar{x}_{j})(x^{[i]}_{k}-\bar{x_{k}})$$
+The *covariance*: $$cov(x_{j}x_{k}) = \frac{1}{m-1}\sum^{}_{}(x^{[j]}_{j}-\bar{x}_{j})(x^{[i]}_{k}-\bar{x_{k}})$$
 How much variance there is along a specific variable when it changes. 
+We can place this into a matrix:
+$$C = \begin{bmatrix}
+S^2_{1} && cov(x_{1},x_{2}) \\
+cov(x_{2},x_{1}) && S^2_{2}
+\end{bmatrix}$$
+This is more familiar to the *correlation coeffici*
