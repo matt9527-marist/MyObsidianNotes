@@ -181,3 +181,7 @@ Key Insight: Do not compute the derivative of the tree itself, just the gradient
 
 [ml_dt_methods_for_classification.ipynb](https://gist.github.com/eitellauria/fba50741c08985a74ab1650051d85447)
 
+## Stacked Ensembles 
+#stackedensembles 
+Suppose the following: 
+[see notes]
