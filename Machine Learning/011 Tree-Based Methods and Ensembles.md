@@ -193,4 +193,4 @@ There is the risk of *data leakage* - filtering information from the training se
 2) Given the 3 trained models, we use the second dataset B to produce predictions and probabilities of predictions 
 3) Use the previous outputs in the next stage. 
 4) We may optionally use datasets A+B to retrain stage 1. 
-5) By doing this, we have designated dataset C as our t
+5) By doing this, we have designated dataset C as our testing data on which to make predictions. In this way, we have separated the training and the testing data. 
