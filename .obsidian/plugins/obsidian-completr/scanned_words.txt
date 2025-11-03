@@ -253,6 +253,7 @@ Move
 MOD
 Modulus
 MITM
+MyObsidianNotes
 Learning
 Learn
 Let
