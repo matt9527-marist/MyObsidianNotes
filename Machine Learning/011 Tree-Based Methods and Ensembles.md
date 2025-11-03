@@ -190,4 +190,7 @@ There is the risk of *data leakage* - filtering information from the training se
 - This is what can happen if we use the same data between stages 
 - If we have enough data, create n+1 datasets for n stages. In a case with 2 stages, we will have datasets A, B, C. 
 1) With the dataset A, we train 3 (k) trained models. 
-2) Given the 3 trained models, we use the second dataset B.
+2) Given the 3 trained models, we use the second dataset B to produce predictions and probabilities of predictions 
+3) Use the previous outputs in the next stage. 
+4) We may optionally use datasets A+B to retrain stage 1. 
+5) By doing this, we have designated dataset C as our t
