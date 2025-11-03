@@ -9,3 +9,6 @@ This creates a number of issues:
 - This is computing the expectation $$E[d^2]$$
 - Suppose we have two points A and B: $$E[(b-a)^2]$$$$E[x] = \int xf(x)dx$$where f(x) is the density function:
 $$f(x) = \frac{1}{x_{2}-x_{1}}$$
+Recall this works similarly to the product of probabilities of independent events. 
+$$f(a,b) = f(a) * f(b) = 1 * 1 = 1$$
+$$E[d^2] = E[(b-a)^2] = \int^{1}_{a}\int^{1}_{b}(a-b)^2f(a,b)dadb$$
