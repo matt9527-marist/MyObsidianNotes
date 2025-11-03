@@ -2,5 +2,6 @@ A big issue that we typically have in machine learning is when we are dealing wi
 
 This creates a number of issues:
 - Why are we concerned about having too many dimensions?
-	- Not only the number of observations that are required to come up with good estimates may not be sufficiently
-	- 
+	- Not only the number of observations that are required to come up with good estimates may not be sufficient 
+	- High dimensional space is particularly *sparse*. Take a line with points on it. When you increase the dimension to 2D, the points will spread out more. In 3D, it will be even worse. 
+- Suppose we wanted to compute the average distance between random points that uniformly distributed between 0 and 1. 
