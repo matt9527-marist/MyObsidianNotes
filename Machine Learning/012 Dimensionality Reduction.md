@@ -97,3 +97,5 @@ $$\lambda_{1}, \lambda_{2}, \dots \lambda _{m}$$
 and eigenvectors:
 $$\bar{e}_{1}, \bar{e}_{2}, \dots \bar{e}_{m}$$
 (see notes)
+(see notes)
+The process of eigen decomposition will *diagonalize* `R`. 
