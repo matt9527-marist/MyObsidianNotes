@@ -187,4 +187,7 @@ Suppose the following: (these are probalistic classifiers)
 ![[Pasted image 20251103155011.png]]
 ![[Pasted image 20251103155023.png]]
 There is the risk of *data leakage* - filtering information from the training set into the test set
-- This is what can happen if we use the same
+- This is what can happen if we use the same data between stages 
+- If we have enough data, create n+1 datasets for n stages. In a case with 2 stages, we will have datasets A, B, C. 
+1) With the dataset A, we train 3 (k) trained models. 
+2) Given the 3 trained models, we use the second dataset B.
