@@ -279,3 +279,31 @@ little branching or conflict
 	• Conditional logic and cache performance
 
 ![[Pasted image 20251103183558.png]]
+Compact hash matches or outperforms perfect hash with > 30× sparsity  
+-> Higher benefit in parallel GPU code with less thread divergence
+
+**Hash-Based Face Neighbor Finding (Unstructured Mesh)**
+**Challenge – Finding Face Connectivity in  
+Unstructured Meshes**
+![[Pasted image 20251103183632.png]]
+Problem: Find the connectivity map for each polygon face. 
+Options:
+	• Brute force face search -> too slow for large meshes  
+	• k-D tree is faster, but hashing is even faster  
+	• Face center -> mapped to a hash bucket
+**Hash-Based Face Neighbor Finding**
+• Place a dot at the center of each face  
+• Map each dot to a hash bucket  
+• Each cell writes:  
+	• To bin 1 if face is left and up from center  
+	• To bin 2 if face is right and down  
+• Each face checks the opposite bin:  
+	• If filled -> it's a neighbor cell  
+	• If empty -> it's an external face  
+• Result: Fast face neighbor detection with 1 write + 1 read per face
+
+**Constructing the Hash Table Example**
+• Hash-Based Face Neighbor Finding – Setup  
+• C1-C2 share a vertical face  
+• C1-C3 share a horizontal face
+![[Pasted image 20251103183803.png]]
