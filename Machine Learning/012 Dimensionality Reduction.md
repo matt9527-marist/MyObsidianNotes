@@ -4,4 +4,8 @@ This creates a number of issues:
 - Why are we concerned about having too many dimensions?
 	- Not only the number of observations that are required to come up with good estimates may not be sufficient 
 	- High dimensional space is particularly *sparse*. Take a line with points on it. When you increase the dimension to 2D, the points will spread out more. In 3D, it will be even worse. 
+![[Pasted image 20251103162500.png]]
 - Suppose we wanted to compute the average distance between random points that uniformly distributed between 0 and 1. 
+- This is computing the expectation $$E[d^2]$$
+- Suppose we have two points A and B: $$E[(b-a)^2]$$
+- 
