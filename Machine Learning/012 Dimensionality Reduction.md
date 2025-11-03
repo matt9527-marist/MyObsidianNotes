@@ -30,7 +30,7 @@ How do we go from an initial dataset X to a dataset P, where the number of dimen
 One approach: Think about it in terms of photography. If we want to take a picture of an object, say a teapot, from what angle can we take a 2D image of the teapot to capture the full variation of the data? 
 
 Suppose we have a 2D dataset:
-
+(see notes)
 We notice that the points lie on a specific axis. We can define `PC1` and `PC2`, which are linear combinations of `x1` and `x2`. 
 We have gone from our original feature space (x1, x2) 2D space into principle component feature space. In this way, we can just choose to keep `PC1`. It represents 80-90% of the variation of the data. Keep in mind that no one uses PCA with just 2 variables. 
 
@@ -83,4 +83,7 @@ For a given square matrix, there are certain instrinsic characteristics of the m
 $$(A - \lambda \mathbf{I}) * e = 0$$
 $$\det(A-\lambda \mathbf{I}) = 0$$
 These properties are intrinsic/proper to the matrix, and thy are called *eigenvalues* and *eigenvectors*, which represent the number of derived solutions from the equation above. (`lambda`, `e`)
-The eigenvectors corresponding to distinct eigenvalues of a square matrix are *orthogonal*
+The eigenvectors corresponding to distinct eigenvalues of a square matrix are *orthogonal*, meaning we can use them to produce that earlier dimensionality reduction. 
+
+From a square matrix C, we can extract the eigenvalues `lambda` and eigenvectors `e`. 
+If C is (m x m), we will extrat m eigenvalues a
