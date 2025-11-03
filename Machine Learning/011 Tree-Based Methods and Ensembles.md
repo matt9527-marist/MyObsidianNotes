@@ -183,5 +183,5 @@ Key Insight: Do not compute the derivative of the tree itself, just the gradient
 
 ## Stacked Ensembles 
 #stackedensembles 
-Suppose the following: 
+Suppose the following: (these are probalistic classifiers)
 [see notes]
