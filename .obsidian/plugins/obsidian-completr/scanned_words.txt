@@ -250,6 +250,9 @@ Minimal
 Mitigate
 Molecular
 Move
+MOD
+Modulus
+MITM
 Learning
 Learn
 Let
@@ -683,6 +686,7 @@ Replaces
 Rules
 RaaS
 Runs
+RSA
 libraries
 learn
 learning
@@ -974,6 +978,7 @@ locate
 laid
 landscape
 legislation
+largest
 Graphing
 Google
 Game
@@ -1177,6 +1182,7 @@ Granting
 Golden
 Gold
 GHz
+GCD
 Charting
 Control
 Common
@@ -2288,6 +2294,8 @@ Trained
 Transparency
 Theme
 Tables
+Takes
+Totient
 ISLP
 Iris
 Instance
@@ -3421,6 +3429,7 @@ waste
 watch
 worrying
 wit
+wanted
 Python
 Performance
 Principle
@@ -3697,6 +3706,8 @@ Petya
 Phase
 Presentation
 Part
+POWER
+Products
 What
 We
 With
@@ -5236,6 +5247,7 @@ slightly
 statistic
 sparsity
 slot
+selected
 giving
 good
 generalizable
@@ -6402,6 +6414,7 @@ technique
 trades
 threatened
 takeaway
+totient
 being
 be
 by
@@ -7030,6 +7043,8 @@ exponentially
 effect
 ethical
 excess
+evaluates
+establish
 programmed
 patterns
 program
@@ -7470,6 +7485,8 @@ production
 polymorphism
 played
 probes
+prime
+pose
 Detecting
 Deepmind
 Dataset
@@ -7741,6 +7758,7 @@ DLLs
 DREBIN
 Detectors
 Discussion
+Diffie
 regularities
 respect
 recognizing
@@ -8423,6 +8441,10 @@ matching
 midpoint
 midpoints
 multiplier
+meet
+multiples
+mod
+modulus
 hypothesis
 handwritten
 have
@@ -8881,6 +8903,8 @@ Everyone
 Exploits
 Efficiently
 Entry
+Excel
+Exponentiation
 using
 utility
 use
@@ -9499,6 +9523,8 @@ discussion
 deeply
 detectors
 demanding
+drastically
+discarding
 future
 from
 feed
@@ -9788,6 +9814,8 @@ finest
 friendly
 fewer
 fall
+fact
+factoring
 Optimziation
 Operations
 Once
@@ -11057,6 +11085,7 @@ Hoc
 Hashes
 Hashing
 Hydrodynamics
+Hellman
 Not
 NOTHING
 No
