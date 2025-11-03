@@ -97,5 +97,13 @@ $$\lambda_{1}, \lambda_{2}, \dots \lambda _{m}$$
 and eigenvectors:
 $$\bar{e}_{1}, \bar{e}_{2}, \dots \bar{e}_{m}$$
 (see notes)
-(see notes)
+$$R = \begin{bmatrix}
+1 && r_{1,2} \\
+r_{2,1} && 1
+\end{bmatrix} \rightarrow \begin{bmatrix}
+\lambda_{1} && 0  \\
+0 && \lambda_{2}
+\end{bmatrix}$$
 The process of eigen decomposition will *diagonalize* `R`. 
+Also important to remember:
+$$\sum var(z) = \sum var(PC) = \sum \lambda_{j} = m$$
