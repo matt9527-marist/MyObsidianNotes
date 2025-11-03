@@ -49,4 +49,5 @@ $$C = \begin{bmatrix}
 S^2_{1} && cov(x_{1},x_{2}) \\
 cov(x_{2},x_{1}) && S^2_{2}
 \end{bmatrix}$$
-This is more familiar to the *correlation coeffici*
+This is more familiar to the *correlation coefficient*, a value between -1 and 1 that is measuring the linear relationship between two variables. 
+Let us relate the correlation coefficient to the covariance:
