@@ -88,4 +88,8 @@ The eigenvectors corresponding to distinct eigenvalues of a square matrix are *o
 From a square matrix C, we can extract the eigenvalues `lambda` and eigenvectors `e`. 
 If C is (m x m), we will extract m eigenvalues and eigenvectors. 
 
-Suppose we have X that is (n x m). 
+*Example*
+Suppose we have X that is (n x m). We convert this to standard deviations (n x m) using the averages of the observations. We then convert this into PC (n x m) by doing PCA. 
+
+`Z (n x m) features`
+$$\lambda_{1}$$
