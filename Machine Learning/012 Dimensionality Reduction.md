@@ -109,3 +109,7 @@ Also important to remember:
 $$\sum var(z) = \sum var(PC) = \sum \lambda_{j} = m$$
 and remember:
 $$\%var(PC_{j}) = \frac{\lambda_{j}}{\sum \lambda_{j}} = \frac{\lambda_{j}}{m}$$
+As shown below:
+![[Pasted image 20251103175057.png]]
+![[Pasted image 20251103175131.png]]
+
