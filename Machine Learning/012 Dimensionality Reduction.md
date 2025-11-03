@@ -36,4 +36,9 @@ We have gone from our original feature space (x1, x2) 2D space into principle co
 
 *PCA = Eigen Decomposition*
 
+**Brief Detour (Statistics)**
+The variance:
+$$S^2_{j} = \frac{1}{m-1}\sum^{m}_{i=1}(x^{[i]}_{j} - \bar{x}_{j})^2$$
+Compute the difference squared, added over all the observations, divided by `m-1`
 
+The covariance:
