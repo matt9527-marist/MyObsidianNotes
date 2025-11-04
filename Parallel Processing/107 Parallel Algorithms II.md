@@ -261,3 +261,21 @@ int main()
 	}  
 }
 ```
+
+**Quad Precision Summation**  
+• Uses float128, typically software-based  
+• Most accurate, but very slow and non-portable
+```c++
+#include <quadmath.h> // required for __float128 and conversion  
+int main()  
+{  
+	double do_qdsum(const double* var, int ncells) {  
+	__float128 qdsum = 0.0Q; // Initialize quad-precision sum  
+	for (int i = 0; i < ncells; I++) {  
+		qdsum += static_cast<__float128>(var[i]); // Promote to __float128 before adding  
+	}  
+return static_cast<double>(qdsum); // Return as double  
+}
+```
+
+![[Pasted image 20251103200344.png]]

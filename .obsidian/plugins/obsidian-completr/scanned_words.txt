@@ -269,6 +269,7 @@ MBe
 Meshes
 Map
 Minimizes
+Minimum
 Learning
 Learn
 Let
@@ -9232,6 +9233,7 @@ EykS
 EuU
 Exclusive
 Ends
+Exact
 using
 utility
 use
@@ -10180,6 +10182,7 @@ faI
 fsf
 favored
 face
+faces
 Optimziation
 Operations
 Once
@@ -11521,6 +11524,7 @@ Hxg
 HII
 HNM
 HHL
+Handle
 Not
 NOTHING
 No
