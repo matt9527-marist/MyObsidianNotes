@@ -106,5 +106,59 @@ int main() {
 }
 ```
 ![[Pasted image 20251103195207.png]]
-Instead of showing us 0.000000000000000001, but other di
+Instead of showing us 0.000000000000000001, but other digits are visible. 
 
+**Precision Loss in Parallel Global Sum**
+• Example result: only a few significant digits remain  
+• Extra digits = noise from finite-precision errors  
+• Parallel sum changes the addition order:  
+	• Each processor sums a portion -> then combines  
+• Order change -> different result from the serial sum  
+• Affects reproducibility and accuracy  
+• Root Cause:  
+	• Reduction pattern in parallel sums  
+	• Enhanced by vectorization, threads, and modern hardware  
+• Key Concern:  
+	• Is the parallelization mathematically sound if results change?
+
+**Reduction & the Global Sum Issue**
+• A reduction operation reduces an array to fewer dimensions, often to a scalar.  
+• Common in Parallel Computing:  
+	• Example: total mass or energy -> sum of global array  
+	• Reduction affects both performance and correctness  
+• Global Sum Issue:  
+	• Serial result: always the same, but slightly inexact  
+	• Parallel result: often more accurate, but not identical to serial  
+	• Caused by different addition order in parallel
+
+**Reduction & the Global Sum Issue**
+• Hidden Errors:  
+	• Differences are not always due to arithmetic  
+	• Often from parallel bugs, e.g., outdated ghost cells not synced between  
+processors  
+• Takeaway:  
+	• Always verify correctness — inexact ≠ incorrect, but inconsistency may  
+	signal a bug
+
+**Leblanc Problem Overview**
+• High-pressure & low-pressure regions separated by a diaphragm  
+• Strong shock -> large dynamic range in variables  
+• Energy values:  
+	• High:  1.0 × 10 −1  
+	• Low:  1.0 × 10 −10
+	• Dynamic range: 9 orders of magnitude  
+• Numerical Challenge:  
+	• Double-precision -> ~16 significant digits  
+	• Adding low to high -> ~7 useful digits remain  
+• Order of addition matters:  
+	• High -> Low: small values contribute little  
+	• Low -> High: small values add up accurately first  
+
+**Illustration**
+• Problem size: 134,217,728 values  
+	• Half high, half low  
+	• Summing low first improves accuracy  
+• Possible Solution:  
+	• Sort values: smallest -> largest before summing -> More accurate result  
+• Note:  
+	• Other techniques exist that are more efficient than sorting
