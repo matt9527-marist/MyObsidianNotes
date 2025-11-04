@@ -725,6 +725,8 @@ RZZ
 Reuses
 Reordering
 Remaining
+Raspberry
+Requirements
 libraries
 learn
 learning
@@ -1026,6 +1028,8 @@ lnOHX
 lkhC
 lnp
 leaving
+latest
+lags
 Graphing
 Google
 Game
@@ -1244,6 +1248,7 @@ GQe
 GAF
 Gaa
 GuD
+Graviton
 Charting
 Control
 Common
@@ -1613,6 +1618,8 @@ Cancellation
 Cause
 Concern
 Caused
+Conversion
+Compile
 Scikit
 Statistical
 Statistics
@@ -1987,6 +1994,10 @@ Significant
 Summing
 Slight
 Slightly
+SVE
+Scalable
+Specifying
+Sets
 Keras
 Key
 Kirchhoffs
@@ -2410,6 +2421,8 @@ TqC
 Tdfb
 Try
 Tracks
+Terminology
+Trends
 ISLP
 Iris
 Instance
@@ -3072,6 +3085,7 @@ aggregation
 adjusted
 associativity
 accumulator
+advanced
 Applications
 AI
 Analysis
@@ -3340,6 +3354,11 @@ APQQ
 Azh
 ANd
 Accurate
+AVX
+AMD
+ARM
+Amazon
+Ask
 with
 without
 want
@@ -4436,6 +4455,7 @@ iiiB
 inclusive
 inexact
 inconsistency
+involves
 Field
 For
 Find
@@ -4669,6 +4689,8 @@ Face
 Fig
 Fewer
 Finite
+Fujitsu
+Found
 of
 or
 optimize
@@ -4953,6 +4975,7 @@ oYYul
 offsets
 outperforms
 outdated
+older
 study
 simplified
 something
@@ -5491,6 +5514,7 @@ subtracting
 synced
 signal
 shock
+smartphones
 giving
 good
 generalizable
@@ -5760,6 +5784,7 @@ gvBk
 gjb
 gma
 ghost
+gaming
 computers
 computer
 can
@@ -6318,6 +6343,7 @@ cancellation
 cancel
 contribute
 correction
+chips
 the
 to
 training
@@ -6689,6 +6715,7 @@ tQn
 tPA
 thx
 tGa
+tablets
 being
 be
 by
@@ -7342,6 +7369,7 @@ ebB
 eEt
 eee
 excludes
+emit
 programmed
 patterns
 program
@@ -8460,6 +8488,7 @@ rrb
 rcL
 reproducibility
 rounding
+registers
 model
 mostly
 machine
@@ -8796,6 +8825,7 @@ mBP
 mdK
 mLqWY
 mathematically
+multimedia
 hypothesis
 handwritten
 have
@@ -9038,6 +9068,7 @@ hFb
 hIo
 hWE
 hip
+hence
 Execution
 Examples
 Economics
@@ -9281,6 +9312,8 @@ Ends
 Exact
 Enhanced
 Errors
+Extensions
+Extension
 using
 utility
 use
@@ -10471,6 +10504,8 @@ ONIy
 OCK
 Options
 Occurs
+Older
+Old
 kind
 know
 knowledge
@@ -10877,6 +10912,7 @@ vQW
 vaD
 vZG
 vertical
+versions
 numerical
 no
 need
@@ -11183,6 +11219,7 @@ nCUa
 nTtz
 ntU
 nmE
+necessary
 yes
 yield
 your
@@ -11374,6 +11411,7 @@ ySj
 yIH
 ywj
 yem
+year
 How
 Hinge
 Header
@@ -11777,6 +11815,7 @@ NXN
 NqF
 NXpS
 NbR
+NEON
 quality
 question
 quickly
@@ -11963,6 +12002,7 @@ qdf
 qteh
 qGp
 qpTS
+queue
 Unsupervised
 UNION
 User
@@ -12387,6 +12427,7 @@ Brute
 Builds
 Begins
 Bound
+Bit
 just
 jagged
 json

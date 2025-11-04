@@ -71,5 +71,7 @@ A64FX, Amazon Graviton3).
 	• Use AVX-512 -> 512-bit (modern Intel chips)  
 	• Ask the compiler to emit multiple versions and pick at runtime  
 • Takeaway  
-• Explicitly set compiler flags to target the most advanced instruction set your hardware  
-supports
+	• Explicitly set compiler flags to target the most advanced instruction set your hardware  
+	supports
+
+## Hardware Trends for Vectorization 
