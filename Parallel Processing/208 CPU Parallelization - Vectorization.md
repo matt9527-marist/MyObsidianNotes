@@ -139,3 +139,22 @@ standard C/C++/Fortran source code
 • Check compiler reports to confirm vectorization  
 • Auto-vectorization is the recommended starting point for SIMD — just write clean  
 loops and let the compiler do the rest!
+
+**STREAM Triad Loop - Auto-vectorized for performance**
+![[Pasted image 20251103203034.png]]
+
+**Optimizing Vector Width in GCC**
+• GCC 8.2 defaults to 256-bit vectors on Skylake  
+	• Use flag -mprefer-vector-width=512 to force 512-bit AVX512  
+• Before flag:  
+	• 256B ops: 640M, 512B ops: 0  
+• After flag:  
+	• 256B ops: 0, 512B ops: 320M  
+• Example:  
+	• Function with stream triad loop is auto-vectorized when compiled properly.
+
+Verify with *Likwid*
+• likwid-perfctr -C 0 -f -g MEM_DP ./stream_triad  
+• Key output:  
+	• 256B vector ops: 640,000,000  
+	• 512B vector ops: 0
