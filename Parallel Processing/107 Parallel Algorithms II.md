@@ -189,15 +189,15 @@ return static_cast<double>(ldsum); // return as double
 #include <vector>  
 #include <cmath>  
 double do_pair_sum(const double* var, int ncells) {  
-if (ncells % 2 != 0 || ncells == 0) {  
-throw std::invalid_argument("Array size must be a non-zero even number.");  
-}  
-std::vector<double> pwsum(ncells / 2);  
-Int nmax = ncells / 2;  
+	if (ncells % 2 != 0 || ncells == 0) {  
+		throw std::invalid_argument("Array size must be a non-zero even number.");  
+	}  
+	std::vector<double> pwsum(ncells / 2);  
+	Int nmax = ncells / 2;  
 // Initial pairwise summation  
-for (int i = 0; i < nmax; i++) {  
-pwsum[i] = var[i * 2] + var[i * 2 + 1];  
-}  
+	for (int i = 0; i < nmax; i++) {  
+		pwsum[i] = var[i * 2] + var[i * 2 + 1];  
+	}  
 // Recursive pairwise reduction  
 	while (nmax > 1) {  
 		for (int i = 0; i < nmax / 2; ++i) {  
@@ -206,5 +206,58 @@ pwsum[i] = var[i * 2] + var[i * 2 + 1];
 		nmax /= 2;  
 	}  
 	return pwsum[0];  
+}
+```
+
+**Kahan Summation**  
+• Tracks small errors with a correction variable  
+• Practical, low-cost on modern CPUs  
+• Good for running summation
+
+```c++
+double do_kahan_sum(const double* var, int ncells) {  
+	struct ErrorSum {  
+		double sum = 0.0;  
+		double correction = 0.0; // Tracks small error terms  
+	};  
+	ErrorSum local;  
+	for (int i = 0; i < ncells; ++i) {  
+	double corrected_next_term = var[i] + local.correction;  
+	double new_sum = local.sum + corrected_next_term;  
+	// Compensation  
+	local.correction = corrected_next_term - (new_sum - local.sum); 
+	local.sum = new_sum;  
+	}  
+	return local.sum;  
+}
+```
+
+**Knuth Summation**  
+• More general than Kahan (either value may be larger)  
+• Tracks and combines multiple errors  
+• Slightly higher cost (~7 FLOPs)
+
+```c++
+#include <iostream>  
+#include <cstddef> // for std::size_t  
+int main()  
+	{  
+	double do_knuth_sum(const double* var, std::size_t ncells) {  
+	struct ErrorSum {  
+		double sum = 0.0;  
+		double correction = 0.0;  
+	};  
+	ErrorSum local;  
+	for (int i = 0; i < ncells; ++i) {  
+		double u = local.sum;  
+		double v = var[i] + local.correction;  
+		double upt = u + v;  
+		double up = upt - v;  
+		double vpp = upt - up;  
+		local.sum = upt;  
+		local.correction = (u - up) + (v - vpp); // Capture remaining error  
+	}  
+	return local.sum + local.correction;  
+	}  
 }
 ```
