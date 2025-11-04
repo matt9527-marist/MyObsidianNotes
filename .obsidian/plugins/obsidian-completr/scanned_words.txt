@@ -493,6 +493,9 @@ Lqq
 LEE
 LQA
 Limitation
+Larger
+Leblanc
+Long
 Relevant
 Reading
 Research
@@ -720,6 +723,8 @@ Runs
 RSA
 RZZ
 Reuses
+Reordering
+Remaining
 libraries
 learn
 learning
@@ -1020,6 +1025,7 @@ lhK
 lnOHX
 lkhC
 lnp
+leaving
 Graphing
 Google
 Game
@@ -1602,6 +1608,11 @@ CRD
 CWp
 Connectivity
 Constructing
+Catastrophic
+Cancellation
+Cause
+Concern
+Caused
 Scikit
 Statistical
 Statistics
@@ -1971,6 +1982,11 @@ Svbb
 SCM
 SkC
 Scan
+Subtracting
+Significant
+Summing
+Slight
+Slightly
 Keras
 Key
 Kirchhoffs
@@ -2128,6 +2144,8 @@ Kll
 KLL
 KEEf
 KWoBI
+Kahan
+Knuth
 TensorFlow
 Task
 Training
@@ -2391,6 +2409,7 @@ TKs
 TqC
 Tdfb
 Try
+Tracks
 ISLP
 Iris
 Instance
@@ -2635,6 +2654,8 @@ INN
 IPx
 IUI
 Inclusive
+Issue
+Illustration
 and
 ability
 approximation
@@ -3049,6 +3070,8 @@ afo
 active
 aggregation
 adjusted
+associativity
+accumulator
 Applications
 AI
 Analysis
@@ -3316,6 +3339,7 @@ AqVL
 APQQ
 Azh
 ANd
+Accurate
 with
 without
 want
@@ -3565,6 +3589,7 @@ wmb
 wQrz
 wXHs
 wle
+worsen
 Python
 Performance
 Principle
@@ -3859,6 +3884,8 @@ Pkj
 Prefix
 Performed
 Prepares
+Pairwise
+Practical
 What
 We
 With
@@ -4407,6 +4434,8 @@ iyV
 iQON
 iiiB
 inclusive
+inexact
+inconsistency
 Field
 For
 Find
@@ -4639,6 +4668,7 @@ FcL
 Face
 Fig
 Fewer
+Finite
 of
 or
 optimize
@@ -4922,6 +4952,7 @@ ofyZ
 oYYul
 offsets
 outperforms
+outdated
 study
 simplified
 something
@@ -5456,6 +5487,10 @@ sfh
 scan
 sweep
 setting
+subtracting
+synced
+signal
+shock
 giving
 good
 generalizable
@@ -5724,6 +5759,7 @@ gvh
 gvBk
 gjb
 gma
+ghost
 computers
 computer
 can
@@ -6278,6 +6314,10 @@ cOR
 cQL
 cuzFf
 completed
+cancellation
+cancel
+contribute
+correction
 the
 to
 training
@@ -7761,6 +7801,7 @@ pYAR
 probing
 polygon
 pairwise
+pressure
 Detecting
 Deepmind
 Dataset
@@ -8044,6 +8085,7 @@ DHb
 Dyf
 Daa
 Downsweep
+Direction
 regularities
 respect
 recognizing
@@ -8416,6 +8458,8 @@ rHp
 rsi
 rrb
 rcL
+reproducibility
+rounding
 model
 mostly
 machine
@@ -8751,6 +8795,7 @@ mhCO
 mBP
 mdK
 mLqWY
+mathematically
 hypothesis
 handwritten
 have
@@ -9234,6 +9279,8 @@ EuU
 Exclusive
 Ends
 Exact
+Enhanced
+Errors
 using
 utility
 use
@@ -9883,6 +9930,7 @@ dde
 dxxD
 divergence
 downsweep
+diaphragm
 future
 from
 feed
@@ -10183,6 +10231,8 @@ fsf
 favored
 face
 faces
+finite
+float
 Optimziation
 Operations
 Once
@@ -10420,6 +10470,7 @@ OYb
 ONIy
 OCK
 Options
+Occurs
 kind
 know
 knowledge
@@ -11525,6 +11576,8 @@ HII
 HNM
 HHL
 Handle
+Hidden
+Half
 Not
 NOTHING
 No
@@ -13485,6 +13538,7 @@ QUM
 QUUE
 Quadratic
 Question
+Quad
 ZgjY
 Zy
 Zky
