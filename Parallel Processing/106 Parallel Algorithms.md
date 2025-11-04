@@ -324,6 +324,6 @@ Options:
 	• Minimum face length  
 • Handle collisions as they occur  
 • Example:  
-• If a mesh has 500 faces, choose a table size slightly larger (e.g., 701 – a prime  
-number) to reduce collisions.
+	• If a mesh has 500 faces, choose a table size slightly larger (e.g., 701 – a prime  
+	number) to reduce collisions.
 
