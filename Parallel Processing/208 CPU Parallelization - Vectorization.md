@@ -83,22 +83,34 @@ A64FX, Amazon Graviton3).
 ![[Pasted image 20251103202508.png]]
 
 **Vector Instruction Set Evolution**
-![[Pasted image 20251103202518.png]]Vectorization Methods  
-(Least to Most Effort)  
+![[Pasted image 20251103202518.png]]**Vectorization Methods**  
+**(Least to Most Effort)**  
 • 1. Optimized Libraries  
-• Use pre-built, vectorized libraries (e.g., BLAS, Eigen, Intel MKL)  
-• No code changes needed  
+	• Use pre-built, vectorized libraries (e.g., BLAS, Eigen, Intel MKL)  
+	• No code changes needed  
 • . Auto-Vectorization  
-• Let the compiler identify and apply SIMD automatically  
-• Requires no explicit instructions  
+	• Let the compiler identify and apply SIMD automatically  
+	• Requires no explicit instructions  
 • Compiler Hints (Pragmas)  
-• Guide the compiler with directives like:  
-	• `#pragma omp simd`  
-	• `#pragma ivdep`  
-• Minimal code changes  
+	• Guide the compiler with directives like:  
+		• `#pragma omp simd`  
+		• `#pragma ivdep`  
+	• Minimal code changes  
 • Vector Intrinsics  
-• Use C/C++ functions that map directly to SIMD instructions  
-• Example: mm256_add_pd() for AVX  
+	• Use C/C++ functions that map directly to SIMD instructions  
+	• Example: mm256_add_pd() for AVX  
 • Assembler Instructions  
-• Manually write SIMD code in assembly language  
-• Maximum control, but highest complexity
+	• Manually write SIMD code in assembly language  
+	• Maximum control, but highest complexity
+
+**Optimized Libraries for Easy Vectorization**
+• Least-effort vectorization method:  
+	• Use pre-built, highly optimized libraries  
+	• Offers excellent performance with minimal coding  
+• Common Libraries:  
+	• BLAS – Basic Linear Algebra Subprograms  
+	• LAPACK – Linear algebra computations  
+	• SCALAPACK – Scalable version of LAPACK  
+	• FFT Libraries – Fast Fourier Transform implementations  
+	• Sparse Solvers – Specialized for sparse matrices
+
