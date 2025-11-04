@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "107 Parallel Algorithms II"
             }
-          },
-          {
-            "id": "53ac3762e907539e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security Protocols Article Presentation"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "b3392fc6c0a86b4c",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Parallel Processing/107 Parallel Algorithms II.md",
     "Assets/Pasted image 20251103192939.png",
     "Assets/Pasted image 20251103192922.png",
@@ -227,7 +214,6 @@
     "Security Protocols-Algorithms/Secure Channel.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
     "conflict-files-obsidian-git.md",
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",

@@ -268,6 +268,7 @@ MNl
 MBe
 Meshes
 Map
+Minimizes
 Learning
 Learn
 Let
@@ -490,6 +491,7 @@ Lef
 Lqq
 LEE
 LQA
+Limitation
 Relevant
 Reading
 Research
@@ -716,6 +718,7 @@ RaaS
 Runs
 RSA
 RZZ
+Reuses
 libraries
 learn
 learning
@@ -1966,6 +1969,7 @@ SAa
 Svbb
 SCM
 SkC
+Scan
 Keras
 Key
 Kirchhoffs
@@ -2629,6 +2633,7 @@ Ick
 INN
 IPx
 IUI
+Inclusive
 and
 ability
 approximation
@@ -3040,6 +3045,9 @@ amQ
 ahi
 abb
 afo
+active
+aggregation
+adjusted
 Applications
 AI
 Analysis
@@ -3847,6 +3855,9 @@ PXh
 PTTC
 PBJ
 Pkj
+Prefix
+Performed
+Prepares
 What
 We
 With
@@ -4037,6 +4048,7 @@ Wwmw
 WEN
 WKU
 WyH
+Work
 is
 in
 if
@@ -4393,6 +4405,7 @@ iPWW
 iyV
 iQON
 iiiB
+inclusive
 Field
 For
 Find
@@ -4623,6 +4636,8 @@ FEW
 FUY
 FcL
 Face
+Fig
+Fewer
 of
 or
 optimize
@@ -5437,6 +5452,9 @@ sfN
 sND
 sBVl
 sfh
+scan
+sweep
+setting
 giving
 good
 generalizable
@@ -6258,6 +6276,7 @@ cTx
 cOR
 cQL
 cuzFf
+completed
 the
 to
 training
@@ -6901,6 +6920,7 @@ bmGp
 bQQ
 bHNy
 bin
+busy
 explicitly
 experience
 error
@@ -7280,6 +7300,7 @@ eND
 ebB
 eEt
 eee
+excludes
 programmed
 patterns
 program
@@ -7738,6 +7759,7 @@ pJIE
 pYAR
 probing
 polygon
+pairwise
 Detecting
 Deepmind
 Dataset
@@ -8020,6 +8042,7 @@ DdL
 DHb
 Dyf
 Daa
+Downsweep
 regularities
 respect
 recognizing
@@ -9207,6 +9230,8 @@ Epe
 EkoB
 EykS
 EuU
+Exclusive
+Ends
 using
 utility
 use
@@ -9450,6 +9475,8 @@ uZf
 uuu
 uö
 uWjjH
+unmodified
+upsweep
 data
 driven
 dataset
@@ -9853,6 +9880,7 @@ dqu
 dde
 dxxD
 divergence
+downsweep
 future
 from
 feed
@@ -12045,6 +12073,8 @@ UJN
 Uid
 URi
 Unstructured
+Until
+Upsweep
 Breakout
 Because
 Backpropagation
@@ -12297,6 +12327,9 @@ BpBBle
 BJR
 BSD
 Brute
+Builds
+Begins
+Bound
 just
 jagged
 json
@@ -13447,6 +13480,7 @@ QpK
 QUM
 QUUE
 Quadratic
+Question
 ZgjY
 Zy
 Zky

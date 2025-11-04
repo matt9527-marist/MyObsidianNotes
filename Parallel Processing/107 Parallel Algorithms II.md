@@ -75,6 +75,7 @@ pairwise sum
 • Final scan -> adjusted results
 
 ## Parallel Global Sum & Associativity Problem
+**Parallel Global Sum & Associativity Problem**
 
 
 
