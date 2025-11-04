@@ -24,3 +24,52 @@ A64FX, Amazon Graviton3).
 • Found in smartphones, tablets, Raspberry Pi, etc.  
 • Fixed width: 128 bits  
 • Good for mobile multimedia, gaming, low-power SIMD tasks.
+
+**SIMD Architecture in Parallel Computing**
+• SIMD = Single Instruction, Multiple Data  
+• Part of *Flynn’s Taxonomy* (Section 1.4)  
+• One instruction operates on multiple data elements  
+• Example:  
+	• 1 vector add = 8 scalar adds  
+	• Reduces pressure on instruction queue and cache  
+• Power Efficiency:  
+	• Performing 8 vector additions uses about the same power as 1 scalar addition
+![[Pasted image 20251103201210.png]]
+
+**Vectorization Terminology**
+• Vector (SIMD) lane  
+	• Path for one data element in a vector operation  
+	• A 512-bit vector with 8 lanes for 8 double-precision values  
+• Vector width  
+	• Bit width of the vector unit  
+	• 256-bit (AVX), 512-bit (AVX-512)  
+• Vector length  
+	• Number of elements processed at once  
+	• 512-bit width -> 8 × 64-bit doubles or 16 × 32-bit floats  
+• Vector (SIMD) instruction sets  
+	• Instructions for parallel processing on vector units  
+	• SSE, AVX, AVX2, AVX-512 (Intel); NEON (ARM)
+**Vectorization Requirements & Best Practices**
+• Vectorization involves both software and hardware:  
+	• Generate Instructions  
+	• By compiler, intrinsics, or assembly  
+	• `#pragma omp simd` or Intel intrinsics like `_mm256_add_pd`  
+• Match Instructions to Hardware  
+	• New CPUs support older instructions  
+	• But: old CPUs cannot run newer vector instructions (e.g., AVX fails on 10+ year-old chips)  
+• No Automatic Scalar -> Vector Conversion  
+	• Old compilers do not support the latest instruction sets  
+	• Compiler support for new hardware often lags  
+• Takeaway:  
+	• Use the latest compiler version with current hardware
+
+**Specifying Vector Instruction Sets**
+• Default (safe): SSE2 -> 2 double ops at once  
+• Better options for performance:  
+	• Compile for current architecture  
+	• Use AVX -> 256-bit  
+	• Use AVX-512 -> 512-bit (modern Intel chips)  
+	• Ask the compiler to emit multiple versions and pick at runtime  
+• Takeaway  
+• Explicitly set compiler flags to target the most advanced instruction set your hardware  
+supports
