@@ -164,3 +164,47 @@ processors
 	• Other techniques exist that are more efficient than sorting
 
 ## Techniques for Accurate Global Summation
+**Long Double Summation**  
+• Uses long double (80-bit on x86) as accumulator  
+• Easy to implement, but not portable  
+• Slight improvement in accuracy
+```c++
+double do_ldsum(const double* var, std::size_t ncells) {  
+long double ldsum = 0.0L;  
+for (int i = 0; i < ncells; ++i) {  
+	// cast to long double for precision  
+	ldsum += static_cast<long double>(var[i]); 
+	}  
+return static_cast<double>(ldsum); // return as double  
+}
+```
+
+**Pairwise Summation**  
+• Pairwise Summation  
+• Recursively adds adjacent pairs  
+• Needs extra memory  
+• Accurate but slower with multiple steps
+
+```c++
+#include <vector>  
+#include <cmath>  
+double do_pair_sum(const double* var, int ncells) {  
+if (ncells % 2 != 0 || ncells == 0) {  
+throw std::invalid_argument("Array size must be a non-zero even number.");  
+}  
+std::vector<double> pwsum(ncells / 2);  
+Int nmax = ncells / 2;  
+// Initial pairwise summation  
+for (int i = 0; i < nmax; i++) {  
+pwsum[i] = var[i * 2] + var[i * 2 + 1];  
+}  
+// Recursive pairwise reduction  
+	while (nmax > 1) {  
+		for (int i = 0; i < nmax / 2; ++i) {  
+			pwsum[i] = pwsum[i * 2] + pwsum[i * 2 + 1];  
+		}  
+		nmax /= 2;  
+	}  
+	return pwsum[0];  
+}
+```
