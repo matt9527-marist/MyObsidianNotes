@@ -309,5 +309,21 @@ Options:
 ![[Pasted image 20251103183803.png]]
 ![[Pasted image 20251103184016.png]]
 
+• Each face checks the opposite bin:  
+	• If filled -> it's a neighbor cell  
+	• If empty -> it's an external face
+• C1 checks (6,0) -> empty -> external face  
+• C2 checks (8,2) => sees C4 -> neighbor  
+• C1 checks (6,1) -> empty -> external face  
+• C3 checks (6,2) -> empty -> external face
 
+**Choosing Hash Table Size**
+• Exact size is hard to determine  
+• Choose a reasonable size based on:  
+	• Number of faces  
+	• Minimum face length  
+• Handle collisions as they occur  
+• Example:  
+• If a mesh has 500 faces, choose a table size slightly larger (e.g., 701 – a prime  
+number) to reduce collisions.
 
