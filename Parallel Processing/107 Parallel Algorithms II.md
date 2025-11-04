@@ -162,3 +162,5 @@ processors
 	• Sort values: smallest -> largest before summing -> More accurate result  
 • Note:  
 	• Other techniques exist that are more efficient than sorting
+
+## Techniques for Accurate Global Summation
