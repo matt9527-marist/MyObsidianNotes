@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel Processing/208 CPU Parallelization - Vectorization.md",
+                "file": "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "208 CPU Parallelization - Vectorization"
+              "title": "Security Protocols Article Presentation"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pragma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,9 +187,9 @@
   },
   "active": "fc1d8ee9caa33547",
   "lastOpenFiles": [
+    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Parallel Processing/107 Parallel Algorithms II.md",
     "Parallel Processing/106 Parallel Algorithms.md",
-    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Assets/Pasted image 20251103201210.png",
     "Assets/Pasted image 20251103200344.png",
     "Assets/Pasted image 20251103195207.png",
