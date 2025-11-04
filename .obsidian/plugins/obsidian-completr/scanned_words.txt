@@ -270,6 +270,8 @@ Meshes
 Map
 Minimizes
 Minimum
+MKL
+Manually
 Learning
 Learn
 Let
@@ -496,6 +498,7 @@ Limitation
 Larger
 Leblanc
 Long
+Libraries
 Relevant
 Reading
 Research
@@ -1249,6 +1252,7 @@ GAF
 Gaa
 GuD
 Graviton
+Guide
 Charting
 Control
 Common
@@ -2669,6 +2673,8 @@ IUI
 Inclusive
 Issue
 Illustration
+Increased
+Intrinsics
 and
 ability
 approximation
@@ -3359,6 +3365,8 @@ AMD
 ARM
 Amazon
 Ask
+Auto
+Assembler
 with
 without
 want
@@ -3905,6 +3913,7 @@ Performed
 Prepares
 Pairwise
 Practical
+Pragmas
 What
 We
 With
@@ -4456,6 +4465,7 @@ inclusive
 inexact
 inconsistency
 involves
+ivdep
 Field
 For
 Find
@@ -4976,6 +4986,7 @@ offsets
 outperforms
 outdated
 older
+omp
 study
 simplified
 something
@@ -5515,6 +5526,7 @@ synced
 signal
 shock
 smartphones
+simd
 giving
 good
 generalizable
@@ -6344,6 +6356,7 @@ cancel
 contribute
 correction
 chips
+commodity
 the
 to
 training
@@ -6989,6 +7002,7 @@ bQQ
 bHNy
 bin
 busy
+built
 explicitly
 experience
 error
@@ -7830,6 +7844,8 @@ probing
 polygon
 pairwise
 pressure
+pre
+pragma
 Detecting
 Deepmind
 Dataset
@@ -9314,6 +9330,7 @@ Enhanced
 Errors
 Extensions
 Extension
+Eigen
 using
 utility
 use
@@ -9964,6 +9981,7 @@ dxxD
 divergence
 downsweep
 diaphragm
+directives
 future
 from
 feed
@@ -10506,6 +10524,7 @@ Options
 Occurs
 Older
 Old
+Over
 kind
 know
 knowledge
@@ -11616,6 +11635,8 @@ HHL
 Handle
 Hidden
 Half
+History
+Hints
 Not
 NOTHING
 No
@@ -12428,6 +12449,7 @@ Builds
 Begins
 Bound
 Bit
+BLAS
 just
 jagged
 json

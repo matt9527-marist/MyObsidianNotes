@@ -75,3 +75,30 @@ A64FX, Amazon Graviton3).
 	supports
 
 ## Hardware Trends for Vectorization 
+**History of Vector Instruction Sets**  
+• Vector units appeared in commodity CPUs ~1997  
+• Over 20+ years:  
+• Increased vector width  
+• More operation types supported
+![[Pasted image 20251103202508.png]]
+
+**Vector Instruction Set Evolution**
+![[Pasted image 20251103202518.png]]Vectorization Methods  
+(Least to Most Effort)  
+• 1. Optimized Libraries  
+• Use pre-built, vectorized libraries (e.g., BLAS, Eigen, Intel MKL)  
+• No code changes needed  
+• . Auto-Vectorization  
+• Let the compiler identify and apply SIMD automatically  
+• Requires no explicit instructions  
+• Compiler Hints (Pragmas)  
+• Guide the compiler with directives like:  
+	• `#pragma omp simd`  
+	• `#pragma ivdep`  
+• Minimal code changes  
+• Vector Intrinsics  
+• Use C/C++ functions that map directly to SIMD instructions  
+• Example: mm256_add_pd() for AVX  
+• Assembler Instructions  
+• Manually write SIMD code in assembly language  
+• Maximum control, but highest complexity
