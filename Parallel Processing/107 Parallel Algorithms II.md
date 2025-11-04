@@ -48,3 +48,34 @@ pairwise sum
 **Upsweep Phase of Work-Efficient Scan** - 4 threads 
 ![[Pasted image 20251103192729.png]]
 
+**Downsweep Phase of Work-Efficient Scan** - 4 threads 
+• Left sweep following the upsweep  
+• Begins by setting the last value to 0  
+• Tree-based sweep to compute final exclusive scan  
+• Reuses earlier results for efficiency  
+• Total operations remain O(n)  
+• Steps: O(log 2 n)  
+• Pattern:  
+	• Threads decrease in upsweep, increase in downsweep  
+	• Ends with all threads busy  
+• Limitation:  
+	• Bound by the available GPU workgroup size or CPU threads  
+![[Pasted image 20251103192855.png]]
+
+**Parallel Scan for Large Arrays**
+![[Pasted image 20251103192922.png]]
+• Uses 3 GPU kernels for scalability  
+• Kernel 1: Reduction sum per workgroup -> temp array  
+• Kernel 2: Scan over temp array to get workgroup offsets  
+• Kernel 3: Final scan on original array + offsets applied
+
+![[Pasted image 20251103192939.png]]
+• Reduce -> temp array  
+• Scan -> offsets  
+• Final scan -> adjusted results
+
+## Parallel Global Sum & Associativity Problem
+
+
+
+
