@@ -114,3 +114,28 @@ A64FX, Amazon Graviton3).
 	• FFT Libraries – Fast Fourier Transform implementations  
 	• Sparse Solvers – Specialized for sparse matrices
 
+**Example: Intel® Math Kernel Library (MKL)**
+• Optimized BLAS, LAPACK, SCALAPACK, FFT, sparse solvers  
+• Free to use; tuned for Intel CPUs  
+• Available in both commercial and open distributions
+
+**Auto-Vectorization – Easy SIMD Speedup**
+• Auto-vectorization = automatic vectorization by the compiler from  
+standard C/C++/Fortran source code
+
+**Why Use It?**
+• Minimal effort for significant speedup  
+• Compiler handles SIMD instruction generation  
+• Improves with newer compilers and CPUs  
+• Example Use Case:  
+	• STREAM Triad loop — auto-vectorized for performance  
+	(From STREAM Benchmark, Section 3.2.4)
+
+• Make Your Code Vector-Friendly:  
+	• Use restrict in C or `__restrict, __restrict__` in C++  
+	• Avoid complex control flow in loops  
+	• Use simple, stride-1 loops over arrays  
+• Enable with compiler flags (e.g., -O3, -ftree-vectorize, /O2)  
+• Check compiler reports to confirm vectorization  
+• Auto-vectorization is the recommended starting point for SIMD — just write clean  
+loops and let the compiler do the rest!
