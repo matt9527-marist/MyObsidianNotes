@@ -75,8 +75,36 @@ pairwise sum
 • Final scan -> adjusted results
 
 ## Parallel Global Sum & Associativity Problem
-**Parallel Global Sum & Associativity Problem**
+• Parallel sums ≠ serial sums due to non-associativity  
+• Finite-precision arithmetic:  
+	• Reordering in parallel -> different results  
+	• Larger arrays worsen the inaccuracy  
+• Catastrophic cancellation:  
+	• Subtracting nearly equal values -> loss of precision
 
+• Example:  
+• Subtracting 1.0000001−1.0000000 may yield few significant digits +  
+noise  
+• Solution Direction:  
+• Use algorithms that preserve order or improve reproducibility of results
 
+**Catastrophic Cancellation**
+• What is Catastrophic Cancellation?  
+	• Occurs when subtracting two nearly equal numbers  
+	• Significant digits cancel out, leaving few accurate digits  
+	• Remaining digits are often just rounding noise  
+• Why It Matters:  
+	• Leads to large relative error, even if absolute error is small  
+	• Common in parallel computing, scientific calculations, and poorly designed  
+	algorithms
 
+```c++
+#include <iostream>  
+int main() {  
+	int x = 12.15692174374373 - 12.15692174374372;  
+	std::cout<< x <<"\n";  
+}
+```
+![[Pasted image 20251103195207.png]]
+Instead of showing us 0.000000000000000001, but other di
 
