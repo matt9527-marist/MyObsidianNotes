@@ -170,5 +170,7 @@ This algorithm takes a multidimensional dataset and places it in 2D, which is go
 
 ![[Pasted image 20251105102303.png]]
 
-Human beings are really good at pattern recognition in 2D, so having a tool that allows us to do this is very convenient. 
+Human beings are really good at pattern recognition in 2D, so having a tool that allows us to do this is very convenient. We can for example use TSNE on the full set of dimensions to see how the data is organized and analyze what it is actually representing. 
+
+
 
