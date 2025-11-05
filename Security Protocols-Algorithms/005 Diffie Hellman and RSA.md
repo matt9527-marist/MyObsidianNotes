@@ -183,6 +183,11 @@ There are usually set periods, typically 5-year expiration periods.
 *Authority*
 - Is CA the main authority? 
 	- We see this more in smaller organizations and hierarchies. 
+	- How do we determine who has the authority to sign certificates?
+*Trust*
+- Can we trust the certificate authority?
+	- Different from authority, which pertains to who has the function to do something. 
+	- What happens when there are dubious CAs?
 	- 
 
 
