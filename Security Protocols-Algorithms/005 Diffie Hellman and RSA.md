@@ -195,7 +195,10 @@ There are usually set periods, typically 5-year expiration periods.
 	- Access Control Lists (ACLs) identify who is authorized to do what. 
 	- PKI links keys to names, and names to permissions. 
 	- Solution: use direct authorization. 
-
+*Credential Systems*
+- Allows for organizations to provide access. Usually doesn't include any certificate mechanisms, but we need these mechanisms to ensure systems are dynamic. 
+	- Can come with a lot overhead and complexity (creates an issue where we then become lax on security)
+	- 
 
 
 
