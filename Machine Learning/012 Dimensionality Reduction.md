@@ -156,5 +156,11 @@ or more interestingly, $$Z = PC * V^T$$We could say that we are working with PC'
 For when we have data that is not linear, we can have a situation like this:
 ![[Pasted image 20251105101717.png]]
 Can we apply some kind of transformation to effectively "unroll" the data? 
-This is called *manifold learning*. A manifold is an object in space that appears locally euclidean, but overall 
+This is called *manifold learning*. A manifold is an object in space that appears locally euclidean, but overall is something different. The Earth is manifold, where to us it appears flat, but looking beyond locally, it is a sphere. 
+Although the dimensionality is massive, we can still flatten it and keep it an acceptable situation. 
+
+One applicable example: [ml_other_dim_reduction_techniques.ipynb](https://gist.github.com/eitellauria/4321ea2424ca1e7bf7fbedf7e9cc927a)
+Using local embedding:
+![[Pasted image 20251105102034.png]]
+SkLearn has a number of algorithms that can do this for us. 
 
