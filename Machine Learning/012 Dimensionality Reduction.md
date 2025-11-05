@@ -130,4 +130,9 @@ Generates [lambda{1} > lambda{2}, ...  > lambda{m}]
 and corresponding eigenvectors [v1, v2, ... v_m], all orthogonal to each other. 
 Allows us to represent a matrix `V` of all the eigenvectors, ordered by the ranking of eigenvalues. 
 $$PC_{1} = v_{11}z_{1} + v_{21}z_{2} + \dots + v_{m1} + z_{m}$$
-$\dots$$$
+$$\dots$$
+$$PC_{m} = v_{1m}z_{1} + v_{2m}z_{2} + \dots + v_{mm}z_{m}$$
+In terms of one observation. If we wanted it to be in terms of all observations, we would have:
+$$\begin{bmatrix}
+PC
+\end{bmatrix} ()$$
