@@ -182,6 +182,7 @@ There are usually set periods, typically 5-year expiration periods.
 	This creates a problem in PKI because one person may have different keys/certificates. 
 *Authority*
 - Is CA the main authority? 
+	- We see this more in smaller organizations and hierarchies. 
 	- 
 
 
