@@ -1033,6 +1033,7 @@ lnp
 leaving
 latest
 lags
+locally
 Graphing
 Google
 Game
@@ -1253,6 +1254,7 @@ Gaa
 GuD
 Graviton
 Guide
+Generates
 Charting
 Control
 Common
@@ -1624,6 +1626,7 @@ Concern
 Caused
 Conversion
 Compile
+Correlations
 Scikit
 Statistical
 Statistics
@@ -2427,6 +2430,7 @@ Try
 Tracks
 Terminology
 Trends
+TSNE
 ISLP
 Iris
 Instance
@@ -3092,6 +3096,7 @@ adjusted
 associativity
 accumulator
 advanced
+acceptable
 Applications
 AI
 Analysis
@@ -4988,6 +4993,7 @@ outperforms
 outdated
 older
 omp
+orthogonal
 study
 simplified
 something
@@ -5530,6 +5536,9 @@ smartphones
 simd
 sufficient
 spread
+social
+sciences
+sphere
 giving
 good
 generalizable
@@ -6364,6 +6373,8 @@ chips
 commodity
 comparison
 cov
+corresponding
+cleanly
 the
 to
 training
@@ -7010,6 +7021,7 @@ bin
 busy
 built
 bar
+beings
 explicitly
 experience
 error
@@ -7394,6 +7406,10 @@ emit
 estimates
 eigenvalues
 eigenvlaue
+eigen
+eigenvectors
+explaining
+euclidean
 programmed
 patterns
 program
@@ -7856,6 +7872,7 @@ pairwise
 pressure
 pre
 pragma
+places
 Detecting
 Deepmind
 Dataset
@@ -8140,6 +8157,8 @@ Dyf
 Daa
 Downsweep
 Direction
+DECOMPOSITION
+Dimensionality
 regularities
 respect
 recognizing
@@ -8516,6 +8535,7 @@ reproducibility
 rounding
 registers
 rightarrow
+ranking
 model
 mostly
 machine
@@ -8854,6 +8874,8 @@ mLqWY
 mathematically
 multimedia
 mathbf
+manifold
+multidimensional
 hypothesis
 handwritten
 have
@@ -9343,6 +9365,9 @@ Errors
 Extensions
 Extension
 Eigen
+EIGEN
+Explained
+Earth
 using
 utility
 use
@@ -9589,6 +9614,8 @@ uWjjH
 unmodified
 upsweep
 uniformly
+uncorrelated
+unroll
 data
 driven
 dataset
@@ -9996,6 +10023,9 @@ downsweep
 diaphragm
 directives
 dadb
+definite
+diag
+displaying
 future
 from
 feed
@@ -10298,6 +10328,7 @@ face
 faces
 finite
 float
+flatten
 Optimziation
 Operations
 Once
@@ -10946,6 +10977,7 @@ vaD
 vZG
 vertical
 versions
+visualizing
 numerical
 no
 need
@@ -11651,6 +11683,7 @@ Hidden
 Half
 History
 Hints
+Human
 Not
 NOTHING
 No
