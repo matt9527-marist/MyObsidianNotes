@@ -198,7 +198,20 @@ There are usually set periods, typically 5-year expiration periods.
 *Credential Systems*
 - Allows for organizations to provide access. Usually doesn't include any certificate mechanisms, but we need these mechanisms to ensure systems are dynamic. 
 	- Can come with a lot overhead and complexity (creates an issue where we then become lax on security)
-	- 
+	- Not amicable to users.
+	- One use case- hierarchical CA structure 
+
+**The Modified Dream**
+1. Each application has its own PKI with its own CA.
+2. The user must use different keys for each PKI.
+3. The PKI’s main purpose is to tie a credential to the key.
+
+**Revocation** – The most difficult problem in PKI
+Revocation Requirements
+1. Speed of revocation
+2. Reliability of revocation
+3. Number of revocations
+4. Connectivity
 
 
 
