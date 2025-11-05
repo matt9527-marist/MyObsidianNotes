@@ -125,3 +125,7 @@ The correlation matrix is positive definite. That is, where `x^TAx > 0`. Where t
 
 This means we are creating a dataset that is uncorrelated. Correlations can often get in the way of explaining what influence a variable has on the results (this is in the case of social sciences for example). 
 
+PCA = EIGEN DECOMPOSITION 
+Generates [lambda{1} > lambda{2}, ...  > lambda{m}] 
+and corresponding eigenvectors [v1, v2, ... v_m], all orthogonal to each other. 
+Allows us to represent a matrix `V` of all the eigenvectors, ordered by the ranking of eige
