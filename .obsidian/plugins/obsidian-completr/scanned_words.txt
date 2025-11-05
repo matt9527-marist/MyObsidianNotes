@@ -3914,6 +3914,7 @@ Prepares
 Pairwise
 Practical
 Pragmas
+PCs
 What
 We
 With
@@ -5527,6 +5528,8 @@ signal
 shock
 smartphones
 simd
+sufficient
+spread
 giving
 good
 generalizable
@@ -5797,6 +5800,8 @@ gjb
 gma
 ghost
 gaming
+gene
+gather
 computers
 computer
 can
@@ -6357,6 +6362,8 @@ contribute
 correction
 chips
 commodity
+comparison
+cov
 the
 to
 training
@@ -7002,6 +7009,7 @@ bHNy
 bin
 busy
 built
+bar
 explicitly
 experience
 error
@@ -7383,6 +7391,9 @@ eEt
 eee
 excludes
 emit
+estimates
+eigenvalues
+eigenvlaue
 programmed
 patterns
 program
@@ -8504,6 +8515,7 @@ rcL
 reproducibility
 rounding
 registers
+rightarrow
 model
 mostly
 machine
@@ -8841,6 +8853,7 @@ mdK
 mLqWY
 mathematically
 multimedia
+mathbf
 hypothesis
 handwritten
 have
@@ -9575,6 +9588,7 @@ uö
 uWjjH
 unmodified
 upsweep
+uniformly
 data
 driven
 dataset
@@ -9981,6 +9995,7 @@ divergence
 downsweep
 diaphragm
 directives
+dadb
 future
 from
 feed
