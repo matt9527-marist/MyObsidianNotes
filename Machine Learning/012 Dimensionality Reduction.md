@@ -154,5 +154,7 @@ or more interestingly, $$Z = PC * V^T$$We could say that we are working with PC'
 3) $$\%\text{Explained} \space var(\lambda _{j}) = \frac{\lambda_{j}}{m} = \frac{\lambda_{j}}{\sum \lambda_{j}}$$
 **Other Dimensionality Reduction Techniques**
 For when we have data that is not linear, we can have a situation like this:
-
+![[Pasted image 20251105101717.png]]
+Can we apply some kind of transformation to effectively "unroll" the data? 
+This is called *manifold learning*. A manifold is an object in space that appears locally euclidean, but overall 
 
