@@ -158,4 +158,6 @@ The central CA will certify others to initiate certificates.
 "Who do we trust?"
 We validate root-CA's and their certificates through browser and system updates. The root CA, however, is not responsible for signing every single incoming request. To fix this, we have intermediate certificate authorities. Intermediate CAs will certify other entities. 
 
-Root CA -- (validates) -- > 
+Root CA -- (validates) -- > Intermedaite PKs -- (validates) -- ... --> End Entity PKs 
+
+Larger entities like Facebook, Instagram, or Verizon might have shorter certificate chains, usually only having one intermediate CA. 
