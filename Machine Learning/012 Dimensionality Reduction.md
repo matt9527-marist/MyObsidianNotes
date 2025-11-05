@@ -118,3 +118,6 @@ Just depends on how much of the variance that we want to explain. If we keep the
 ![[Pasted image 20251103175450.png]]
 
 **PCA Overview**
+![[Pasted image 20251105093922.png]]
+If we have two variables, x1 and x2:
+The correlation coefficient is given as: $$\frac{cov(x_{1},x_{2})}{s_{1}s_{2}} = cov(z_{1},z_{2})$$$$R(X) = C(z)$$
