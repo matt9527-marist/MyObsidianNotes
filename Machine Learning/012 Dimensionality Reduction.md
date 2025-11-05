@@ -164,3 +164,11 @@ Using local embedding:
 ![[Pasted image 20251105102034.png]]
 SkLearn has a number of algorithms that can do this for us. 
 
+**TSNE** - one useful algorithm, usually used in visualization. 
+"T distributed neighbor embedding "
+This algorithm takes a multidimensional dataset and places it in 2D, which is good for visualizing data. Typically, when we have multidimensional dataset with clusters or regions of data, TSNE is good at displaying those clusters cleanly. 
+
+![[Pasted image 20251105102303.png]]
+
+Human beings are really good at pattern recognition in 2D, so having a tool that allows us to do this is very convenient. 
+
