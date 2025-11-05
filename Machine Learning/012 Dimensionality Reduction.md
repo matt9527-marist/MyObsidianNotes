@@ -117,3 +117,4 @@ All of this analysis is *linear*. If there is nonlinear variance, we cannot capt
 Just depends on how much of the variance that we want to explain. If we keep the PCs for which the eigenvalues >1, it does not mean we cannot choose a C where the eigenvlaue is 0.9 or 0.8. 
 ![[Pasted image 20251103175450.png]]
 
+**PCA Overview**
