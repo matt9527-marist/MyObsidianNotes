@@ -227,7 +227,18 @@ must check the revocation list.
 • Disadvantages  
 	1. Availability 
 
+**Fast Expiration**
+Possible revocation times range from 10 minutes to 24 hours. 
+![[Pasted image 20251105164015.png]]
+Can mistakenly occur on websites who do not update their certificates in time. Adds a lot of overhead due to needing to update often. There are automated solutions. 
 
+**Online Verification**
+1. Client queries the CA regarding the certificate in  
+question  
+2. The CA looks up the certificate in its own database and  
+responds with it’s status
+![[Pasted image 20251105164121.png]]
+Opposite of a certificate-revocation list, where the verification is online, not on the local systems. 
 
 
 
