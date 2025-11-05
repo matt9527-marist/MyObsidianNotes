@@ -155,4 +155,7 @@ This is done via a Certificate Authority (CA) who issues a certificate to the re
 The central CA will certify others to initiate certificates. 
 *Certificate chain* - shows that those who a certificate were certified by the central CA. 
 ![[Pasted image 20251105155808.png]]
-"Who o"
+"Who do we trust?"
+We validate root-CA's and their certificates through browser and system updates. The root CA, however, is not responsible for signing every single incoming request. To fix this, we have intermediate certificate authorities. Intermediate CAs will certify other entities. 
+
+Root CA -- (validates) -- > 
