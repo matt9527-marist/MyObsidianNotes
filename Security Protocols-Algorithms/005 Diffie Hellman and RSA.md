@@ -149,3 +149,10 @@ In this method, Eve then has shared secret keys with both Alice and Bob, but Ali
 PKI is used to validate public keys and who created them. 
 Suppose we have a legitimate website and then a malicious shadow website that is trying to pose as the legitimate website with their own public keys. 
 
+This is done via a Certificate Authority (CA) who issues a certificate to the requesting (CSR) client. 
+
+**Multilevel Certificates**
+The central CA will certify others to initiate certificates. 
+*Certificate chain* - shows that those who a certificate were certified by the central CA. 
+![[Pasted image 20251105155808.png]]
+"Who o"
