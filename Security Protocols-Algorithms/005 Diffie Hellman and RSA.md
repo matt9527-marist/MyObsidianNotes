@@ -163,4 +163,23 @@ Root CA -- (validates) -- > Intermedaite PKs -- (validates) -- ... --> End Entit
 Larger entities like Facebook, Instagram, or Verizon might have shorter certificate chains, usually only having one intermediate CA. 
 
 **Certificate Expiration**
-We need to be able to make sure we are not using these public keys indefinitely. Why? Keys are similar to passwords, and it is hard to tell when someone compromises an encryption key. We can isolate the effects of
+We need to be able to make sure we are not using these public keys indefinitely. Why? Keys are similar to passwords, and it is hard to tell when someone compromises an encryption key. We can isolate the effects of a key breach. Certificates are the same. 
+
+- Expiration of certificates allows for:
+	- Keeping information about the certified entity up to date. 
+	- Ensuring that new CA keys and new public keys are put into use. 
+
+Remember that the point of the certificates is to validate public keys, so we need to have expiration dates in order for keys to be revalidated. 
+
+There are usually set periods, typically 5-year expiration periods. 
+
+**Current Challenges of PKI**
+
+
+
+
+
+
+
+
+
