@@ -161,3 +161,6 @@ We validate root-CA's and their certificates through browser and system updates.
 Root CA -- (validates) -- > Intermedaite PKs -- (validates) -- ... --> End Entity PKs 
 
 Larger entities like Facebook, Instagram, or Verizon might have shorter certificate chains, usually only having one intermediate CA. 
+
+**Certificate Expiration**
+We need to be able to make sure we are not using these public keys indefinitely. Why? Keys are similar to passwords, and it is hard to tell when someone compromises an encryption key. We can isolate the effects of
