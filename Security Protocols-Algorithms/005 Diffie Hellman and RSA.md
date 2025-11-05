@@ -214,6 +214,20 @@ Revocation Requirements
 4. Connectivity
 The three possible solutions to revocation are revocation lists, fast expiration, and online certificate verification.
 
+**Certificate Revocation Lists (CRLs)**
+A certificate revocation list, or CRL, is a database  
+that contains a list of revoked certificates.
+
+• Those looking to verify the certificate  
+must check the revocation list.  
+• Advantages  
+	1. Revocation is immediate  
+	2. No upper limit on revocations  
+
+• Disadvantages  
+	1. Availability 
+
+
 
 
 
