@@ -142,5 +142,6 @@ V
 \end{bmatrix}(m \times m)$$
 ![[Pasted image 20251105095520.png]]
 
-If we have this, where `PC = Z * V`. If we try to solve like the following: $$PC = Z *V
-$$
+If we have this, where `PC = Z * V`. If we try to solve like the following: $$PC = Z *V$$$$PC * V^{-1} = Z * V * V^{-1}$$
+$$Z = PC * V^{-1}$$
+or more interestingly, $$Z = PC * V^T$$We could say that we are working with 
