@@ -176,7 +176,10 @@ There are usually set periods, typically 5-year expiration periods.
 **Current Challenges of PKI**
 *Names*
 - Small Village vs. Big City 
-	- From a small perspective, certificates for 
+	- From a small perspective, certificates for each singular name works. But what happens when we scale this to everyone? 
+	- We may have multiple instances with the same name. 
+	- As we grow this to the whole Internet, there is a problem of how to determine unique identifiers. There also many types of identifiers. 
+	- 
 
 
 
