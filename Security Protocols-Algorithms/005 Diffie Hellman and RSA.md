@@ -144,6 +144,5 @@ Suppose we had a bad actor Eve, who is able to capture data "in the middle" of t
 Eve can then create her own public and secret keys, discarding the original keys coming in from one of the parties. Eve can then pose as the opposite party when sending her new forged keys back over the channel. 
 In this method, Eve then has shared secret keys with both Alice and Bob, but Alice and Bob think that it is only between them. 
 
-
-
-
+## Overview of Public Key Infrastructure (PKI)
+![[Pasted image 20251105154847.png]]
