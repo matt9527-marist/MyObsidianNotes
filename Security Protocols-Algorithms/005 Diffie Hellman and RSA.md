@@ -212,6 +212,8 @@ Revocation Requirements
 2. Reliability of revocation
 3. Number of revocations
 4. Connectivity
+The three possible solutions to revocation are revocation lists, fast expiration, and online certificate verification.
+
 
 
 
