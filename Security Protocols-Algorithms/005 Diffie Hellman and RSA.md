@@ -146,3 +146,5 @@ In this method, Eve then has shared secret keys with both Alice and Bob, but Ali
 
 ## Overview of Public Key Infrastructure (PKI)
 ![[Pasted image 20251105154847.png]]
+PKI is used to validate public keys and who created them. 
+Suppose we have a legitimate website and then a malicious shadow website that is trying to pose as the legitimate website with their own public keys. 
