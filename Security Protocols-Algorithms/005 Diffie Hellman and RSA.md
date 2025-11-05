@@ -175,7 +175,8 @@ There are usually set periods, typically 5-year expiration periods.
 
 **Current Challenges of PKI**
 *Names*
-- Small Village
+- Small Village vs. Big City 
+	- From a small perspective, certificates for 
 
 
 
