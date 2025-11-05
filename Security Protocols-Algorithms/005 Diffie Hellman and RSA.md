@@ -189,7 +189,13 @@ There are usually set periods, typically 5-year expiration periods.
 	- Different from authority, which pertains to who has the function to do something. 
 	- What happens when there are dubious CAs?
 	- The basis of trust within a PKI should be based on contractual relationships. For example, we often pay for domains and thereby create a contract in order to establish that relationship. 
-	- 
+	- Also, who has liability?
+*Indirect Authorization*
+- Systems do not care who the key belongs to, only what the keyholder is allowed to do. 
+	- Access Control Lists (ACLs) identify who is authorized to do what. 
+	- PKI links keys to names, and names to permissions. 
+	- Solution: use direct authorization. 
+
 
 
 
