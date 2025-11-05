@@ -174,7 +174,8 @@ Remember that the point of the certificates is to validate public keys, so we ne
 There are usually set periods, typically 5-year expiration periods. 
 
 **Current Challenges of PKI**
-
+*Names*
+- Small Village
 
 
 
