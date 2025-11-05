@@ -121,3 +121,5 @@ Just depends on how much of the variance that we want to explain. If we keep the
 ![[Pasted image 20251105093922.png]]
 If we have two variables, x1 and x2:
 The correlation coefficient is given as: $$\frac{cov(x_{1},x_{2})}{s_{1}s_{2}} = cov(z_{1},z_{2})$$$$R(X) = C(z)$$
+The correlation matrix is positive definite. That is, where `x^TAx > 0`. Where this is the case, the eigen decomposition will result in `lambas (eigenvalues) > 0`, and the eigenvectors will be orthogonal. Why is this interesting? 
+
