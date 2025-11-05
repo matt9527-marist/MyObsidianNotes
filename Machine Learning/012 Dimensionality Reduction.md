@@ -152,5 +152,7 @@ or more interestingly, $$Z = PC * V^T$$We could say that we are working with PC'
 \end{bmatrix}$$
 2) $$\sum var(R) = \sum var(PC) = \sum^{m}_{j=1} \lambda j = m$$
 3) $$\%\text{Explained} \space var(\lambda _{j}) = \frac{\lambda_{j}}{m} = \frac{\lambda_{j}}{\sum \lambda_{j}}$$
+**Other Dimensionality Reduction Techniques**
+For when we have data that is not linear, we can have a situation like this:
 
 
