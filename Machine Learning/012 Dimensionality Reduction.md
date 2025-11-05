@@ -135,4 +135,12 @@ $$PC_{m} = v_{1m}z_{1} + v_{2m}z_{2} + \dots + v_{mm}z_{m}$$
 In terms of one observation. If we wanted it to be in terms of all observations, we would have:
 $$\begin{bmatrix}
 PC
-\end{bmatrix} ()$$
+\end{bmatrix} (n \times m) = \begin{bmatrix}
+Z
+\end{bmatrix}(n \times m) + \begin{bmatrix}
+V
+\end{bmatrix}(m \times m)$$
+![[Pasted image 20251105095520.png]]
+
+If we have this, where `PC = Z * V`. If we try to solve like the following: $$PC = Z *V
+$$
