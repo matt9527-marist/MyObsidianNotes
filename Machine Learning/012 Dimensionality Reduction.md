@@ -144,4 +144,11 @@ V
 
 If we have this, where `PC = Z * V`. If we try to solve like the following: $$PC = Z *V$$$$PC * V^{-1} = Z * V * V^{-1}$$
 $$Z = PC * V^{-1}$$
-or more interestingly, $$Z = PC * V^T$$We could say that we are working with 
+or more interestingly, $$Z = PC * V^T$$We could say that we are working with PC's, where we are working with less predictors, we can recompute Z within this lesser feature space, which is very useful. 
+
+1) $$R(X) = C(Z) \rightarrow diag(X) = \begin{bmatrix}
+\lambda_{1} && 0  \\
+0 && \lambda_{2}
+\end{bmatrix}$$
+2) $$\sum$$
+
