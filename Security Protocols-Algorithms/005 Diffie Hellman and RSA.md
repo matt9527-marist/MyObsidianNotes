@@ -188,6 +188,7 @@ There are usually set periods, typically 5-year expiration periods.
 - Can we trust the certificate authority?
 	- Different from authority, which pertains to who has the function to do something. 
 	- What happens when there are dubious CAs?
+	- The basis of trust within a PKI should be based on contractual relationships. For example, we often pay for domains and thereby create a contract in order to establish that relationship. 
 	- 
 
 
