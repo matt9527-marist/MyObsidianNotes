@@ -180,8 +180,9 @@ There are usually set periods, typically 5-year expiration periods.
 	- We may have multiple instances with the same name. 
 	- As we grow this to the whole Internet, there is a problem of how to determine unique identifiers. There also many types of identifiers. 
 	This creates a problem in PKI because one person may have different keys/certificates. 
-
-
+*Authority*
+- Is CA the main authority? 
+	- 
 
 
 
