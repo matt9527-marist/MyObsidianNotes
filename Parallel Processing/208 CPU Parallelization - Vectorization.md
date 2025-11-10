@@ -184,3 +184,30 @@ Use with compiler optimizations:
 • Programmer hints are often needed for complex loop vectorization
 
 We can try all of the possible optimization flags if we find that we are not vectorizing. 
+
+**Timestep Calculation**
+Example use case: help the compiler vectorize the problem: wave speed to cross cell times safety factor (sigma) calculation.
+
+```c++
+#include <iostream>  
+#include <vector>  
+#include <cmath>  
+#include "timestep.hpp"  
+constexpr int NCELLS = 10'000'000;  
+static double H[NCELLS], U[NCELLS], V[NCELLS], dx[NCELLS], dy[NCELLS];  
+static int celltype[NCELLS];  
+int main() {  
+	for (int ic=0; ic<NCELLS ; ic++) {  
+		H[ic] = 10.0;  
+		U[ic] = 0.0;  
+		V[ic] = 0.0;  
+		dx[ic] = 0.5;  
+		dy[ic] = 0.5;  
+		celltype[ic] = REAL_CELL;  
+	}  
+	double g = 9.80;  
+	double sigma = 0.95;  
+	H[NCELLS / 2] = 20.0; // Introduce a disturbance in the middle  
+	double mymindt = timestep(NCELLS, g, sigma, celltype, H, U, V, dx, dy);  
+		std::cout << "Minimum dt is " << mymindt << "\n";}  
+```
