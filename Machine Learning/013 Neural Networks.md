@@ -76,3 +76,5 @@ These derivations are computed in iterations using Keras and TensorFlow modules 
 Computational graphs of feed forward and back propagate using JAX:
 [ml_computational_graphs_in_jax.ipynb](https://gist.github.com/eitellauria/83dd7484f4ac7a3b11d088a4797942de)
 
+[ml_mlp_backpropagation_from_scratch.ipynb](https://gist.github.com/eitellauria/e03f467c136fd7d967f1945feb2316a0)
+
