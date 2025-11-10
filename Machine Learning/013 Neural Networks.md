@@ -19,3 +19,5 @@ The problem with this is that there was no real concept of learning originally. 
 	- The idea of a universal machine using a perceptron was dropped. 
 	- This began an AI Winter, where the development in the field decreased dramatically. 
 	- The solution that would come later by connectionists is adding a *hidden layer*. Using the hidden layer, we can produce a neural network that can serve as a universal approximator of any function. 
+	- It was not yet figured out how to introduce hidden layers, but the framework of feedforward and then backpropagate was there. 
+- 
