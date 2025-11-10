@@ -1263,6 +1263,7 @@ GuD
 Graviton
 Guide
 Generates
+Gemini
 Charting
 Control
 Common
@@ -6432,6 +6433,8 @@ compromises
 contractual
 contract
 credential
+connectionist
+connectionism
 the
 to
 training
@@ -8956,6 +8959,7 @@ manifold
 multidimensional
 minutes
 mistakenly
+mimicking
 hypothesis
 handwritten
 have
@@ -9201,6 +9205,7 @@ hip
 hence
 hierarchies
 hours
+historical
 Execution
 Examples
 Economics
