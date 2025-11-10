@@ -70,3 +70,4 @@ The basic structure for an MLP is an input layer (X), followed by a hidden layer
 ![[Pasted image 20251110175855.png]]
 This is the computation for one observation that is passing through and being backpropagated. This is to give us an idea of how complicated things can become. 
 
+These derivations are computed in iterations using Keras and Tenso
