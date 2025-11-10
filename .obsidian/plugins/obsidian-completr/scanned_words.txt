@@ -274,6 +274,8 @@ MKL
 Manually
 Multilevel
 Modified
+Math
+MEM
 Learning
 Learn
 Let
@@ -502,6 +504,9 @@ Leblanc
 Long
 Libraries
 Lists
+LAPACK
+Library
+Likwid
 Relevant
 Reading
 Research
@@ -1042,6 +1047,7 @@ locally
 liability
 links
 lax
+likwid
 Graphing
 Google
 Game
@@ -2021,6 +2027,8 @@ SVE
 Scalable
 Specifying
 Sets
+Subprograms
+SCALAPACK
 Keras
 Key
 Kirchhoffs
@@ -2450,6 +2458,7 @@ Trends
 TSNE
 Trust
 Those
+Transform
 ISLP
 Iris
 Instance
@@ -3126,6 +3135,8 @@ authority
 authorized
 authorization
 amicable
+algebra
+auto
 Applications
 AI
 Analysis
@@ -4147,6 +4158,7 @@ WKU
 WyH
 Work
 Who
+Width
 is
 in
 if
@@ -4750,6 +4762,8 @@ Finite
 Fujitsu
 Found
 Facebook
+FFT
+Fourier
 of
 or
 optimize
@@ -6435,6 +6449,7 @@ contract
 credential
 connectionist
 connectionism
+confirm
 the
 to
 training
@@ -6808,6 +6823,8 @@ tGa
 tablets
 thereby
 tie
+tuned
+triad
 being
 be
 by
@@ -7479,6 +7496,8 @@ entities
 entity
 expiration
 everyone
+effort
+excellent
 programmed
 patterns
 program
@@ -7946,6 +7965,7 @@ perspective
 pertains
 pay
 permissions
+perfctr
 Detecting
 Deepmind
 Dataset
@@ -8960,6 +8980,7 @@ multidimensional
 minutes
 mistakenly
 mimicking
+mprefer
 hypothesis
 handwritten
 have
@@ -9459,6 +9480,7 @@ End
 Entity
 Expiration
 Ensuring
+Enable
 using
 utility
 use
@@ -10124,6 +10146,7 @@ dates
 dubious
 domains
 database
+defaults
 future
 from
 feed
@@ -10427,6 +10450,7 @@ faces
 finite
 float
 flatten
+ftree
 Optimziation
 Operations
 Once
@@ -10669,6 +10693,7 @@ Older
 Old
 Over
 Opposite
+Optimizing
 kind
 know
 knowledge
@@ -13443,6 +13468,7 @@ Ytgu
 YgY
 Ysv
 YEE
+Your
 Xk
 Xt
 Xs
