@@ -64,3 +64,8 @@ Cleaner than repeatedly writing derivatives (see Andrew Ng. @ Stanford)
 Examples:
 Logistic Regression (vectorized one observation)
 ![[Pasted image 20251110175218.png]]
+
+The basic structure for an MLP is an input layer (X), followed by a hidden layer (h), and an output layer (y):
+![[Pasted image 20251110175846.png]]
+![[Pasted image 20251110175855.png]]
+This is the computation for one observation that is passing through and being backpropagated. 
