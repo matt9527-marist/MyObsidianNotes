@@ -10,3 +10,5 @@ We our most basic model of a neural network:
 (see notes)
 The problem with this is that there was no real concept of learning originally. This was 1941, where a number of developments occurred in between then and the 1980s. 
 - 1958-1962: The **Perceptron**. 
+	- Looks similar to a linear regression, but in reality is a different field. 
+	- Model itself looks the same t
