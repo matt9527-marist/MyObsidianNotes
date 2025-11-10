@@ -59,3 +59,5 @@ The mathematics for this is from Calculus. In the multivariate world, it is very
 Whenever we have concurring branches we will have the equation: $$\frac{dZ}{dt} = \sum^{}_{}\frac{\partial Z}{\partial x_{j}} * \frac{dx_{j}}{dt}$$
 Doing the computations is particularly cumbersome. This is where the field of *automatic differentiation* comes from. This sows the manner in which we do the computations so that we can move forward. 
 When we are computing the derivative of J, or the terminal function, with respect to any parameter, we use the notation: $$\frac{dJ}{d\phi} = d\phi$$
+Cleaner than repeatedly writing derivatives (see Andrew Ng. @ Stanford)
+
