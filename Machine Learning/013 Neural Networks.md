@@ -30,4 +30,6 @@ The derivative of this function: $$g'(h) = g(h) * (1-g(h))$$
 The problem is that this derivative is flat, which means that the gradient used to update the weights will be quite small. This reduces the capacity for learning when we have many inputs. 
 A different function that the field has taken a liking to is called the **RELU Activation Function**. 
 (see notes)
-For any hidden layer in MLPs, RELU is the standard. I
+For any hidden layer in MLPs, RELU is the standard. Depending on the nature of the problem, of course. We may want to use sigmoid instead for something like binary classification. If it is a multi-class classification, we can use softmax. 
+In the hidden layers, however, we need some function to *ensure that gradients continue to backpropagate*. 
+
