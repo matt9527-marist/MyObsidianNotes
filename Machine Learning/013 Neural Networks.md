@@ -70,4 +70,9 @@ The basic structure for an MLP is an input layer (X), followed by a hidden layer
 ![[Pasted image 20251110175855.png]]
 This is the computation for one observation that is passing through and being backpropagated. This is to give us an idea of how complicated things can become. 
 
-These derivations are computed in iterations using Keras and Tenso
+These derivations are computed in iterations using Keras and TensorFlow modules via Colab. 
+*JAX* is a secondary platform that has seen more recent use. This is more like NumPy. 
+
+Computational graphs of feed forward and back propagate using JAX:
+[ml_computational_graphs_in_jax.ipynb](https://gist.github.com/eitellauria/83dd7484f4ac7a3b11d088a4797942de)
+
