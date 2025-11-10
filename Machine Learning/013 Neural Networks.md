@@ -16,3 +16,6 @@ The problem with this is that there was no real concept of learning originally. 
 	- This was originally built in software and was tested to try and classify letters. 
 - 1969: Minsky and Parpert 
 	- Show the the Perceptron cannot solve the XOR problem. Recall, there is no way to classify the points given by an XOR function using a single line. 
+	- The idea of a universal machine using a perceptron was dropped. 
+	- This began an AI Winter, where the development in the field decreased dramatically. 
+	- The solution that would come later by connectionists is adding a *hidden layer*. Using the hidden layer, we can produce a neural network that can serve as a universal approximator of any function. 
