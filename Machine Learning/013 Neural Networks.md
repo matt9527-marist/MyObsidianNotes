@@ -54,3 +54,5 @@ possible
 ![[Pasted image 20251110170012.png]]
 
 Backpropagation is the same as the *chain rule*. 
+The mathematics for this is from Calculus. In the multivariate world, it is very similar. 
+(see notes)
