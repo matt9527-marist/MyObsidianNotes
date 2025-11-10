@@ -33,3 +33,5 @@ A different function that the field has taken a liking to is called the **RELU A
 For any hidden layer in MLPs, RELU is the standard. Depending on the nature of the problem, of course. We may want to use sigmoid instead for something like binary classification. If it is a multi-class classification, we can use softmax. 
 In the hidden layers, however, we need some function to *ensure that gradients continue to backpropagate*. 
 
+![[Pasted image 20251110164208.png]]
+
