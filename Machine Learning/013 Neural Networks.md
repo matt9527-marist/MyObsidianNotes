@@ -36,3 +36,6 @@ In the hidden layers, however, we need some function to *ensure that gradients c
 ![[Pasted image 20251110164208.png]]
 ![[Pasted image 20251110164714.png]]
 
+In summary:
+![[Pasted image 20251110165520.png]]
+We write all of these computations in vectorized form because modern GPUs can handle the transformations via SIMD.

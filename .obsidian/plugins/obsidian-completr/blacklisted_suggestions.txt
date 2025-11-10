@@ -1,2 +1,6 @@
 create
 trial
+simd
+SIMD
+SIMT
+simply
