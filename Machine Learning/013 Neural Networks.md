@@ -61,3 +61,6 @@ Doing the computations is particularly cumbersome. This is where the field of *a
 When we are computing the derivative of J, or the terminal function, with respect to any parameter, we use the notation: $$\frac{dJ}{d\phi} = d\phi$$
 Cleaner than repeatedly writing derivatives (see Andrew Ng. @ Stanford)
 
+Examples:
+Logistic Regression (vectorized one observation)
+![[Pasted image 20251110175218.png]]
