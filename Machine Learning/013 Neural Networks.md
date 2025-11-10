@@ -40,4 +40,16 @@ In summary:
 ![[Pasted image 20251110165520.png]]
 We write all of these computations in vectorized form because modern GPUs can handle the transformations via SIMD.
 
-## Training Ne
+## Training Neural Networks Using Backpropagation 
+#Backpropagation 
+• Training is the process of setting the best
+weights on the edges connecting all the units in
+the network
+• The goal is to use the training set to calculate
+weights where the output of the network is as
+close to the desired output as possible for as
+many of the examples in the training set as
+possible
+
+![[Pasted image 20251110170012.png]]
+
