@@ -158,3 +158,28 @@ Verify with *Likwid*
 • Key output:  
 	• 256B vector ops: 640,000,000  
 	• 512B vector ops: 0
+
+**What Is Aliasing?**
+• Aliasing occurs when two or more pointers refer to overlapping memory  
+• Prevents the compiler from safely optimizing or vectorizing code  
+```c++
+void example(double *a, double *b) {  
+	a[0] = b[0] + 1; // If a and b alias, reordering or vectorizing is unsafe 
+}
+```
+• Compiler can't assume a[0] and b[0] are separate  
+• Disables aggressive optimizations like loop vectorization  
+• Solution: Use restrict if you guarantee no aliasing  
+• void example(double * restrict a, double * restrict b);
+
+Use with compiler optimizations:
+• -fstrict-aliasing: assumes no aliasing between pointers  
+• Default in -O2 and -O3 optimizations  
+• Caused issues with legacy code relying on aliasing  
+• Fewer function versions are generated due to compiler caution. Compilers now optimize more conservatively  
+• Use both:  
+	• restrict keyword: portable aliasing promise to the compiler  
+	• -fstrict-aliasing: enforces this behavior in compilation  
+• Note: Compiler behavior varies with versions  
+• Programmer hints are often needed for complex loop vectorization
+
