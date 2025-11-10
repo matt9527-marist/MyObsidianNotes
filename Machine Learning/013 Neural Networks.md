@@ -53,3 +53,4 @@ possible
 
 ![[Pasted image 20251110170012.png]]
 
+Backpropagation is the same as the *chain rule*. 
