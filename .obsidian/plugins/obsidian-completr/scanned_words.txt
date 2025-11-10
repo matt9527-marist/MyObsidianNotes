@@ -272,6 +272,8 @@ Minimizes
 Minimum
 MKL
 Manually
+Multilevel
+Modified
 Learning
 Learn
 Let
@@ -499,6 +501,7 @@ Larger
 Leblanc
 Long
 Libraries
+Lists
 Relevant
 Reading
 Research
@@ -730,6 +733,8 @@ Reordering
 Remaining
 Raspberry
 Requirements
+Revocation
+Reliability
 libraries
 learn
 learning
@@ -1034,6 +1039,9 @@ leaving
 latest
 lags
 locally
+liability
+links
+lax
 Graphing
 Google
 Game
@@ -1627,6 +1635,13 @@ Caused
 Conversion
 Compile
 Correlations
+Certificate
+CSR
+Certificates
+CAs
+City
+CRLs
+CRL
 Scikit
 Statistical
 Statistics
@@ -2164,6 +2179,7 @@ KEEf
 KWoBI
 Kahan
 Knuth
+Keeping
 TensorFlow
 Task
 Training
@@ -2431,6 +2447,8 @@ Tracks
 Terminology
 Trends
 TSNE
+Trust
+Those
 ISLP
 Iris
 Instance
@@ -2679,6 +2697,11 @@ Issue
 Illustration
 Increased
 Intrinsics
+Infrastructure
+Intermediate
+Intermedaite
+Instagram
+Indirect
 and
 ability
 approximation
@@ -3097,6 +3120,11 @@ associativity
 accumulator
 advanced
 acceptable
+authorities
+authority
+authorized
+authorization
+amicable
 Applications
 AI
 Analysis
@@ -3372,6 +3400,10 @@ Amazon
 Ask
 Auto
 Assembler
+Authority
+Authorization
+ACLs
+Availability
 with
 without
 want
@@ -3622,6 +3654,7 @@ wQrz
 wXHs
 wle
 worsen
+worries
 Python
 Performance
 Principle
@@ -3920,6 +3953,7 @@ Pairwise
 Practical
 Pragmas
 PCs
+PKs
 What
 We
 With
@@ -4111,6 +4145,7 @@ WEN
 WKU
 WyH
 Work
+Who
 is
 in
 if
@@ -4472,6 +4507,12 @@ inexact
 inconsistency
 involves
 ivdep
+initiate
+incoming
+indefinitely
+isolate
+identifiers
+immediate
 Field
 For
 Find
@@ -4707,6 +4748,7 @@ Fewer
 Finite
 Fujitsu
 Found
+Facebook
 of
 or
 optimize
@@ -4994,6 +5036,7 @@ outdated
 older
 omp
 orthogonal
+online
 study
 simplified
 something
@@ -5539,6 +5582,12 @@ spread
 social
 sciences
 sphere
+shadow
+signing
+someone
+solutions
+status
+seriously
 giving
 good
 generalizable
@@ -6375,6 +6424,14 @@ comparison
 cov
 corresponding
 cleanly
+central
+certify
+certificates
+certified
+compromises
+contractual
+contract
+credential
 the
 to
 training
@@ -6746,6 +6803,8 @@ tPA
 thx
 tGa
 tablets
+thereby
+tie
 being
 be
 by
@@ -7022,6 +7081,9 @@ busy
 built
 bar
 beings
+browser
+breach
+belongs
 explicitly
 experience
 error
@@ -7410,6 +7472,10 @@ eigen
 eigenvectors
 explaining
 euclidean
+entities
+entity
+expiration
+everyone
 programmed
 patterns
 program
@@ -7873,6 +7939,10 @@ pressure
 pre
 pragma
 places
+perspective
+pertains
+pay
+permissions
 Detecting
 Deepmind
 Dataset
@@ -8159,6 +8229,7 @@ Downsweep
 Direction
 DECOMPOSITION
 Dimensionality
+Dream
 regularities
 respect
 recognizing
@@ -8536,6 +8607,13 @@ rounding
 registers
 rightarrow
 ranking
+requesting
+responsible
+revalidated
+revocation
+revocations
+revoked
+responds
 model
 mostly
 machine
@@ -8876,6 +8954,8 @@ multimedia
 mathbf
 manifold
 multidimensional
+minutes
+mistakenly
 hypothesis
 handwritten
 have
@@ -9119,6 +9199,8 @@ hIo
 hWE
 hip
 hence
+hierarchies
+hours
 Execution
 Examples
 Economics
@@ -9368,6 +9450,10 @@ Eigen
 EIGEN
 Explained
 Earth
+End
+Entity
+Expiration
+Ensuring
 using
 utility
 use
@@ -9616,6 +9702,8 @@ upsweep
 uniformly
 uncorrelated
 unroll
+updates
+unique
 data
 driven
 dataset
@@ -10026,6 +10114,11 @@ dadb
 definite
 diag
 displaying
+date
+dates
+dubious
+domains
+database
 future
 from
 feed
@@ -10570,6 +10663,7 @@ Occurs
 Older
 Old
 Over
+Opposite
 kind
 know
 knowledge
@@ -10735,6 +10829,7 @@ kPl
 kRR
 kbT
 kBOQ
+keyholder
 value
 various
 variable
@@ -10978,6 +11073,8 @@ vZG
 vertical
 versions
 visualizing
+validates
+verification
 numerical
 no
 need
@@ -11285,6 +11382,7 @@ nTtz
 ntU
 nmE
 necessary
+names
 yes
 yield
 your
@@ -11884,6 +11982,7 @@ NqF
 NXpS
 NbR
 NEON
+Names
 quality
 question
 quickly
@@ -12834,6 +12933,9 @@ Ven
 VdJm
 VYe
 VXa
+Verizon
+Village
+Verification
 zero
 zu
 zj
