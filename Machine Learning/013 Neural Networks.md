@@ -25,3 +25,4 @@ The problem with this is that there was no real concept of learning originally. 
 #NeuralNetwork 
 Let us consider the structure of a basic neural network:
 (see notes)
+**Activation**: 
