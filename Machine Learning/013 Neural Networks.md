@@ -23,4 +23,5 @@ The problem with this is that there was no real concept of learning originally. 
 
 ## Neural Networks 
 #NeuralNetwork 
-Let us co 
+Let us consider the structure of a basic neural network:
+(see notes)

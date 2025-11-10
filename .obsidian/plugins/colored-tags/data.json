@@ -54,14 +54,16 @@
     "MultinomalLogisticRegression": 42,
     "SVMs": 43,
     "duality": 44,
-    "Ensembles": 45,
-    "Boosting": 46,
+    "Boosting": 45,
+    "Ensembles": 46,
     "Presentation_Part_1": 47,
     "Presentation_Part_2": 48,
     "Presentation_Part_3": 49,
     "Presentation_Part_4": 50,
     "stackedensembles": 51,
-    "PCA": 52
+    "PCA": 52,
+    "pragma": 53,
+    "NeuralNetwork": 54
   },
   "_version": 3
 }
