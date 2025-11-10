@@ -183,3 +183,4 @@ Use with compiler optimizations:
 • Note: Compiler behavior varies with versions  
 • Programmer hints are often needed for complex loop vectorization
 
+We can try all of the possible optimization flags if we find that we are not vectorizing. 
