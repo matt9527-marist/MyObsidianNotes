@@ -14,3 +14,5 @@ The problem with this is that there was no real concept of learning originally. 
 	- Model itself looks the same where the summation of inputs map to a given step function, but the perceptron enables the ability to learn. 
 	- (see notes)
 	- This was originally built in software and was tested to try and classify letters. 
+- 1969: Minsky and Parpert 
+	- Show the the Perceptron cannot solve the XOR problem. Recall, there is no way to classify the points given by an XOR function using a single line. 
