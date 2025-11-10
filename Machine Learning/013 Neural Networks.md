@@ -34,4 +34,5 @@ For any hidden layer in MLPs, RELU is the standard. Depending on the nature of t
 In the hidden layers, however, we need some function to *ensure that gradients continue to backpropagate*. 
 
 ![[Pasted image 20251110164208.png]]
+![[Pasted image 20251110164714.png]]
 
