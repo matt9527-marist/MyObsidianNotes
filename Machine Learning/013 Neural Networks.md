@@ -68,4 +68,5 @@ Logistic Regression (vectorized one observation)
 The basic structure for an MLP is an input layer (X), followed by a hidden layer (h), and an output layer (y):
 ![[Pasted image 20251110175846.png]]
 ![[Pasted image 20251110175855.png]]
-This is the computation for one observation that is passing through and being backpropagated. 
+This is the computation for one observation that is passing through and being backpropagated. This is to give us an idea of how complicated things can become. 
+
