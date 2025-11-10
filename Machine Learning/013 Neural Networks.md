@@ -25,4 +25,7 @@ The problem with this is that there was no real concept of learning originally. 
 #NeuralNetwork 
 Let us consider the structure of a basic neural network:
 (see notes)
-**Activation**: We
+**Activation**: When we take a nonlinear transformation, for example, recall the formula introduced in logistic regression: $$g(h) = \frac{1}{1+e^{-h}}$$
+The derivative of this function: $$g'(h) = g(h) * (1-g(h))$$
+The problem is that this derivative is flat, which means that the gradient used to update the weights will be quite small. This reduces the capacity for learning when we have many inputs. 
+A different function that the field has taken a liking to is called the **RE**
