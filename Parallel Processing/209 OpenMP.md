@@ -52,3 +52,30 @@ instantly to main memory.
 ![[Pasted image 20251110195615.png]]
 ![[Pasted image 20251110195627.png]]
 
+**7.2**
+• Definition of nthreads and thread_id in the serial region.  
+• All of the threads report that they are thread number 9.  
+	• This is because nthreads and thread_id are shared variables.  
+	• The value that is assigned at run time to these variables is the one  
+	written by the last thread to execute the instruction.  
+	• This is a typical race condition.  
+	• It is a common issue in threaded programs of any type.  
+**7.3**
+• Definition of nthreads and thread_id moved into the parallel region.  
+• Now we get a different thread ID for each thread.  
+• The order of the printout is random, depending on the order of the writes  
+from each processor,  
+• And how they get flushed to the standard output device.  
+**7.4**
+• Variables defined in a parallel region are private.  
+• Places output statements into an OpenMP single pragma block  
+• So, only one thread writes output.  
+**7.5**
+• Adds directive to run only on main thread  
+**7.6**
+• Moves cout statement out of parallel region  
+• Pragma applies to next statement or a scoping block delimited by curly braces.  
+• Replaces OpenMP masked pragma with conditional for thread zero  
+
+**Summary**
+![[Pasted image 20251110200245.png]]
