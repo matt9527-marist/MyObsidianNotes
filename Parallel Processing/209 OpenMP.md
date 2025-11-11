@@ -60,12 +60,26 @@ instantly to main memory.
 	written by the last thread to execute the instruction.  
 	• This is a typical race condition.  
 	• It is a common issue in threaded programs of any type.  
+![[Pasted image 20251110201437.png]]
 **7.3**
 • Definition of nthreads and thread_id moved into the parallel region.  
 • Now we get a different thread ID for each thread.  
 • The order of the printout is random, depending on the order of the writes  
 from each processor,  
 • And how they get flushed to the standard output device.  
+```c++
+int main() {  
+	int nthreads, thread_id;  
+	#pragma omp parallel  
+	{  
+		thread_id = omp_get_thread_num();  
+		nthreads = omp_get_num_threads()  
+		std::cout << "Goodbye slow serial world and Hello OpenMP!\n ";  
+		std::cout << "I have " << nthreads << " thread(s) and my thread id is " << thread_id << '\n';  
+	}  
+	return 0;  
+}  
+```
 **7.4**
 • Variables defined in a parallel region are private.  
 • Places output statements into an OpenMP single pragma block  
