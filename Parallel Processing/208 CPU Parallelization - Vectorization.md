@@ -211,3 +211,29 @@ int main() {
 	double mymindt = timestep(NCELLS, g, sigma, celltype, H, U, V, dx, dy);  
 		std::cout << "Minimum dt is " << mymindt << "\n";}  
 ```
+**Understanding Loop Dependencies in  
+Vectorization**
+• Flow Dependency (RAW): -> Read-after-write within the loop -> e.g., x[i] = ...; ... =  
+x[i];  
+• Anti-Flow Dependency (WAR):-> Write-after-read within the loop  
+-> e.g., ... = x[i]; x[i] = ...;  
+• Output Dependency: -> Write-after-write in the same loop -> e.g., x[i] = ...; x[i] = ...;
+
+**Stencil example: Compiler Vectorization Limitations**
+• Aliasing between x and xnew creates ambiguity  
+• Compiler assumes worst-case to prevent data hazards  
+• Outer loop vectorization fails due to potential output dependency  
+• Inner loop: unsafe if writes may overlap across iterations
+
+**Vectorization Speedup: Estimates vs. Reality**
+• Estimated speedup is labeled as potential-> Actual performance depends on hardware  
+factors  
+• Full Speedup Unlikely Unless: Data resides in high-level cache  
+	• Array length is sufficiently long  
+	• Kernel is not bandwidth-limited by main memory  
+• Real-World Performance (Skylake Gold, Intel Compiler)  
+	• Measured speedup: 1.39×  
+	• Limited by memory bandwidth, not compute  
+• Key Insight  
+• Vectorization improves compute throughput, but memory-bound kernels still limit  
+performance.
