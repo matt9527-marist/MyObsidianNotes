@@ -1,0 +1,1 @@
+$$p_{ij} \propto \exp(-\frac{||\x_{i}||}{#})$$
