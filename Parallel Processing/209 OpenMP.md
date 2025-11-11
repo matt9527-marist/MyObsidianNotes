@@ -40,3 +40,15 @@ threads.
 • That results in slower memory access when threads try to read/write it.  
 • Using first touch in parallel ensures memory is placed near each thread,  
 reducing access time.  
+
+**Relaxed Memory Model (OpenMP)**
+• Threads may not immediately see changes made by other threads to  
+shared variables.  
+• Each thread may keep variables in local cache, which isn’t updated  
+instantly to main memory.  
+• So, threads can get out-of-date values unless told to synchronize.  
+
+**OpenMP Directive Handling**
+![[Pasted image 20251110195615.png]]
+![[Pasted image 20251110195627.png]]
+
