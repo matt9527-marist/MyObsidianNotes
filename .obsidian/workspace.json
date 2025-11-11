@@ -186,8 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "c84039137253f1c8",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251110193912.png",
+    "Assets/Pasted image 20251110193850.png",
     "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Parallel Processing/209 OpenMP.md",
     "Machine Learning/013 Neural Networks.md",
@@ -201,7 +203,6 @@
     "Assets/Pasted image 20251110164709.png",
     "Assets/Pasted image 20251110164208.png",
     "Machine Learning/012 Dimensionality Reduction.md",
-    "Assets/Pasted image 20251110160018.png",
     "Security Protocols-Algorithms/006 PKI.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
@@ -223,7 +224,6 @@
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/Google Talk on Machine Learning.md",
-    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
     "Machine Learning/Midterm Review/ML Basics.canvas",
