@@ -211,4 +211,22 @@ proper location
 **Performance Overview**
 ![[Pasted image 20251110203304.png]]
 
-**How Triad Helps **
+**How Triad Helps Improve Memory Utilization**
+• Since it performs simple math, any slowdown is due to memory.  
+• It helps you test how much data your system can move per second.  
+• If performance drops with more threads, it's often due to:  
+	• Poor memory binding (wrong NUMA domain)  
+	• Shared cache contention  
+	• Threads moving across cores (fixable with OMP_PLACES= cores and  
+	OMP_PROC_BIND=true)  
+• If you parallelize array initialization, each thread touches its part first. This makes sure the  
+memory pages are allocated near the thread -> better NUMA performance.  
+
+**Loop-Level OpenMP: Reduction Pattern**
+• Used for operations reducing arrays to a scalar (e.g., sum)  
+• OpenMP handles thread-local accumulation and final reduction  
+• Requires a reduction clause in the pragma  
+
+**Requirements for OpenMP Loop Parallelism**
+![[Pasted image 20251110203651.png]]
+
