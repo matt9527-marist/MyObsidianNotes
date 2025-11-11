@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb7672ec66dc98c",
+        "id": "7fac31ef17ae6dce",
         "type": "tabs",
         "children": [
           {
-            "id": "b1839f3ca3108072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Processing/208 CPU Parallelization - Vectorization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "208 CPU Parallelization - Vectorization"
-            }
-          },
-          {
-            "id": "c84039137253f1c8",
+            "id": "5c8ad4dc0d52dbb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Security Protocols Article Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +148,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,6 +157,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,67 +167,63 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c84039137253f1c8",
+  "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
-    "Parallel Processing/209 OpenMP.md",
-    "Assets/Pasted image 20251110203651.png",
-    "Assets/Pasted image 20251110203650.png",
-    "Assets/Pasted image 20251110203304.png",
-    "Assets/Pasted image 20251110203259.png",
-    "Assets/Pasted image 20251110203218.png",
-    "Assets/Pasted image 20251110201437.png",
-    "Assets/Pasted image 20251110200245.png",
-    "Assets/Pasted image 20251110200242.png",
-    "Assets/Pasted image 20251110195627.png",
-    "Assets/Pasted image 20251110195615.png",
-    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
-    "Machine Learning/013 Neural Networks.md",
-    "Machine Learning/012 Dimensionality Reduction.md",
+    "Security Protocols-Algorithms/LaTeX Scratch.md",
     "Security Protocols-Algorithms/006 PKI.md",
+    "Assets/Pasted image 20251110165520.png",
+    "Assets/Pasted image 20251110164919.png",
+    "Assets/Pasted image 20251110164714.png",
+    "Assets/Pasted image 20251110164709.png",
+    "Assets/Pasted image 20251110164208.png",
+    "Assets/Pasted image 20251110160018.png",
+    "Assets/Pasted image 20251110155954.png",
+    "Assets/Pasted image 20251110155952.png",
+    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
+    "Parallel Processing/107 Parallel Algorithms II.md",
+    "Machine Learning/012 Dimensionality Reduction.md",
+    "Assets/Pasted image 20251105164121.png",
+    "Assets/Pasted image 20251105164056.png",
+    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "LaTeX Scratch.md",
+    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
-    "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
-    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
-    "Machine Learning/010 Support Vector Machines.md",
-    "Parallel Processing/106 Parallel Algorithms.md",
-    "Parallel Processing/107 Parallel Algorithms II.md",
-    "Machine Learning/008 Logistic Regression.md",
-    "Machine Learning/009 TF-IDF.md",
-    "Machine Learning/Assignment 1 Gradient Proof.md",
-    "Parallel Processing/000 Introduction.md",
     "Parallel Processing/105 Stencil With Materials.md",
-    "Security Protocols-Algorithms/Linux Overview.md",
-    "Security Protocols-Algorithms/README.md",
-    "Security Protocols-Algorithms/Secure Channel.md",
+    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
-    "Parallel Processing/104 Data Design and Performance Models.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
+    "Security Protocols-Algorithms/Secure Channel.md",
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
+    "Security Protocols-Algorithms/Linux Overview.md",
+    "Security Protocols-Algorithms/003 Hashing.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Machine Learning/Google Talk on Machine Learning.md",
-    "Machine Learning/Midterm Review/Logistic Regression.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Parallel Processing/104 Data Design and Performance Models.md",
+    "Machine Learning/010 Support Vector Machines.md",
+    "Parallel Processing/102 Planning for Parallelization.md",
+    "Parallel Processing/101 Parallel Computing.md",
+    "Parallel Processing/005 Memory Model.md",
+    "Parallel Processing/002.2 Vectors.md",
+    "Parallel Processing/004 Pointers and References.md",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/Text Classification.canvas",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Machine Learning/Midterm Review/Data Preprocessing.canvas",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
-    "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review",
-    "Untitled.base",
-    "PP Notes/Untitled.canvas",
     "PP Notes",
-    "github.com/catchorg/Catch2/releases/downloads/v2.13.7",
-    "github.com/catchorg/Catch2/releases/downloads",
-    "github.com/catchorg/Catch2/releases",
-    "github.com/catchorg/Catch2",
-    "github.com/catchorg",
-    "github.com",
-    "Security Protocols-Algorithms"
+    "Security Protocols-Algorithms",
+    "Sec Prot and Algorithms",
+    "Parallel Processing",
+    "Machine Learning",
+    "Assets"
   ]
 }
