@@ -43,3 +43,5 @@ reducing access time.
 
 
 $$normalize(x_{i}) = \frac{x_{i} - min(x)}{max(x) - min(x)}$$
+Where the RGB signature for each indiivdual student is a stacked triplet of:
+$$color_{i} = [r_{i}, g_{i}, ]$$
