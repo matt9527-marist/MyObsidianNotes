@@ -93,17 +93,97 @@ int main() {
 }  
 
 ```
+```c++
+#include <iostream>  
+#include <omp.h>  
+#include <format> // C++20+, used in C++23 as well  
+int main() {  
+	// Set number of threads (optional)  
+	omp_set_num_threads(4); // Or let it auto-detect  
+	// Parallel region starts here  
+	#pragma omp parallel  
+	{  
+		int thread_id = omp_get_thread_num();  
+		int total_threads = omp_get_num_threads();  
+		// Thread-safe output using C++23's std::format  
+		#pragma omp critical  
+		std::cout << std::format("Hello MSCS 679L! from thread {} of {}\n", thread_id, total_threads);  
+	}  
+	return 0;  
+}  
+//Hello MSCS 679L! from thread 0 of 4  
+//Hello MSCS 679L! from thread 2 of 4  
+//Hello MSCS 679L! from thread 1 of 4  
+//Hello MSCS 679L! from thread 3 of 4
+```
 **7.4**
 • Variables defined in a parallel region are private.  
 • Places output statements into an OpenMP single pragma block  
 • So, only one thread writes output.  
-
+```c++
+int main() {  
+	// >> Spawn threads >>  
+	#pragma omp parallel  
+	{  
+		int nthreads = omp_get_num_threads(); // Get total number of threads  
+		int thread_id = omp_get_thread_num(); // Get this thread's ID  
+		// Only one thread runs this block  
+		#pragma omp single  
+		{  
+		std::cout << "Number of threads is " << nthreads << '\n';  
+		std::cout << "My thread id is " << thread_id << '\n';  
+	}  
+	// Implied barrier after #pragma omp single  
+	}  
+	// Implied barrier after #pragma omp parallel  
+	return 0;  
+}  
+// Number of threads is 10  
+// My thread id is 2  
+```
 **7.5**
 • Adds directive to run only on main thread  
+```c++
+int main() {  
+	#pragma omp parallel // >> Spawn threads >>  
+	{  
+		int nthreads = omp_get_num_threads();  
+		int thread_id = omp_get_thread_num();  
+		#pragma omp masked // Only thread 0 executes this block  
+		{  
+			std::cout << "Goodbye slow serial world and Hello OpenMP!\n";  
+			std::cout << " I have " << nthreads << " thread(s), and my thread id is " <<  
+			thread_id << '\n';  
+		}  
+	} // Implied barrier after parallel region  
+	return 0;  
+}  
+//Goodbye slow serial world and Hello OpenMP!  
+// I have 10 thread(s), and my thread id is 0  
+```
 **7.6**
 • Moves cout statement out of parallel region  
 • Pragma applies to next statement or a scoping block delimited by curly braces.  
 • Replaces OpenMP masked pragma with conditional for thread zero  
+```c++
+#include <iostream>  
+#include <omp.h>  
+int main() {  
+	std::cout << "Goodbye slow serial world and Hello OpenMP!\n"; //  
+	#pragma omp parallel // >> Spawn threads >>  
+	{  
+	if (omp_get_thread_num() == 0) { //  
+	std::cout << " I have " << omp_get_num_threads()  
+	<< " thread(s) and my thread id is "  
+	<< omp_get_thread_num() << '\n';  
+	}  
+	// Implied barrier after parallel region  
+	}  
+	return 0;  
+}  
+//Goodbye slow serial world and Hello OpenMP!  
+// I have 10 thread(s) and my thread id is 0  
+```
 
 **Summary**
 ![[Pasted image 20251110200245.png]]
