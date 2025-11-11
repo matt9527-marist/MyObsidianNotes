@@ -40,8 +40,3 @@ threads.
 • That results in slower memory access when threads try to read/write it.  
 • Using first touch in parallel ensures memory is placed near each thread,  
 reducing access time.  
-
-
-$$normalize(x_{i}) = \frac{x_{i} - min(x)}{max(x) - min(x)}$$
-Where the RGB signature for each indiivdual student is a stacked triplet of:
-$$color_{i} = [r_{i}, g_{i}, ]$$
