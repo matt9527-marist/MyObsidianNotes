@@ -40,3 +40,6 @@ threads.
 • That results in slower memory access when threads try to read/write it.  
 • Using first touch in parallel ensures memory is placed near each thread,  
 reducing access time.  
+
+
+$$normalize(x_{i}) = \frac{x_{i} - min(x)}{max(x) - min(x)}$$
