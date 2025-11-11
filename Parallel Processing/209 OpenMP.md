@@ -187,5 +187,13 @@ int main() {
 
 **Summary**
 ![[Pasted image 20251110200245.png]]
+## Loop-Level OpenMP
 
-**Loop-Level OpenMP**
+**Loop-Level OpenMP for Quick Parallelization**
+• Suitable for modest parallelism needs  
+• Works well with low memory requirements  
+• Targets loops with high computational cost  
+• Quick and low-effort parallelization  
+• Reduces thread race conditions using `#pragma omp parallel` for  
+• Ideal first step for adding thread-level parallelism  
+2
