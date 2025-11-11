@@ -196,4 +196,18 @@ int main() {
 • Quick and low-effort parallelization  
 • Reduces thread race conditions using `#pragma omp parallel` for  
 • Ideal first step for adding thread-level parallelism  
-2
+
+Memory Allocation 
+![[Pasted image 20251110203218.png]]
+All the array memory is first touched by the main thread during the initialization prior to the main loop.  
+This can cause the memory to be located in a different memory region, where the memory access  
+time is greater for some of the threads.  
+
+Initialization using Parallel For:
+• Initialization in a “parallel for” pragma so first touch gets memory in the  
+proper location  
+• OpenMP for pragma to distribute work for vector add loop across threads  
+
+**Performance Overview**
+![[Pasted image 20251110203304.png]]
+

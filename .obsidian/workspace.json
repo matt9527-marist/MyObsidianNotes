@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pragma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,6 +189,9 @@
   },
   "active": "c84039137253f1c8",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251110203304.png",
+    "Assets/Pasted image 20251110203259.png",
+    "Assets/Pasted image 20251110203218.png",
     "Assets/Pasted image 20251110201437.png",
     "Assets/Pasted image 20251110200245.png",
     "Assets/Pasted image 20251110200242.png",
@@ -200,9 +203,6 @@
     "Parallel Processing/209 OpenMP.md",
     "Machine Learning/013 Neural Networks.md",
     "Assets/Pasted image 20251110175855.png",
-    "Assets/Pasted image 20251110175846.png",
-    "Assets/Pasted image 20251110175218.png",
-    "Assets/Pasted image 20251110170012.png",
     "Machine Learning/012 Dimensionality Reduction.md",
     "Security Protocols-Algorithms/006 PKI.md",
     "conflict-files-obsidian-git.md",
