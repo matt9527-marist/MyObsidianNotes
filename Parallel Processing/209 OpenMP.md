@@ -169,15 +169,15 @@ int main() {
 #include <iostream>  
 #include <omp.h>  
 int main() {  
-	std::cout << "Goodbye slow serial world and Hello OpenMP!\n"; //  
-	#pragma omp parallel // >> Spawn threads >>  
-	{  
-	if (omp_get_thread_num() == 0) { //  
-	std::cout << " I have " << omp_get_num_threads()  
-	<< " thread(s) and my thread id is "  
-	<< omp_get_thread_num() << '\n';  
-	}  
-	// Implied barrier after parallel region  
+		std::cout << "Goodbye slow serial world and Hello OpenMP!\n"; //  
+		#pragma omp parallel // >> Spawn threads >>  
+			{  
+			if (omp_get_thread_num() == 0) { //  
+			std::cout << " I have " << omp_get_num_threads()  
+			<< " thread(s) and my thread id is "  
+			<< omp_get_thread_num() << '\n';  
+			}  
+		// Implied barrier after parallel region  
 	}  
 	return 0;  
 }  
@@ -188,3 +188,4 @@ int main() {
 **Summary**
 ![[Pasted image 20251110200245.png]]
 
+**Loop-Level OpenMP**
