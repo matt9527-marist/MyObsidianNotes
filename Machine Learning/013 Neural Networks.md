@@ -83,5 +83,6 @@ Computational graphs of feed forward and back propagate using JAX:
 
 **First Look at Keras using MNIST Dataset**
 [ml_a-first-look-at-keras.ipynb](https://gist.github.com/eitellauria/ab6dcb4e9d90796b5bbe7c6b3f401a7d)
+Also see: [Keras](keras.io)
 
 
