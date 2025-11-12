@@ -125,4 +125,5 @@ predictions[0]
 **Regression Example**
 [ML_Keras_for_regression.ipynb](https://gist.github.com/eitellauria/5434238e6d340baa14e29761d20ac0bf)
 
+Similar example using California Housing Dataset to do regression:
 
