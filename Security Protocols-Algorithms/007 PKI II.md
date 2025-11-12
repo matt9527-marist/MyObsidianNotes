@@ -26,3 +26,10 @@ Pathlen tells us how long the chain of certification can be. If it was 1, this m
 
 ![[Pasted image 20251112162018.png]]
 
+**Creating Intermediate CA Certificate**
+![[Pasted image 20251112162805.png]]
+
+**Deploying the Cert in an HTTPS Website**
+![[Pasted image 20251112162916.png]]
+![[Pasted image 20251112162935.png]]
+
