@@ -97,5 +97,5 @@ model = keras.Sequential([
     keras.layers.Dense(10, activation="softmax")
 ])
 ```
-
-
+- Sequential denotes a traditional (garden variety) MLP, or layer by layer 
+- The sequential node will have 512 nodes in the hidden layer and 10 output nodes, corresponding to the 10 handwritten digits in the MNIST dataset. 
