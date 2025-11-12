@@ -78,3 +78,54 @@ Computational graphs of feed forward and back propagate using JAX:
 
 [ml_mlp_backpropagation_from_scratch.ipynb](https://gist.github.com/eitellauria/e03f467c136fd7d967f1945feb2316a0)
 
+## Keras and TensorFlow 
+![[Pasted image 20251112094300.png]]
+
+**First Look at Keras using MNIST Dataset**
+[ml_a-first-look-at-keras.ipynb](https://gist.github.com/eitellauria/ab6dcb4e9d90796b5bbe7c6b3f401a7d)
+Also see: [Keras](keras.io), originally only under *TensorFlow*, but now can serve independently. 
+
+Steps to use Keras: 
+1) Load data and perform preprocessing 
+	- We are discussing multi-dimensional arrays (tensors)
+	- Split between train and test data
+2) Set up the network architecture: 
+```Python
+import keras
+model = keras.Sequential([
+    keras.layers.Dense(512, activation="relu"),
+    keras.layers.Dense(10, activation="softmax")
+])
+```
+- Sequential denotes a traditional (garden variety) MLP, or layer by layer 
+- The sequential node will have 512 nodes in the hidden layer and 10 output nodes, corresponding to the 10 handwritten digits in the MNIST dataset. 
+- No need to specify the input layer in this example. 
+3) Compilation step 
+```python 
+model.compile(optimizer="rmsprop",
+              loss="sparse_categorical_crossentropy",
+              metrics=["accuracy"])
+```
+- There are other optimizers that allow us to ensure that we do not fall inside of local minima. 
+- We use the original categorical crossentropy, but a sparse version. Sparse is for exposing a number of possible categories as opposed to using one-hot encoding. 
+- This is not *fitting* the model, just building the model. 
+4) Fit the model 
+```python 
+model.fit(train_images, train_labels, epochs=5, batch_size=128)
+```
+- Using the same function provided by SkLearn. 
+5) Evaluate predictions 
+```Python
+test_digits = test_images[0:10]
+predictions = model.predict(test_digits)
+predictions[0]
+```
+- We can use the same SkLearn functions to evaluate the accuracy of the predictions. Same was as before. 
+
+**Regression Example**
+[ML_Keras_for_regression.ipynb](https://gist.github.com/eitellauria/5434238e6d340baa14e29761d20ac0bf)
+
+Similar example using California Housing Dataset to do regression:
+[ml_functional_api_in_keras.ipynb](https://gist.github.com/eitellauria/5b1530c530ef984976a4e60ab5f2d5b6)
+
+
