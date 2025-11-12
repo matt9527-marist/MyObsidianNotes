@@ -126,4 +126,6 @@ predictions[0]
 [ML_Keras_for_regression.ipynb](https://gist.github.com/eitellauria/5434238e6d340baa14e29761d20ac0bf)
 
 Similar example using California Housing Dataset to do regression:
+[ml_functional_api_in_keras.ipynb](https://gist.github.com/eitellauria/5b1530c530ef984976a4e60ab5f2d5b6)
+
 
