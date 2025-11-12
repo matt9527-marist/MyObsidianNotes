@@ -1760,11 +1760,9 @@ Specialized
 Systems
 Spawns
 Supported
-SIMD
 Single
 Saves
 Stream
-SIMT
 Supports
 Strategies
 Shows
@@ -5074,7 +5072,6 @@ strategy
 sure
 search
 squares
-simply
 searching
 should
 satisfy
@@ -5591,7 +5588,6 @@ synced
 signal
 shock
 smartphones
-simd
 sufficient
 spread
 social
@@ -9026,7 +9022,6 @@ hyperparameters
 highly
 had
 heap
-handling
 holds
 handle
 help
