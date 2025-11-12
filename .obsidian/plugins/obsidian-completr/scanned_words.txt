@@ -276,6 +276,9 @@ Multilevel
 Modified
 Math
 MEM
+Minsky
+MLPs
+MLP
 Learning
 Learn
 Let
@@ -507,6 +510,7 @@ Lists
 LAPACK
 Library
 Likwid
+Looks
 Relevant
 Reading
 Research
@@ -740,6 +744,8 @@ Raspberry
 Requirements
 Revocation
 Reliability
+Rosenblatt
+RELU
 libraries
 learn
 learning
@@ -1048,6 +1054,8 @@ liability
 links
 lax
 likwid
+lenses
+liking
 Graphing
 Google
 Game
@@ -1649,6 +1657,7 @@ CAs
 City
 CRLs
 CRL
+Cleaner
 Scikit
 Statistical
 Statistics
@@ -2027,6 +2036,8 @@ Specifying
 Sets
 Subprograms
 SCALAPACK
+Show
+Stanford
 Keras
 Key
 Kirchhoffs
@@ -3135,6 +3146,8 @@ authorization
 amicable
 algebra
 auto
+astigmatism
+approximator
 Applications
 AI
 Analysis
@@ -3414,6 +3427,7 @@ Authority
 Authorization
 ACLs
 Availability
+Andrew
 with
 without
 want
@@ -3964,6 +3978,8 @@ Practical
 Pragmas
 PCs
 PKs
+Perceptron
+Parpert
 What
 We
 With
@@ -4157,6 +4173,7 @@ WyH
 Work
 Who
 Width
+Winter
 is
 in
 if
@@ -5050,6 +5067,7 @@ older
 omp
 orthogonal
 online
+occurred
 study
 simplified
 something
@@ -5599,6 +5617,11 @@ someone
 solutions
 status
 seriously
+subject
+serve
+softmax
+sows
+secondary
 giving
 good
 generalizable
@@ -6446,6 +6469,10 @@ credential
 connectionist
 connectionism
 confirm
+contact
+connectionists
+concurring
+computed
 the
 to
 training
@@ -6821,6 +6848,9 @@ thereby
 tie
 tuned
 triad
+tear
+taken
+terminal
 being
 be
 by
@@ -7100,6 +7130,9 @@ beings
 browser
 breach
 belongs
+began
+backpropagate
+backpropagated
 explicitly
 experience
 error
@@ -7962,6 +7995,9 @@ pertains
 pay
 permissions
 perfctr
+prescription
+perceptron
+propagate
 Detecting
 Deepmind
 Dataset
@@ -8633,6 +8669,8 @@ revocation
 revocations
 revoked
 responds
+reality
+recent
 model
 mostly
 machine
@@ -8977,6 +9015,8 @@ minutes
 mistakenly
 mimicking
 mprefer
+myope
+modules
 hypothesis
 handwritten
 have
@@ -10142,6 +10182,10 @@ dubious
 domains
 database
 defaults
+developments
+decreased
+dramatically
+derivations
 future
 from
 feed
@@ -10446,6 +10490,8 @@ finite
 float
 flatten
 ftree
+figured
+feedforward
 Optimziation
 Operations
 Once
@@ -11600,6 +11646,7 @@ yIH
 ywj
 yem
 year
+young
 How
 Hinge
 Header
@@ -12008,6 +12055,8 @@ NXpS
 NbR
 NEON
 Names
+NeuralNetwork
+NumPy
 quality
 question
 quickly
@@ -13299,6 +13348,7 @@ JOi
 JII
 JTP
 JrQ
+JAX
 You
 Yw
 Ygy
