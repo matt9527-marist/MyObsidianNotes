@@ -12,4 +12,7 @@ TLS port 443
 
 **The Certificate Authority's Certificate**
 ![[Pasted image 20251112160232.png]]
-This certificate as a CA is valid for a m
+This certificate as a CA (Digicert) is valid for a much longer time, at least much longer than Paypal's certificate. We can still do encryption and decryption with this, and we still have all the information needed to verify the certificate. 
+This is indicated by the term: CA:TRUE. 
+Pathlen tells us how long the chain of certification can be. If it was 1, this means that this CA can then validate another CA. 
+
