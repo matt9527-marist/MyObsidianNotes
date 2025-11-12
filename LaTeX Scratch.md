@@ -6,4 +6,5 @@ $$w^Tx + b$$
 $$\hat{y} = \sigma(h) = \frac{1}{1+e^{-h}}$$
 
 
-$$$$
+$$\frac{d}{dh}\sigma(h) = \sigma(h) * (1-\sigma(h))$$
+$$\frac{d(w^Tw)}{dw} = 2w$$
