@@ -88,6 +88,7 @@ Also see: [Keras](keras.io), originally only under *TensorFlow*, but now can ser
 Steps to use Keras: 
 1) Load data and perform preprocessing 
 	- We are discussing multi-dimensional arrays (tensors)
+	- Split between train and test data
 2) Set up the network architecture: 
 ```Python
 import keras
