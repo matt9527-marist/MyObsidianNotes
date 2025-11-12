@@ -114,3 +114,12 @@ model.compile(optimizer="rmsprop",
 model.fit(train_images, train_labels, epochs=5, batch_size=128)
 ```
 - Using the same function provided by SkLearn. 
+5) Evaluate predictions 
+```Python
+test_digits = test_images[0:10]
+predictions = model.predict(test_digits)
+predictions[0]
+```
+- We can use the same SkLearn functions to evaluate the accuracy of the predictions. Same was as before. 
+
+
