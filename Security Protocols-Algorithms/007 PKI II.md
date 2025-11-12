@@ -41,4 +41,4 @@ We also need to edit the etc/hosts file so that it can contain the model website
 **Adding Root Cert to the Browser Cert in HTTPS Website**
 ![[Pasted image 20251112163018.png]]
 Import our certificate and save it. Add it as a new root certificate to the browser, which will then allow us to visit the Apache website without the error. 
-Illustrate 
+
