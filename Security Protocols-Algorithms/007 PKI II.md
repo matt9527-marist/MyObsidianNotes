@@ -16,3 +16,4 @@ This certificate as a CA (Digicert) is valid for a much longer time, at least mu
 This is indicated by the term: CA:TRUE. 
 Pathlen tells us how long the chain of certification can be. If it was 1, this means that this CA can then validate another CA. 
 
+**Becoming a CA**
