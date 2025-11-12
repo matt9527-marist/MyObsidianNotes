@@ -83,6 +83,18 @@ Computational graphs of feed forward and back propagate using JAX:
 
 **First Look at Keras using MNIST Dataset**
 [ml_a-first-look-at-keras.ipynb](https://gist.github.com/eitellauria/ab6dcb4e9d90796b5bbe7c6b3f401a7d)
-Also see: [Keras](keras.io)
+Also see: [Keras](keras.io), originally only under *TensorFlow*, but now can serve independently. 
+
+Steps to use Keras: 
+1) Load data and perform preprocessing 
+	- We are discussing multi-dimensional arrays (tensors)
+2) Set up the network architecture: 
+```Python
+import keras
+model = keras.Sequential([
+    keras.layers.Dense(512, activation="relu"),
+    keras.layers.Dense(10, activation="softmax")
+])
+```
 
 
