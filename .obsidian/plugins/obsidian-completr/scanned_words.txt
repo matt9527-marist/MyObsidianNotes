@@ -279,6 +279,7 @@ MEM
 Minsky
 MLPs
 MLP
+MNIST
 Learning
 Learn
 Let
@@ -2038,6 +2039,7 @@ Subprograms
 SCALAPACK
 Show
 Stanford
+Sequential
 Keras
 Key
 Kirchhoffs
@@ -5068,6 +5070,7 @@ omp
 orthogonal
 online
 occurred
+optimizers
 study
 simplified
 something
@@ -5622,6 +5625,7 @@ serve
 softmax
 sows
 secondary
+sequential
 giving
 good
 generalizable
@@ -5894,6 +5898,7 @@ ghost
 gaming
 gene
 gather
+garden
 computers
 computer
 can
@@ -6473,6 +6478,7 @@ contact
 connectionists
 concurring
 computed
+crossentropy
 the
 to
 training
@@ -6851,6 +6857,8 @@ triad
 tear
 taken
 terminal
+tensors
+traditional
 being
 be
 by
@@ -9017,6 +9025,7 @@ mimicking
 mprefer
 myope
 modules
+minima
 hypothesis
 handwritten
 have
@@ -10901,6 +10910,7 @@ kRR
 kbT
 kBOQ
 keyholder
+keras
 value
 various
 variable
@@ -11854,6 +11864,7 @@ Half
 History
 Hints
 Human
+Housing
 Not
 NOTHING
 No
