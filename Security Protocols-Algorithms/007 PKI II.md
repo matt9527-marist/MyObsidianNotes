@@ -10,3 +10,6 @@ When we download a certificate from a website, what are the key elements to look
 TLS port 443
 ![[Pasted image 20251112155419.png]]
 
+**The Certificate Authority's Certificate**
+![[Pasted image 20251112160232.png]]
+This certificate as a CA is valid for a m
