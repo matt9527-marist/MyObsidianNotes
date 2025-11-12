@@ -122,4 +122,7 @@ predictions[0]
 ```
 - We can use the same SkLearn functions to evaluate the accuracy of the predictions. Same was as before. 
 
+**Regression Example**
+[ML_Keras_for_regression.ipynb](https://gist.github.com/eitellauria/5434238e6d340baa14e29761d20ac0bf)
+
 
