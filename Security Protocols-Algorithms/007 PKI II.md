@@ -20,3 +20,7 @@ Pathlen tells us how long the chain of certification can be. If it was 1, this m
 ![[Pasted image 20251112161521.png]]
 
 **Asking the CA to sign the Request**
+1. Domain verification (DV)  
+2. Organization verification (OV)  
+3. Extended Verification (EV)
+
