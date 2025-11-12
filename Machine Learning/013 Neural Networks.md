@@ -106,4 +106,11 @@ model.compile(optimizer="rmsprop",
               loss="sparse_categorical_crossentropy",
               metrics=["accuracy"])
 ```
-- There are other 
+- There are other optimizers that allow us to ensure that we do not fall inside of local minima. 
+- We use the original categorical crossentropy, but a sparse version. Sparse is for exposing a number of possible categories as opposed to using one-hot encoding. 
+- This is not *fitting* the model, just building the model. 
+4) Fit the model 
+```python 
+model.fit(train_images, train_labels, epochs=5, batch_size=128)
+```
+- Using the same function provided
