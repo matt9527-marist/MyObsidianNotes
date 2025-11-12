@@ -35,7 +35,10 @@ Edit Apache configuration file.
 - Also allows us to edit the index.html file. 
 ![[Pasted image 20251112162916.png]]
 Normally, we would need to store these in the certs folder, which is where the configuration files searches to find these files. 
+We also need to edit the etc/hosts file so that it can contain the model website associated with the correct IP address. 
 ![[Pasted image 20251112162935.png]]
 
 **Adding Root Cert to the Browser Cert in HTTPS Website**
 ![[Pasted image 20251112163018.png]]
+Import our certificate and save it. Add it as a new root certificate to the browser, which will then allow us to visit the Apache website without the error. 
+Illustrate 
