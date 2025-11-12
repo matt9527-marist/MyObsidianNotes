@@ -4,3 +4,9 @@ When we download a certificate from a website, what are the key elements to look
 	- Querying a specific website or service. Through TLS, they provide their public key that verifies their X.509 certificate. 
 2. The Owner of the Public Key 
 3. The Certificate Authority's Signature
+
+**PayPal's Certificate**
+![[Pasted image 20251112155352.png]]
+TLS port 443
+![[Pasted image 20251112155419.png]]
+
