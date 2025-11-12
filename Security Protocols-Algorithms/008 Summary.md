@@ -16,3 +16,6 @@ We establish the communications first with public key encryption. This is becaus
 `X` is the shared symmetric key. 
 Alice will receive a public key `pk` from Bob, cerified via a certificate that authenticates Bob. 
 Bob will send over `X`, the shared secret, encrypted using `pk`, which only Alice can decrypt. 
+At the end of the process, both Alice and Bob will possess `pk` and `X`, the shared secret, which is also the shared AES symmetric key. 
+
+Asymmetric cryptography is not necessarily stronger than symmetric encryption, but it simplifies the key sharing and management process. Symmetric encryption is then used
