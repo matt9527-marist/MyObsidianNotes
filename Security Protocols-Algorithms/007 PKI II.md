@@ -30,6 +30,12 @@ Pathlen tells us how long the chain of certification can be. If it was 1, this m
 ![[Pasted image 20251112162805.png]]
 
 **Deploying the Cert in an HTTPS Website**
+Edit Apache configuration file. 
+- Aliases would be the extension names added to the certificate. 
+- Also allows us to edit the index.html file. 
 ![[Pasted image 20251112162916.png]]
+Normally, we would need to store these in the certs folder, which is where the configuration files searches to find these files. 
 ![[Pasted image 20251112162935.png]]
 
+**Adding Root Cert to the Browser Cert in HTTPS Website**
+![[Pasted image 20251112163018.png]]
