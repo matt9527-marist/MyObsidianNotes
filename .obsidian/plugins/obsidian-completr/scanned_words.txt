@@ -280,6 +280,7 @@ Minsky
 MLPs
 MLP
 MNIST
+Measured
 Learning
 Learn
 Let
@@ -747,6 +748,9 @@ Revocation
 Reliability
 Rosenblatt
 RELU
+Request
+RAW
+Reality
 libraries
 learn
 learning
@@ -1057,6 +1061,8 @@ lax
 likwid
 lenses
 liking
+legacy
+labeled
 Graphing
 Google
 Game
@@ -1659,6 +1665,9 @@ City
 CRLs
 CRL
 Cleaner
+Creating
+Cert
+Calculation
 Scikit
 Statistical
 Statistics
@@ -2040,6 +2049,8 @@ SCALAPACK
 Show
 Stanford
 Sequential
+Signature
+Stencil
 Keras
 Key
 Kirchhoffs
@@ -2470,6 +2481,10 @@ TSNE
 Trust
 Those
 Transform
+Through
+TLS
+TRUE
+Timestep
 ISLP
 Iris
 Instance
@@ -2723,6 +2738,7 @@ Intermediate
 Intermedaite
 Instagram
 Indirect
+Import
 and
 ability
 approximation
@@ -3150,6 +3166,9 @@ algebra
 auto
 astigmatism
 approximator
+aggressive
+aliasing
+ambiguity
 Applications
 AI
 Analysis
@@ -3430,6 +3449,12 @@ Authorization
 ACLs
 Availability
 Andrew
+Asking
+Apache
+Aliases
+Aliasing
+Anti
+Actual
 with
 without
 want
@@ -3982,6 +4007,10 @@ PCs
 PKs
 Perceptron
 Parpert
+PayPal
+Paypal
+Pathlen
+Prevents
 What
 We
 With
@@ -4176,6 +4205,8 @@ Work
 Who
 Width
 Winter
+Website
+WAR
 is
 in
 if
@@ -4543,6 +4574,7 @@ indefinitely
 isolate
 identifiers
 immediate
+indicated
 Field
 For
 Find
@@ -4781,6 +4813,7 @@ Found
 Facebook
 FFT
 Fourier
+Flow
 of
 or
 optimize
@@ -5071,6 +5104,10 @@ orthogonal
 online
 occurred
 optimizers
+overlapping
+overlap
+obtained
+openly
 study
 simplified
 something
@@ -5626,6 +5663,8 @@ softmax
 sows
 secondary
 sequential
+searches
+sigma
 giving
 good
 generalizable
@@ -6479,6 +6518,9 @@ connectionists
 concurring
 computed
 crossentropy
+certification
+certs
+conservatively
 the
 to
 training
@@ -6859,6 +6901,7 @@ taken
 terminal
 tensors
 traditional
+tandem
 being
 be
 by
@@ -7535,6 +7578,10 @@ expiration
 everyone
 effort
 excellent
+extension
+edit
+enforces
+establishing
 programmed
 patterns
 program
@@ -8006,6 +8053,8 @@ perfctr
 prescription
 perceptron
 propagate
+port
+promise
 Detecting
 Deepmind
 Dataset
@@ -8293,6 +8342,11 @@ Direction
 DECOMPOSITION
 Dimensionality
 Dream
+Digicert
+Deploying
+Disables
+Dependencies
+Dependency
 regularities
 respect
 recognizing
@@ -8679,6 +8733,8 @@ revoked
 responds
 reality
 recent
+relying
+resides
 model
 mostly
 machine
@@ -9271,6 +9327,10 @@ hence
 hierarchies
 hours
 historical
+html
+hosts
+hints
+hazards
 Execution
 Examples
 Economics
@@ -9525,6 +9585,9 @@ Entity
 Expiration
 Ensuring
 Enable
+Extended
+Edit
+Estimates
 using
 utility
 use
@@ -9775,6 +9838,7 @@ uncorrelated
 unroll
 updates
 unique
+unsafe
 data
 driven
 dataset
@@ -10501,6 +10565,7 @@ flatten
 ftree
 figured
 feedforward
+fstrict
 Optimziation
 Operations
 Once
@@ -10744,6 +10809,9 @@ Old
 Over
 Opposite
 Optimizing
+Owner
+Outer
+Originally
 kind
 know
 knowledge
@@ -11156,6 +11224,8 @@ versions
 visualizing
 validates
 verification
+verifies
+visit
 numerical
 no
 need
@@ -11865,6 +11935,7 @@ History
 Hints
 Human
 Housing
+HTTPS
 Not
 NOTHING
 No
@@ -12068,6 +12139,7 @@ NEON
 Names
 NeuralNetwork
 NumPy
+Normally
 quality
 question
 quickly
@@ -12424,6 +12496,7 @@ URi
 Unstructured
 Until
 Upsweep
+Unlikely
 Breakout
 Because
 Backpropagation
@@ -12681,6 +12754,8 @@ Begins
 Bound
 Bit
 BLAS
+Becoming
+Browser
 just
 jagged
 json
@@ -13838,6 +13913,7 @@ QUUE
 Quadratic
 Question
 Quad
+Querying
 ZgjY
 Zy
 Zky
@@ -14159,6 +14235,7 @@ xWm
 xONs
 xiW
 xZc
+xnew
 ßih
 ßG
 ßz

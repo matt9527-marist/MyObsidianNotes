@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1839f3ca3108072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Processing/208 CPU Parallelization - Vectorization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "208 CPU Parallelization - Vectorization"
-            }
-          },
-          {
-            "id": "c84039137253f1c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Protocols-Algorithms/006 PKI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "006 PKI"
-            }
-          },
-          {
             "id": "70eeb211627977aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Protocols-Algorithms/007 PKI II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "007 PKI II"
-            }
-          },
-          {
-            "id": "26f14b3d28541431",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,9 +20,22 @@
               "icon": "lucide-file",
               "title": "008 Summary"
             }
+          },
+          {
+            "id": "26f14b3d28541431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "005 Diffie Hellman and RSA"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,9 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "70eeb211627977aa",
   "lastOpenFiles": [
     "Security Protocols-Algorithms/007 PKI II.md",
+    "Security Protocols-Algorithms/006 PKI.md",
+    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
+    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Security Protocols-Algorithms/008 Summary.md",
     "Assets/Pasted image 20251112163018.png",
     "Assets/Pasted image 20251112162935.png",
@@ -227,17 +201,14 @@
     "Assets/Pasted image 20251112160232.png",
     "Assets/Pasted image 20251112155419.png",
     "Assets/Pasted image 20251112155352.png",
-    "Security Protocols-Algorithms/006 PKI.md",
     "Machine Learning/013 Neural Networks.md",
     "Assets/Pasted image 20251112094300.png",
     "Machine Learning/Assignment 4 Probability.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Parallel Processing/209 OpenMP.md",
-    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Machine Learning/012 Dimensionality Reduction.md",
     "conflict-files-obsidian-git.md",
-    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Machine Learning/010 Support Vector Machines.md",
     "Parallel Processing/106 Parallel Algorithms.md",
