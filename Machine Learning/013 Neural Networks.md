@@ -113,4 +113,4 @@ model.compile(optimizer="rmsprop",
 ```python 
 model.fit(train_images, train_labels, epochs=5, batch_size=128)
 ```
-- Using the same function provided
+- Using the same function provided by SkLearn. 
