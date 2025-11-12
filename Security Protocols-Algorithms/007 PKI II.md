@@ -24,3 +24,5 @@ Pathlen tells us how long the chain of certification can be. If it was 1, this m
 2. Organization verification (OV)  
 3. Extended Verification (EV)
 
+![[Pasted image 20251112162018.png]]
+
