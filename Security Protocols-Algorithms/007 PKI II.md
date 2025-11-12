@@ -17,3 +17,6 @@ This is indicated by the term: CA:TRUE.
 Pathlen tells us how long the chain of certification can be. If it was 1, this means that this CA can then validate another CA. 
 
 **Becoming a CA**
+![[Pasted image 20251112161521.png]]
+
+**Asking the CA to sign the Request**
