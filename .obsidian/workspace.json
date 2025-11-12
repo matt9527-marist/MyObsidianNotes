@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Security Protocols Article Presentation"
             }
+          },
+          {
+            "id": "337c1ec51f42a8c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8ad4dc0d52dbb3",
+  "active": "337c1ec51f42a8c2",
   "lastOpenFiles": [
     "Security Protocols-Algorithms/LaTeX Scratch.md",
     "Security Protocols-Algorithms/006 PKI.md",
