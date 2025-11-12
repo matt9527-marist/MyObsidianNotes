@@ -3135,6 +3135,7 @@ authorization
 amicable
 algebra
 auto
+authenticates
 Applications
 AI
 Analysis
@@ -5050,6 +5051,8 @@ older
 omp
 orthogonal
 online
+obtained
+openly
 study
 simplified
 something
@@ -5599,6 +5602,8 @@ someone
 solutions
 status
 seriously
+stronger
+simplifies
 giving
 good
 generalizable
@@ -6446,6 +6451,7 @@ credential
 connectionist
 connectionism
 confirm
+cerified
 the
 to
 training
@@ -6821,6 +6827,7 @@ thereby
 tie
 tuned
 triad
+tandem
 being
 be
 by
@@ -7494,6 +7501,7 @@ expiration
 everyone
 effort
 excellent
+establishing
 programmed
 patterns
 program
@@ -10689,6 +10697,7 @@ Old
 Over
 Opposite
 Optimizing
+Originally
 kind
 know
 knowledge
