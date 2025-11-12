@@ -14,4 +14,5 @@ We establish the communications first with public key encryption. This is becaus
 **How do we swap from asymmetric to symmetric cryptography?**
 ![[Pasted image 20251029155707.png]]
 `X` is the shared symmetric key. 
-
+Alice will receive a public key `pk` from Bob, cerified via a certificate that authenticates Bob. 
+Bob will send over `X`, the shared secret, encrypted using `pk`, which only Alice can decrypt. 
