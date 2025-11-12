@@ -99,3 +99,11 @@ model = keras.Sequential([
 ```
 - Sequential denotes a traditional (garden variety) MLP, or layer by layer 
 - The sequential node will have 512 nodes in the hidden layer and 10 output nodes, corresponding to the 10 handwritten digits in the MNIST dataset. 
+- No need to specify the input layer in this example. 
+3) Compilation step 
+```python 
+model.compile(optimizer="rmsprop",
+              loss="sparse_categorical_crossentropy",
+              metrics=["accuracy"])
+```
+- There are other 
