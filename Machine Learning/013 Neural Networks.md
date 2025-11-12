@@ -79,4 +79,6 @@ Computational graphs of feed forward and back propagate using JAX:
 [ml_mlp_backpropagation_from_scratch.ipynb](https://gist.github.com/eitellauria/e03f467c136fd7d967f1945feb2316a0)
 
 ## Keras and TensorFlow 
+![[Pasted image 20251112094300.png]]
+
 
