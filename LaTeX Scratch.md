@@ -14,4 +14,7 @@ $$\hat{y} = \sigma(h))$$
 $$J = -y\log(\hat{y})-(1-y)\log(1-\hat{y})$$
 
 $$d\hat{y} = -\frac{y}{\hat{y}} + \frac{1-y}{1-\hat{y}}$$
-	$$dh = d\hat{y} * \frac{ \partial \hat{y} }{ \partial h } =  $$
+$$dh = d\hat{y} * \frac{ \partial \hat{y} }{ \partial h } = (\hat{y} - y) $$
+$$dw = dh * \frac{ \partial h }{ \partial w } + \lambda w = (\hat{y} - y)x + \lambda w$$
+$$db = dh * \frac{ \partial h }{ \partial b } = (\hat{y} - y)$$
+
