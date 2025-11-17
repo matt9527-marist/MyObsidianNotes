@@ -45,3 +45,8 @@ This is different from the number of steps.
 For every time that we want to update the weights, if we want to go over the entire dataset, it will take a long time to learn. Recall: SGD. We create minibatches of the data instead. 
 
 *Steps* - refers to the batch size. Modern platforms randomize the minibatches so that each epoch does not use the same amount of steps. 
+![[Pasted image 20251117162158.png]]
+1875 steps over 10 epochs, meaning the model saw the entire dataset 10 times.
+This means that we have seen 18750 total updates (steps)
+
+**Optimizers** - Some version gradient descent that we have seen from the beginning. 
