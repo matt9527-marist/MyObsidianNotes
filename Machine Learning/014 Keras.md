@@ -70,4 +70,6 @@ This means that we have seen 18750 total updates (steps)
 	- One solution is #regularization. Shrink the parameters via a penalty term, and that way, we can ensure that we do not overfit. (L1 and L2)
 	- Suggested by Hinton in 2012: 
 		- Use **Dropout**: Wipe out at random some units and their connections from the network via a dropout layer during training. 
-		- 
+	- Another solution is **Early Stopping**
+	  ![[Pasted image 20251117165956.png]]
+	  Stop on the epochs. Monitor online the value of the loss on the training data and the validation data. When the two values begin to diverge, we stop early. Keep in mind that this illustration is in a perfect world. There is a parameter called `patience`, that allows us to check 2 or more epochs after that divergence point to see if it is indeed a sweet spot to stop. 
