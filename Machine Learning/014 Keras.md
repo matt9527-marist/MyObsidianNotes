@@ -107,6 +107,11 @@ Why do we need batch normalization? The same way by which we normalize the data:
 • 𝛽(beta) = learnable shift parameter, controls the offset of each activation  
 • 𝑦= normalized + reparameterized activation (the output passed to the next layer)
 
-**Dense Embeddings**
+## Dense Embeddings
 How to find ways of organizing text vectors? 
-- *Computational Linguistics*: a word's meaning is given by the words that 
+- *Computational Linguistics*: a word's meaning is given by the words that frequently appear close-by. That is, the meaning of a word must be understood within its context. 
+- One of the most successful ideas of modern statistical NLP. 
+- "Context" has become extremely relevant. We need to find a way of representing words that is not just by making a bag of words out of a dictionary. 
+
+> How do we *embed* words in meaning? 
+
