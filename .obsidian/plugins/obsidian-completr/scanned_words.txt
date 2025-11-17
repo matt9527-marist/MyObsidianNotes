@@ -514,6 +514,7 @@ LAPACK
 Library
 Likwid
 Looks
+Layer
 Relevant
 Reading
 Research
@@ -2053,6 +2054,7 @@ Stanford
 Sequential
 Signature
 Stencil
+Softmax
 Keras
 Key
 Kirchhoffs
@@ -2488,6 +2490,7 @@ TLS
 TRUE
 Timestep
 Topology
+Tends
 ISLP
 Iris
 Instance
@@ -3173,6 +3176,7 @@ aggressive
 aliasing
 ambiguity
 authenticates
+activated
 Applications
 AI
 Analysis
@@ -5672,6 +5676,8 @@ searches
 sigma
 stronger
 simplifies
+shallow
+saturation
 giving
 good
 generalizable
@@ -7591,6 +7597,7 @@ extension
 edit
 enforces
 establishing
+expontentially
 programmed
 patterns
 program
@@ -10270,6 +10277,7 @@ developments
 decreased
 dramatically
 derivations
+decreasing
 future
 from
 feed
@@ -11238,6 +11246,7 @@ validates
 verification
 verifies
 visit
+vanishing
 numerical
 no
 need
@@ -12152,6 +12161,7 @@ Names
 NeuralNetwork
 NumPy
 Normally
+Normalize
 quality
 question
 quickly
