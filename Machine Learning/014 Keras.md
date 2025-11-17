@@ -52,5 +52,7 @@ This means that we have seen 18750 total updates (steps)
 **Optimizers** - Some version gradient descent that we have seen from the beginning. 
 	**Momentum** - Give more "energy" to the algorithm so that it can move out of local minima. 
 	Like pushing a ball hard enough to move out of a pit. 
-	**Adagrad** - Try to direct how the gradient is going to move. The pure gradient's direction is to that of steepest descent. Adagrad modifies the gradient to be the "adaptive gradient".
+	**Adagrad** - Try to direct how the gradient is going to move. The pure gradient's direction is to that of steepest descent. Adagrad modifies the gradient to be the "adaptive gradient." 
+	![[Pasted image 20251117163639.png]]
+	Adapt the learning rate in the manner that it depends on the squares of the gradients. If certain features are not used frequently (for example in text), perhaps it will give more direction for weights corresponding to those features. The problem is that the squared value never decreases, so it cannot intuitively become smaller. With every pass, the algorithm will become slower. 
 
