@@ -34,3 +34,6 @@ Not different from regression, binary classification, or multi-class classificat
 - Multi-class Classification: Works with Softmax. 
 
 **Network Topology**
+How do we determine # of hidden layers? # neurons per hidden layer? 
+There is no single "best" configuration; it is determined via experimentation. 
+Keras has its own tuner, similar to the ones we have been using to do hyperparameter optimization (GridSearch, RandomSearch, Bayesian Search)
