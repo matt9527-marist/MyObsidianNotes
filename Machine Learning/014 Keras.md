@@ -1,4 +1,5 @@
-## Keras 
+## Keras
+#Keras
 Multiple factors to consider when building neural networks, multiple hyperparameters:
 – Data Preparation: Scale/ encode inputs and outputs  
 – Topology (# hidden layers, # neuron per hidden layer)  
@@ -88,4 +89,8 @@ Scheduling - learning rate of an optimizer is adjusted during the training proce
 *Inverse Time Delay* (Power Scheduling):
 `learning rate = initial_learning_rate / (1 + step / decay_steps)`
 *Exponential Rate Scheduling*: 
-`learning rate = initial_learning_rate * decay_rate^()`l
+`learning rate = initial_learning_rate * decay_rate^(step / decay steps)`
+*Piecewise Constant Scheduling*: - divides the training process into intervals:
+![[Pasted image 20251117173512.png]]
+
+**Batch Normalization**

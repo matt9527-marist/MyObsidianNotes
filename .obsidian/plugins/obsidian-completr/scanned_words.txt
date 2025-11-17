@@ -282,6 +282,10 @@ MLP
 MNIST
 Measured
 Momentum
+Means
+Moves
+Mean
+Monitor
 Learning
 Learn
 Let
@@ -515,6 +519,7 @@ Library
 Likwid
 Looks
 Layer
+Level
 Relevant
 Reading
 Research
@@ -754,6 +759,9 @@ Request
 RAW
 Reality
 ReLU
+Relaxed
+RandomSearch
+RMSProp
 libraries
 learn
 learning
@@ -1066,6 +1074,7 @@ lenses
 liking
 legacy
 labeled
+located
 Graphing
 Google
 Game
@@ -1288,6 +1297,9 @@ Graviton
 Guide
 Generates
 Gemini
+Give
+Generalization
+Generalize
 Charting
 Control
 Common
@@ -1671,6 +1683,8 @@ Cleaner
 Creating
 Cert
 Calculation
+Controlled
+Constant
 Scikit
 Statistical
 Statistics
@@ -2055,6 +2069,11 @@ Sequential
 Signature
 Stencil
 Softmax
+Sharing
+Suitable
+Shrink
+Suggested
+Scheduling
 Keras
 Key
 Kirchhoffs
@@ -2491,6 +2510,7 @@ TRUE
 Timestep
 Topology
 Tends
+Touch
 ISLP
 Iris
 Instance
@@ -3177,6 +3197,8 @@ aliasing
 ambiguity
 authenticates
 activated
+assigned
+adjustments
 Applications
 AI
 Analysis
@@ -3463,6 +3485,10 @@ Aliases
 Aliasing
 Anti
 Actual
+Adagrad
+Adapt
+Adam
+Adaptive
 with
 without
 want
@@ -4019,6 +4045,13 @@ PayPal
 Paypal
 Pathlen
 Prevents
+Private
+Pragma
+Places
+PLACES
+PROC
+Propagation
+Piecewise
 What
 We
 With
@@ -4216,6 +4249,7 @@ Winter
 Website
 WAR
 Watch
+Wipe
 is
 in
 if
@@ -4584,6 +4618,13 @@ isolate
 identifiers
 immediate
 indicated
+instruct
+isn
+immediately
+instantly
+intuitively
+illustration
+intervals
 Field
 For
 Find
@@ -5117,6 +5158,10 @@ overlapping
 overlap
 obtained
 openly
+overshooting
+overtraining
+overshoot
+optimizer
 study
 simplified
 something
@@ -5678,6 +5723,13 @@ stronger
 simplifies
 shallow
 saturation
+synchronize
+scoping
+slowdown
+steepest
+smoother
+sweet
+spot
 giving
 good
 generalizable
@@ -6535,6 +6587,12 @@ certification
 certs
 conservatively
 cerified
+cout
+curly
+clause
+comparing
+connections
+converging
 the
 to
 training
@@ -6917,6 +6975,11 @@ tensors
 traditional
 tandem
 tanh
+truly
+touched
+touch
+touches
+tuner
 being
 be
 by
@@ -7199,6 +7262,11 @@ belongs
 began
 backpropagate
 backpropagated
+braces
+binding
+batch
+beginning
+ball
 explicitly
 experience
 error
@@ -7598,6 +7666,9 @@ edit
 enforces
 establishing
 expontentially
+experimentation
+epoch
+epochs
 programmed
 patterns
 program
@@ -8071,6 +8142,11 @@ perceptron
 propagate
 port
 promise
+pragmas
+physically
+printout
+pushing
+pit
 Detecting
 Deepmind
 Dataset
@@ -8364,6 +8440,7 @@ Disables
 Dependencies
 Dependency
 Dropout
+Delay
 regularities
 respect
 recognizing
@@ -8752,6 +8829,8 @@ reality
 recent
 relying
 resides
+requirements
+randomize
 model
 mostly
 machine
@@ -9099,6 +9178,8 @@ mprefer
 myope
 modules
 minima
+masked
+modifies
 hypothesis
 handwritten
 have
@@ -9605,6 +9686,9 @@ Enable
 Extended
 Edit
 Estimates
+Epochs
+Epoch
+Exponential
 using
 utility
 use
@@ -9857,6 +9941,9 @@ updates
 unique
 unsafe
 uphill
+utilize
+undertrain
+unacceptable
 data
 driven
 dataset
@@ -10278,6 +10365,13 @@ decreased
 dramatically
 derivations
 decreasing
+directive
+delimited
+distribute
+drops
+determined
+dropout
+diverge
 future
 from
 feed
@@ -10585,6 +10679,7 @@ ftree
 figured
 feedforward
 fstrict
+fixable
 Optimziation
 Operations
 Once
@@ -10832,6 +10927,7 @@ Owner
 Outer
 Originally
 Optimizers
+OMP
 kind
 know
 knowledge
@@ -11555,6 +11651,7 @@ ntU
 nmE
 necessary
 names
+nthreads
 yes
 yield
 your
@@ -11957,6 +12054,8 @@ Hints
 Human
 Housing
 HTTPS
+Handling
+Hinton
 Not
 NOTHING
 No
@@ -12162,6 +12261,8 @@ NeuralNetwork
 NumPy
 Normally
 Normalize
+Non
+Normalization
 quality
 question
 quickly
@@ -12519,6 +12620,8 @@ Unstructured
 Until
 Upsweep
 Unlikely
+Uniform
+Utilization
 Breakout
 Because
 Backpropagation
@@ -12778,6 +12881,8 @@ Bit
 BLAS
 Becoming
 Browser
+BIND
+Batches
 just
 jagged
 json
@@ -13936,6 +14041,7 @@ Quadratic
 Question
 Quad
 Querying
+Quick
 ZgjY
 Zy
 Zky
