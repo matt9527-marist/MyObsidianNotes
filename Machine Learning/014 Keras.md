@@ -41,4 +41,6 @@ Keras has its own tuner, similar to the ones we have been using to do hyperparam
 **Epochs, Batches, and Steps**
 Epoch actually represents a full forward and backward pass, in which the full dataset has been seen:
 $$\text{steps per epoch} = \frac{\text{number of training samples}}{\text{batch size}}$$
-This is different from the number of steps. Using this approach 
+This is different from the number of steps. 
+For every time that we want to update the weights, if we want to go over the entire dataset, it will take a long time to learn. Recall: SGD. We create minibatches of the data instead. 
+We have coded a random selection of batches, but modern platforms instead take the full 
