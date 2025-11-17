@@ -94,3 +94,5 @@ Scheduling - learning rate of an optimizer is adjusted during the training proce
 ![[Pasted image 20251117173512.png]]
 
 **Batch Normalization**
+Why do we need batch normalization? The same way by which we normalize the data:
+- When we do the forward pass, we do not want to have covariance shift 
