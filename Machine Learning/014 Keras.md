@@ -124,4 +124,5 @@ Example: *Word2Vec*:
 - Predict rather than count. 
 
 ![[Pasted image 20251117180530.png]]
+Instead of counting each word, train a classifier that checks if word `w` is likely to show up near word `"fox"`. Use the running text as implicitly supervised training data. 
 
