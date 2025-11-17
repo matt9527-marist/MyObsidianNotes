@@ -73,3 +73,14 @@ This means that we have seen 18750 total updates (steps)
 	- Another solution is **Early Stopping**
 	  ![[Pasted image 20251117165956.png]]
 	  Stop on the epochs. Monitor online the value of the loss on the training data and the validation data. When the two values begin to diverge, we stop early. Keep in mind that this illustration is in a perfect world. There is a parameter called `patience`, that allows us to check 2 or more epochs after that divergence point to see if it is indeed a sweet spot to stop. 
+
+**Learning Rate Scheduling**
+• Small Learning Rate  
+	– With small learning rate, weight adjustments small  
+	– Network takes unacceptable time converging to solution  
+• Large Learning Rate  
+	– Suppose algorithm close to optimal solution  
+	– With large learning rate, network likely to “overshoot” optimal  
+	solution  
+
+
