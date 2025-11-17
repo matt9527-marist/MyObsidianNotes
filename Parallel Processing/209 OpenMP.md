@@ -229,4 +229,4 @@ memory pages are allocated near the thread -> better NUMA performance.
 
 **Requirements for OpenMP Loop Parallelism**
 ![[Pasted image 20251110203651.png]]
-
+## High-level OpenMP
