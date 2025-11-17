@@ -127,5 +127,4 @@ predictions[0]
 
 Similar example using California Housing Dataset to do regression:
 [ml_functional_api_in_keras.ipynb](https://gist.github.com/eitellauria/5b1530c530ef984976a4e60ab5f2d5b6)
-
-
+## Keras 
