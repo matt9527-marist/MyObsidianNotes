@@ -65,7 +65,8 @@
     "pragma": 53,
     "NeuralNetwork": 54,
     "Backpropagation": 55,
-    "include": 56
+    "include": 56,
+    "regularization": 57
   },
   "_version": 3
 }
