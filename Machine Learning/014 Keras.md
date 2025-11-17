@@ -83,4 +83,9 @@ This means that we have seen 18750 total updates (steps)
 	– With large learning rate, network likely to “overshoot” optimal  
 	solution  
 
+Scheduling - learning rate of an optimizer is adjusted during the training process. 
 
+*Inverse Time Delay* (Power Scheduling):
+`learning rate = initial_learning_rate / (1 + step / decay_steps)`
+*Exponential Rate Scheduling*: 
+`learning rate = initial_learning_rate * decay_rate^()`l
