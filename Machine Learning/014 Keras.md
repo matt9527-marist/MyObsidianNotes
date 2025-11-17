@@ -55,4 +55,8 @@ This means that we have seen 18750 total updates (steps)
 	**Adagrad** - Try to direct how the gradient is going to move. The pure gradient's direction is to that of steepest descent. Adagrad modifies the gradient to be the "adaptive gradient." 
 	![[Pasted image 20251117163639.png]]
 	Adapt the learning rate in the manner that it depends on the squares of the gradients. If certain features are not used frequently (for example in text), perhaps it will give more direction for weights corresponding to those features. The problem is that the squared value never decreases, so it cannot intuitively become smaller. With every pass, the algorithm will become slower. 
+	**RMSProp** - Root Mean Squared Propagation 
+	![[Pasted image 20251117163933.png]]
+	Weighted running average. This looks similar to Adagrad, but it speeds up the process by comparing the average weights to the weight of the previous observations. 
+	s_t 
 
