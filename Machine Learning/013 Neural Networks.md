@@ -149,4 +149,7 @@ Usually done for better performance.
 **Hidden Layer Activation Functions**
 ![[Pasted image 20251117160120.png]]
 ![[Pasted image 20251117160138.png]]
-Do not use *Sigmoid* for anything beyond shallow models, as it will lead to expontentially decreasing gradients (vanishing gradient or gradient saturation), reduci
+Do not use *Sigmoid* for anything beyond shallow models, as it will lead to expontentially decreasing gradients (vanishing gradient or gradient saturation), reducing the effectiveness of the training of the model. 
+
+![[Pasted image 20251117160458.png]]
+Tends to have the best performance, but comes with the issue
