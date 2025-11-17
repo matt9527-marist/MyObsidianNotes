@@ -58,5 +58,8 @@ This means that we have seen 18750 total updates (steps)
 	**RMSProp** - Root Mean Squared Propagation 
 	![[Pasted image 20251117163933.png]]
 	Weighted running average. This looks similar to Adagrad, but it speeds up the process by comparing the average weights to the weight of the previous observations. 
-	s_t 
+	s_t = weight on old avg. + weight on new observation.
+	**Adam** - Controlled in the same manner by a weighted running average. Adaptive in terms of how the gradient is going to move. 
+	![[Pasted image 20251117164243.png]]
+	Helps
 
