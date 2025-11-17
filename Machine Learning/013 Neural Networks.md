@@ -128,3 +128,19 @@ predictions[0]
 Similar example using California Housing Dataset to do regression:
 [ml_functional_api_in_keras.ipynb](https://gist.github.com/eitellauria/5b1530c530ef984976a4e60ab5f2d5b6)
 ## Keras 
+Multiple factors to consider when building neural networks, multiple hyperparameters:
+– Data Preparation: Scale/ encode inputs and outputs  
+– Topology (# hidden layers, # neuron per hidden layer)  
+– Hidden layer(s) activation (typically ReLU, may be tanh, avoid  
+sigmoid)  
+– Output Activation: sigmoid, softmax, linear (for regression)  
+– Optimizers (type of gradient descent algorithm)  
+– Learning Rate  
+– Momentum (more energy to go uphill)  
+– Regularization and Dropout  
+– How much training? Watch out for overfitting  
+– Training, validation and Testing
+
+**Input Scaling / Encoding**
+Usually done for better performance.
+- Normaliz

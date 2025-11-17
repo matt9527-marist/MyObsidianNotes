@@ -281,6 +281,7 @@ MLPs
 MLP
 MNIST
 Measured
+Momentum
 Learning
 Learn
 Let
@@ -751,6 +752,7 @@ RELU
 Request
 RAW
 Reality
+ReLU
 libraries
 learn
 learning
@@ -2485,6 +2487,7 @@ Through
 TLS
 TRUE
 Timestep
+Topology
 ISLP
 Iris
 Instance
@@ -4208,6 +4211,7 @@ Width
 Winter
 Website
 WAR
+Watch
 is
 in
 if
@@ -6906,6 +6910,7 @@ terminal
 tensors
 traditional
 tandem
+tanh
 being
 be
 by
@@ -8351,6 +8356,7 @@ Deploying
 Disables
 Dependencies
 Dependency
+Dropout
 regularities
 respect
 recognizing
@@ -9843,6 +9849,7 @@ unroll
 updates
 unique
 unsafe
+uphill
 data
 driven
 dataset
@@ -10816,6 +10823,7 @@ Optimizing
 Owner
 Outer
 Originally
+Optimizers
 kind
 know
 knowledge
