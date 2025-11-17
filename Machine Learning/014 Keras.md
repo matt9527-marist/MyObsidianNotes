@@ -37,3 +37,8 @@ Not different from regression, binary classification, or multi-class classificat
 How do we determine # of hidden layers? # neurons per hidden layer? 
 There is no single "best" configuration; it is determined via experimentation. 
 Keras has its own tuner, similar to the ones we have been using to do hyperparameter optimization (GridSearch, RandomSearch, Bayesian Search)
+
+**Epochs, Batches, and Steps**
+Epoch actually represents a full forward and backward pass, in which the full dataset has been seen:
+$$\text{steps per epoch} = \frac{\text{number of training samples}}{\text{batch size}}$$
+This is different from the number of steps. Using this approach 
