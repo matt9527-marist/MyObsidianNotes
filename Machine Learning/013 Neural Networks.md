@@ -158,4 +158,7 @@ We also may want to add a small margin or slope to the function where x < 0 to i
 
 *What about Output Activation?*
 Not different from regression, binary classification, or multi-class classification:
-- Regression: No activation, it is a linear output. 
+- Regression: No activation, it is a linear output. Sum of the weights * activated layers + bias to give us a numerical prediction, which can be a scalar or vector value. 
+- Binary Classification: Works with regular Sigmoid activation 
+- Multi-class Classification: Works with Softmax. 
+
