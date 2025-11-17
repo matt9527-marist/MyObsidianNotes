@@ -50,3 +50,5 @@ For every time that we want to update the weights, if we want to go over the ent
 This means that we have seen 18750 total updates (steps)
 
 **Optimizers** - Some version gradient descent that we have seen from the beginning. 
+
+**Momentum** - 
