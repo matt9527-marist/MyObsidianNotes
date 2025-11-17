@@ -126,3 +126,5 @@ Example: *Word2Vec*:
 ![[Pasted image 20251117180530.png]]
 Instead of counting each word, train a classifier that checks if word `w` is likely to show up near word `"fox"`. Use the running text as implicitly supervised training data. 
 
+![[Pasted image 20251117180812.png]]
+After training, we essentially obtain a word lookup table that is the hidden layer weight matrix of the model that we trained. We can discard the outputs. 
