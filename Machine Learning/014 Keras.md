@@ -62,5 +62,7 @@ This means that we have seen 18750 total updates (steps)
 	**Adam** - Controlled in the same manner by a weighted running average. Adaptive in terms of how the gradient is going to move. 
 	![[Pasted image 20251117164243.png]]
 		Helps us avoid local minima. Momentum gives direction -> faster smoother movement, RMSProp adapts learning rate per parameter -> prevents overshooting, Adam = Momentum + RMSProp
-	
+
+**Early Stopping**
+
 
