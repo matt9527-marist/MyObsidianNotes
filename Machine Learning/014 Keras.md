@@ -51,4 +51,6 @@ This means that we have seen 18750 total updates (steps)
 
 **Optimizers** - Some version gradient descent that we have seen from the beginning. 
 
-**Momentum** - 
+**Momentum** - Give more "energy" to the algorithm so that it can move out of local minima. 
+Like pushing a ball hard enough to move out of a pit. 
+
