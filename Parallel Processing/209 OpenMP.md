@@ -230,3 +230,16 @@ memory pages are allocated near the thread -> better NUMA performance.
 **Requirements for OpenMP Loop Parallelism**
 ![[Pasted image 20251110203651.png]]
 ## High-level OpenMP
+Stencil Example: Adds the surrounding neighbors and takes an average  
+for the new value of the cell
+
+**Transitioning to High-Level OpenMP**
+• Step 1: Reduce thread startup by merging parallel regions into a single  
+region across multiple loops.  
+• Step 2: Improve synchronization by adding nowait where barriers aren't  
+needed and manually partitioning loop iterations.  
+• Step 3: Optimize memory access by making arrays and variables private  
+to threads.  
+• Step 4: After each step, check thoroughly for race conditions to ensure  
+correctness.
+
