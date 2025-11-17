@@ -100,8 +100,8 @@ Why do we need batch normalization? The same way by which we normalize the data:
 ![[Pasted image 20251117173954.png]]
 (Sum of the weights * the activations * biases)
 
-• ℎ= the raw activation (output of a neuron before nonlinearity)  
-• 𝜇𝐵, 𝜎^2_𝐵  = mean and variance of 𝑥 in the current mini-batch  
+• ℎ = the raw activation (output of a neuron before nonlinearity)  
+• 𝜇𝐵, 𝜎^2_𝐵  = mean and variance of ℎ in the current mini-batch  
 • 𝜖 = small constant for numerical stability  
 • 𝛾(gamma) = learnable scale parameter, controls the amplitude of each activation  
 • 𝛽(beta) = learnable shift parameter, controls the offset of each activation  
