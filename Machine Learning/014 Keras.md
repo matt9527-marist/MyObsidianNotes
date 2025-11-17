@@ -63,9 +63,11 @@ This means that we have seen 18750 total updates (steps)
 	![[Pasted image 20251117164243.png]]
 		Helps us avoid local minima. Momentum gives direction -> faster smoother movement, RMSProp adapts learning rate per parameter -> prevents overshooting, Adam = Momentum + RMSProp
 
-**Early Stopping**
+**Early Stopping and Dropout**
 *Overfitting and Generalization*
 - Generalize from training examples to all possible inputs. 
 - We do not want to undertrain, but overtraining is just as bad. 
 	- One solution is #regularization. Shrink the parameters via a penalty term, and that way, we can ensure that we do not overfit. (L1 and L2)
-	- 
+	- Suggested by Hinton in 2012: 
+		- Use **Dropout**: Wipe out at random some units and their connections from the network via a dropout layer during training. 
+		- 
