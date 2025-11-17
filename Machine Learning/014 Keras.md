@@ -95,4 +95,14 @@ Scheduling - learning rate of an optimizer is adjusted during the training proce
 
 **Batch Normalization**
 Why do we need batch normalization? The same way by which we normalize the data:
-- When we do the forward pass, we do not want to have covariance shift 
+- When we do the forward pass, we do not want to have covariance shift in the inputs to each layer. It can very easily occur that, at a given layer of activation, an internal covariance shift may develop. 
+- Why not in the same that we are scaling the data in the forward pass, we scale the activations? 
+![[Pasted image 20251117173954.png]]
+(Sum of the weights * the activations * biases)
+
+• ℎ= the raw activation (output of a neuron before nonlinearity)  
+• 𝜇𝐵, 𝜎^2_𝐵  = mean and variance of 𝑥 in the current mini-batch  
+• 𝜖 = small constant for numerical stability  
+• 𝛾(gamma) = learnable scale parameter, controls the amplitude of each activation  
+• 𝛽(beta) = learnable shift parameter, controls the offset of each activation  
+• 𝑦= normalized + reparameterized activation (the output passed to the next layer)
