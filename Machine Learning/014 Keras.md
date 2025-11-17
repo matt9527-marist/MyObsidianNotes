@@ -43,4 +43,5 @@ Epoch actually represents a full forward and backward pass, in which the full da
 $$\text{steps per epoch} = \frac{\text{number of training samples}}{\text{batch size}}$$
 This is different from the number of steps. 
 For every time that we want to update the weights, if we want to go over the entire dataset, it will take a long time to learn. Recall: SGD. We create minibatches of the data instead. 
-We have coded a random selection of batches, but modern platforms instead take the full 
+
+*Steps* - refers to the batch size. Modern platforms randomize the minibatches so that each epoch does not use the same amount of steps. 
