@@ -106,3 +106,7 @@ Why do we need batch normalization? The same way by which we normalize the data:
 • 𝛾(gamma) = learnable scale parameter, controls the amplitude of each activation  
 • 𝛽(beta) = learnable shift parameter, controls the offset of each activation  
 • 𝑦= normalized + reparameterized activation (the output passed to the next layer)
+
+**Dense Embeddings**
+How to find ways of organizing text vectors? 
+- *Computational Linguistics*: a word's meaning is given by the words that 
