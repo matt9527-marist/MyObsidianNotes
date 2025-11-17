@@ -50,7 +50,7 @@ For every time that we want to update the weights, if we want to go over the ent
 This means that we have seen 18750 total updates (steps)
 
 **Optimizers** - Some version gradient descent that we have seen from the beginning. 
-
-**Momentum** - Give more "energy" to the algorithm so that it can move out of local minima. 
-Like pushing a ball hard enough to move out of a pit. 
+	**Momentum** - Give more "energy" to the algorithm so that it can move out of local minima. 
+	Like pushing a ball hard enough to move out of a pit. 
+	**Adagrad** - Try to direct how the gradient is going to move. The pure gradient's direction is to that of steepest descent. Adagrad modifies the gradient to be the "adaptive gradient".
 
