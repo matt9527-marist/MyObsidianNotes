@@ -147,3 +147,6 @@ Usually done for better performance.
 - Min-Max, One-Hot-Encoding 
 
 **Hidden Layer Activation Functions**
+![[Pasted image 20251117160120.png]]
+![[Pasted image 20251117160138.png]]
+Do not use *Sigmoid* for anything beyond shallow models, as it will lead to expontentially decreasing gradients (vanishing gradient or gradient saturation), reduci
