@@ -115,3 +115,6 @@ How to find ways of organizing text vectors?
 
 > How do we *embed* words in meaning? 
 
+![[Pasted image 20251117175943.png]]
+A lot of computational linguistics is tied to this idea. This is trained typically from large quantities of data. It has been successful, but also incredibly biased. 
+
