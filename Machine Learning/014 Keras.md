@@ -118,3 +118,10 @@ How to find ways of organizing text vectors?
 ![[Pasted image 20251117175943.png]]
 A lot of computational linguistics is tied to this idea. This is trained typically from large quantities of data. It has been successful, but also incredibly biased. 
 
+Example: *Word2Vec*:
+- Training a neural network assuming that at the end, we get some results. 
+- Forget the results. We want the weights. 
+- Predict rather than count. 
+
+![[Pasted image 20251117180530.png]]
+
