@@ -3169,6 +3169,7 @@ approximator
 aggressive
 aliasing
 ambiguity
+authenticates
 Applications
 AI
 Analysis
@@ -5665,6 +5666,8 @@ secondary
 sequential
 searches
 sigma
+stronger
+simplifies
 giving
 good
 generalizable
@@ -6521,6 +6524,7 @@ crossentropy
 certification
 certs
 conservatively
+cerified
 the
 to
 training
