@@ -143,4 +143,7 @@ sigmoid)
 
 **Input Scaling / Encoding**
 Usually done for better performance.
-- Normaliz
+- Normalize the data before training the model 
+- Min-Max, One-Hot-Encoding 
+
+**Hidden Layer Activation Functions**
