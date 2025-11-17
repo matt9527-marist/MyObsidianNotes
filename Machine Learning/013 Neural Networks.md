@@ -152,4 +152,10 @@ Usually done for better performance.
 Do not use *Sigmoid* for anything beyond shallow models, as it will lead to expontentially decreasing gradients (vanishing gradient or gradient saturation), reducing the effectiveness of the training of the model. 
 
 ![[Pasted image 20251117160458.png]]
-Tends to have the best performance, but comes with the issue
+Tends to have the best performance, but comes with the issue of not being able to compute the derivative at the point x = 0. 
+We also may want to add a small margin or slope to the function where x < 0 to improve the model's training performance, as shown:
+![[Pasted image 20251117160646.png]]
+
+*What about Output Activation?*
+Not different from regression, binary classification, or multi-class classification:
+- Regression: No activation, it is a linear output. 
