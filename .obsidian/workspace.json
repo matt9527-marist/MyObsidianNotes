@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/008 Summary.md",
+                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008 Summary"
+              "title": "005 Diffie Hellman and RSA"
             }
           },
           {
@@ -187,11 +187,11 @@
   },
   "active": "70eeb211627977aa",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/008 Summary.md",
     "Security Protocols-Algorithms/007 PKI II.md",
     "Security Protocols-Algorithms/006 PKI.md",
     "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
-    "Security Protocols-Algorithms/008 Summary.md",
     "Assets/Pasted image 20251112163018.png",
     "Assets/Pasted image 20251112162935.png",
     "Assets/Pasted image 20251112162916.png",
