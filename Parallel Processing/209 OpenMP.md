@@ -285,3 +285,15 @@ one per spatial direction
 	• High-level OpenMP enables dimension-specific privatization  
 	• Choose which matrix dimensions are private, shared, or both
 
+**Improving Locality with First-Touch Principle**
+• First-Touch Principle  
+	• Memory is allocated close to the thread that first accesses it  
+	• Helps ensure local memory access, improving performance  
+• Optimization Strategy:  
+	• Make array sections private to threads when possible  
+	(e.g., x-face data)  
+• Why It Matters:  
+	• Number of processors is increasing  
+	• Reducing memory access latency is critical  
+	• Improves locality -> Reduces pressure on shared memory  
+• Start with a serial implementation before parallelizing
