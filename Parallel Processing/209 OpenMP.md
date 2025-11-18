@@ -275,12 +275,12 @@ one per spatial direction
 	• Two-step stencil computes on x-face and y-face data  
 	• Data-sharing needs differ by array dimension  
 	• Data Sharing Challenges:  
-• x-face data:  
-• Aligned with thread decomposition  
-• Each thread doesn’t need the full array  
-• y-face data:  
-• Spans across threads  
-• Requires shared access to 2D array  
+	• x-face data:  
+		• Aligned with thread decomposition  
+		• Each thread doesn’t need the full array  
+	• y-face data:  
+		• Spans across threads  
+		• Requires shared access to 2D array  
 • Solution:  
 	• High-level OpenMP enables dimension-specific privatization  
 	• Choose which matrix dimensions are private, shared, or both
