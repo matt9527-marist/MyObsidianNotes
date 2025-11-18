@@ -243,3 +243,18 @@ to threads.
 • Step 4: After each step, check thoroughly for race conditions to ensure  
 correctness.
 
+• Reduces fork/join overhead  
+	• Threads stay alive (dormant)  
+	instead of respawning  
+• Minimizes memory latency  
+	• Better data locality and cache  
+	efficiency  
+• Reduces thread wait time  
+	• Threads don’t implicitly wait for  
+	each other  
+• Explicit synchronization control  
+	• You decide when and how threads  
+	sync
+
+![[Pasted image 20251117190310.png]]
+
