@@ -263,10 +263,25 @@ Stencil example exposing challenges with OpenMP threads:
 • Implemented in two passes,  
 one per spatial direction  
 (e.g., x-pass, then y-pass)  
-• Challenges with OpenMP:  
-• Thread synchronization  
-between passes  
-• Data dependencies across  
-directions  
-• Potential for race conditions  
-if not managed carefully
+	• Challenges with OpenMP:  
+	• Thread synchronization  
+	between passes  
+	• Data dependencies across  
+	directions  
+	• Potential for race conditions  
+	if not managed carefully
+
+• Key Concepts:  
+	• Two-step stencil computes on x-face and y-face data  
+	• Data-sharing needs differ by array dimension  
+	• Data Sharing Challenges:  
+• x-face data:  
+• Aligned with thread decomposition  
+• Each thread doesn’t need the full array  
+• y-face data:  
+• Spans across threads  
+• Requires shared access to 2D array  
+• Solution:  
+	• High-level OpenMP enables dimension-specific privatization  
+	• Choose which matrix dimensions are private, shared, or both
+
