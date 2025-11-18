@@ -258,3 +258,15 @@ correctness.
 
 ![[Pasted image 20251117190310.png]]
 
+![[Pasted image 20251117193219.png]]
+Stencil example exposing challenges with OpenMP threads:
+• Implemented in two passes,  
+one per spatial direction  
+(e.g., x-pass, then y-pass)  
+• Challenges with OpenMP:  
+• Thread synchronization  
+between passes  
+• Data dependencies across  
+directions  
+• Potential for race conditions  
+if not managed carefully

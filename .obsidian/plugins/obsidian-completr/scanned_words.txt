@@ -3199,6 +3199,8 @@ authenticates
 activated
 assigned
 adjustments
+aren
+alive
 Applications
 AI
 Analysis
@@ -5730,6 +5732,8 @@ steepest
 smoother
 sweet
 spot
+startup
+synchronization
 giving
 good
 generalizable
@@ -6980,6 +6984,7 @@ touched
 touch
 touches
 tuner
+thoroughly
 being
 be
 by
@@ -7267,6 +7272,7 @@ binding
 batch
 beginning
 ball
+barriers
 explicitly
 experience
 error
@@ -8831,6 +8837,7 @@ relying
 resides
 requirements
 randomize
+respawning
 model
 mostly
 machine
@@ -9180,6 +9187,7 @@ modules
 minima
 masked
 modifies
+merging
 hypothesis
 handwritten
 have
@@ -10372,6 +10380,7 @@ drops
 determined
 dropout
 diverge
+dormant
 future
 from
 feed
@@ -10680,6 +10689,7 @@ figured
 feedforward
 fstrict
 fixable
+fork
 Optimziation
 Operations
 Once
@@ -10928,6 +10938,7 @@ Outer
 Originally
 Optimizers
 OMP
+Optimize
 kind
 know
 knowledge
@@ -11652,6 +11663,7 @@ nmE
 necessary
 names
 nthreads
+nowait
 yes
 yield
 your
@@ -13028,6 +13040,7 @@ jeC
 jBI
 jii
 jYc
+join
 Vectors
 Vectorization
 Visualization
