@@ -149,7 +149,11 @@ What are the *Pooling Layers*?
 - Think of PCA. This is Image Reduction to reduce the dimensionality and basically keep the only features that we care about the most in the image. 
 - Pooling takes a feature map and reduces it. Pooling acts like a filter or kernel as well. We can do max pooling or average pooling. 
 ![[Pasted image 20251119100952.png]]
-- Using the previous example, this may give us a better (32, 1)
+- Using the previous example, this may give us a better (32, 12x12). 
+At the end of the convolutional and pooling layers (together referred to as the feature extraction component), we then *flatten* the output. 
+- This is the classification component, where we output into a dense (
+
+The weights are the filters -> the set of numbers that are used to obtain the features from the image. 
 
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
