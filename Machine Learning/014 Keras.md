@@ -134,6 +134,9 @@ Keep in mind that each dense layer uses RELU, and the output layer uses Softmax 
 
 > Too many parameters! What are the alternatives? 
 
+Consider the visual domain. Studies have been developed on animals that discuss their visual system as a hierarchy. This has led to the creation of convolutional neural networks. 
+## Convolutional Neural Networks (CNNs)
+
 
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
