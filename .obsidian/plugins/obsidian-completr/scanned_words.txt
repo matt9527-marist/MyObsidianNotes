@@ -522,6 +522,7 @@ Looks
 Layer
 Level
 Launched
+Linguistics
 Relevant
 Reading
 Research
@@ -1077,6 +1078,8 @@ liking
 legacy
 labeled
 located
+learnable
+linguistics
 Graphing
 Google
 Game
@@ -1688,6 +1691,7 @@ Calculation
 Controlled
 Constant
 Cartesian
+Context
 Scikit
 Statistical
 Statistics
@@ -3207,6 +3211,8 @@ assigned
 adjustments
 aren
 alive
+activations
+amplitude
 Applications
 AI
 Analysis
@@ -4259,6 +4265,7 @@ Website
 WAR
 Watch
 Wipe
+Word
 is
 in
 if
@@ -4874,6 +4881,7 @@ Facebook
 FFT
 Fourier
 Flow
+Forget
 of
 or
 optimize
@@ -5172,6 +5180,7 @@ overshooting
 overtraining
 overshoot
 optimizer
+offset
 study
 simplified
 something
@@ -5742,6 +5751,7 @@ sweet
 spot
 startup
 synchronization
+successful
 giving
 good
 generalizable
@@ -6015,6 +6025,7 @@ gaming
 gene
 gather
 garden
+gamma
 computers
 computer
 can
@@ -6608,6 +6619,7 @@ converging
 collective
 custom
 carefully
+covariance
 the
 to
 training
@@ -7284,6 +7296,9 @@ batch
 beginning
 ball
 barriers
+beta
+bag
+biased
 explicitly
 experience
 error
@@ -7686,6 +7701,7 @@ expontentially
 experimentation
 epoch
 epochs
+embed
 programmed
 patterns
 program
@@ -8851,6 +8867,7 @@ requirements
 randomize
 respawning
 recv
+reparameterized
 model
 mostly
 machine
@@ -9711,6 +9728,7 @@ Epochs
 Epoch
 Exponential
 Exchanging
+Embeddings
 using
 utility
 use
@@ -9966,6 +9984,7 @@ uphill
 utilize
 undertrain
 unacceptable
+understood
 data
 driven
 dataset
@@ -10396,6 +10415,7 @@ dropout
 diverge
 dormant
 deadlock
+discard
 future
 from
 feed
@@ -11679,6 +11699,8 @@ necessary
 names
 nthreads
 nowait
+normalization
+normalized
 yes
 yield
 your
@@ -12290,6 +12312,7 @@ Normally
 Normalize
 Non
 Normalization
+NLP
 quality
 question
 quickly
@@ -13253,6 +13276,7 @@ VXa
 Verizon
 Village
 Verification
+Vec
 zero
 zu
 zj
