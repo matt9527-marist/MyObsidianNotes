@@ -154,7 +154,6 @@ At the end of the convolutional and pooling layers (together referred to as the 
 - This is the classification component, where we output into a dense layer/feedforward network. and output layer (10 output nodes in our example)
 
 The weights are the filters -> the set of numbers that are used to obtain the features from the image. This process of mimicking the visual hierarchy of feature extraction significantly reduces the number of weights that we have. 
-
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
 - *Computational Linguistics*: a word's meaning is given by the words that frequently appear close-by. That is, the meaning of a word must be understood within its context. 
