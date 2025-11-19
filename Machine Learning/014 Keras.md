@@ -109,14 +109,23 @@ Why do we need batch normalization? The same way by which we normalize the data:
 
 **Overview**
 ![[Pasted image 20251119093545.png]]
-Example MLP using the MNist Dataset 
+Example MLP using the MNist Dataset: Calculate # of Parameters
 Dense(512): 784 x 512 + 512 = 401,920 parameters
 Batch(512): 512 + 512 (alpha + beta) = 1024
 	(Non-trainable Parameters): 512 + 512 = 1024
 Suppose we are using a dropout value of 0.5: dropping out half of the parameters 
 Dropout(512) = 0 parameters
 
-Dense(64) = 512 x 64 + 64 = 
+Dense(64) = 512 x 64 + 64 = 32,832 parameters 
+Batch(64) = 64 + 64 = 128 
+	NT Parameters: = 64 + 64 = 128 
+Dropout(64) = 0 parameters 
+
+Dense(32) = 64 x 32 + 32 = 2,080 parameters  
+Batch(32) = 32 + 32  = 64
+	NT Parameters: 32 + 32 = 64
+Dropout(32) = 0 parameters 
+
 
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
