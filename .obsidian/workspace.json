@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/006 PKI.md",
+                "file": "Security Protocols-Algorithms/008 Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006 PKI"
+              "title": "008 Summary"
             }
           }
         ],
@@ -202,6 +202,8 @@
   },
   "active": "4dd42938381d8a5f",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/007 PKI II.md",
+    "Security Protocols-Algorithms/006 PKI.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Machine Learning/014 Keras.md",
     "Assets/Pasted image 20251119100952.png",
@@ -223,10 +225,8 @@
     "Machine Learning/Assignment 4 Probability.md",
     "Machine Learning/012 Dimensionality Reduction.md",
     "conflict-files-obsidian-git.md",
-    "Security Protocols-Algorithms/006 PKI.md",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/008 Summary.md",
-    "Security Protocols-Algorithms/007 PKI II.md",
     "Machine Learning/007 NB for Text Classification.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Machine Learning/011 Tree-Based Methods and Ensembles.md",
