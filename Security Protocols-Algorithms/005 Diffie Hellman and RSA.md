@@ -51,7 +51,7 @@ Possible Ways to Hack Kerberos
 
 **What do we Choose?**
 If you can, also use Kerberos, or a cloud equivalent. 
-If you cannot, significant time and resources wil lgo into developing a secure system like the initial key server. 
+If you cannot, significant time and resources will go into developing a secure system like the initial key server. 
 
 **Current State of Key Exchange**
 ![[Pasted image 20251022162057.png]]
