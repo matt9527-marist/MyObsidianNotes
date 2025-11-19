@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+                "file": "Security Protocols-Algorithms/006 PKI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 Diffie Hellman and RSA"
+              "title": "006 PKI"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "4dd42938381d8a5f",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Machine Learning/014 Keras.md",
     "Assets/Pasted image 20251119100952.png",
     "Assets/Pasted image 20251119100120.png",
@@ -221,7 +222,6 @@
     "Machine Learning/013 Neural Networks.md",
     "Machine Learning/Assignment 4 Probability.md",
     "Machine Learning/012 Dimensionality Reduction.md",
-    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/006 PKI.md",
     "LaTeX Scratch.md",
