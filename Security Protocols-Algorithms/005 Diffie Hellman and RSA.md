@@ -8,7 +8,7 @@ Aspects of our full cryptosystem:
 Setting up one key server that maintains state 
 Steps of this Alternative Method 
 1. The client and the key server set up a secure channel 
-2. The client requests to set up authentication with a service servers
+2. The client requests to set up authentication with a service server.
 3. The key server sends K(AB) to both the client and the service server.
 Risks:
 4. One computer with all keys is an attractive target to attackers  
