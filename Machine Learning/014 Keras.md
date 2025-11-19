@@ -137,7 +137,10 @@ Keep in mind that each dense layer uses RELU, and the output layer uses Softmax 
 Consider the visual domain. Studies have been developed on animals that discuss their visual system as a hierarchy. This has led to the creation of convolutional neural networks. 
 ## Convolutional Neural Networks (CNNs)
 ![[Pasted image 20251119095511.png]]
-
+What are the *Convolutional Layers*? 
+- Another usage of the dot product. 
+What are the *Pooling Layers*?
+- Think of PCA. This is Image Reduction to reduce the dimensionality and basically keep the only features that we care about the most in the image. 
 
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
