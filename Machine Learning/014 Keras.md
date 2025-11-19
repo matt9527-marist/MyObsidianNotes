@@ -136,6 +136,7 @@ Keep in mind that each dense layer uses RELU, and the output layer uses Softmax 
 
 Consider the visual domain. Studies have been developed on animals that discuss their visual system as a hierarchy. This has led to the creation of convolutional neural networks. 
 ## Convolutional Neural Networks (CNNs)
+![[Pasted image 20251119095511.png]]
 
 
 ## Dense Embeddings
