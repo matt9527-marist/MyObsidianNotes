@@ -139,6 +139,9 @@ Consider the visual domain. Studies have been developed on animals that discuss 
 ![[Pasted image 20251119095511.png]]
 What are the *Convolutional Layers*? 
 - Another usage of the dot product. 
+- ![[Pasted image 20251119100120.png]]
+- Works like a typewriter, where the filter will reset to the next position until it has moved over the entire image over all steps. We may also want to change the step size. 
+- What if the filter does not cleanly move ob
 What are the *Pooling Layers*?
 - Think of PCA. This is Image Reduction to reduce the dimensionality and basically keep the only features that we care about the most in the image. 
 
