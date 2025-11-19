@@ -126,6 +126,11 @@ Batch(32) = 32 + 32  = 64
 	NT Parameters: 32 + 32 = 64
 Dropout(32) = 0 parameters 
 
+Dense(10) = 32 x 10 + 10 = 330 parameters 
+
+*Summary*: This means that the above network has 437, 162 parameters. 
+Batch Normalization: 1,216 + 1,216 (NT)
+Ke
 
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
