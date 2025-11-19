@@ -112,7 +112,7 @@ Why do we need batch normalization? The same way by which we normalize the data:
 Example MLP using the MNist Dataset: Calculate # of Parameters
 Dense(512): 784 x 512 + 512 = 401,920 parameters
 Batch(512): 512 + 512 (alpha + beta) = 1024
-	(Non-trainable Parameters): 512 + 512 = 1024
+	(Non-trainable Parameters): 512 + 512 (mean and variance) = 1024
 Suppose we are using a dropout value of 0.5: dropping out half of the parameters 
 Dropout(512) = 0 parameters
 
@@ -130,7 +130,10 @@ Dense(10) = 32 x 10 + 10 = 330 parameters
 
 *Summary*: This means that the above network has 437, 162 parameters. 
 Batch Normalization: 1,216 + 1,216 (NT)
-Ke
+Keep in mind that each dense layer uses RELU, and the output layer uses Softmax (for the multi-class classification)
+
+> Too many parameters! What are the alternatives? 
+
 
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
