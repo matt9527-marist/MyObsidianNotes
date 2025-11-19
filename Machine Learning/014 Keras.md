@@ -143,6 +143,7 @@ What are the *Convolutional Layers*?
 - Works like a typewriter, where the filter will reset to the next position until it has moved over the entire image over all steps. We may also want to change the step size. 
 - What if the filter does not cleanly move over the image? For this case, we may need to do padding on the input matrix in order to have room for the filter. 
 - This filter is also called a "kernel." We compute the dot product between the convolutional filter and the input matrix section to derive a *convolved feature*. 
+- After using multiple filters, we can obtain a *feature map*. Then we can repeat the process, where each of the feature maps are like small reduced images that we can further do convolution upon. 
 What are the *Pooling Layers*?
 - Think of PCA. This is Image Reduction to reduce the dimensionality and basically keep the only features that we care about the most in the image. 
 
