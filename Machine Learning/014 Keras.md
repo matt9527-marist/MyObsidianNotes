@@ -107,6 +107,12 @@ Why do we need batch normalization? The same way by which we normalize the data:
 • 𝛽(beta) = learnable shift parameter, controls the offset of each activation  
 • 𝑦= normalized + reparameterized activation (the output passed to the next layer)
 
+**Overview**
+![[Pasted image 20251119093545.png]]
+Example MLP using the MNist Dataset 
+Dense(512): 784 x 512 + 512 = 401,920 
+Batch(512): 512 + 512 (alpha + beta)
+ 
 ## Dense Embeddings
 How to find ways of organizing text vectors? 
 - *Computational Linguistics*: a word's meaning is given by the words that frequently appear close-by. That is, the meaning of a word must be understood within its context. 
