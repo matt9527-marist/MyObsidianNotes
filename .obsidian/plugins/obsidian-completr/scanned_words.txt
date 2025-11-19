@@ -287,6 +287,7 @@ Moves
 Mean
 Monitor
 Major
+MNist
 Learning
 Learn
 Let
@@ -523,6 +524,7 @@ Layer
 Level
 Launched
 Linguistics
+Layers
 Relevant
 Reading
 Research
@@ -2082,6 +2084,7 @@ Shrink
 Suggested
 Scheduling
 Sending
+Studies
 Keras
 Key
 Kirchhoffs
@@ -3213,6 +3216,7 @@ aren
 alive
 activations
 amplitude
+animals
 Applications
 AI
 Analysis
@@ -4067,6 +4071,7 @@ PROC
 Propagation
 Piecewise
 Prototypes
+Parameters
 What
 We
 With
@@ -6620,6 +6625,8 @@ collective
 custom
 carefully
 covariance
+convolved
+convolution
 the
 to
 training
@@ -7008,6 +7015,8 @@ touch
 touches
 tuner
 thoroughly
+trainable
+typewriter
 being
 be
 by
@@ -7702,6 +7711,7 @@ experimentation
 epoch
 epochs
 embed
+extraction
 programmed
 patterns
 program
@@ -8868,6 +8878,8 @@ randomize
 respawning
 recv
 reparameterized
+reset
+reduced
 model
 mostly
 machine
