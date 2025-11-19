@@ -286,6 +286,7 @@ Means
 Moves
 Mean
 Monitor
+Major
 Learning
 Learn
 Let
@@ -520,6 +521,7 @@ Likwid
 Looks
 Layer
 Level
+Launched
 Relevant
 Reading
 Research
@@ -1685,6 +1687,7 @@ Cert
 Calculation
 Controlled
 Constant
+Cartesian
 Scikit
 Statistical
 Statistics
@@ -2074,6 +2077,7 @@ Suitable
 Shrink
 Suggested
 Scheduling
+Sending
 Keras
 Key
 Kirchhoffs
@@ -2765,6 +2769,8 @@ Intermedaite
 Instagram
 Indirect
 Import
+Isend
+Irecv
 and
 ability
 approximation
@@ -4054,6 +4060,7 @@ PLACES
 PROC
 Propagation
 Piecewise
+Prototypes
 What
 We
 With
@@ -4627,6 +4634,7 @@ instantly
 intuitively
 illustration
 intervals
+inter
 Field
 For
 Find
@@ -6597,6 +6605,9 @@ clause
 comparing
 connections
 converging
+collective
+custom
+carefully
 the
 to
 training
@@ -8153,6 +8164,7 @@ physically
 printout
 pushing
 pit
+physics
 Detecting
 Deepmind
 Dataset
@@ -8838,6 +8850,7 @@ resides
 requirements
 randomize
 respawning
+recv
 model
 mostly
 machine
@@ -9697,6 +9710,7 @@ Estimates
 Epochs
 Epoch
 Exponential
+Exchanging
 using
 utility
 use
@@ -10381,6 +10395,7 @@ determined
 dropout
 diverge
 dormant
+deadlock
 future
 from
 feed
@@ -12634,6 +12649,7 @@ Upsweep
 Unlikely
 Uniform
 Utilization
+Ubiquitous
 Breakout
 Because
 Backpropagation
@@ -12895,6 +12911,7 @@ Becoming
 Browser
 BIND
 Batches
+Blocking
 just
 jagged
 json
