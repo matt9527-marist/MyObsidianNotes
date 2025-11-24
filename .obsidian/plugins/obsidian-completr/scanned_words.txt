@@ -3217,6 +3217,7 @@ alive
 activations
 amplitude
 animals
+arrangement
 Applications
 AI
 Analysis
@@ -4647,6 +4648,7 @@ intuitively
 illustration
 intervals
 inter
+idth
 Field
 For
 Find
@@ -4887,6 +4889,7 @@ FFT
 Fourier
 Flow
 Forget
+Furthermore
 of
 or
 optimize
@@ -7017,6 +7020,7 @@ tuner
 thoroughly
 trainable
 typewriter
+tensor
 being
 be
 by
