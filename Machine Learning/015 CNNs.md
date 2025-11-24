@@ -53,4 +53,46 @@ model.compile(loss='categorical_crossentropy',
               metrics=['accuracy']) # we can add in additional metrics https://keras.io/metrics/
 ```
 
-Further optimizations like regularization, dropout, and batch normalization can be applied to make the model training step more efe
+Further optimizations like regularization, dropout, and batch normalization can be applied to make the model training step more effective:
+```python 
+model = Sequential()
+
+    model.add(Input(shape=X_train[0].shape,))
+    model.add(Conv2D(filters=32, kernel_size=(3,3), activation='relu',padding='same'))
+    model.add(BatchNormalization())
+    model.add(Conv2D(filters=32, kernel_size=(3,3),activation='relu',padding='same'))
+    model.add(BatchNormalization())
+    model.add(MaxPool2D(pool_size=(2, 2)))
+    model.add(Dropout(0.2))
+    #Use this line to check the output shape of the model
+    print('Output shape check#1:', model.compute_output_shape(input_shape=tuple([None] + list(X_train[0].shape))))
+
+    model.add(Conv2D(filters=64, kernel_size=(3,3),activation='relu',padding='same'))
+    model.add(BatchNormalization())
+    model.add(Conv2D(filters=64, kernel_size=(3,3),activation='relu',padding='same'))
+    model.add(BatchNormalization())
+    model.add(MaxPool2D(pool_size=(2, 2)))
+    model.add(Dropout(0.2))
+    #Use this line to check the output shape of the model
+    print('Output shape check#2:', model.compute_output_shape(input_shape=tuple([None] + list(X_train[0].shape))))
+
+    model.add(Conv2D(filters=128, kernel_size=(3,3),activation='relu',padding='same'))
+    model.add(BatchNormalization())
+    model.add(Conv2D(filters=128, kernel_size=(3,3),activation='relu',padding='same'))
+    model.add(BatchNormalization())
+    model.add(MaxPool2D(pool_size=(2, 2)))
+    model.add(Dropout(0.2))
+    #Use this line to check the output shape of the model
+    print('Output shape check#3:', model.compute_output_shape(input_shape=tuple([None] + list(X_train[0].shape))))
+
+    model.add(GlobalMaxPooling2D())
+    #Use this line to check the output shape of the model
+    print('Output shape after GlobalMaxPooling:', model.compute_output_shape(input_shape=tuple([None] + list(X_train[0].shape))))
+
+    model.add(Flatten())
+    model.add(Dropout(0.2))
+    model.add(Dense(512, activation='relu'))
+    model.add(Dropout(0.2))
+    model.add(Dense(num_classes, activation='softmax'))
+```
+
