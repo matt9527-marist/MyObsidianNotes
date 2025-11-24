@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Scratch.md",
+                "file": "Machine Learning/008 Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTeX Scratch"
+              "title": "008 Logistic Regression"
             }
           }
         ]
@@ -170,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
+    "LaTeX Scratch.md",
     "Parallel Processing/210 MPI.md",
     "Machine Learning/014 Keras.md",
     "Assets/Pasted image 20251119100952.png",
@@ -189,13 +190,11 @@
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/007 PKI II.md",
-    "LaTeX Scratch.md",
     "Security Protocols-Algorithms/006 PKI.md",
     "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Parallel Processing/107 Parallel Algorithms II.md",
     "Machine Learning/012 Dimensionality Reduction.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
-    "LaTeX Scratch.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Parallel Processing/105 Stencil With Materials.md",
     "Machine Learning/011 Tree-Based Methods and Ensembles.md",
