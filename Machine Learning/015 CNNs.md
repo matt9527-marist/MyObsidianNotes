@@ -99,4 +99,5 @@ model = Sequential()
 ## Pretrained Models and Transfer Learning 
 If we have something that is capable of learning images in general, can we use that tool to learn our own images or our particular problem? 
 
-Perhaps we can lift use the pretrained models of VGG-16 or 
+Perhaps we can use the pretrained models of VGG-16 or ResNet-50, lifting their functionality to predict a different set of images? That way, instead of building the full CNN for feature extraction, we can use the ResNet model as our convolutional layer, feeding the output into a dense neural network to give the final results. 
+
