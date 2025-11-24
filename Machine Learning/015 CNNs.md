@@ -52,3 +52,5 @@ model.compile(loss='categorical_crossentropy',
               optimizer='adam',
               metrics=['accuracy']) # we can add in additional metrics https://keras.io/metrics/
 ```
+
+Further optimizations like regularization, dropout, and batch normalization can be applied to make the model training step more efe
