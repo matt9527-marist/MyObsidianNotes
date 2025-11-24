@@ -96,3 +96,7 @@ model = Sequential()
     model.add(Dense(num_classes, activation='softmax'))
 ```
 
+## Pretrained Models and Transfer Learning 
+If we have something that is capable of learning images in general, can we use that tool to learn our own images or our particular problem? 
+
+Perhaps we can lift use the pretrained models of VGG-16 or 
