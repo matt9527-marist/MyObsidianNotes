@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/011 Tree-Based Methods and Ensembles.md",
+                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "011 Tree-Based Methods and Ensembles"
+              "title": "005 Diffie Hellman and RSA"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/006 PKI.md",
+    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
+    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Machine Learning/015 CNNs.md",
     "Assets/Pasted image 20251124160029.png",
     "Assets/Pasted image 20251124160002.png",
@@ -192,21 +195,18 @@
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "conflict-files-obsidian-git.md",
     "Security Protocols-Algorithms/007 PKI II.md",
-    "Security Protocols-Algorithms/006 PKI.md",
     "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Parallel Processing/107 Parallel Algorithms II.md",
     "Machine Learning/012 Dimensionality Reduction.md",
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Parallel Processing/105 Stencil With Materials.md",
-    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
     "Parallel Processing/103 Performance Limits and Profiling.md",
     "Security Protocols-Algorithms/Secure Channel.md",
     "Security Protocols-Algorithms/001 Block Ciphers.md",
     "Security Protocols-Algorithms/Linux Overview.md",
     "Security Protocols-Algorithms/003 Hashing.md",
-    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Parallel Processing/104 Data Design and Performance Models.md",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
     "Machine Learning/Midterm Review/Logistic Regression.canvas",
