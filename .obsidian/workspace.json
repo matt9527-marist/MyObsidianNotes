@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+                "file": "Security Protocols-Algorithms/007 PKI II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 Diffie Hellman and RSA"
+              "title": "007 PKI II"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Assets/Pasted image 20251110201437.png",
     "Assets/Pasted image 20251110200245.png",
     "Assets/Pasted image 20251110200242.png",
@@ -182,7 +183,6 @@
     "Assets/Pasted image 20251110175855.png",
     "Assets/Pasted image 20251110175846.png",
     "Assets/Pasted image 20251110175218.png",
-    "Assets/Pasted image 20251110170012.png",
     "Security Protocols-Algorithms/Secure Channel.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
     "Parallel Processing/208 CPU Parallelization - Vectorization.md",
@@ -191,7 +191,6 @@
     "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "LaTeX Scratch.md",
     "conflict-files-obsidian-git.md",
-    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Parallel Processing/105 Stencil With Materials.md",
     "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Security Protocols-Algorithms/004 The Secure Channel.md",
