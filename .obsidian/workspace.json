@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/015 CNNs.md",
+                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "015 CNNs"
+              "title": "005 Diffie Hellman and RSA"
             }
           }
         ]
@@ -171,10 +171,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "b340482461b01bc3",
   "lastOpenFiles": [
-    "Machine Learning/014 Keras.md",
+    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/015 CNNs.md",
+    "Machine Learning/014 Keras.md",
     "Assets/Pasted image 20251124160029.png",
     "Assets/Pasted image 20251124160002.png",
     "Security Protocols-Algorithms/006 PKI.md",
