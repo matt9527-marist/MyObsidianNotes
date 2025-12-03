@@ -23,3 +23,8 @@ e * d mod T = 1
 5 * d mod T = 1
 Find all multiples of d by e:
 {5, 10, 15, 20, 25, 30, 35, 40, 45 , 50, 55}
+More than one answer, but let us pick 25 and 55 where d = 5, and 11:
+
+Private Key = (11, 14)
+Public Key = (5, 14)
+
