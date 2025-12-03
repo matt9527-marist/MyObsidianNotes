@@ -1,0 +1,35 @@
+Kerberos
+![[Pasted image 20251022155006.png]]
+1. Client sends auth request to AS
+2. AS sends to client: 1) ticket granting ticket with session info encrypted with the TGS key (yellow) and 2) the session key (red) encrypted with the client key (green)
+3. Client decrypts session key (red). Client sends to TGS: 1) session key and encrypted ticket granting ticket and 2) requested service ID and timestamp encrypted with session key 
+4. TGS decrypts session key with TGS key (yellow) and decrypts requested service ID with session key. TGS sends to client 1) service ticket and service exchange key (blue) with session info encrypted using the service key (black) and 2) service exchange key (blue) encrypted with session key
+5. Client decrypts service exchange key (blue). Client sends to Service Server SS: 1) encrypted service ticket and 2) requested service ID and timestamp encrypted with the service exchange key
+6. SS decrypts service ticket and service exchange key using service key (black). SS sends to client: access to service with timestamp encrypted with the service exchange key.
+
+RSA: Given p and q prime numbers
+Let p = 2 and q = 7
+Find e, d, and N:
+
+N (modulus) = p * q = 14 
+T (totient) = (p-1) * (q-1) = 6
+
+Select e between (1 ... T) where GCD between e and T is 1
+Select e from {1, 2, 3, 4, 5}
+Choose e = 5
+
+Now find d such that:
+e * d mod T = 1
+5 * d mod T = 1
+Find all multiples of d by e:
+{5, 10, 15, 20, 25, 30, 35, 40, 45 , 50, 55}
+More than one answer, but let us pick 25 and 55 where d = 5, and 11:
+
+Private Key = (11, 14)
+Public Key = (5, 14)
+
+Define an encoding scheme of "A" = 1, "B" = 2, "C" = 3...
+Encrypt plaintext "b" -> 2
+This is done by: p ^ e (mod N) or 2^5 (mod 14) = 4 or "D" 
+Decrypt ciphertext "D" -> 4
+This is done by: c ^ d (mod N) or 4^11 (mod 14) = 2 or "b"
