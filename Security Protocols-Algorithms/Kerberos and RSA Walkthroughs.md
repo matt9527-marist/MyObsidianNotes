@@ -12,3 +12,7 @@ Let p = 2 and q = 7
 Find e, d, and N:
 
 N (modulus) = p * q = 14 
+T (totient) = (p-1) * (q-1) = 6
+
+Select e between (1 ... T) where GCD between e and T is 1
+Select e from {1, 2, 3, 4, 5}

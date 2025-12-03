@@ -35,7 +35,8 @@
               "title": "Kerberos and RSA Walkthroughs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b340482461b01bc3",
+  "active": "deceaa2a6a4045ca",
   "lastOpenFiles": [
-    "Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+    "Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
     "Security Protocols-Algorithms/008 Summary.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Machine Learning/015 CNNs.md",
