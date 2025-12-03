@@ -16,3 +16,10 @@ T (totient) = (p-1) * (q-1) = 6
 
 Select e between (1 ... T) where GCD between e and T is 1
 Select e from {1, 2, 3, 4, 5}
+Choose e = 5
+
+Now find d such that:
+e * d mod T = 1
+5 * d mod T = 1
+Find all multiples of d by e:
+{5, 10, 15, 20, 25, 30, 35, 40, 45 , 50, 55}
