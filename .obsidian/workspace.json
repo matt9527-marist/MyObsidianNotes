@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "015 CNNs"
             }
+          },
+          {
+            "id": "b05e4eb20eebef2c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "b05e4eb20eebef2c",
   "lastOpenFiles": [
     "Machine Learning/014 Keras.md",
     "Machine Learning/015 CNNs.md",
