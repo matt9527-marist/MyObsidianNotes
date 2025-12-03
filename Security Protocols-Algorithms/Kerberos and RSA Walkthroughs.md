@@ -31,4 +31,5 @@ Public Key = (5, 14)
 Define an encoding scheme of "A" = 1, "B" = 2, "C" = 3...
 Encrypt plaintext "b" -> 2
 This is done by: p ^ e (mod N) or 2^5 (mod 14) = 4 or "D" 
-Decrypt ciphertext "D" 
+Decrypt ciphertext "D" -> 4
+This is done by: c ^ d (mod N) or 4^11 (mod 14) = 2 or "b"
