@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7fbc59b760402b",
+        "id": "7fac31ef17ae6dce",
         "type": "tabs",
         "children": [
           {
-            "id": "b340482461b01bc3",
+            "id": "5c8ad4dc0d52dbb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Protocols-Algorithms/006 PKI.md",
+                "file": "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006 PKI"
+              "title": "005 Diffie Hellman and RSA"
             }
           }
         ]
@@ -148,8 +148,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,6 +157,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,68 +167,63 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b340482461b01bc3",
+  "active": "5c8ad4dc0d52dbb3",
   "lastOpenFiles": [
+    "Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
+    "Security Protocols-Algorithms/006 PKI.md",
     "Security Protocols-Algorithms/007 PKI II.md",
     "Security Protocols-Algorithms/008 Summary.md",
-    "Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
+    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+    "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
+    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Machine Learning/015 CNNs.md",
-    "conflict-files-obsidian-git.md",
-    "Machine Learning/014 Keras.md",
     "Assets/Pasted image 20251124160029.png",
     "Assets/Pasted image 20251124160002.png",
-    "Security Protocols-Algorithms/006 PKI.md",
-    "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+    "Machine Learning/008 Logistic Regression.md",
+    "LaTeX Scratch.md",
+    "Parallel Processing/210 MPI.md",
+    "Machine Learning/014 Keras.md",
     "Assets/Pasted image 20251119100952.png",
     "Assets/Pasted image 20251119100120.png",
     "Assets/Pasted image 20251119095511.png",
     "Assets/Pasted image 20251119093545.png",
-    "Parallel Processing/210 MPI.md",
     "Assets/Pasted image 20251117203947.png",
-    "Parallel Processing/209 OpenMP.md",
     "Assets/Pasted image 20251117193219.png",
-    "Machine Learning/008 Logistic Regression.md",
     "Assets/Pasted image 20251117190310.png",
-    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
     "Assets/Pasted image 20251117180812.png",
-    "Parallel Processing/107 Parallel Algorithms II.md",
-    "Machine Learning/013 Neural Networks.md",
-    "Machine Learning/Assignment 4 Probability.md",
-    "Machine Learning/012 Dimensionality Reduction.md",
-    "LaTeX Scratch.md",
-    "Machine Learning/007 NB for Text Classification.md",
+    "Formatting Template.md",
     "Security Protocols-Algorithms/Security Protocols Article Presentation.md",
-    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
-    "Machine Learning/010 Support Vector Machines.md",
-    "Parallel Processing/106 Parallel Algorithms.md",
-    "Machine Learning/009 TF-IDF.md",
-    "Machine Learning/Assignment 1 Gradient Proof.md",
-    "Parallel Processing/000 Introduction.md",
+    "conflict-files-obsidian-git.md",
+    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
+    "Parallel Processing/107 Parallel Algorithms II.md",
+    "Machine Learning/012 Dimensionality Reduction.md",
+    "Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
     "Parallel Processing/105 Stencil With Materials.md",
-    "Machine Learning/Midterm Review/Logistic Regression.canvas",
-    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
-    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Security Protocols-Algorithms/004 The Secure Channel.md",
+    "Parallel Processing/103 Performance Limits and Profiling.md",
+    "Security Protocols-Algorithms/Secure Channel.md",
+    "Security Protocols-Algorithms/001 Block Ciphers.md",
+    "Security Protocols-Algorithms/Linux Overview.md",
+    "Security Protocols-Algorithms/003 Hashing.md",
     "Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Machine Learning/Midterm Review/Logistic Regression.canvas",
     "Machine Learning/Midterm Review/Regularization.canvas",
+    "Machine Learning/Midterm Review/ML Basics.canvas",
+    "Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Machine Learning/Midterm Review/Text Classification.canvas",
+    "Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Machine Learning/Midterm Review/Data Preprocessing.canvas",
     "Machine Learning/Midterm Review/Classification.canvas",
     "Machine Learning/Midterm Review/Calculus.canvas",
-    "Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Machine Learning/Midterm Review",
-    "Untitled.base",
-    "PP Notes/Untitled.canvas",
     "PP Notes",
-    "github.com/catchorg/Catch2/releases/downloads/v2.13.7",
-    "github.com/catchorg/Catch2/releases/downloads",
-    "github.com/catchorg/Catch2/releases",
-    "github.com/catchorg/Catch2",
-    "github.com/catchorg",
-    "github.com",
-    "Security Protocols-Algorithms"
+    "Security Protocols-Algorithms",
+    "Sec Prot and Algorithms",
+    "Parallel Processing",
+    "Machine Learning",
+    "Assets"
   ]
 }
