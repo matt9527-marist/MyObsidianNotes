@@ -525,6 +525,7 @@ Level
 Launched
 Linguistics
 Layers
+Locality
 Relevant
 Reading
 Research
@@ -768,6 +769,7 @@ Relaxed
 RandomSearch
 RMSProp
 ResNet
+Reducing
 libraries
 learn
 learning
@@ -2087,6 +2089,7 @@ Suggested
 Scheduling
 Sending
 Studies
+Spans
 Keras
 Key
 Kirchhoffs
@@ -2780,6 +2783,7 @@ Indirect
 Import
 Isend
 Irecv
+Implemented
 and
 ability
 approximation
@@ -3510,6 +3514,7 @@ Adagrad
 Adapt
 Adam
 Adaptive
+Aligned
 with
 without
 want
@@ -6633,6 +6638,7 @@ carefully
 covariance
 convolved
 convolution
+challenges
 the
 to
 training
@@ -8199,6 +8205,7 @@ pushing
 pit
 physics
 pretrained
+privatization
 Detecting
 Deepmind
 Dataset
@@ -10436,6 +10443,7 @@ diverge
 dormant
 deadlock
 discard
+directions
 future
 from
 feed
