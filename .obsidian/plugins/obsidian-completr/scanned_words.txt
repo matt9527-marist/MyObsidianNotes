@@ -767,7 +767,6 @@ ReLU
 Relaxed
 RandomSearch
 RMSProp
-ResNet
 libraries
 learn
 learning
@@ -1083,7 +1082,6 @@ labeled
 located
 learnable
 linguistics
-lifting
 Graphing
 Google
 Game
@@ -4075,7 +4073,6 @@ Propagation
 Piecewise
 Prototypes
 Parameters
-Pretrained
 What
 We
 With
@@ -8198,7 +8195,6 @@ printout
 pushing
 pit
 physics
-pretrained
 Detecting
 Deepmind
 Dataset
@@ -10745,7 +10741,6 @@ feedforward
 fstrict
 fixable
 fork
-feeding
 Optimziation
 Operations
 Once
@@ -12126,7 +12121,6 @@ Housing
 HTTPS
 Handling
 Hinton
-HuggingFace
 Not
 NOTHING
 No
@@ -13299,7 +13293,6 @@ Verizon
 Village
 Verification
 Vec
-VGG
 zero
 zu
 zj
