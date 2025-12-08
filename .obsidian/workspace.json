@@ -35,7 +35,8 @@
               "title": "LaTeX Scratch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8ad4dc0d52dbb3",
+  "active": "a3ffd7bb7080f5ca",
   "lastOpenFiles": [
+    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Machine Learning/010 Support Vector Machines.md",
     "LaTeX Scratch.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
@@ -194,7 +196,6 @@
     "Security Protocols-Algorithms/007 PKI II.md",
     "Security Protocols-Algorithms/008 Summary.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Machine Learning/011 Tree-Based Methods and Ensembles.md",
     "Machine Learning/015 CNNs.md",
     "Assets/Pasted image 20251124160029.png",
     "Assets/Pasted image 20251124160002.png",
