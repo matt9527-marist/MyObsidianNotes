@@ -35,7 +35,8 @@
               "title": "LaTeX Scratch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deceaa2a6a4045ca",
+  "active": "033f6639fbdef55f",
   "lastOpenFiles": [
-    "Machine Learning/015 CNNs.md",
     "Machine Learning/014 Keras.md",
+    "Machine Learning/015 CNNs.md",
     "Machine Learning/013 Neural Networks.md",
     "Machine Learning/Colab Notebooks.md",
     "LaTeX Scratch.md",
