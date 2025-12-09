@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/015 CNNs.md",
+                "file": "Machine Learning/014 Keras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "015 CNNs"
+              "title": "014 Keras"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "active": "deceaa2a6a4045ca",
   "lastOpenFiles": [
+    "Machine Learning/015 CNNs.md",
     "Machine Learning/014 Keras.md",
     "Machine Learning/013 Neural Networks.md",
     "Machine Learning/Colab Notebooks.md",
@@ -195,7 +196,6 @@
     "Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
     "Security Protocols-Algorithms/008 Summary.md",
     "Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Machine Learning/015 CNNs.md",
     "Assets/Pasted image 20251124160029.png",
     "Assets/Pasted image 20251124160002.png",
     "Security Protocols-Algorithms/006 PKI.md",
