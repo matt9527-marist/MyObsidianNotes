@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/013 Neural Networks.md",
+                "file": "LaTeX Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013 Neural Networks"
+              "title": "LaTeX Scratch"
             }
           }
         ],
@@ -188,10 +188,10 @@
   },
   "active": "033f6639fbdef55f",
   "lastOpenFiles": [
+    "Machine Learning/013 Neural Networks.md",
     "LaTeX Scratch.md",
     "Machine Learning/014 Keras.md",
     "Machine Learning/015 CNNs.md",
-    "Machine Learning/013 Neural Networks.md",
     "Machine Learning/Colab Notebooks.md",
     "Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
