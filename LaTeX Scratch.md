@@ -13,3 +13,4 @@ $$\Delta D(t_{i}) = D(t_{i}) - D(t_{i-1}) = \begin{bmatrix}
 dx_{i} - dx_{i-1}  \\
 dy_{i} - dy_{i-1}
 \end{bmatrix}$$
+$$v(t_{i}) = ||\Delta D(t_{i})||$$
