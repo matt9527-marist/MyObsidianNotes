@@ -7,4 +7,9 @@ $$C(t_{i}) = (x_{c}(t_{i}), y_{c}(t_{i}))$$
 $$T(t_{i}) = (x_{t}(t_{i}), y_{t}(t_{i}))$$
 $$D(t_{i}​)=T(t_{i})−C(t_{i}​)$$
 
-$$D(t_{i}) = (dx_{i}, dy_{i} \newline)$$
+$$D(t_{i}) = (dx_{i}, dy_{i}) $$
+$$D(t_{i-1}) = (dx_{i-1}, dy_{i-1})$$
+$$\Delta D(t_{i}) = D(t_{i}) - D(t_{i-1}) = \begin{bmatrix}
+dx_{i} - dx_{i-1}  \\
+dy_{i} - dy_{i-1}
+\end{bmatrix}$$
