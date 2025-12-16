@@ -14,3 +14,6 @@ dx_{i} - dx_{i-1}  \\
 dy_{i} - dy_{i-1}
 \end{bmatrix}$$
 $$v(t_{i}) = ||\Delta D(t_{i})|| = \sqrt{ (dx_{i} - dx_{i-1})^2 + (dy_{i} - dy_{i-1})^2 }$$
+$$D(t)=T(t)−C(t)$$
+$$\Delta D(t) = \Delta T(t) - \Delta C(t)$$
+$$\Delta C(t) = \Delta T(t) - \Delta D(t)$$

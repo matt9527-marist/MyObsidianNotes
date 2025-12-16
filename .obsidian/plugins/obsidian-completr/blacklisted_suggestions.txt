@@ -5,3 +5,5 @@ SIMD
 SIMT
 simply
 handling
+\Delta
+\varDelta
