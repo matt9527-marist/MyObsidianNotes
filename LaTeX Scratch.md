@@ -12,3 +12,6 @@ t_{c} \implies \text{anomalous speedup} \\
 t_{d} \implies \text{correction start}
 \end{bmatrix}$$
 $$t_{a} < t_{b} < t_{c} < t_{d}$$
+$$\text{for frames } t_{i} \leq t_{a}:$$
+$$r_{i} \approx 0$$
+$$$$
