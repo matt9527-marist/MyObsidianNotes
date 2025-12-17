@@ -14,4 +14,5 @@ t_{d} \implies \text{correction start}
 $$t_{a} < t_{b} < t_{c} < t_{d}$$
 $$\text{for frames } t_{i} \leq t_{a}:$$
 $$r_{i} \approx 0$$
-$$$$
+$$\text{for } t_{a} < t_{i} \leq t_{b}:$$
+$$r_{i} > r_{i-1} \implies \frac{dr}{dt} > 0$$
