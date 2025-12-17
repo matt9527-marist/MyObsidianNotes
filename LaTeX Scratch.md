@@ -16,3 +16,6 @@ $$\text{for frames } t_{i} \leq t_{a}:$$
 $$r_{i} \approx 0$$
 $$\text{for } t_{a} < t_{i} \leq t_{b}:$$
 $$r_{i} > r_{i-1} \implies \frac{dr}{dt} > 0$$
+$$\text{for } t_{b} < t_{i} \leq t_{c}:$$
+$$\text{1) } r_{i} > r_{i-1} \implies \frac{dr}{dt} > 0$$
+$$\text{2) } v_{i} < $$
