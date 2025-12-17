@@ -20,3 +20,6 @@ $$\text{for } t_{b} < t_{i} \leq t_{c}:$$
 $$\text{1) } r_{i} > r_{i-1} \implies \frac{dr}{dt} > 0$$
 $$\text{2) } v_{i} > v_{i-1} \implies \frac{dv}{dt} > 0$$
 $$\text{3) } D(t_{i}) * D(t_{i-1}) > 0$$
+
+$$\text{for } t_{c} < t_{i} \leq t_{d}:$$
+$$v_{i} < v_{i} - 1 \implies \frac{dv}{dt} < 0$$
