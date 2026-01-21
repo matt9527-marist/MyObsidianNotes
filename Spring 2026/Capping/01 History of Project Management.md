@@ -113,4 +113,6 @@ others
 	• Responding to stakeholders’ concerns  
 	– Budget: Managing contingencies  
 	– Schedule: understand the critical path and its influence if changed
+	- Beware of *scope creep* by placing a hardline on exactly what the project is going to achieve. 
+
 
