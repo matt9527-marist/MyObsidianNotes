@@ -1,4 +1,15 @@
 **Sponsor** - Someone who comes to the developer with requirements to solve a problem with software. 
+### SDLC 
+- Initiation 
+- System Concept Development 
+- Planning 
+- Requirements Analysis 
+- Design 
+- Development 
+- Integration Test 
+- Implementation 
+- Operations and Maintenance 
+- Disposition 
 
 ## System Concept Development 
 Define the scope of the project. Includes the following:
@@ -30,4 +41,7 @@ How to mitigate the risk?
 The sponsor will do market research to figure out whether or not this project will succeed:
 Might involve interviewing and consumer studies. 
 - Forecasts possible revenue
-- Helps senior management to determine if the p
+- Helps senior management to determine if the project is a feasible decision. 
+(Obviously, our mock project is forecast to succeed)
+
+
