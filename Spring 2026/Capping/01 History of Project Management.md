@@ -115,4 +115,9 @@ others
 	– Schedule: understand the critical path and its influence if changed
 	- Beware of *scope creep* by placing a hardline on exactly what the project is going to achieve. 
 
+![[Pasted image 20260121180519.png]]
+
+
+
+
 
