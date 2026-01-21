@@ -56,3 +56,16 @@ Might involve interviewing and consumer studies.
 		- Dictated in this class, but still important 
 
 ## Design 
+Transform detailed requirements into complete, detailed Systems Design Document 
+- Create a *Design Document*
+- Document how the software will be structured 
+Focuses on how to deliver the required functionality
+- It will break down the individual components and show how they connect to each other. 
+- How are we actually going to implement what we want? 
+
+## Development 
+Take the design and turn it into real software. 
+- Acquire and install the systems environment?
+- Creating and testing databases 
+- Preparing test cases 
+- Preparing test fi
