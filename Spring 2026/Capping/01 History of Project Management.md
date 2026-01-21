@@ -95,3 +95,22 @@ certainty
 	the investment. Why would Apple invest in iPad today vs. some  
 	new technology?
 
+## Focus of Project Management 
+Managing the Triple Constraints of a Project  
+	– Scope: the delivery requirements of the project  
+	– Budget: the money allocated to the work of the project  
+	– Schedule: the time to complete the project  
+• These three attributes must be balanced, since changing one will affect the  
+others  
+	– Like a triangle, if you impact one side, it will impact the others  
+	– A project will always have competing or conflicting demands  
+• Focus on the Basics  
+	– *Scope*  
+		• Establishing clear and achievable goals  
+		• Defining what’s in & what’s out  
+		• Product Scope: what the project will deliver  
+		• Project Scope: the work the project will undertake  
+	• Responding to stakeholders’ concerns  
+	– Budget: Managing contingencies  
+	– Schedule: understand the critical path and its influence if changed
+
