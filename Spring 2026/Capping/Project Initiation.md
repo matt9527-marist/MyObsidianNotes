@@ -80,3 +80,14 @@ How do we make sure it is doing what we said it will do?
 - Test portion will require unit tests, as well as the ability to run a test suite to ensure correct functionality 
 - We will be *graded on test coverage and how well the tests verify the correctness of the deliverable*.
 
+## Implementation 
+Designed, developed, tested, now get it to the production environment. 
+- Resolution of problems identified in the Integration and Test phases. 
+
+## Operations and Maintenance
+How do we make sure that software is operating correctly after production? 
+- Post-implementation and in-process reviews
+- Fix future flaws, make patches/updates, and check security 
+- Outside of our scope, but critical for real projects. 
+
+## Disposition
