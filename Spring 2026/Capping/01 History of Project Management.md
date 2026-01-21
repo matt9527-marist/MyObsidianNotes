@@ -28,7 +28,7 @@ management
 disband the team  
 – Project Managers became a single focal point
 
-### 1985-today
+### 1985-Today
 - During this era, the focus is on aligning projects to the organization's strategy. 
 - Project Managers focused on principles, practices, and tools that produced a specific objective or result. 
 - Focused on project efficiency, impact on customer, business and direct success while preparing for the future. 
@@ -118,8 +118,12 @@ others
 ![[Pasted image 20260121180519.png]]
 
 **What Threatens to Manage Us?**
-- Uncertainty
-- Risk 
+- Uncertainty - what if the customers do not like what we produce? How do we ensure this does not happen?
+- Risk - What if it turns out to be more expensive or not possible? 
+- Conflicting Priorities and Goals - Is funding appropriate?  
+- Authority vs. Responsibility - Responsible for x, but no authority to manage x means that you might be held accountable for something that you have no real powerto 
+
+
 
 
 
