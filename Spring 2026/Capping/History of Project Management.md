@@ -51,6 +51,34 @@ disband the team
 
 **Project** - temporary endeavor undertaken to create a unique product, service, or result. 
 
+**Projects are like small businesses**
+• Consumes Resources, such as:  
+	– People  
+	– Equipment  
+	– Facilities  
+• Accountable to Sponsors, who:  
+	– Invest funds to underwrite the budget  
+	– Define objectives  
+	– Demand return on investment  
+• Fulfills Financial Targets, such as:  
+	– Conform to a budget  
+	– Control costs  
+	– Generate revenues and profit  
+	– Maintain cash flow  
+*• But:*  
+	*– Unlike a small business, a project has a defined end point.*
 
-
-
+**Project Management: Organization Competence**
+• Why use Project Management?  
+• Work is generally organized along project lines  
+• Project management provides a framework and  
+consistent approach  
+	– Individuals involved in projects understand their roles  
+	– Support to define project plan details  
+	– Organizing the work to be implemented  
+	– Evaluation of results  
+• Project outcomes can be predicted with high degrees of  
+certainty  
+– When predictions are incorrect, the organization has  
+the knowledge and ability to adjust decisions and take  
+proper corrective action early.
