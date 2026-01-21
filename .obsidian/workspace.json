@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Capping/00 Project Initiation.md",
+                "file": "Spring 2026/Capping/01 History of Project Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Project Initiation"
+              "title": "01 History of Project Management"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Capping/01 History of Project Management.md",
+                "file": "Formatting Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 History of Project Management"
+              "title": "Formatting Template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e3df936a8ca89b3",
+  "active": "7a7eb0c5bea60290",
   "lastOpenFiles": [
     "Spring 2026/Capping/00 Project Initiation.md",
+    "Formatting Template.md",
+    "LaTeX Scratch.md",
     "Spring 2026/Capping/01 History of Project Management.md",
     "Assets/Pasted image 20250908204936.png",
     "Assets/Pasted image 20260121174723.png",
-    "LaTeX Scratch.md",
     "Spring 2026/Capping",
     "Spring 2026/Deep Learning",
     "Fall 2025",

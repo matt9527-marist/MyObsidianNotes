@@ -49,7 +49,7 @@ disband the team
 	– When the goal is not clear but the solution is
 	– Not sure what we want, but we do know how to get there. 
 
-**Project** - temporary endeavor undertaken to create a unique product, service, or result. 
+> **Project** - temporary endeavor undertaken to create a unique product, service, or result. 
 
 **Projects are like small businesses**
 • Consumes Resources, such as:  
@@ -82,4 +82,16 @@ certainty
 	– When predictions are incorrect, the organization has  
 	the knowledge and ability to adjust decisions and take  
 	proper corrective action early.
+	– When done well, we can get accurate revenue forecasts. Stock of employers can either take a big hit or be very beneficial. 
+
+> **Program** - group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually.
+
+• A program may be an ongoing operation  
+• For example:  
+	– Software releases  
+	– Newspaper editions  
+	– Apple consumer products is a program (iPhone, iPad, AirPods,  
+	etc.) thus Apple makes decisions as to which project should have  
+	the investment. Why would Apple invest in iPad today vs. some  
+	new technology?
 
