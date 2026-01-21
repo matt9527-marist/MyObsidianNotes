@@ -117,7 +117,9 @@ others
 
 ![[Pasted image 20260121180519.png]]
 
-
+**What Threatens to Manage Us?**
+- Uncertainty
+- Risk 
 
 
 
