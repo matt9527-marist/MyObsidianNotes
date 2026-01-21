@@ -10,7 +10,11 @@ Example: Apple iPod: Apple changed the personal music space because it created a
 ### 1945-1960
 - Each line manager did their part; threw it over the fence. No single contact point for customers for questions. 
 - Used in aerospace and defense industries. 
-	- Projects had 200-300% overrun due to the inability of organizations to forecast technology. Technology was changing so fast that when an org was developing an airplane engine, for example, by the time they were 1/2 
+	- Projects had 200-300% overrun due to the inability of organizations to forecast technology. Technology was changing so fast that when an org was developing an airplane engine, for example, by the time they were 1/2 done, tech changed and forced the project to be reworked. 
+- Focused on life-cycle planning, control model, and cost monitoring to ensure money was well-spent. 
+
+### 1960-1985
+
 
 
 
