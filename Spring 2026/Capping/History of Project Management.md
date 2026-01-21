@@ -44,7 +44,13 @@ disband the team
 		learn each week.
 • **Extreme Project Management**
 	– Neither the goal or solution are clear
+	– Mostly in the 90s, usually just trying to get somewhere with something 
 • **Emertxe Project Management**
 	– When the goal is not clear but the solution is
+	– Not sure what we want, but we do know how to get there. 
+
+**Project** - temporary endeavor undertaken to create a unique product, service, or result. 
+
+
 
 
