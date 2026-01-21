@@ -68,4 +68,15 @@ Take the design and turn it into real software.
 - Acquire and install the systems environment?
 - Creating and testing databases 
 - Preparing test cases 
-- Preparing test fi
+- Preparing test files 
+- Coding, compiling, and refining programs 
+- Performing test readiness review 
+- Procurement activities (hardware dongles, software rental, Azure servers)
+(This is the coding part - static analysis, code reviews, and source code control)
+
+## Integration and Test 
+How do we make sure it is doing what we said it will do?
+- Demonstrates the developed system conforms to requirements as specified in the Functional Requirements Document. 
+- Test portion will require unit tests, as well as the ability to run a test suite to ensure correct functionality 
+- We will be *graded on test coverage and how well the tests verify the correctness of the deliverable*.
+
