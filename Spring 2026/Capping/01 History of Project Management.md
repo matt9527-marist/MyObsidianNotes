@@ -71,14 +71,15 @@ disband the team
 **Project Management: Organization Competence**
 • Why use Project Management?  
 • Work is generally organized along project lines  
-• Project management provides a framework and  
-consistent approach  
+• **Project management provides a framework and**  
+**consistent approach**  
 	– Individuals involved in projects understand their roles  
 	– Support to define project plan details  
 	– Organizing the work to be implemented  
 	– Evaluation of results  
 • Project outcomes can be predicted with high degrees of  
 certainty  
-– When predictions are incorrect, the organization has  
-the knowledge and ability to adjust decisions and take  
-proper corrective action early.
+	– When predictions are incorrect, the organization has  
+	the knowledge and ability to adjust decisions and take  
+	proper corrective action early.
+

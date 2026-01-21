@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Capping/Project Initiation.md",
+                "file": "Spring 2026/Capping/00 Project Initiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Initiation"
+              "title": "00 Project Initiation"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Capping/History of Project Management.md",
+                "file": "Spring 2026/Capping/01 History of Project Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History of Project Management"
+              "title": "01 History of Project Management"
             }
           }
         ],
@@ -188,9 +188,10 @@
   },
   "active": "9e3df936a8ca89b3",
   "lastOpenFiles": [
+    "Spring 2026/Capping/00 Project Initiation.md",
+    "Spring 2026/Capping/01 History of Project Management.md",
+    "Assets/Pasted image 20250908204936.png",
     "Assets/Pasted image 20260121174723.png",
-    "Spring 2026/Capping/Project Initiation.md",
-    "Spring 2026/Capping/History of Project Management.md",
     "LaTeX Scratch.md",
     "Spring 2026/Capping",
     "Spring 2026/Deep Learning",
@@ -218,9 +219,7 @@
     "Fall 2025/Parallel Processing/209 OpenMP.md",
     "Assets/Pasted image 20251117193219.png",
     "Fall 2025/Machine Learning/008 Logistic Regression.md",
-    "Assets/Pasted image 20251117190310.png",
     "Fall 2025/Parallel Processing/208 CPU Parallelization - Vectorization.md",
-    "Assets/Pasted image 20251117180812.png",
     "Fall 2025/Parallel Processing/107 Parallel Algorithms II.md",
     "Fall 2025/Machine Learning/Assignment 4 Probability.md",
     "Fall 2025/Machine Learning/012 Dimensionality Reduction.md",
