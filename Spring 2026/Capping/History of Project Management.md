@@ -14,7 +14,18 @@ Example: Apple iPod: Apple changed the personal music space because it created a
 - Focused on life-cycle planning, control model, and cost monitoring to ensure money was well-spent. 
 
 ### 1960-1985
+– During this era organizations needed a way to adapt to change  
+– Complexity of processes in a dynamic environment required project  
+management  
+– Informal project management  
+	• *Project coordinators*: line management handled the project management  
+	aspects  
+– Formal project management  
+	• Required when there are complex tasks, dynamic environment, limited  
+	resources or tight schedules, interrelated activities, and dependencies on  
+	multiple functional boundaries  
+– Needed to use teams to tackle a solution and then terminate or  
+disband the team  
+– Project Managers became a single focal point
 
-
-
-
+### 19
