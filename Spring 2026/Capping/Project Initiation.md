@@ -90,4 +90,8 @@ How do we make sure that software is operating correctly after production?
 - Fix future flaws, make patches/updates, and check security 
 - Outside of our scope, but critical for real projects. 
 
-## Disposition
+## Disposition 
+When the software is decommissioned for being no longer useful 
+- the end of the lifecycle 
+- How can we shut down a piece of software cleanly? 
+- Think GDPR European Union Data Privacy 
