@@ -35,3 +35,16 @@ disband the team
 - Project Manager Professional (PMP) is a title that you can be certified as. 
 ![[Pasted image 20260121174723.png]]
 
+• **Traditional Project Management**
+	– Goal and solution are clear
+• **Agile Project Management**
+	– Goal is clear but solution is not
+		• Where we will focus as a class
+		• You will help define that solution using the techniques we
+		learn each week.
+• **Extreme Project Management**
+	– Neither the goal or solution are clear
+• **Emertxe Project Management**
+	– When the goal is not clear but the solution is
+
+
