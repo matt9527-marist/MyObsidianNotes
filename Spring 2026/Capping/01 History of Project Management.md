@@ -121,7 +121,18 @@ others
 - Uncertainty - what if the customers do not like what we produce? How do we ensure this does not happen?
 - Risk - What if it turns out to be more expensive or not possible? 
 - Conflicting Priorities and Goals - Is funding appropriate?  
-- Authority vs. Responsibility - Responsible for x, but no authority to manage x means that you might be held accountable for something that you have no real powerto 
+- Authority vs. Responsibility - Responsible for x, but no authority to manage x means that you might be held accountable for something that you have no real power to affect. Authority for x, but no responsibility over x means that you can make flippant changes to the project without having it affect you, but may be hurting others. 
+
+We will have stakeholder simulations. 
+
+– If you think resources are more available in the professional workplace than in  
+college – THINK AGAIN!  
+• Real project example during one week:  
+	– Two team members went ill – one is out indefinitely; one is out for a month.  
+	– My manager is on a two week vacation  
+	– A customer just had a critical situation; thus consuming development resources as they are  
+	working to fix the issue.  
+	– I need to talk to all these stakeholders!
 
 
 
