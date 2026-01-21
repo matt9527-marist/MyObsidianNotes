@@ -28,4 +28,10 @@ management
 disband the team  
 – Project Managers became a single focal point
 
-### 19
+### 1985-today
+- During this era, the focus is on aligning projects to the organization's strategy. 
+- Project Managers focused on principles, practices, and tools that produced a specific objective or result. 
+- Focused on project efficiency, impact on customer, business and direct success while preparing for the future. 
+- Project Manager Professional (PMP) is a title that you can be certified as. 
+![[Pasted image 20260121174723.png]]
+
