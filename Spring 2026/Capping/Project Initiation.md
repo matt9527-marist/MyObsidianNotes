@@ -44,4 +44,15 @@ Might involve interviewing and consumer studies.
 - Helps senior management to determine if the project is a feasible decision. 
 (Obviously, our mock project is forecast to succeed)
 
+## Planning 
+- Develop a project management plan and other planning docs 
+- Provide the basis for acquiring the resources needed to achieve the solution 
 
+## Requirements Analysis 
+- Analyze user needs 
+	- In our case we need a *performance monitoring application*
+	- Create a **Functional Requirements Document**
+		- Nail down what the requirements are. 
+		- Dictated in this class, but still important 
+
+## Design 
