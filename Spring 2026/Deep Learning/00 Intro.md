@@ -35,6 +35,16 @@ AI definitions: (by the "fathers of AI")
 
 ![[Pasted image 20260122195918.png]]
 
+## Why Machine Learning? 
+• Moving from hard-coded knowledge to acquiring knowledge from raw data
+• Accessing subjective and intuitive knowledge that are hard or impossible to
+explain in formal language
+• Capturing patterns through big, diverse, noisy, and missing data
+![[Pasted image 20260122200329.png]]
 
+**Definition for Machine Learning**
+Arthur L. Samuel "Father of Machine Learning":
+- Machine learning is the field of study that gives computers the ability to  
+learn without being explicitly programmed.
 
 
