@@ -80,6 +80,6 @@ Transductive and inductive methods
 updates its policy.  
 • Task examples:  
 Robot navigation, game AI, and self-driving car
-
-
+- Use RL when we have a totally new task, knowing the target/goal, but *not knowing anything about the environment*. 
+- Use RL when everything about the environment is known, but we do not want to waste our time searching the whole environment. 
 
