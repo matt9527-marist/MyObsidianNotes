@@ -29,6 +29,8 @@ AI definitions: (by the "fathers of AI")
 - Have to sought hard-code knowledge about the world in formal languages. 
 	- A formal language is a set of strings of symbols drawn from a fnite alphabet in automata theory. 
 	- Easier for a computer to understand, hard for a human to understand 
+	- *Formal Language* is the understandable in-between, usually math and logic. 
+	- *Hard-coding* means embedding data directly into the source code of the program as opposed to obtaining he data from external sources or generating it at runtime. If our chess opponent plays a cer
 - 
 
 
