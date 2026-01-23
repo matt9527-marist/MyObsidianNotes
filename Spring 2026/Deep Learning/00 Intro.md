@@ -84,6 +84,11 @@ Robot navigation, game AI, and self-driving car
 - Use RL when everything about the environment is known, but we do not want to waste our time searching the whole environment. 
 
 ![[Pasted image 20260122202131.png]]
-Uninformed Search - No information will be given to me by conducting one action. 
-Informed Search - Every action informs the next subsequent action with information.
+*Uninformed Search* - No information will be given to me by conducting one action. 
+*Informed Search* - Every action informs the next subsequent action with information.
+- Binary vs. Linear Search 
+
+Use RL: when the environment is known but is very big, or no information will be gained by taking an action. 
+
+**Representation Learning**
 
