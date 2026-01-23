@@ -21,4 +21,4 @@ AI definitions: (by the "fathers of AI")
 	- Ideal approach: 
 		- Systems that think rationally 
 		- Systems that act rationally 
-
+			- Why differentiate? For some tasks, we cannot define, clear-cut rational rules to provide the answer? For example, determine cat vs. dog given an image, and separate them. Such a simple task is still impossible to define a set of permanent rules for. The ideal approach may not be feasible, so we must go with the human approach. 
