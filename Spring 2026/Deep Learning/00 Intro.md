@@ -95,3 +95,9 @@ Use RL: when the environment is known but is very big, or no information will be
 
 ![[Pasted image 20260122202800.png]]![[Pasted image 20260122202814.png]]
 
+When should we deploy deep learning techniques?
+![[Pasted image 20260122203040.png]]
+Deep Learning (green) vs. Classic Machine Learning (yellow)
+
+![[Pasted image 20260122203133.png]]
+
