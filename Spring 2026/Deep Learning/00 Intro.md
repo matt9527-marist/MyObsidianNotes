@@ -93,4 +93,5 @@ Use RL: when the environment is known but is very big, or no information will be
 **Representation Learning**
 ![[Pasted image 20260122202718.png]]
 
+![[Pasted image 20260122202800.png]]![[Pasted image 20260122202814.png]]
 
