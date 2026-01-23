@@ -47,7 +47,6 @@ Arthur L. Samuel "Father of Machine Learning":
 - Machine learning is the field of study that gives computers the ability to learn *without being explicitly programmed*.
 Tom M. Mitchell
 - *A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.*
-- Experience E is basically data. Tasks T represent whatever objective we want with the data. Performance P can be measured in different ways (recall cost function/reward-punishments)
-
+- Experience E is basically data. Tasks T represent whatever objective we want with the data. Performance P can be measured in different ways (recall cost function/reward-punishments). Most deep learning algorithms will improve with more experience. 
 
 
