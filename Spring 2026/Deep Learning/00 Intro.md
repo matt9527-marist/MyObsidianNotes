@@ -52,5 +52,34 @@ Tom M. Mitchell
 **Types of Machine Learning Tasks:**
 ![[Pasted image 20260122201208.png]]
 
-**Supervised Learning**
+**Supervised Learning** (already in ML)
+• Most supervised learning tasks fall under two umbrellas:  
+Classification and Regression.  
+• Classification task examples:  
+Image classification and diseases diagnostics  
+• Regression task examples:  
+Movies ranking and price prediction  
+• Algorithm examples:  
+K-nearest Neighbors, Linear Regression, Logistic Regression, Decision Trees  
+and Random Forests, Artificial Neural Networks, Naive Bayes
+
+**Unsupervised Learning**
+We have a mixed input. Based on structure recognition, we want to separate the inputs. 
+![[Pasted image 20260122201555.png]]
+
+**Semi-Supervised Learning**
+• Use unlabeled data around the labeled data as helpers to solve the task.  
+• Semi-supervised learning task examples:  
+Text document classification, speech analysis, and protein sequence classification  
+• Sample algorithms:  
+Transductive and inductive methods
+![[Pasted image 20260122201639.png]]
+
+**Reinforcement Learning**
+• An agent observes the environment, selects an action, gets a reward, and  
+updates its policy.  
+• Task examples:  
+Robot navigation, game AI, and self-driving car
+
+
 
