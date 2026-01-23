@@ -288,6 +288,9 @@ Mean
 Monitor
 Major
 MNist
+McCarthy
+Mitchell
+Movies
 Learning
 Learn
 Let
@@ -526,6 +529,7 @@ Launched
 Linguistics
 Layers
 Locality
+Language
 Relevant
 Reading
 Research
@@ -770,6 +774,8 @@ RandomSearch
 RMSProp
 ResNet
 Reducing
+Relatively
+Robot
 libraries
 learn
 learning
@@ -1311,6 +1317,7 @@ Gemini
 Give
 Generalization
 Generalize
+Growing
 Charting
 Control
 Common
@@ -1698,6 +1705,7 @@ Controlled
 Constant
 Cartesian
 Context
+Capturing
 Scikit
 Statistical
 Statistics
@@ -2090,6 +2098,10 @@ Scheduling
 Sending
 Studies
 Spans
+Simplest
+Successes
+Samuel
+Semi
 Keras
 Key
 Kirchhoffs
@@ -2527,6 +2539,11 @@ Timestep
 Topology
 Tends
 Touch
+Turing
+Tom
+Tasks
+Transductive
+Trend
 ISLP
 Iris
 Instance
@@ -2784,6 +2801,8 @@ Import
 Isend
 Irecv
 Implemented
+IBM
+Informed
 and
 ability
 approximation
@@ -3224,6 +3243,10 @@ activations
 amplitude
 animals
 arrangement
+artifical
+automata
+action
+acquiring
 Applications
 AI
 Analysis
@@ -3515,6 +3538,9 @@ Adapt
 Adam
 Adaptive
 Aligned
+Artificial
+Abstract
+Arthur
 with
 without
 want
@@ -4657,6 +4683,8 @@ illustration
 intervals
 inter
 idth
+inductive
+informs
 Field
 For
 Find
@@ -4898,6 +4926,8 @@ Fourier
 Flow
 Forget
 Furthermore
+Formal
+Father
 of
 or
 optimize
@@ -5197,6 +5227,9 @@ overtraining
 overshoot
 optimizer
 offset
+observable
+opponent
+observes
 study
 simplified
 something
@@ -5768,6 +5801,13 @@ spot
 startup
 synchronization
 successful
+sterile
+sought
+symbols
+subjective
+speech
+selects
+self
 giving
 good
 generalizable
@@ -6042,6 +6082,7 @@ gene
 gather
 garden
 gamma
+game
 computers
 computer
 can
@@ -6639,6 +6680,14 @@ covariance
 convolved
 convolution
 challenges
+confine
+convinced
+chess
+champions
+controlled
+car
+conducting
+category
 the
 to
 training
@@ -7030,6 +7079,9 @@ thoroughly
 trainable
 typewriter
 tensor
+thinks
+totally
+trend
 being
 be
 by
@@ -7321,6 +7373,7 @@ barriers
 beta
 bag
 biased
+biologically
 explicitly
 experience
 error
@@ -7725,6 +7778,7 @@ epoch
 epochs
 embed
 extraction
+engineering
 programmed
 patterns
 program
@@ -8206,6 +8260,12 @@ pit
 physics
 pretrained
 privatization
+permanent
+playing
+placing
+punishments
+price
+protein
 Detecting
 Deepmind
 Dataset
@@ -8895,6 +8955,11 @@ recv
 reparameterized
 reset
 reduced
+representative
+robot
+rationally
+rational
+rough
 model
 mostly
 machine
@@ -9245,6 +9310,7 @@ minima
 masked
 modifies
 merging
+million
 hypothesis
 handwritten
 have
@@ -9494,6 +9560,8 @@ html
 hosts
 hints
 hazards
+hardest
+helpers
 Execution
 Examples
 Economics
@@ -10012,6 +10080,10 @@ utilize
 undertrain
 unacceptable
 understood
+umbrella
+understandable
+umbrellas
+unlabeled
 data
 driven
 dataset
@@ -10444,6 +10516,11 @@ dormant
 deadlock
 discard
 directions
+defeated
+drawn
+diverse
+diseases
+diagnostics
 future
 from
 feed
@@ -10754,6 +10831,11 @@ fstrict
 fixable
 fork
 feeding
+fathers
+famous
+feasible
+formal
+fnite
 Optimziation
 Operations
 Once
@@ -11730,6 +11812,9 @@ nthreads
 nowait
 normalization
 normalized
+nothing
+noisy
+navigation
 yes
 yield
 your
@@ -12135,6 +12220,8 @@ HTTPS
 Handling
 Hinton
 HuggingFace
+Have
+Historical
 Not
 NOTHING
 No
@@ -12343,6 +12430,8 @@ Normalize
 Non
 Normalization
 NLP
+Neuron
+Neighbors
 quality
 question
 quickly
@@ -12703,6 +12792,7 @@ Unlikely
 Uniform
 Utilization
 Ubiquitous
+Uninformed
 Breakout
 Because
 Backpropagation
@@ -12965,6 +13055,8 @@ Browser
 BIND
 Batches
 Blocking
+Biological
+Blue
 just
 jagged
 json
