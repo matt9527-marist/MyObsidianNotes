@@ -83,3 +83,7 @@ Robot navigation, game AI, and self-driving car
 - Use RL when we have a totally new task, knowing the target/goal, but *not knowing anything about the environment*. 
 - Use RL when everything about the environment is known, but we do not want to waste our time searching the whole environment. 
 
+![[Pasted image 20260122202131.png]]
+Uninformed Search - No information will be given to me by conducting one action. 
+Informed Search - Every action informs the next subsequent action with information.
+
