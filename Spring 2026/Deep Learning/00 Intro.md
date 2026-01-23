@@ -91,4 +91,6 @@ Robot navigation, game AI, and self-driving car
 Use RL: when the environment is known but is very big, or no information will be gained by taking an action. 
 
 **Representation Learning**
+![[Pasted image 20260122202718.png]]
+
 
