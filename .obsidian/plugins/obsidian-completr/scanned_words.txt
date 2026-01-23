@@ -293,6 +293,7 @@ Might
 Managers
 Manager
 Maintain
+Manage
 Learning
 Learn
 Let
@@ -779,6 +780,9 @@ Resolution
 Rtk
 Required
 Resources
+Responding
+Responsibility
+Responsible
 libraries
 learn
 learning
@@ -1324,6 +1328,7 @@ Give
 Generalization
 Generalize
 GDPR
+Goals
 Charting
 Control
 Common
@@ -1717,6 +1722,7 @@ Competition
 Consumes
 Conform
 Competence
+Constraints
 Scikit
 Statistical
 Statistics
@@ -2116,6 +2122,8 @@ Sru
 Sony
 Sponsors
 Stock
+Software
+Schedule
 Keras
 Key
 Kirchhoffs
@@ -2559,6 +2567,10 @@ TVf
 TPH
 Technology
 Traditional
+Today
+Triple
+Threatens
+THINK
 ISLP
 Iris
 Instance
@@ -3270,6 +3282,7 @@ airplane
 aligning
 adjust
 action
+accountable
 Applications
 AI
 Analysis
@@ -3565,6 +3578,8 @@ Azure
 Apple
 Agile
 Accountable
+AirPods
+AGAIN
 with
 without
 want
@@ -3820,6 +3835,8 @@ wfgL
 wmA
 wWw
 week
+workplace
+went
 Python
 Performance
 Principle
@@ -4143,6 +4160,7 @@ Pim
 Projects
 Professional
 PMP
+Priorities
 What
 We
 With
@@ -4731,6 +4749,8 @@ industries
 inability
 interrelated
 implemented
+iPhone
+iPad
 Field
 For
 Find
@@ -5286,6 +5306,7 @@ opportunity
 overrun
 org
 outcomes
+ongoing
 study
 simplified
 something
@@ -5865,6 +5886,8 @@ shut
 sAP
 shL
 spent
+stakeholders
+stakeholder
 giving
 good
 generalizable
@@ -6748,6 +6771,10 @@ customer
 cash
 corrective
 coordinated
+conflicting
+contingencies
+creep
+consuming
 the
 to
 training
@@ -7149,6 +7176,9 @@ teams
 tackle
 terminate
 temporary
+triangle
+turns
+talk
 being
 be
 by
@@ -7854,6 +7884,7 @@ engine
 era
 endeavor
 employers
+editions
 programmed
 patterns
 program
@@ -8342,6 +8373,8 @@ personal
 principles
 preparing
 profit
+products
+placing
 Detecting
 Deepmind
 Dataset
@@ -9054,6 +9087,7 @@ rzrD
 reacted
 reworked
 revenues
+responsibility
 model
 mostly
 machine
@@ -9411,6 +9445,7 @@ music
 manager
 money
 managing
+month
 hypothesis
 handwritten
 have
@@ -9662,6 +9697,9 @@ hints
 hazards
 hmr
 hit
+hardline
+held
+hurting
 Execution
 Examples
 Economics
@@ -9931,6 +9969,7 @@ Executives
 Extreme
 Emertxe
 Equipment
+Establishing
 using
 utility
 use
@@ -10190,6 +10229,7 @@ understood
 uXw
 undertaken
 underwrite
+undertake
 data
 driven
 dataset
@@ -10633,6 +10673,7 @@ dUm
 defense
 disband
 degrees
+demands
 future
 from
 feed
@@ -10954,6 +10995,8 @@ functional
 focal
 funds
 forecasts
+funding
+flippant
 Optimziation
 Operations
 Once
@@ -11627,6 +11670,7 @@ verifies
 visit
 vanishing
 vKO
+vacation
 numerical
 no
 need
@@ -12560,6 +12604,7 @@ NXO
 NSrr
 Needed
 Neither
+Newspaper
 quality
 question
 quickly
@@ -12922,6 +12967,7 @@ Uniform
 Utilization
 Ubiquitous
 Union
+Uncertainty
 Breakout
 Because
 Backpropagation
@@ -13188,6 +13234,9 @@ Boundary
 BVVw
 Business
 Businesses
+Budget
+Basics
+Beware
 just
 jagged
 json
