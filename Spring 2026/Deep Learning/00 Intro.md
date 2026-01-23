@@ -52,5 +52,5 @@ Tom M. Mitchell
 **Types of Machine Learning Tasks:**
 ![[Pasted image 20260122201208.png]]
 
-
+**Supervised Learning**
 
