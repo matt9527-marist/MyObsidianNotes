@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "3d4f43013aeb54d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "9e3df936a8ca89b3",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Formatting Template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,16 +200,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a7eb0c5bea60290",
+  "active": "3d4f43013aeb54d9",
   "lastOpenFiles": [
-    "Assets/Pasted image 20260121180519.png",
-    "Assets/Pasted image 20260121180445.png",
+    "Spring 2026/Capping/01 History of Project Management.md",
+    "conflict-files-obsidian-git.md",
+    "Spring 2026/Deep Learning/00 Intro.md",
+    "Assets/Pasted image 20260122203133.png",
+    "Assets/Pasted image 20260122203040.png",
+    "Assets/Pasted image 20260122202814.png",
+    "Assets/Pasted image 20260122202800.png",
+    "Assets/Pasted image 20260122202718.png",
+    "Assets/Pasted image 20260122202131.png",
+    "Assets/Pasted image 20260122201639.png",
+    "Assets/Pasted image 20260122201555.png",
+    "Assets/Pasted image 20260122201208.png",
+    "Assets/Pasted image 20260122200329.png",
     "Spring 2026/Capping/00 Project Initiation.md",
     "Formatting Template.md",
     "LaTeX Scratch.md",
-    "Spring 2026/Capping/01 History of Project Management.md",
-    "Assets/Pasted image 20250908204936.png",
-    "Assets/Pasted image 20260121174723.png",
     "Spring 2026/Capping",
     "Spring 2026/Deep Learning",
     "Fall 2025",
@@ -207,17 +230,9 @@
     "Fall 2025/Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
     "Fall 2025/Security Protocols-Algorithms/008 Summary.md",
     "Fall 2025/Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Assets/Pasted image 20251124160029.png",
-    "Assets/Pasted image 20251124160002.png",
     "Fall 2025/Security Protocols-Algorithms/006 PKI.md",
-    "conflict-files-obsidian-git.md",
     "Fall 2025/Security Protocols-Algorithms/007 PKI II.md",
-    "Assets/Pasted image 20251119100952.png",
-    "Assets/Pasted image 20251119100120.png",
-    "Assets/Pasted image 20251119095511.png",
-    "Assets/Pasted image 20251119093545.png",
     "Fall 2025/Parallel Processing/210 MPI.md",
-    "Assets/Pasted image 20251117203947.png",
     "Fall 2025/Parallel Processing/209 OpenMP.md",
     "Fall 2025/Machine Learning/008 Logistic Regression.md",
     "Fall 2025/Parallel Processing/208 CPU Parallelization - Vectorization.md",
