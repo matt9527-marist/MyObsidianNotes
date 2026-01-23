@@ -23,6 +23,12 @@ AI definitions: (by the "fathers of AI")
 		- Systems that act rationally 
 			- Why differentiate? For some tasks, we cannot define, clear-cut rational rules to provide the answer? For example, determine cat vs. dog given an image, and separate them. Such a simple task is still impossible to define a set of permanent rules for. The ideal approach may not be feasible, so we must go with the human approach. Then again, some tasks require a rational approach (factoring numbers)
 
-
+## Early Successes of AI 
+- IBM's Deep Blue chess-playing system defeated world champions in 1997. 
+- Relatively sterile and formal environment- nothing they did not expect, a controlled environment. 
+- Have to sought hard-code knowledge about the world in formal languages. 
+	- A formal language is a set of strings of symbols drawn from a fnite alphabet in automata theory. 
+	- Easier for a computer to understand, hard for a human to understand 
+- 
 
 
