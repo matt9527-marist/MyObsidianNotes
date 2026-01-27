@@ -25,3 +25,14 @@ during an interval
 database  
 	– Can use Java System.nanotime() here
 
+**Metrics Aggregation**
+● Data for some sources can be stored as cumulative  
+values  
+	– Number of seconds of CPU time  
+	– Number of page faults  
+● Can create a delta value to determine consumption over  
+a given interval  
+● Can create a CPU using %  
+	– Sum all the CPU times over an interval,  
+	– Dividing the interval time multiplied by the number of CPUs
+
