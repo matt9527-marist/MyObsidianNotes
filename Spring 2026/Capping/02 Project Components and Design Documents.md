@@ -122,7 +122,7 @@ Explains the WHY?
 	– Application software  
 ● Development environment  
 	– Compilers  
-	– IDE  
+	– IDE (Cursor for new AI copilot work)
 	– Source code repository  
 	– Defect tracker  
 	– Build process  
@@ -136,3 +136,28 @@ Explains the WHY?
 ● UI data extraction  
 ● Metrics presentation to user  
 ● Termination
+● Error handling and recovery  
+	– What do the various components do in an error?  
+		● Log it? Fail noisily? Crash? Swallow the error?  
+● Testability  
+	– Test environment  
+	– Test scenarios  
+	– Regression testing  
+	– Function test  
+	– System test
+
+**Packaging**
+● How will the software be packaged?  
+● How will it be installed?  
+● How will the customer get the software?  
+● Performance objectives
+
+**Security**
+● Required authority  
+	– Does the software need to run as  
+	root/admin?  
+	– What permissions should the installed files  
+	have?  
+	– Who should be permitted to interface with  
+	the software?  
+		● Admin / user roles?
