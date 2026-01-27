@@ -91,3 +91,27 @@ the length of a tick
 get this value:  
 – sysconf("SC_CLK_TCK");
 
+**Reading Metrics Data**
+● How do you get these data into your application?  
+	– Some of them can be read via standard file I/O operations  
+	– Others require use of a C API, like sysconf()  
+● Using a C API from a non-C language can be tricky  
+	– Java has JNI (Java Native Interface) for this  
+	– Python has various ways of connecting with C and C++  
+APIs.  
+	– The C API is somewhat “universal”, so many programming  
+	languages offer this capability
+
+
+**Why JNI?**
+● If you were to write a Java-based metrics collector application,  
+then JNI would be required to obtain certain data  
+	– It allows you to break free of limitations imposed by the JVM  
+	– It also removes the guard rails from your code and allows you to  
+	cause spectacular failures!  
+	– If you have an existing library in C/C++ that needs to connect  
+with your Java application, JNI is the way to go  
+● Note that this is applicable to most other languages that have  
+the ability to talk to “native” code  
+	– Native code is code that runs outside the JVM, Python  
+	interpreter, or other managed runtime environment
