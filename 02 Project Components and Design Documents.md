@@ -39,3 +39,4 @@ High Level View:
 	– Use reasonable thresholds – exact details are up to the team  
 	– Helps to make storage requirements reasonable
 
+**Expectations**
