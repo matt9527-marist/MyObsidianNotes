@@ -50,3 +50,19 @@ structured
 ● Test documents will explain testcases  
 ● Code review comments will be documented  
 ● Teams will document problems in bug tracker
+
+## Design Documents 
+### Agile Development 
+● Requirement description  
+● Breakdown project into Epics  
+	– Each epic is a major function  
+	– e.g. application front and back ends  
+● Each epic can be broken into User Stories  
+	– Each story describes an individual piece of work  
+	– e.g. metrics collection, database connectivity, interface design  
+	- "I as a user want to view process metrics for a given process running on a Windows computer."
+● Every story can be broken into tasks  
+	– e.g. scraping /proc for metrics, calling JNI for length of a clock tick  
+	– User Stories should list dependencies on other stories (pre-requisites and  
+	co-requisites)  
+● Consider how each story will be tested
