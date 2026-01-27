@@ -36,3 +36,23 @@ a given interval
 	– Sum all the CPU times over an interval,  
 	– Dividing the interval time multiplied by the number of CPUs
 
+**Metrics Pruning**
+● Can run over the database at certain intervals  
+	– 10 minutes, 60 minutes, 4 hours, 24 hours, etc.  
+	– These are just suggestions!  
+● Initially keep rows at 15 second intervals, then at 1  
+minute intervals, then 10 minutes, then an hour  
+	– Again, just suggested values!  
+● This helps to reduce database size to reasonable  
+levels, while still keeping enough recent data to  
+make performance evaluations
+
+**Database Schema**
+● You can decide the layout of your database  
+● One table, many tables, it’s up to you  
+● You can get fancy and do stored  
+procedures and joins and such, or you can  
+keep it simple with one table and many  
+records  
+● This application doesn’t need to scale, so  
+any implementation will be fine
