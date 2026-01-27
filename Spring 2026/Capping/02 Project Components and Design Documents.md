@@ -66,3 +66,17 @@ structured
 	– User Stories should list dependencies on other stories (pre-requisites and  
 	co-requisites)  
 ● Consider how each story will be tested
+
+**Structure**
+● Introduction  
+	– Authors  
+● Who prepared this document?  
+	– Document revision history  
+● Major changes, with dates & times  
+	– Audience  
+● Who is this document for?  
+● Who will be reading it, and what will they do with it?  
+	– Developers, testers, documentation writers  
+	– Table of Contents  
+● Usually auto-generated from section headers  
+● Let your word processor do the work for you!
