@@ -105,3 +105,34 @@ Explains the WHY?
 	– User actions  
 	– System events  
 		● Startup / shutdown / database pruning
+
+**Internal Design**
+● Development Standards  
+	– Waterfall? Agile?  
+	– What languages will we use?  
+	– Code reuse  
+● Libraries  
+	– Software license?  
+		● Proprietary  
+		● Free/Open Source
+● Hardware Resources  
+- Do we need resources on the cloud? What OS is it going to run on?
+	– Physical machines  
+	– Operating systems  
+	– Application software  
+● Development environment  
+	– Compilers  
+	– IDE  
+	– Source code repository  
+	– Defect tracker  
+	– Build process  
+	– Release process
+
+**Software Flow**
+● Initialization  
+● Metrics collection  
+● Data aggregation  
+● Database storage  
+● UI data extraction  
+● Metrics presentation to user  
+● Termination
