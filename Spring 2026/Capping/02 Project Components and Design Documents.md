@@ -92,3 +92,16 @@ Explains the WHY?
 	– A block diagram here can be helpful as an  
 	illustration
 
+**External Design**
+● How will this look from the outside world?  
+● What will the interfaces be?  
+	– GUI and/or CLI  
+		● Can show GUI mockups  
+		● Can show CLI examples and arguments  
+	– API  
+		● Enumerate methods / function calls  
+		● Document assumptions and requirements for each  
+● Use cases  
+	– User actions  
+	– System events  
+		● Startup / shutdown / database pruning
