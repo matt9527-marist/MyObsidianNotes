@@ -153,6 +153,8 @@ Explains the WHY?
 ● Performance objectives
 
 **Security**
+Not everything is just expected to run with admin privileges anymore. Security is a big issue. 
+- Do access control. Do process isolation. Keep in mind that if the service collecting information on the system is compromised, it can't go and do anything else. 
 ● Required authority  
 	– Does the software need to run as  
 	root/admin?  
@@ -161,3 +163,40 @@ Explains the WHY?
 	– Who should be permitted to interface with  
 	the software?  
 		● Admin / user roles?
+
+**Accessibility**
+● How can disabled / handicapped users  
+work with the software?  
+	– Color blindness  
+	– Vision impaired / blind users  
+		● Voice narrator software  
+		● Braille terminals!
+
+**Globalization**
+● What language will the software display  
+messages in?  
+● Will there be translations?  
+● Does the documentation need to be  
+translated?
+
+**Supporting Material**
+● Glossary  
+	– Define technical terms  
+	– Might be specific to this project  
+	– Makes it easier for documentation authors to understand  
+● References  
+	– Academic papers  
+	– Web sites  
+	– Design documents  
+	– Books  
+	– Software documentation
+
+**Risks and Dependencies**
+● What are the risks of the project?  
+	– Procrastination!  
+● Are there other projects that depend on this  
+one?  
+● Are there projects that must be completed  
+before this can succeed?  
+	– This is a standalone project, so no real  
+	external dependencies
