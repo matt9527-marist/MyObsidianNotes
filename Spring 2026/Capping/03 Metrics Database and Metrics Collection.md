@@ -56,3 +56,20 @@ keep it simple with one table and many
 records  
 ● This application doesn’t need to scale, so  
 any implementation will be fine
+
+## Process Metrics Collection 
+Our reference metrics collector is based on a Linux machine. It is a Java program that runs as a Daemon, sending data to a database, available for future usage. 
+
+**Pseudo-file system Procfs**
+● /proc also has a directory for each process  
+	– /proc/<pid>/  
+● Contains interesting data about the process  
+	– /proc/<pid>/cmdline  
+		● Complete command line  
+	– /proc/</pid>/cwd  
+		● Current process working directory  
+	– /proc/<pid>/mem  
+		● Process memory map  
+	– /proc/<pid>/maps  
+		● Process memory layout for above map
+
