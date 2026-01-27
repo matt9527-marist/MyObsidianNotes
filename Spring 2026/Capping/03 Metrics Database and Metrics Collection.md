@@ -83,3 +83,11 @@ Our reference metrics collector is based on a Linux machine. It is a Java progra
 – Page fault counter  
 – Designed to be easily parsed by scanf()
 
+**Jiffies**
+● A timer tick is one jiffy  
+● Can convert to a real time value by knowing  
+the length of a tick  
+● Userspace apps can call sysconf() API to  
+get this value:  
+– sysconf("SC_CLK_TCK");
+
