@@ -40,3 +40,13 @@ High Level View:
 	– Helps to make storage requirements reasonable
 
 **Expectations**
+Projects must work on a generic OS install  
+	– “It works on my machine” is unacceptable  
+	– Must use “reasonable” amounts of memory and CPU  
+		- It's a monitor; it shouldn't crash with little resource or take up all the resources it's trying to monitor.
+● Applications should not crash or fail  
+● Design documents will show how application is  
+structured  
+● Test documents will explain testcases  
+● Code review comments will be documented  
+● Teams will document problems in bug tracker
