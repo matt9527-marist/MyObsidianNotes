@@ -80,3 +80,15 @@ structured
 	– Table of Contents  
 ● Usually auto-generated from section headers  
 ● Let your word processor do the work for you!
+
+**Objective and Approach**
+Explains the WHY?
+- Make a good argument for what you're trying to accomplish. We are trying to sell someone on this. 
+● Objective  
+	– What is the problem?  
+● Approach  
+	– How are we going to solve it?  
+	– Very broad, overall design  
+	– A block diagram here can be helpful as an  
+	illustration
+
