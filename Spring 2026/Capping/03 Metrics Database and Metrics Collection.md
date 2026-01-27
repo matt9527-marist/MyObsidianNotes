@@ -62,14 +62,24 @@ Our reference metrics collector is based on a Linux machine. It is a Java progra
 
 **Pseudo-file system Procfs**
 ● /proc also has a directory for each process  
-	– /proc/<pid>/  
+	– /proc/<"pid">/  
 ● Contains interesting data about the process  
 	– /proc/<pid>/cmdline  
 		● Complete command line  
 	– /proc/</pid>/cwd  
 		● Current process working directory  
-	– /proc/<pid>/mem  
+	– /proc/<"pid">/mem  
 		● Process memory map  
-	– /proc/<pid>/maps  
+	– /proc/<"pid">/maps  
 		● Process memory layout for above map
+
+**Stat**
+● /proc/<"pid">/stat  
+– Contains lots of fun information about the process  
+– Process name & pid, and parent pid (ppid)  
+– Process execution time  
+● Kernel mode & user mode  
+– Process memory usage  
+– Page fault counter  
+– Designed to be easily parsed by scanf()
 
