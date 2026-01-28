@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
+                "file": "Spring 2026/Capping/02 Project Components and Design Documents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Metrics Database and Metrics Collection"
+              "title": "02 Project Components and Design Documents"
             }
           }
         ],
@@ -214,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb6cd15ae1c6427b",
+  "active": "2c2aafbc7a3d9314",
   "lastOpenFiles": [
-    "Spring 2026/Capping/02 Project Components and Design Documents.md",
-    "Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
     "Spring 2026/Capping/01 History of Project Management.md",
+    "Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
+    "Spring 2026/Capping/02 Project Components and Design Documents.md",
     "Spring 2026/Capping/00 Project Initiation.md",
     "Formatting Template.md",
     "conflict-files-obsidian-git.md",
