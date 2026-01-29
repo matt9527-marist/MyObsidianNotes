@@ -54,7 +54,8 @@ Tom M. Mitchell
 
 **Supervised Learning** (already in ML)
 • Most supervised learning tasks fall under two umbrellas:  
-*Classification* - 
+*Classification* - We have the label for the instance. If the instance target is categorical, that is classification. 
+*Regression* - If the instance target is numerical. Predicting a value. 
 Classification and Regression.  
 • Classification task examples:  
 Image classification and diseases diagnostics  
