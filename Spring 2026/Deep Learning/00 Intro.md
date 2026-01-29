@@ -76,6 +76,7 @@ Text document classification, speech analysis, and protein sequence classificati
 • Sample algorithms:  
 Transductive and inductive methods
 ![[Pasted image 20260122201639.png]]
+- Consider the bias. The line separating the cate
 
 **Reinforcement Learning**
 • An agent observes the environment, selects an action, gets a reward, and  
