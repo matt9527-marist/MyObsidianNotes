@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a7eb0c5bea60290",
+            "id": "b340482461b01bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Capping/01 History of Project Management.md",
+                "file": "Spring 2026/Deep Learning/00 Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 History of Project Management"
+              "title": "00 Intro"
             }
           },
           {
-            "id": "9e3df936a8ca89b3",
+            "id": "fed1fbbf1afbf5c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Capping/01 History of Project Management.md",
+                "file": "Spring 2026/Deep Learning/01 Feedforward Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 History of Project Management"
-            }
-          },
-          {
-            "id": "52059d6e9a3bbc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2026/Capping/02 Project Components and Design Documents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Project Components and Design Documents"
-            }
-          },
-          {
-            "id": "2c2aafbc7a3d9314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring 2026/Capping/02 Project Components and Design Documents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Project Components and Design Documents"
+              "title": "01 Feedforward Neural Networks"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,15 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c2aafbc7a3d9314",
+  "active": "fed1fbbf1afbf5c6",
   "lastOpenFiles": [
-    "Spring 2026/Capping/01 History of Project Management.md",
+    "Spring 2026/Deep Learning/00 Intro.md",
+    "Spring 2026/Deep Learning/01 Feedforward Neural Networks.md",
     "Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
     "Spring 2026/Capping/02 Project Components and Design Documents.md",
-    "Spring 2026/Capping/00 Project Initiation.md",
-    "Formatting Template.md",
-    "conflict-files-obsidian-git.md",
-    "Spring 2026/Deep Learning/00 Intro.md",
     "Assets/Pasted image 20260122203133.png",
     "Assets/Pasted image 20260122203040.png",
     "Assets/Pasted image 20260122202814.png",
@@ -233,43 +202,47 @@
     "Assets/Pasted image 20260122201555.png",
     "Assets/Pasted image 20260122201208.png",
     "Assets/Pasted image 20260122200329.png",
-    "LaTeX Scratch.md",
-    "Spring 2026/Capping",
     "Spring 2026/Deep Learning",
-    "Fall 2025",
+    "Spring 2026/Capping/01 History of Project Management.md",
+    "Spring 2026/Capping/00 Project Initiation.md",
+    "Spring 2026/Capping",
     "Spring 2026",
-    "Fall 2025/Machine Learning/013 Neural Networks.md",
-    "Fall 2025/Machine Learning/014 Keras.md",
-    "Fall 2025/Machine Learning/015 CNNs.md",
-    "Fall 2025/Machine Learning/Colab Notebooks.md",
-    "Fall 2025/Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+    "Parallel Processing/208 CPU Parallelization - Vectorization.md",
+    "Fall 2025/Machine Learning/Midterm Review/Classification.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Text Classification.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Regularization.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/ML Basics.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Logistic Regression.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Linear Regression.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Data Preprocessing.canvas",
+    "Fall 2025/Machine Learning/Midterm Review/Exam Scratch.md",
+    "Fall 2025/Machine Learning/Midterm Review/Colab Collection.md",
+    "Fall 2025/Machine Learning/Midterm Review/Calculus.canvas",
+    "Fall 2025/Security Protocols-Algorithms/Security Protocols Article Presentation.md",
+    "Fall 2025/Security Protocols-Algorithms/Secure Channel.md",
+    "Fall 2025/Security Protocols-Algorithms/README.md",
+    "Fall 2025/Security Protocols-Algorithms/Linux Overview.md",
     "Fall 2025/Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
     "Fall 2025/Security Protocols-Algorithms/008 Summary.md",
-    "Fall 2025/Security Protocols-Algorithms/000 Introduction to Cryptography.md",
-    "Fall 2025/Security Protocols-Algorithms/006 PKI.md",
     "Fall 2025/Security Protocols-Algorithms/007 PKI II.md",
+    "Fall 2025/Security Protocols-Algorithms/006 PKI.md",
+    "Fall 2025/Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+    "Fall 2025/Security Protocols-Algorithms/004 The Secure Channel.md",
+    "Fall 2025/Security Protocols-Algorithms/003 Hashing.md",
+    "Fall 2025/Security Protocols-Algorithms/002 Attacks on Block Ciphers.md",
+    "Fall 2025/Security Protocols-Algorithms/001 Block Ciphers.md",
+    "Fall 2025/Security Protocols-Algorithms/000 Introduction to Cryptography.md",
     "Fall 2025/Parallel Processing/210 MPI.md",
-    "Fall 2025/Parallel Processing/209 OpenMP.md",
-    "Fall 2025/Machine Learning/008 Logistic Regression.md",
     "Fall 2025/Parallel Processing/208 CPU Parallelization - Vectorization.md",
-    "Fall 2025/Parallel Processing/107 Parallel Algorithms II.md",
-    "Fall 2025/Machine Learning/Assignment 4 Probability.md",
-    "Fall 2025/Machine Learning/012 Dimensionality Reduction.md",
-    "Fall 2025/Machine Learning/007 NB for Text Classification.md",
-    "Fall 2025/Machine Learning/Midterm Review/Logistic Regression.canvas",
-    "Fall 2025/Machine Learning/Midterm Review/Pandas and NumPy Basics.canvas",
-    "Fall 2025/Machine Learning/Midterm Review/ML Basics.canvas",
-    "Fall 2025/Machine Learning/Midterm Review/Linear Regression.canvas",
-    "Fall 2025/Machine Learning/Midterm Review/Regularization.canvas",
-    "Fall 2025/Machine Learning/Midterm Review/Classification.canvas",
-    "Fall 2025/Machine Learning/Midterm Review/Calculus.canvas",
-    "Fall 2025/Machine Learning/Midterm Review/Linear Algebra.canvas",
+    "Fall 2025/Parallel Processing/209 OpenMP.md",
     "Fall 2025/Machine Learning/Midterm Review",
-    "Untitled.base",
-    "PP Notes/Untitled.canvas",
-    "PP Notes",
-    "github.com/catchorg/Catch2/releases/downloads/v2.13.7",
-    "github.com/catchorg/Catch2/releases/downloads",
-    "github.com/catchorg/Catch2/releases"
+    "Fall 2025/Security Protocols-Algorithms",
+    "Fall 2025/Parallel Processing",
+    "Fall 2025/Machine Learning",
+    "Fall 2025",
+    "Machine Learning/Midterm Review",
+    "Untitled.base"
   ]
 }
