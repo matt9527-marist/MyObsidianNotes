@@ -54,6 +54,7 @@ Tom M. Mitchell
 
 **Supervised Learning** (already in ML)
 • Most supervised learning tasks fall under two umbrellas:  
+*Classification* - 
 Classification and Regression.  
 • Classification task examples:  
 Image classification and diseases diagnostics  
