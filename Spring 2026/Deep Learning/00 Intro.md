@@ -76,7 +76,7 @@ Text document classification, speech analysis, and protein sequence classificati
 • Sample algorithms:  
 Transductive and inductive methods
 ![[Pasted image 20260122201639.png]]
-- Consider the bias. The line separating the cate
+- Consider the bias. The line separating the categories is determined by using unlabeled data to improve the analysis. 
 
 **Reinforcement Learning**
 • An agent observes the environment, selects an action, gets a reward, and  
