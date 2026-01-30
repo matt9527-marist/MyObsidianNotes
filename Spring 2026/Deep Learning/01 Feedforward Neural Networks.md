@@ -96,4 +96,7 @@ We update the weights using **backpropagation**. There are several alternatives.
 Identifies the error that we need to reduce. 
 How do we *split the data?*
 1) Training - what we use to fit the model 
-2) Validation - 
+2) Validation - used to measure the bias of the fitted model to the training dataset. This is to prevent overfitting by avoiding values that match the patterns but fail when dealing with new data. 
+3) Test - data unseen by the network used to evaluate the final fitted model. 
+
+**K-Fold Cross Validation**
