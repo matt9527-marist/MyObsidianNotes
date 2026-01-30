@@ -135,3 +135,5 @@ Step 6 - Return the weights.
 
 **Batch Size Trade-Off**
 ![[Pasted image 20260129203246.png]]
+Lack of generalizabiliyt => overfitting. We do not prefer to put all the data in one batch. 
+
