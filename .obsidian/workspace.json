@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Deep Learning/00 Intro.md",
+                "file": "Spring 2026/Deep Learning/01 Feedforward Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Intro"
+              "title": "01 Feedforward Neural Networks"
             }
           }
         ],
@@ -188,9 +188,9 @@
   },
   "active": "fed1fbbf1afbf5c6",
   "lastOpenFiles": [
+    "Spring 2026/Deep Learning/00 Intro.md",
     "Assets/Pasted image 20260129190528.png",
     "Spring 2026/Deep Learning/01 Feedforward Neural Networks.md",
-    "Spring 2026/Deep Learning/00 Intro.md",
     "Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
     "Spring 2026/Capping/02 Project Components and Design Documents.md",
     "Assets/Pasted image 20260122203133.png",
@@ -202,7 +202,6 @@
     "Assets/Pasted image 20260122201639.png",
     "Assets/Pasted image 20260122201555.png",
     "Assets/Pasted image 20260122201208.png",
-    "Assets/Pasted image 20260122200329.png",
     "Spring 2026/Deep Learning",
     "Spring 2026/Capping/01 History of Project Management.md",
     "Spring 2026/Capping/00 Project Initiation.md",
