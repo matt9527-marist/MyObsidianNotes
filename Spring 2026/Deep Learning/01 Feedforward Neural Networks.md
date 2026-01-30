@@ -29,3 +29,13 @@ Mathematical Formulation:
 Linear functions are those whose graph is a straight line.  
 y = f(x) = a + bx  
 ![[Pasted image 20260129194739.png]]
+Non-linear means the graph is not a straight line. The graph of  
+a non-linear function is a curved line. A curved line is a line  
+whose direction constantly changes.
+
+**Activation Function**
+Linear Activation function: produces a straight line, fails to separate our environment to the two categories if our data is not linearly separable. That is the case most of the time. 
+Nonlinear Activation function: Have smarter perceptrons, such that we can detect nonlinear decision boundaries. 
+
+### Common Activation Functions 
+![[Pasted image 20260129194929.png]]
