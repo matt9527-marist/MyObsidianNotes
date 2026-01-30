@@ -125,3 +125,10 @@ Step 2 - Loop until convergence:
 Step 6 - Return the weights.
 
 **Epoch, batch size, iteration, and steps per epoch**
+![[Pasted image 20260129202627.png]]
+• one epoch = one forward pass and one backward pass of all the training examples
+- When we see Epoch 1/10, 10 means the number of samples in the batch size. That is 10 it
+• Batch/mini-batch size = the number of training examples in one forward/backward pass. The higher the batch size, the more memory space you'll need.
+• number of iterations = number of passes, each pass using [batch size] number of examples. To be clear, one pass = one forward pass + one backward pass (we do not count the forward pass and backward pass as two different passes).
+• steps per epoch = Total number of steps (batches of samples) to yield from generator before declaring one epoch finished and starting the next epoch. It should typically be equal to ceil(num_samples / batch_size). Optional for Sequence: if unspecified, will use the len(generator) as a number of steps.
+
