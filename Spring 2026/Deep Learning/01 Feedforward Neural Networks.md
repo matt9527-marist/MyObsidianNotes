@@ -72,3 +72,11 @@ The depth of the network and the activation shifting the value to zero.
 **Samples of Monotonic Functions**
 ![[Pasted image 20260129195802.png]]
 
+![[Pasted image 20260129200058.png]]
+
+Using linear functions, no matter how many layers,  
+essentially boils down to the "perceptron" architecture.
+**Why do we need nonlinear functions**?
+If we have a linear function, it does not matter how many layers we have. The output boundary will always just be a straight line, so we cannot capture a more complex decision boundary. 
+
+
