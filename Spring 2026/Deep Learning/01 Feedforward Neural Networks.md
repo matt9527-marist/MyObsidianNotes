@@ -20,4 +20,4 @@ One important parameter is number of tunable parameters:
 Obviously, 0 hidden layers results in no change to a reported loss. 
 Starting with only one hidden layer with 2 neurons appears to have the test and training loss level out without fully reaching 0, at least according to the test website. 
 Adding upwards of 3 layers without changing any other parameters results in relatively slow learning, and the test loss drops in time steps. 
-When you add 6 layers, the test error begins to oscillate, which tells us that it is overfitting to the 
+When you add 6 layers, the test error begins to oscillate, which tells us that it is overfitting to the relationships in the training data. 
