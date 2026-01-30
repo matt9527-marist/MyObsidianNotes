@@ -79,4 +79,6 @@ essentially boils down to the "perceptron" architecture.
 **Why do we need nonlinear functions**?
 If we have a linear function, it does not matter how many layers we have. The output boundary will always just be a straight line, so we cannot capture a more complex decision boundary. 
 
-
+**What is the most efficient neural network?**
+- *We want a model that demands the LEAST computational time while providing the HIGHEST accuracy*. 
+- 
