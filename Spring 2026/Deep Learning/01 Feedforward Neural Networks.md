@@ -43,4 +43,24 @@ Nonlinear Activation function: Have smarter perceptrons, such that we can detect
 **Example of Forward Propagation with Sigmoid**
 ![[Pasted image 20260129195116.png]]
 We can see why Sigmoid works with the shape of its graph. We can see a separation between samples possessing values between -2 and 2 .
-TanH and 
+TanH and Leaky RELU squeeze the Sigmoid function more, to reduce our area of uncertainty. 
+
+**Criteria for Activation Functions**
+Nonlinear function  
+The composition of linear functions is just another linear function, so you gain nothing by having  
+multiple layers; you might as well just do some kind of linear regression or classification.  
+Monotonic function  
+The activation function should be either entirely non-increasing or non-decreasing. If the  
+activation function isn't monotonic then increasing the neuron's weight might cause it to have less 
+influence on reducing the error of the cost function.  
+Differential  
+The activation function should be differential because we want to calculate the change in error  
+with respect to given weights at the time of gradient descent.  
+Quickly converging  
+the activation function should swiftly reach its desired value.  
+Zero-centered  
+Output of the activation function should be symmetrical at zero so that the gradients do not shift  
+to a particular direction.  
+Robust to vanishing problem  
+The depth of the network and the activation shifting the value to zero.
+
