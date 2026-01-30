@@ -14,4 +14,6 @@ D: Backpropagation example
 • https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground
 
 In Classification, consider the decision boundary. For any incoming data sample that we make a decision, if the sample falls on the side of class A, it will be classified as that, and if the sample falls on the side of class B, it will be classified as that. This may come with some misclassification with complex data. 
-
+![[Pasted image 20260129191916.png]]
+There are several parameters available for tuning. 
+One important parameter is number of tunable parameters: 
