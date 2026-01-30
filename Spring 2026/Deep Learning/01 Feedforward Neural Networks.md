@@ -110,3 +110,6 @@ Calculate the mean and variance of the performance metrics across all folds to e
 
 ![[Pasted image 20260129201240.png]]
 There are several different loss functions that we can select. 
+**Probabilistic Loss** - when we do the classification task, we are using probabilities. When there is higher probability for class X, the sample will go to that class. 
+**Regression Loss** - for tasks when the target and the sample data is numerical. 
+
