@@ -100,3 +100,13 @@ How do we *split the data?*
 3) Test - data unseen by the network used to evaluate the final fitted model. 
 
 **K-Fold Cross Validation**
+Shuffle the Dataset Randomly shuffle the dataset to ensure that the data is evenly distributed across all folds.
+Split the Dataset into k Folds Divide the dataset into k subsets (folds) of approximately equal size.
+Iterate Through Each Fold For each fold: Use the current fold as the test set. Use the remaining k-1 folds as the training set.
+Train the Model Train the machine learning model on the training set.
+Evaluate the Model Test the model on the test set and record the performance metric (e.g., accuracy, precision, recall).
+Repeat for All Folds Repeat steps 3–5 for all k folds, ensuring each fold is used as the test set exactly once.
+Calculate the mean and variance of the performance metrics across all folds to estimate the model's generalization ability.
+
+![[Pasted image 20260129201240.png]]
+There are several different loss functions that we can select. 
