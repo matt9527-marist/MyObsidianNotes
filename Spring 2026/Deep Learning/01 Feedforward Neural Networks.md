@@ -39,3 +39,6 @@ Nonlinear Activation function: Have smarter perceptrons, such that we can detect
 
 ### Common Activation Functions 
 ![[Pasted image 20260129194929.png]]
+
+**Example of Forward Propagation with Sigmoid**
+![[Pasted image 20260129195116.png]]
