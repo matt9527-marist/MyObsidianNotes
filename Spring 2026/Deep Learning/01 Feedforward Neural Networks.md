@@ -42,3 +42,5 @@ Nonlinear Activation function: Have smarter perceptrons, such that we can detect
 
 **Example of Forward Propagation with Sigmoid**
 ![[Pasted image 20260129195116.png]]
+We can see why Sigmoid works with the shape of its graph. We can see a separation between samples possessing values between -2 and 2 .
+TanH and 
