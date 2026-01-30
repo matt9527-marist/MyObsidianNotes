@@ -116,4 +116,8 @@ There are several different loss functions that we can select.
 ![[Pasted image 20260129201835.png]]
 How does **Gradient Descent** work?
 Step 1 - randomly initialize weights. 
-Step 2 
+Step 2 - Loop until convergence: 
+	Step 3 - Pick a batch of `B` data points 
+	Step 4 - Compute the gradient and what error is responsible for what node. 
+		- 
+	Step 5 - Update the weights. 
