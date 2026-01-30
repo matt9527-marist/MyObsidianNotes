@@ -89,4 +89,11 @@ How do we discover this? (How do we select weights for a neural network?)
 2) Evaluate the performance of the NN 
 3) Based on optimizer, we update the weights. 
 (perform step 3 and 2 repeatedly as long as we have new data and reach the desired performance of the model)
-We update the weights using **backpropagation**. There are several alternatives. 
+We update the weights using **backpropagation**. There are several alternatives. How do we get the error that allows us to inform the weights on the goal? The **loss function**. 
+
+**The Loss Function**
+![[Pasted image 20260129200735.png]]
+Identifies the error that we need to reduce. 
+How do we *split the data?*
+1) Training - what we use to fit the model 
+2) Validation - 
