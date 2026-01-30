@@ -119,5 +119,7 @@ Step 1 - randomly initialize weights.
 Step 2 - Loop until convergence: 
 	Step 3 - Pick a batch of `B` data points 
 	Step 4 - Compute the gradient and what error is responsible for what node. 
-		- 
+		- Eta is the learning rate. If learning rate is too small, it takes too many steps to reach the minimum, and if it is too high, the steps will oscillate. 
 	Step 5 - Update the weights. 
+		- Attempt to reach the global minimum for error 
+Step 6 - Return the weights.
