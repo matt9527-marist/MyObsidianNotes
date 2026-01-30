@@ -81,4 +81,12 @@ If we have a linear function, it does not matter how many layers we have. The ou
 
 **What is the most efficient neural network?**
 - *We want a model that demands the LEAST computational time while providing the HIGHEST accuracy*. 
-- 
+	- We want the smallest number of neurons possible for good accuracy. 
+- *Use the least possible perceptron and hidden layers as possible and select the best weights such that the network is the most efficient*
+How do we discover this? (How do we select weights for a neural network?)
+
+1) Start with educated guesses / random weights 
+2) Evaluate the performance of the NN 
+3) Based on optimizer, we update the weights. 
+(perform step 3 and 2 repeatedly as long as we have new data and reach the desired performance of the model)
+We update the weights using **backpropagation**. There are several alternatives. 
