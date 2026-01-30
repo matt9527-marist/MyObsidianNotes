@@ -108,3 +108,8 @@ Deep Learning (green) vs. Classic Machine Learning (yellow)
 - As of 2016, a rough rule of thumb is that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or exceed human performance when trained with a dataset containing at least 10 million labeled examples.
 - With more computational power, there is the greater demand alongside this trend for high performance computing and more computational units for each algorithm. 
 
+**High Accuracy vs. Interpretability**
+![[Pasted image 20260129190528.png]]
+Accuracy - shows the error reducing
+But the seocnd image tells us that interpretability has an inverse relationship with accuracy. In the first layer, we can still make out the image, but in the last layer we cannot. 
+There are attempts to add the interpretabilit
