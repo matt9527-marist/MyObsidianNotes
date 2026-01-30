@@ -13,4 +13,5 @@ D: Backpropagation example
 • https://playground.tensorflow.org/  
 • https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground
 
-In Classification, consider the decision boun
+In Classification, consider the decision boundary. For any incoming data sample that we make a decision, if the sample falls on the side of class A, it will be classified as that, and if the sample falls on the side of class B, it will be classified as that. This may come with some misclassification with complex data. 
+
