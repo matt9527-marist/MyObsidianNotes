@@ -7,4 +7,10 @@ Through input of data instances in a series of layers, continuously, we can even
 ![[Pasted image 20260129191309.png]]
 A: Higher level POV
 B: Linear representation 
-C: Feedfor
+C: Feedforward example 
+D: Backpropagation example 
+
+• https://playground.tensorflow.org/  
+• https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground
+
+In Classification, consider the decision boun
