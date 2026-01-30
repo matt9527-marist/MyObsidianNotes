@@ -67,7 +67,7 @@ Output of the activation function should be symmetrical at zero so that the grad
 to a particular direction.  
 **Robust to vanishing problem**  
 The depth of the network and the activation shifting the value to zero. 
-*Vanishing Problem* - when we propagate error from the last layer, 
+*Vanishing Problem* - when we propagate error from the last layer, we propagate over all the layers, and the error gradient vanishes by the time it reaches the initial layers. 
 
 **Samples of Monotonic Functions**
 ![[Pasted image 20260129195802.png]]
