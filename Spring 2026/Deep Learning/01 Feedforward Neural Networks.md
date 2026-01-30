@@ -123,3 +123,5 @@ Step 2 - Loop until convergence:
 	Step 5 - Update the weights. 
 		- Attempt to reach the global minimum for error 
 Step 6 - Return the weights.
+
+**Epoch, batch size, iteration, and steps per epoch**
