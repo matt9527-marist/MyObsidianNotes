@@ -1,3 +1,6 @@
+---
+aliases:
+---
 ● A way to assemble a collection of software  
 for distribution  
 	– Distribution can be physical or electronic  
@@ -77,10 +80,47 @@ packages
 ● Modern package managers try to handle  
 dependencies for you  
 	– Installing a package from a Linux repository will  
-automatically pull in required dependencies  
+	automatically pull in required dependencies  
 	– This works well when there is one repository with one  
-manager  
-– Package upgrades are usually seamless  
-● The hard work is done by the package maintainers  
-– However, mixing repositories can lead to  
-“dependency hell” and version problems
+	manager  
+	– Package upgrades are usually seamless  
+		● The hard work is done by the package maintainers  
+	– However, mixing repositories can lead to  
+	“dependency hell” and version problems
+
+**Packages vs. Installers**
+● Each program comes with an installer  
+● Package manager is part of the OS  
+● Package manager maintains a DB, but  
+installer may or may not  
+● Installers have huge number of vendors  
+● Packages have just a few
+
+**Making Software Consumable**
+● Know your target audience  
+● Each operating system has its own  
+packaging requirements  
+● Make sure that your design documents take  
+into account how the software will be  
+packaged and distributed  
+● Your project will need to be installable!
+
+**RPM**
+● RedHat Package Manager  
+● An archive file containing code,  
+documentation, scripts, and metadata  
+● Generated via rpmbuild command  
+● Uses a .spec file to generate package contents  
+	– Reasonably straightforward for simple  
+	applications  
+	– Example .spec file
+
+● Once your build system is setup, figure out where  
+your generated files live  
+● Use %files section of .spec file to include them in the  
+package  
+● Set package description fields as necessary  
+● Build RPM  
+● Test it!  
+	– Install / uninstall  
+	– Ensure that the project runs after installation
