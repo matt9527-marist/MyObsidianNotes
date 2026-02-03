@@ -44,6 +44,18 @@ purchased in boxes from retail stores
 ● Packaging was still rudimentary  
 	– Just getting data from floppy or CD-ROM to hard  
 drive  
-● Windows 95 required uninstallers for the first time  
+● Windows 95 required *uninstallers* for the first time  
 	– Necessary for logo compatibility
+
+**Linux Packages**
+Early Linux distributions (Yggdrasil, SLS) didn’t support  
+packages  
+	– Just a collection of utilities and libraries with a kernel  
+	● Later ones introduced packages  
+		– Red Hat created .rpm (Red Hat Package Manager)  
+			● Also used by SUSE  
+		– Debian has .deb  
+		– Slackware uses .tgz  
+		– Gentoo just builds  
+		everything from source!
 
