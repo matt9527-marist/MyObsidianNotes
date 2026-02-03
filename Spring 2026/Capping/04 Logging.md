@@ -47,3 +47,26 @@ Windows has the system Event Viewer.
 	– No program logs  
 ● Makes performing service much more difficult!
 
+**What happens if we do not log *enough*?**
+● Imagine that our application is running.  
+	– It crashes for some reason, and provides a stack  
+	trace  
+	– We have logs showing that it started and ran  
+	successfully  
+● What if the stack trace is ambiguous?  
+● What if there are many ways that particular code  
+can be reached?  
+● How did the crash occur?
+
+We usually hope to crash really close to the logs. 
+
+● Imagine that our application is running.  
+	– It crashes for some reason, and provides a stack trace  
+	– We have logs showing that it started and ran  
+	successfully  
+● What if the stack trace is ambiguous?  
+● What if there are many ways that particular code can  
+be reached?  
+● How did the crash occur?  
+*● Might need to reproduce the problem!*
+We must be proactive and capture the logging data before a failure occurs. What happens when the program crashes? If we can see when a crash hap
