@@ -69,4 +69,24 @@ We usually hope to crash really close to the logs.
 be reached?  
 ● How did the crash occur?  
 *● Might need to reproduce the problem!*
-We must be proactive and capture the logging data before a failure occurs. What happens when the program crashes? If we can see when a crash hap
+We must be proactive and capture the logging data before a failure occurs. What happens when the program crashes? If we can see when a crash happened, we should be able to see what was happening around it. We must design this in from the start. 
+
+**First Failure Data Capture**
+● The idea that a program will log enough  
+information that when it fails, it can be  
+successfully debugged and serviced  
+● Asking customers to reproduce a failure in  
+a complex environment on a production  
+system is unacceptable!  
+● This level of detail should be designed into  
+the system from the start
+
+**Goal**
+Ensure that your application logs  
+appropriately  
+● Make sure traces and dumps are captured  
+● Log start and stop events  
+● Log internal problems for analysis  
+● Log internal events for informational  
+purposes
+
