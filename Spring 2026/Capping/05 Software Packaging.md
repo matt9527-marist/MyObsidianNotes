@@ -73,3 +73,14 @@ packages
 		● Architecture  
 		● OS
 
+**Dependencies**
+● Modern package managers try to handle  
+dependencies for you  
+	– Installing a package from a Linux repository will  
+automatically pull in required dependencies  
+	– This works well when there is one repository with one  
+manager  
+– Package upgrades are usually seamless  
+● The hard work is done by the package maintainers  
+– However, mixing repositories can lead to  
+“dependency hell” and version problems
