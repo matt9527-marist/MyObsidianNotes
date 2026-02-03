@@ -36,3 +36,14 @@ installers starting appearing
 		● It shipped on 13 floppies!  
 	– Other compression formats abounded (ARJ, ACE, RAR, LZH, etc.)
 
+**Executable Installers**
+● MS Windows ushered in the era of graphical  
+installers  
+● PCs all had hard drives, and software was  
+purchased in boxes from retail stores  
+● Packaging was still rudimentary  
+	– Just getting data from floppy or CD-ROM to hard  
+drive  
+● Windows 95 required uninstallers for the first time  
+	– Necessary for logo compatibility
+
