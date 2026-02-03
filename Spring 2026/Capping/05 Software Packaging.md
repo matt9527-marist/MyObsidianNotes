@@ -59,3 +59,17 @@ packages
 		– Gentoo just builds  
 		everything from source!
 
+**Packaging**
+● A software package accomplishes a number of goals  
+	– Contains files  
+		● Executable code  
+		● Libraries  
+		● Documentation  
+	– Notes required dependencies  
+	– Contains instructions on where and how to install  
+		● Scripts run during installation steps  
+	– Metadata about software  
+		● Version number  
+		● Architecture  
+		● OS
+
