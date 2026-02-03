@@ -31,7 +31,8 @@ Windows has the system Event Viewer.
 ● It's very simple to use  
 	– Use “logger” shell command  
 	– Use syslog() C API  
-● Messages have an origin and a priority  
+● Messages have an origin and a priority (can measure importance of issue)  
+	- Only show errors vs. show everything 
 ● Administrator can filter based on priority level  
 	– Might only want to see severe errors  
 	– Ignore informational messages to cut down on  
