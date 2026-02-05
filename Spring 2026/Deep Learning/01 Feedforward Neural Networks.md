@@ -1,4 +1,4 @@
-![[Pasted image 20260129190822.png]]
+	![[Pasted image 20260129190822.png]]
 Deep Learning Trends:
 ![[Pasted image 20260129190834.png]]
 
