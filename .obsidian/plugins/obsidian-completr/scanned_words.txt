@@ -291,6 +291,8 @@ MNist
 McCarthy
 Mitchell
 Movies
+Mathematical
+Monotonic
 Learning
 Learn
 Let
@@ -530,6 +532,9 @@ Linguistics
 Layers
 Locality
 Language
+Leaky
+LEAST
+Lack
 Relevant
 Reading
 Research
@@ -776,6 +781,7 @@ ResNet
 Reducing
 Relatively
 Robot
+Robust
 libraries
 learn
 learning
@@ -1706,6 +1712,7 @@ Constant
 Cartesian
 Context
 Capturing
+Criteria
 Scikit
 Statistical
 Statistics
@@ -2102,6 +2109,9 @@ Simplest
 Successes
 Samuel
 Semi
+Strengths
+Samples
+Shuffle
 Keras
 Key
 Kirchhoffs
@@ -2544,6 +2554,8 @@ Tom
 Tasks
 Transductive
 Trend
+TanH
+Train
 ISLP
 Iris
 Instance
@@ -2803,6 +2815,8 @@ Irecv
 Implemented
 IBM
 Informed
+Identifies
+Iterate
 and
 ability
 approximation
@@ -3247,6 +3261,8 @@ artifical
 automata
 action
 acquiring
+avoiding
+approximately
 Applications
 AI
 Analysis
@@ -3541,6 +3557,7 @@ Aligned
 Artificial
 Abstract
 Arthur
+Attempt
 with
 without
 want
@@ -4107,6 +4124,8 @@ Piecewise
 Prototypes
 Parameters
 Pretrained
+POV
+Pick
 What
 We
 With
@@ -4928,6 +4947,11 @@ Forget
 Furthermore
 Formal
 Father
+Feedforward
+Formulation
+Forward
+Fold
+Folds
 of
 or
 optimize
@@ -5230,6 +5254,7 @@ offset
 observable
 opponent
 observes
+oscillate
 study
 simplified
 something
@@ -5808,6 +5833,12 @@ subjective
 speech
 selects
 self
+score
+smarter
+shape
+squeeze
+swiftly
+shifting
 giving
 good
 generalizable
@@ -6083,6 +6114,8 @@ gather
 garden
 gamma
 game
+guesses
+generalizabiliyt
 computers
 computer
 can
@@ -6688,6 +6721,10 @@ controlled
 car
 conducting
 category
+curved
+composition
+convergence
+ceil
 the
 to
 training
@@ -7082,6 +7119,7 @@ tensor
 thinks
 totally
 trend
+tunable
 being
 be
 by
@@ -7374,6 +7412,10 @@ beta
 bag
 biased
 biologically
+boundary
+boils
+backpropagation
+batches
 explicitly
 experience
 error
@@ -7779,6 +7821,9 @@ epochs
 embed
 extraction
 engineering
+eventually
+entirely
+educated
 programmed
 patterns
 program
@@ -8266,6 +8311,8 @@ placing
 punishments
 price
 protein
+perceptrons
+possessing
 Detecting
 Deepmind
 Dataset
@@ -8560,6 +8607,7 @@ Dependencies
 Dependency
 Dropout
 Delay
+Differential
 regularities
 respect
 recognizing
@@ -8960,6 +9008,9 @@ robot
 rationally
 rational
 rough
+reported
+reaching
+remaining
 model
 mostly
 machine
@@ -9824,6 +9875,7 @@ Epoch
 Exponential
 Exchanging
 Embeddings
+Eta
 using
 utility
 use
@@ -10084,6 +10136,9 @@ umbrella
 understandable
 umbrellas
 unlabeled
+upwards
+updating
+unspecified
 data
 driven
 dataset
@@ -10521,6 +10576,8 @@ drawn
 diverse
 diseases
 diagnostics
+demands
+declaring
 future
 from
 feed
@@ -10836,6 +10893,7 @@ famous
 feasible
 formal
 fnite
+finished
 Optimziation
 Operations
 Once
@@ -11085,6 +11143,9 @@ Originally
 Optimizers
 OMP
 Optimize
+Obviously
+Optional
+Off
 kind
 know
 knowledge
@@ -11500,6 +11561,7 @@ verification
 verifies
 visit
 vanishing
+vanishes
 numerical
 no
 need
@@ -11815,6 +11877,7 @@ normalized
 nothing
 noisy
 navigation
+num
 yes
 yield
 your
@@ -12222,6 +12285,7 @@ Hinton
 HuggingFace
 Have
 Historical
+HIGHEST
 Not
 NOTHING
 No
@@ -12432,6 +12496,7 @@ Normalization
 NLP
 Neuron
 Neighbors
+Nonlinear
 quality
 question
 quickly
@@ -13400,6 +13465,7 @@ Village
 Verification
 Vec
 VGG
+Vanishing
 zero
 zu
 zj
