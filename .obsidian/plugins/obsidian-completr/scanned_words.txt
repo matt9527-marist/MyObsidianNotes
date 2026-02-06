@@ -1324,6 +1324,7 @@ Give
 Generalization
 Generalize
 Growing
+Gives
 Charting
 Control
 Common
@@ -2818,6 +2819,7 @@ Informed
 Identifies
 Iterate
 Interpretability
+Increasing
 and
 ability
 approximation
@@ -4706,6 +4708,7 @@ inter
 idth
 inductive
 informs
+intend
 Field
 For
 Find
@@ -5842,6 +5845,7 @@ squeeze
 swiftly
 shifting
 seocnd
+stops
 giving
 good
 generalizable
@@ -7827,6 +7831,7 @@ engineering
 eventually
 entirely
 educated
+evaluation
 programmed
 patterns
 program
@@ -8611,6 +8616,7 @@ Dependency
 Dropout
 Delay
 Differential
+Decreasing
 regularities
 respect
 recognizing
@@ -9365,6 +9371,7 @@ masked
 modifies
 merging
 million
+memorization
 hypothesis
 handwritten
 have
@@ -12500,6 +12507,7 @@ NLP
 Neuron
 Neighbors
 Nonlinear
+Neurons
 quality
 question
 quickly

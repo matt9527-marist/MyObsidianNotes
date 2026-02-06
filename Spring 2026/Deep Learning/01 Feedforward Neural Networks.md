@@ -35,7 +35,12 @@ Works great for images. Uses feature extraction and classification layers to lea
 Gives the model the ability to explore all the connections between final extracted features. 
 
 **Number of Epochs**
-As we increase number of epochs, we intend that the cost/error score 
+As we increase number of epochs, we intend that the cost/error score should decrease for the training dataset. However, for the testing (evaluation) dataset, we might expect it to decrease up to a certain point and then start increasing (overfitting)
+Up to that point where the performance stops improving, we need to stop and analyze there. 
+That is the point where learning => memorization.
+
+**# Iterations per Epoch**
+The model processes more batches 
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
