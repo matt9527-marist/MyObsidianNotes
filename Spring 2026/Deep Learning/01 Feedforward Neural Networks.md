@@ -1,4 +1,4 @@
-	![[Pasted image 20260129190822.png]]
+![[Pasted image 20260129190822.png]]
 Deep Learning Trends:
 ![[Pasted image 20260129190834.png]]
 
@@ -57,7 +57,13 @@ One important parameter is number of tunable parameters:
 	We should use the normalization in CNNs or when our data is very varied. 
 
 **Learning Rate**
-	High learning rate mi
+	High learning rate might slingshot the model or cause it to oscillate around the global minima loss. Low learning rate might slow the model down so much that it may never converge / weights are not updated with enough change. 
+
+**Size of each Image**
+	Concerns dimensionality and processing time. 
+
+**Early Stopping**
+	Where can we predict the stopping condition where training accuracy increases and validation accurac
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
