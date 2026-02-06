@@ -44,6 +44,7 @@ The model processes more batches per epoch.
 Iterations -> number of overall passes where we update the weights (forward/backward pass)
 Batch Size -> how many training samples out of the whole training dataset do we want to train per iteration? 
 Increasing iterations would mean that we decrease batch size, and vice versa. 
+Increasing iterations would mean that there is more noise/error 
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
