@@ -10,5 +10,8 @@ CNNs use a sliding window to search for elements (pixels) within an image to fin
 - Separating the image into tiles, if the desired pattern is found anywhere among those tiles, the model should be able to recognize that. 
 
 > A convolutional layer is defined by the filter (or kernel) size, the number of filters applied and the stride.
-![[Pasted image 20260205194805.png]]
 
+![[Pasted image 20260205194805.png]]![[Pasted image 20260205194853.png]]
+
+**Batch Normalization**
+- Why use batch normalization? 
