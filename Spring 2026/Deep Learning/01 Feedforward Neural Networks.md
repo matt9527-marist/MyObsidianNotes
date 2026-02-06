@@ -183,4 +183,8 @@ Lack of generalizabiliyt => overfitting. We do not prefer to put all the data in
 **Feature Scaling**
 ![[Pasted image 20260205192031.png]]
 What problem might we face when we have data that is not properly scaled? 
-Try to avoid inputs that are not centralized, as it can result in a zig-zag oscillation pattern, where the gradient fails to capture 
+Try to avoid inputs that are not centralized, as it can result in a zig-zag oscillation pattern, where the gradient fails to capture the information well. 
+
+For example, if the data is biased in one direction, when we try to solve it with *gradient descent*, we will face an environment that is biased towards one direction. This takes a lot of time for the model to converge. 
+![[Pasted image 20260205192435.png]]
+
