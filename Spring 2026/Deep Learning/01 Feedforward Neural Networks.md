@@ -17,10 +17,53 @@ In Classification, consider the decision boundary. For any incoming data sample 
 ![[Pasted image 20260129191916.png]]
 There are several parameters available for tuning. 
 One important parameter is number of tunable parameters: 
-Obviously, 0 hidden layers results in no change to a reported loss. 
-Starting with only one hidden layer with 2 neurons appears to have the test and training loss level out without fully reaching 0, at least according to the test website. 
-Adding upwards of 3 layers without changing any other parameters results in relatively slow learning, and the test loss drops in time steps. 
-When you add 6 layers, the test error begins to oscillate, which tells us that it is overfitting to the relationships in the training data. 
+
+**Hidden Layers**
+	Obviously, 0 hidden layers results in no change to a reported loss. 
+	Starting with only one hidden layer with 2 neurons appears to have the test and training loss level out without fully reaching 0, at least according to the test website. 
+	Adding upwards of 3 layers without changing any other parameters results in relatively slow learning, and the test loss drops in time steps. 
+	When you add 6 layers, the test error begins to oscillate, which tells us that it is overfitting to the relationships in the training data. That is, if the data is not as complex. 
+
+**# of Neurons**
+	Increasing neurons per layer increases training time and accuracy for complex input data. 
+	Decreasing neurons reduces training time and computational cost. 
+
+**CNNs**
+	Works great for images. Uses feature extraction and classification layers to learn patterns in visual data. 
+
+**Dense Layer**
+	Gives the model the ability to explore all the connections between final extracted features. 
+
+**Number of Epochs**
+	As we increase number of epochs, we intend that the cost/error score should decrease for the training dataset. However, for the testing (evaluation) dataset, we might expect it to decrease up to a certain point and then start increasing (overfitting)
+	Up to that point where the performance stops improving, we need to stop and analyze there. 
+	That is the point where learning => memorization.
+
+**# Iterations per Epoch**
+	The model processes more batches per epoch. 
+	Iterations -> number of overall passes where we update the weights (forward/backward pass)
+	Batch Size -> how many training samples out of the whole training dataset do we want to train per iteration? 
+	Increasing iterations would mean that we decrease batch size, and vice versa. 
+	Increasing iterations would mean that there is more noise/error, but less computational cost. 
+	Decreasing iterations would mean there is less noise/error, more computational cost, but less ability to capture complex patterns. 
+	Keep in mind that when we use batch learning, we are aggregating these weight updates within the batch. Also, with datasets with more complex patterns, lower iterations cannot work well with regression. 
+
+**Pooling Layers**
+	Pooling layers are used when we have CNNs and images.
+	We do not want to compute the weights for every single pixel in an image, so we will use a pooling layer (max pooling / average pooling) to expedite the process.
+	The processing time we need would be greatly reduced, but it is also possible that we may lose important information. More pooling layers may reduce the accuracy of the network. 
+
+**Normalization Layer**
+	We should use the normalization in CNNs or when our data is very varied. 
+
+**Learning Rate**
+	High learning rate might slingshot the model or cause it to oscillate around the global minima loss. Low learning rate might slow the model down so much that it may never converge / weights are not updated with enough change. 
+
+**Size of each Image**
+	Concerns dimensionality and processing time. 
+
+**Early Stopping**
+	Where can we predict the stopping condition where training accuracy increases and validation accuracy diverges? 
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
@@ -136,4 +179,36 @@ Step 6 - Return the weights.
 **Batch Size Trade-Off**
 ![[Pasted image 20260129203246.png]]
 Lack of generalizabiliyt => overfitting. We do not prefer to put all the data in one batch. 
+
+**Feature Scaling**
+![[Pasted image 20260205192031.png]]
+What problem might we face when we have data that is not properly scaled? 
+Try to avoid inputs that are not centralized, as it can result in a zig-zag oscillation pattern, where the gradient fails to capture the information well. 
+
+For example, if the data is biased in one direction, when we try to solve it with *gradient descent*, we will face an environment that is biased towards one direction. This takes a lot of time for the model to converge. 
+![[Pasted image 20260205192435.png]]
+
+Centralizing the original data is not limited to deep learning algorithms, many machine learning algorithms such as regressions and K-nearest neighbors requires normalization and zero-centralization.
+
+*Can we extend data scaling from the input data to the other layers?*
+
+**Normalization Layers**: 
+*Batch Normalization*: An internal covariate shift occurs when there is a change in the input distribution to our network. When the input distribution changes, hidden layers try to learn to adapt to the new distribution. This phenomena can happen after each mini-batch when the weights are updated. This slows down the training process.
+![[Pasted image 20260205192751.png]]
+Here, we are trying to shift data back to centralization. 
+
+**Underfittin vs. Overfitting**
+![[Pasted image 20260205192936.png]]
+Overall, we want to find a pattern in our data. The right pattern identified is in the middle image. Overfitting occurs when the model pulls itself to every data point, memorizing the data. 
+
+To define the criteria on where to stop before the model begins to overfit, we have two solutions:
+- **Early Stopping**: Stop a few epochs before overfitting, and return the weights to their best performing values. 
+- **Dropout**: In each layer, we want to propagate the error, but we do not propagate the error to all of the neurons. In this case, we are forcing those perceptrons to learn from data.
+
+There is also **Regularization**, where we add a penalty term to the loss function computation to reduce the amount by which weights are changed. 
+
+For any of these problems in deep learning, be sure to select a proper:
+- [Activation Function ](https://keras.io/api/layers/activations/)
+- [Loss Function](https://keras.io/api/losses/) 
+- [Optimizer ](https://keras.io/api/optimizers/)
 
