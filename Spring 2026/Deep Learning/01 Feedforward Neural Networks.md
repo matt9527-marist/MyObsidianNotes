@@ -188,3 +188,9 @@ Try to avoid inputs that are not centralized, as it can result in a zig-zag osci
 For example, if the data is biased in one direction, when we try to solve it with *gradient descent*, we will face an environment that is biased towards one direction. This takes a lot of time for the model to converge. 
 ![[Pasted image 20260205192435.png]]
 
+Centralizing the original data is not limited to deep learning algorithms, many machine learning algorithms such as regressions and K-nearest neighbors requires normalization and zero-centralization.
+
+*Can we extend data scaling from the input data to the other layers?*
+
+**Normalization Layers**: 
+*Batch Normalization*: An internal covariate shift occurs when there is a change in the input distribution to our network. When the input distribution changes, hidden layers try to learn to adapt to the new distribution. This phenomena can happen after each mini-batch when the weights are updated. This slows down the training process.
