@@ -297,6 +297,8 @@ Manage
 MySQL
 MariaDB
 MongoDB
+Magnetic
+Metadata
 Learning
 Learn
 Let
@@ -536,6 +538,7 @@ Linguistics
 Layers
 Lack
 Log
+LZH
 Relevant
 Reading
 Research
@@ -793,6 +796,13 @@ Recent
 Requirement
 Release
 Recording
+RFC
+RAR
+ROM
+Red
+RPM
+RedHat
+Reasonably
 libraries
 learn
 learning
@@ -1113,6 +1123,8 @@ lifecycle
 lVIDATx
 leader
 license
+logo
+live
 Graphing
 Google
 Game
@@ -1342,6 +1354,8 @@ GDPR
 Goals
 Globalization
 Glossary
+Growing
+Gentoo
 Charting
 Control
 Common
@@ -1745,6 +1759,9 @@ Collection
 Contains
 Complete
 CLK
+CGA
+Could
+Consumable
 Scikit
 Statistical
 Statistics
@@ -2156,6 +2173,11 @@ Swallow
 Supporting
 Schema
 Stat
+Sound
+SLS
+SUSE
+Slackware
+Scripts
 Keras
 Key
 Kirchhoffs
@@ -2318,6 +2340,7 @@ Knuth
 Keeping
 KYi
 KudnvB
+Know
 TensorFlow
 Task
 Training
@@ -2868,6 +2891,8 @@ Isq
 Informal
 Invest
 Internal
+Installers
+Installing
 and
 ability
 approximation
@@ -3324,6 +3349,10 @@ aggregator
 aggregated
 anymore
 administration
+assemble
+abounded
+accomplishes
+archive
 Applications
 AI
 Analysis
@@ -3630,6 +3659,8 @@ Academic
 Aggregation
 Again
 APIs
+ARJ
+ACE
 with
 without
 want
@@ -4217,6 +4248,8 @@ Packaging
 Procrastination
 Pruning
 Pseudo
+PKZIP
+Packages
 What
 We
 With
@@ -4817,6 +4850,10 @@ isolation
 impaired
 interests
 interpreter
+installation
+installers
+installer
+installable
 Field
 For
 Find
@@ -5068,6 +5105,7 @@ Facilities
 Fulfills
 Financial
 Fail
+Floppy
 of
 or
 optimize
@@ -5971,6 +6009,13 @@ stat
 scanf
 somewhat
 spectacular
+self
+swapping
+span
+shipped
+seamless
+spec
+straightforward
 giving
 good
 generalizable
@@ -6869,6 +6914,8 @@ collecting
 compromised
 cmdline
 capability
+copying
+contents
 the
 to
 training
@@ -7286,6 +7333,8 @@ timestamped
 tables
 timer
 tricky
+tapes
+tgz
 being
 be
 by
@@ -7584,6 +7633,8 @@ blindness
 blind
 bother
 bindings
+booting
+boxes
 explicitly
 experience
 error
@@ -8001,6 +8052,8 @@ esoteric
 exact
 epic
 evaluations
+electronic
+expand
 programmed
 patterns
 program
@@ -8501,6 +8554,9 @@ procedures
 pid
 ppid
 parsed
+package
+purchased
+packaging
 Detecting
 Deepmind
 Dataset
@@ -8811,6 +8867,10 @@ Developers
 Defect
 Dividing
 Daemon
+Distribution
+DMF
+Debian
+Documentation
 regularities
 respect
 recognizing
@@ -9225,6 +9285,11 @@ repository
 reporting
 removes
 rails
+rudimentary
+retail
+rpm
+repositories
+rpmbuild
 model
 mostly
 machine
@@ -9586,6 +9651,12 @@ month
 monitor
 mockups
 mem
+medium
+mainframes
+microcomputer
+managers
+maintainers
+mixing
 hypothesis
 handwritten
 have
@@ -9846,6 +9917,7 @@ history
 helpful
 handicapped
 hour
+hell
 Execution
 Examples
 Economics
@@ -10121,6 +10193,9 @@ Epics
 Explains
 External
 Enumerate
+EGA
+Executable
+Ensure
 using
 utility
 use
@@ -10381,6 +10456,11 @@ uXw
 undertaken
 underwrite
 undertake
+ushered
+uninstallers
+utilities
+upgrades
+uninstall
 data
 driven
 dataset
@@ -10831,6 +10911,10 @@ description
 describes
 documentation
 disabled
+didn
+diskettes
+deflate
+deb
 future
 from
 feed
@@ -11160,6 +11244,9 @@ faults
 fancy
 fun
 failures
+formal
+floppy
+floppies
 Optimziation
 Operations
 Once
@@ -11835,6 +11922,7 @@ visit
 vanishing
 vKO
 vacation
+vendors
 numerical
 no
 need
@@ -12559,6 +12647,7 @@ HTTPS
 Handling
 Hinton
 HuggingFace
+Hat
 Not
 NOTHING
 No
@@ -12775,6 +12864,7 @@ Neither
 Newspaper
 Native
 NoSQL
+Necessary
 quality
 question
 quickly
@@ -13757,6 +13847,7 @@ Vec
 VGG
 View
 Vision
+VGA
 zero
 zu
 zj
@@ -14269,6 +14360,7 @@ YgY
 Ysv
 YEE
 Your
+Yggdrasil
 Xk
 Xt
 Xs
