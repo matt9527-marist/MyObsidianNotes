@@ -21,4 +21,11 @@ CNNs use a sliding window to search for elements (pixels) within an image to fin
 
 **Training Computational Complexity of DNNs**
 The complexity of a DNN is dependent on the following factors:
-- The number of neurons / 
+- The number of neurons / perceptrons. 
+- The general rule is that MLP < CNN in terms of computation complexity and cost. 
+- CNNs suffer from too many trainable parameters, impacting computational performance 
+
+![[Pasted image 20260205195341.png]]
+
+The first layer of LeNet has 784 neurons as an input. This is huge. 
+However, consider what happens when we pass it to the convolutional layer with a 5x5 kernel 
