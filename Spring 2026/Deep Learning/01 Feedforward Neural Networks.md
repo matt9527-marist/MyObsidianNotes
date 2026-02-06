@@ -19,34 +19,39 @@ There are several parameters available for tuning.
 One important parameter is number of tunable parameters: 
 
 **Hidden Layers**
-Obviously, 0 hidden layers results in no change to a reported loss. 
-Starting with only one hidden layer with 2 neurons appears to have the test and training loss level out without fully reaching 0, at least according to the test website. 
-Adding upwards of 3 layers without changing any other parameters results in relatively slow learning, and the test loss drops in time steps. 
-When you add 6 layers, the test error begins to oscillate, which tells us that it is overfitting to the relationships in the training data. That is, if the data is not as complex. 
+	Obviously, 0 hidden layers results in no change to a reported loss. 
+	Starting with only one hidden layer with 2 neurons appears to have the test and training loss level out without fully reaching 0, at least according to the test website. 
+	Adding upwards of 3 layers without changing any other parameters results in relatively slow learning, and the test loss drops in time steps. 
+	When you add 6 layers, the test error begins to oscillate, which tells us that it is overfitting to the relationships in the training data. That is, if the data is not as complex. 
 
 **# of Neurons**
-Increasing neurons per layer increases training time and accuracy for complex input data. 
-Decreasing neurons reduces training time and computational cost. 
+	Increasing neurons per layer increases training time and accuracy for complex input data. 
+	Decreasing neurons reduces training time and computational cost. 
 
 **CNNs**
-Works great for images. Uses feature extraction and classification layers to learn patterns in visual data. 
+	Works great for images. Uses feature extraction and classification layers to learn patterns in visual data. 
 
 **Dense Layer**
-Gives the model the ability to explore all the connections between final extracted features. 
+	Gives the model the ability to explore all the connections between final extracted features. 
 
 **Number of Epochs**
-As we increase number of epochs, we intend that the cost/error score should decrease for the training dataset. However, for the testing (evaluation) dataset, we might expect it to decrease up to a certain point and then start increasing (overfitting)
-Up to that point where the performance stops improving, we need to stop and analyze there. 
-That is the point where learning => memorization.
+	As we increase number of epochs, we intend that the cost/error score should decrease for the training dataset. However, for the testing (evaluation) dataset, we might expect it to decrease up to a certain point and then start increasing (overfitting)
+	Up to that point where the performance stops improving, we need to stop and analyze there. 
+	That is the point where learning => memorization.
 
 **# Iterations per Epoch**
-The model processes more batches per epoch. 
-Iterations -> number of overall passes where we update the weights (forward/backward pass)
-Batch Size -> how many training samples out of the whole training dataset do we want to train per iteration? 
-Increasing iterations would mean that we decrease batch size, and vice versa. 
-Increasing iterations would mean that there is more noise/error, but less computational cost. 
-Decreasing iterations would mean there is less noise/error, more computational cost, but less ability to capture complex patterns. 
-Keep in mind that when we use batch learning, we are aggregating these weight updates within the batch. Also, with datasets with more complex patterns, lower iterations cannot work well with regre
+	The model processes more batches per epoch. 
+	Iterations -> number of overall passes where we update the weights (forward/backward pass)
+	Batch Size -> how many training samples out of the whole training dataset do we want to train per iteration? 
+	Increasing iterations would mean that we decrease batch size, and vice versa. 
+	Increasing iterations would mean that there is more noise/error, but less computational cost. 
+	Decreasing iterations would mean there is less noise/error, more computational cost, but less ability to capture complex patterns. 
+	Keep in mind that when we use batch learning, we are aggregating these weight updates within the batch. Also, with datasets with more complex patterns, lower iterations cannot work well with regression. 
+
+**Pooling Layers**
+Pooling layers are used when we have CNNs and images.
+We do not want to compute the weights for every single pixel in an image, so we will use a pooling layer (max pooling / average pooling) to expedite the process.
+The processing time we need would be greatly reduced, but it is also possible that we may lose important information. More pooling layers may reduce the acc
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
