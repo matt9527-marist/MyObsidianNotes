@@ -29,4 +29,8 @@ The complexity of a DNN is dependent on the following factors:
 
 The first layer of LeNet has 784 neurons as an input. This is huge. 
 However, consider what happens when we pass it to the convolutional layer with a 5x5 kernel and 2 (28x28x6) padding (the portion where the kernel reaches the edge of an image where it is too large and needs to cover empty pixels). The number of neurons in that layer will increase to 4704!
-- To control the number of neurons, we change the pooling layers
+- To control the number of neurons, we shift between the convolutional and pooling layers. 
+- Some solutions: 
+	- *Input Size Reduction* - simply decrease the resolution of the image. 
+	- Feature reduction/selection - average/max pooling: keep/take only the most important features i 
+	- 
