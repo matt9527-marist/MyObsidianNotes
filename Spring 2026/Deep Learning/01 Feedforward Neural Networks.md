@@ -63,7 +63,7 @@ One important parameter is number of tunable parameters:
 	Concerns dimensionality and processing time. 
 
 **Early Stopping**
-	Where can we predict the stopping condition where training accuracy increases and validation accurac
+	Where can we predict the stopping condition where training accuracy increases and validation accuracy diverges? 
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
