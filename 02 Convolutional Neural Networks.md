@@ -15,3 +15,10 @@ CNNs use a sliding window to search for elements (pixels) within an image to fin
 
 **Batch Normalization**
 - Why use batch normalization? 
+	- The distribution of the output can greatly affect how the model makes its decisions. 
+	- Consider a leftmost-skewed distribution for the Sigmoid function, the function will determine the data as being mostly near 0. 
+![[Pasted image 20260205195029.png]]
+
+**Training Computational Complexity of DNNs**
+The complexity of a DNN is dependent on the following factors:
+- The number of neurons / 
