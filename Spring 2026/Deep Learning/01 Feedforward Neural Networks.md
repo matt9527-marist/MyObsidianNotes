@@ -180,3 +180,6 @@ Step 6 - Return the weights.
 ![[Pasted image 20260129203246.png]]
 Lack of generalizabiliyt => overfitting. We do not prefer to put all the data in one batch. 
 
+**Feature Scaling**
+![[Pasted image 20260205192031.png]]
+What problem might we face when we have data that is not properly scaled? 
