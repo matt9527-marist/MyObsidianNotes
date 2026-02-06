@@ -207,3 +207,8 @@ To define the criteria on where to stop before the model begins to overfit, we h
 
 There is also **Regularization**, where we add a penalty term to the loss function computation to reduce the amount by which weights are changed. 
 
+For any of these problems in deep learning, be sure to select a proper:
+- [Activation Function ](https://keras.io/api/layers/activations/)
+- [Loss Function](https://keras.io/api/losses/) 
+- [Optimizer ](https://keras.io/api/optimizers/)
+
