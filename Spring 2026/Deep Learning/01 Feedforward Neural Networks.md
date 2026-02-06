@@ -49,9 +49,15 @@ One important parameter is number of tunable parameters:
 	Keep in mind that when we use batch learning, we are aggregating these weight updates within the batch. Also, with datasets with more complex patterns, lower iterations cannot work well with regression. 
 
 **Pooling Layers**
-Pooling layers are used when we have CNNs and images.
-We do not want to compute the weights for every single pixel in an image, so we will use a pooling layer (max pooling / average pooling) to expedite the process.
-The processing time we need would be greatly reduced, but it is also possible that we may lose important information. More pooling layers may reduce the acc
+	Pooling layers are used when we have CNNs and images.
+	We do not want to compute the weights for every single pixel in an image, so we will use a pooling layer (max pooling / average pooling) to expedite the process.
+	The processing time we need would be greatly reduced, but it is also possible that we may lose important information. More pooling layers may reduce the accuracy of the network. 
+
+**Normalization Layer**
+	We should use the normalization in CNNs or when our data is very varied. 
+
+**Learning Rate**
+	High learning rate mi
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
