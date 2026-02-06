@@ -183,3 +183,4 @@ Lack of generalizabiliyt => overfitting. We do not prefer to put all the data in
 **Feature Scaling**
 ![[Pasted image 20260205192031.png]]
 What problem might we face when we have data that is not properly scaled? 
+Try to avoid inputs that are not centralized, as it can result in a zig-zag oscillation pattern, where the gradient fails to capture 
