@@ -25,7 +25,17 @@ Adding upwards of 3 layers without changing any other parameters results in rela
 When you add 6 layers, the test error begins to oscillate, which tells us that it is overfitting to the relationships in the training data. That is, if the data is not as complex. 
 
 **# of Neurons**
-Increasing neurons per layer inc
+Increasing neurons per layer increases training time and accuracy for complex input data. 
+Decreasing neurons reduces training time and computational cost. 
+
+**CNNs**
+Works great for images. Uses feature extraction and classification layers to learn patterns in visual data. 
+
+**Dense Layer**
+Gives the model the ability to explore all the connections between final extracted features. 
+
+**Number of Epochs**
+As we increase number of epochs, we intend that the cost/error score 
 
 ![[Pasted image 20260129194649.png]]
 Mathematical Formulation:
