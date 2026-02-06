@@ -32,5 +32,6 @@ However, consider what happens when we pass it to the convolutional layer with a
 - To control the number of neurons, we shift between the convolutional and pooling layers. 
 - Some solutions: 
 	- *Input Size Reduction* - simply decrease the resolution of the image. 
-	- Feature reduction/selection - average/max pooling: keep/take only the most important features i 
-	- 
+	- Feature reduction/selection - average/max pooling: keep/take only the most important features in the image by taking the average or maximum of the given kernel.  
+	- **Transfer Learning** - CNNs usually have a feature extraction layer followed by a classification MLP. Instead of training from scratch on all of the data, we can borrow a model that has already been trained and use it from there. 
+		- We may know that AlexNet is good for image recognition, but it is trained on a specific dataset. For example a model that's already good at recognizing cars may be lifted for a different purpose, such as learning to categorize trucks. This significan
