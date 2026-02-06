@@ -1098,6 +1098,7 @@ located
 learnable
 linguistics
 lifting
+lose
 Graphing
 Google
 Game
@@ -1714,6 +1715,8 @@ Cartesian
 Context
 Capturing
 Criteria
+Concerns
+Centralizing
 Scikit
 Statistical
 Statistics
@@ -2820,6 +2823,7 @@ Identifies
 Iterate
 Interpretability
 Increasing
+Iterations
 and
 ability
 approximation
@@ -3266,6 +3270,7 @@ action
 acquiring
 avoiding
 approximately
+aggregating
 Applications
 AI
 Analysis
@@ -5260,6 +5265,7 @@ observable
 opponent
 observes
 oscillate
+oscillation
 study
 simplified
 something
@@ -5846,6 +5852,8 @@ swiftly
 shifting
 seocnd
 stops
+slingshot
+slows
 giving
 good
 generalizable
@@ -6123,6 +6131,7 @@ gamma
 game
 guesses
 generalizabiliyt
+greatly
 computers
 computer
 can
@@ -6732,6 +6741,9 @@ curved
 composition
 convergence
 ceil
+centralized
+centralization
+criteria
 the
 to
 training
@@ -7832,6 +7844,7 @@ eventually
 entirely
 educated
 evaluation
+expedite
 programmed
 patterns
 program
@@ -8321,6 +8334,8 @@ price
 protein
 perceptrons
 possessing
+phenomena
+pulls
 Detecting
 Deepmind
 Dataset
@@ -10588,6 +10603,7 @@ diseases
 diagnostics
 demands
 declaring
+diverges
 future
 from
 feed
@@ -11156,6 +11172,7 @@ Optimize
 Obviously
 Optional
 Off
+Overall
 kind
 know
 knowledge
@@ -12869,6 +12886,7 @@ Uniform
 Utilization
 Ubiquitous
 Uninformed
+Underfittin
 Breakout
 Because
 Backpropagation
@@ -13634,6 +13652,8 @@ zhp
 zrp
 zQv
 zZWG
+zig
+zag
 Java
 Jr
 Jv

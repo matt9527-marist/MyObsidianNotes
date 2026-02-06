@@ -199,4 +199,8 @@ Here, we are trying to shift data back to centralization.
 
 **Underfittin vs. Overfitting**
 ![[Pasted image 20260205192936.png]]
-Overall, we want to find a pattrn 
+Overall, we want to find a pattern in our data. The right pattern identified is in the middle image. Overfitting occurs when the model pulls itself to every data point, memorizing the data. 
+
+To define the criteria on where to stop before the model begins to overfit, we have two solutions:
+- **Early Stopping**: Stop a few epochs before overfitting, and return the weights to their best performing values. 
+- **Dropout**: In each layer, we want 
