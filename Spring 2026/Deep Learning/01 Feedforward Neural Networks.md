@@ -205,4 +205,5 @@ To define the criteria on where to stop before the model begins to overfit, we h
 - **Early Stopping**: Stop a few epochs before overfitting, and return the weights to their best performing values. 
 - **Dropout**: In each layer, we want to propagate the error, but we do not propagate the error to all of the neurons. In this case, we are forcing those perceptrons to learn from data.
 
-There is also **Regularization**, where we add a penalty term to th
+There is also **Regularization**, where we add a penalty term to the loss function computation to reduce the amount by which weights are changed. 
+
