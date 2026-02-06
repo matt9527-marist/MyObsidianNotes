@@ -194,3 +194,9 @@ Centralizing the original data is not limited to deep learning algorithms, many 
 
 **Normalization Layers**: 
 *Batch Normalization*: An internal covariate shift occurs when there is a change in the input distribution to our network. When the input distribution changes, hidden layers try to learn to adapt to the new distribution. This phenomena can happen after each mini-batch when the weights are updated. This slows down the training process.
+![[Pasted image 20260205192751.png]]
+Here, we are trying to shift data back to centralization. 
+
+**Underfittin vs. Overfitting**
+![[Pasted image 20260205192936.png]]
+Overall, we want to find a pattrn 
