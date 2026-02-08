@@ -547,6 +547,7 @@ LZH
 Leaky
 LEAST
 Language
+Logging
 Relevant
 Reading
 Research
@@ -1137,6 +1138,9 @@ license
 logo
 live
 lose
+logger
+logs
+logging
 Graphing
 Google
 Game
@@ -1779,6 +1783,7 @@ Concerns
 Criteria
 Centralizing
 Capturing
+Capture
 Scikit
 Statistical
 Statistics
@@ -2202,6 +2207,7 @@ Simplest
 Successes
 Samuel
 Semi
+Syslog
 Keras
 Key
 Kirchhoffs
@@ -2931,6 +2937,7 @@ Iterate
 IBM
 Informed
 Interpretability
+Ignore
 and
 ability
 approximation
@@ -3396,6 +3403,9 @@ avoiding
 approximately
 artifical
 automata
+audit
+ambiguous
+appropriately
 Applications
 AI
 Analysis
@@ -3708,6 +3718,7 @@ Attempt
 Artificial
 Abstract
 Arthur
+Administrator
 with
 without
 want
@@ -4502,6 +4513,7 @@ Word
 Walkman
 WHY
 Waterfall
+Warnings
 is
 in
 if
@@ -4907,6 +4919,8 @@ installable
 intend
 inductive
 informs
+interactions
+informational
 Field
 For
 Find
@@ -5165,6 +5179,7 @@ Forward
 Fold
 Folds
 Father
+Failure
 of
 or
 optimize
@@ -5476,6 +5491,7 @@ oscillation
 observable
 opponent
 observes
+origin
 study
 simplified
 something
@@ -6096,6 +6112,13 @@ subjective
 speech
 selects
 seocnd
+syslog
+shell
+severe
+stacktrace
+started
+successfully
+serviced
 giving
 good
 generalizable
@@ -7015,6 +7038,7 @@ controlled
 car
 conducting
 category
+checked
 the
 to
 training
@@ -8680,6 +8704,9 @@ playing
 punishments
 price
 protein
+persistant
+priority
+proactive
 Detecting
 Deepmind
 Dataset
@@ -9423,6 +9450,9 @@ robot
 rationally
 rational
 rough
+ran
+reached
+reproduce
 model
 mostly
 machine
@@ -10055,6 +10085,7 @@ hour
 hell
 hardest
 helpers
+happening
 Execution
 Examples
 Economics
@@ -10334,6 +10365,7 @@ EGA
 Executable
 Ensure
 Eta
+Etc
 using
 utility
 use
@@ -11067,6 +11099,8 @@ drawn
 diverse
 diseases
 diagnostics
+daemons
+debugged
 future
 from
 feed
@@ -14024,6 +14058,7 @@ View
 Vision
 VGA
 Vanishing
+Viewer
 zero
 zu
 zj
