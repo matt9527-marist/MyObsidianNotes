@@ -71,3 +71,33 @@ Makefiles
 *Minimal Maven POM*
 ![[Pasted image 20260209183103.png]]
 
+**No Assembly Required**
+● Some languages don’t require a manual  
+compile step  
+	– Python is automatically compiled the first  
+	time a source file is run  
+	– It produces `*.pyc` files that are architecture  
+	and OS dependent  
+	– These can be distributed along with source  
+	code if desired
+
+**DevOps and Automation**
+● Continuous integration / continuous delivery  
+	– Building code is done automatically upon checkin  
+	– This is performed via an automation server  
+		● Jenkins, Travis, UrbanCode  
+		● Build scripts are written ahead of time, and run as part of a  
+		build job  
+	– Build errors are caught early on, improving software  
+	quality  
+	– Can be used to run a test suite after successful build
+
+**For Our Project**
+Use a build system for your project  
+● It must be repeatable and documented  
+● It must be stored with your source code  
+● It's better to use a more modern build system  
+than an ad-hoc script  
+● Use a build system that meshes with your  
+choice of language  
+	– Java → Ant/Maven
