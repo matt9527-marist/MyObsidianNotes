@@ -83,7 +83,7 @@ compile step
 
 **DevOps and Automation**
 ● Continuous integration / continuous delivery  
-	– Building code is done automatically upon checkin  
+	– Building code is done automatically upon check-in  
 	– This is performed via an automation server  
 		● Jenkins, Travis, UrbanCode  
 		● Build scripts are written ahead of time, and run as part of a  
