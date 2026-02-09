@@ -17,3 +17,14 @@ statements
 ● Requires manual updating for almost any  
 change
 
+**Makefiles**
+● Very old – part of original UNIX  
+● Pretty simple to write  
+	– Implementation is relatively straightforward  
+● Just a list of directives with commands  
+● Can create manual dependencies  
+● Uses file timestamps to determine if a  
+rebuild is necessary
+Example: 
+![[Pasted image 20260209182758.png]]
+
