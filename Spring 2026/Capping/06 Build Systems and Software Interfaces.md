@@ -149,4 +149,26 @@ getopt)
 dizzying array of options  
 	– /bin/ls has 60 different arguments!
 
-**Full-screen text-mode**
+**Full-screen text-mode Interface**
+● Does not require graphics hardware  
+	– MS-DOS editor, Linux, IBM 3270  
+● Can be line-based or screen-based  
+● Need libraries to control terminal behavior  
+	– Not simple to implement  
+	– curses / ncurses
+![[Pasted image 20260209185045.png]]
+
+**Graphical Interfaces**
+● Presentation logic is separate from  
+application logic  
+	– Makes it easier to change interface without  
+	changing how application works  
+	– Can move widgets around easily for rapid  
+	prototyping  
+● Easy for users to explore...sometimes!
+● Originally developed by XEROX  
+● XEROX Alto had the first mouse-driven interface
+
+**Bulk Rename Utility**
+![[Pasted image 20260209185108.png]]
+
