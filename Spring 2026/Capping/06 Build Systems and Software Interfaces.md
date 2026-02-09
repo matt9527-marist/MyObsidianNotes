@@ -170,10 +170,11 @@ application logic
 ● XEROX Alto had the first mouse-driven interface
 Apple borrowed heavily from it for the  
 Macintosh user interface
-- Decoupling the interface with the underlying native code is a good thing because we can then change trhe
+- Decoupling the interface with the underlying native code is a good thing because we can then change the mode of presentation without needing to change the mechanics under the hood. 
 
 **Bulk Rename Utility**
 ![[Pasted image 20260209185108.png]]
+GUIs are definitely not always intuitive. This is what can happen when engineers alone create presentation software.
 
 **Windows**
 ![[Pasted image 20260209185159.png]]
