@@ -170,6 +170,7 @@ application logic
 ● XEROX Alto had the first mouse-driven interface
 Apple borrowed heavily from it for the  
 Macintosh user interface
+- Decoupling the interface with the underlying native code is a good thing because we can then change trhe
 
 **Bulk Rename Utility**
 ![[Pasted image 20260209185108.png]]
@@ -196,3 +197,23 @@ rendering subsystem (X11)
 	– Return values  
 	– Error conditions
 
+It’s important to get API design right  
+● Unlike a GUI, it’s expensive and disruptive  
+to change an API  
+● Other software depends on it  
+● Sometimes you can’t change it, and just  
+introduce a new API  
+	– This leads to interface sprawl!
+
+**Hardware Interfaces**
+● Used to communicate between hardware components  
+● Also between hardware and software  
+● Very expensive to change  
+	– Can require rolling out new silicon!  
+● Memory-mapped I/O  
+	– Read and write to specific memory addresses  
+● CPU Registers  
+	– Function calling conventions
+
+**Sequential Sunburst - For our Project**
+![[Pasted image 20260209185435.png]]
