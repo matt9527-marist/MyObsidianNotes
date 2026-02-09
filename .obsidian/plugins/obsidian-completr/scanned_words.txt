@@ -548,6 +548,7 @@ Leaky
 LEAST
 Language
 Logging
+Leaves
 Relevant
 Reading
 Research
@@ -2208,6 +2209,7 @@ Successes
 Samuel
 Semi
 Syslog
+Scripted
 Keras
 Key
 Kirchhoffs
@@ -2667,6 +2669,7 @@ Tom
 Tasks
 Transductive
 Trend
+Transforming
 ISLP
 Iris
 Instance
@@ -3719,6 +3722,7 @@ Artificial
 Abstract
 Arthur
 Administrator
+Autotools
 with
 without
 want
@@ -4311,6 +4315,7 @@ Packages
 POV
 Pick
 Predicting
+Pretty
 What
 We
 With
@@ -4921,6 +4926,7 @@ inductive
 informs
 interactions
 informational
+involvement
 Field
 For
 Find
@@ -6119,6 +6125,9 @@ stacktrace
 started
 successfully
 serviced
+syntax
+stray
+script
 giving
 good
 generalizable
@@ -7462,6 +7471,7 @@ tunable
 thinks
 totally
 trend
+timestamps
 being
 be
 by
@@ -7767,6 +7777,7 @@ batches
 boils
 backpropagation
 biologically
+bash
 explicitly
 experience
 error
@@ -8707,6 +8718,7 @@ protein
 persistant
 priority
 proactive
+prone
 Detecting
 Deepmind
 Dataset
@@ -9023,6 +9035,7 @@ Debian
 Documentation
 Decreasing
 Differential
+Doesn
 regularities
 respect
 recognizing
@@ -9453,6 +9466,7 @@ rough
 ran
 reached
 reproduce
+rebuild
 model
 mostly
 machine
@@ -9822,6 +9836,8 @@ maintainers
 mixing
 memorization
 million
+mistakes
+mess
 hypothesis
 handwritten
 have
@@ -13436,6 +13452,7 @@ Uncertainty
 Userspace
 Underfittin
 Uninformed
+UNIX
 Breakout
 Because
 Backpropagation
