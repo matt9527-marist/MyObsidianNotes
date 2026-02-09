@@ -148,3 +148,5 @@ getopt)
 ● Complex software can have a  
 dizzying array of options  
 	– /bin/ls has 60 different arguments!
+
+**Full-screen text-mode**
