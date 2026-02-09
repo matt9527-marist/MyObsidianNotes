@@ -168,7 +168,31 @@ application logic
 ● Easy for users to explore...sometimes!
 ● Originally developed by XEROX  
 ● XEROX Alto had the first mouse-driven interface
+Apple borrowed heavily from it for the  
+Macintosh user interface
 
 **Bulk Rename Utility**
 ![[Pasted image 20260209185108.png]]
+
+**Windows**
+![[Pasted image 20260209185159.png]]
+● After numerous iterations, the interface  
+design (mostly) stabilized
+
+**Linux**
+● Huge variety of window managers  
+● Graphical interface is separate from the  
+rendering subsystem (X11)
+![[Pasted image 20260209185237.png]]
+
+**Application Programming Interfaces**
+● APIs are used for connecting software together  
+	– Provide a documented way for communication  
+	between software  
+	– Sometimes dictated by a standard (POSIX, C11)  
+● APIs define some of the following  
+	– Method signatures  
+	– Data types  
+	– Return values  
+	– Error conditions
 
