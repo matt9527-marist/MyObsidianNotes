@@ -103,4 +103,48 @@ choice of language
 	– Java → Ant/Maven
 
 ## Software Interfaces 
-****
+**Interface Types**
+● Interfaces have a variety of audiences  
+● Human  
+	– Command-line & GUI  
+● Other software  
+	– Application Programming Interface (API)  
+● Hardware  
+	– Registers, memory maps, and interrupts
+
+**Introduction**
+What is an interface?  
+	– A way of interacting with a piece of hardware  
+	or software  
+● An interface provides access to computer  
+resources  
+	– This can be hardware or other software
+
+**Human Interfaces**
+Designed for interactive use  
+● Should be “intuitive” and easy to use  
+	– That’s a loaded statement!  
+	– What’s easy for some users is maddening to  
+	others  
+● Need to consider use case of software and  
+intended audience  
+	– Newbies / Power Users / Developers
+
+**Computer User Skill Distribution**
+> Across 33 rich countries, only  
+   5% of the population has high computer-  
+   related abilities, and only a third of people  
+   can complete medium-complexity tasks.
+
+**Command Line**
+Early form of interface  
+● Easy to implement (POSIX  
+getopt)  
+● Good for experienced users  
+	– Keyboarding is always faster than  
+	mouse  
+● Easily automatable via scripts  
+● Can look scary to newbies  
+● Complex software can have a  
+dizzying array of options  
+	– /bin/ls has 60 different arguments!
