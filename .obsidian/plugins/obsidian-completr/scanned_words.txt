@@ -304,6 +304,9 @@ Monotonic
 McCarthy
 Mitchell
 Movies
+Mainly
+Maven
+Macintosh
 Learning
 Learn
 Let
@@ -816,6 +819,8 @@ Reasonably
 Robust
 Relatively
 Robot
+Registers
+Rename
 libraries
 learn
 learning
@@ -1374,6 +1379,8 @@ Glossary
 Growing
 Gentoo
 Gives
+Graphical
+GUIs
 Charting
 Control
 Common
@@ -1785,6 +1792,8 @@ Criteria
 Centralizing
 Capturing
 Capture
+Computer
+Complex
 Scikit
 Statistical
 Statistics
@@ -2210,6 +2219,9 @@ Samuel
 Semi
 Syslog
 Scripted
+Scons
+Skill
+Sunburst
 Keras
 Key
 Kirchhoffs
@@ -2373,6 +2385,7 @@ Keeping
 KYi
 KudnvB
 Know
+Keyboarding
 TensorFlow
 Task
 Training
@@ -2670,6 +2683,7 @@ Tasks
 Transductive
 Trend
 Transforming
+Travis
 ISLP
 Iris
 Instance
@@ -2941,6 +2955,7 @@ IBM
 Informed
 Interpretability
 Ignore
+Interfaces
 and
 ability
 approximation
@@ -3409,6 +3424,12 @@ automata
 audit
 ambiguous
 appropriately
+autoconf
+automake
+automation
+audiences
+abilities
+automatable
 Applications
 AI
 Analysis
@@ -3723,6 +3744,10 @@ Abstract
 Arthur
 Administrator
 Autotools
+Assembly
+Automation
+Ant
+Alto
 with
 without
 want
@@ -3980,6 +4005,8 @@ wWw
 week
 workplace
 went
+widgets
+window
 Python
 Performance
 Principle
@@ -4316,6 +4343,8 @@ POV
 Pick
 Predicting
 Pretty
+POM
+POSIX
 What
 We
 With
@@ -4927,6 +4956,10 @@ informs
 interactions
 informational
 involvement
+ins
+integration
+interrupts
+interactive
 Field
 For
 Find
@@ -6128,6 +6161,11 @@ serviced
 syntax
 stray
 script
+scary
+screen
+stabilized
+sprawl
+silicon
 giving
 good
 generalizable
@@ -6408,6 +6446,7 @@ greatly
 guesses
 generalizabiliyt
 game
+getopt
 computers
 computer
 can
@@ -7048,6 +7087,11 @@ car
 conducting
 category
 checked
+configure
+convention
+customization
+curses
+conventions
 the
 to
 training
@@ -7472,6 +7516,7 @@ thinks
 totally
 trend
 timestamps
+third
 being
 be
 by
@@ -7778,6 +7823,7 @@ boils
 backpropagation
 biologically
 bash
+borrowed
 explicitly
 experience
 error
@@ -8203,6 +8249,10 @@ expedite
 entirely
 educated
 engineering
+exceptions
+extensibility
+experienced
+editor
 programmed
 patterns
 program
@@ -8719,6 +8769,8 @@ persistant
 priority
 proactive
 prone
+pom
+plug
 Detecting
 Deepmind
 Dataset
@@ -9036,6 +9088,9 @@ Documentation
 Decreasing
 Differential
 Doesn
+Driven
+DevOps
+Decoupling
 regularities
 respect
 recognizing
@@ -9467,6 +9522,11 @@ ran
 reached
 reproduce
 rebuild
+repeatable
+rich
+rapid
+rendering
+rolling
 model
 mostly
 machine
@@ -9838,6 +9898,9 @@ memorization
 million
 mistakes
 mess
+maddening
+mouse
+mechanics
 hypothesis
 handwritten
 have
@@ -10102,6 +10165,7 @@ hell
 hardest
 helpers
 happening
+hood
 Execution
 Examples
 Economics
@@ -11117,6 +11181,10 @@ diseases
 diagnostics
 daemons
 debugged
+dizzying
+definitely
+dictated
+disruptive
 future
 from
 feed
@@ -11453,6 +11521,7 @@ finished
 fathers
 famous
 fnite
+fiddling
 Optimziation
 Operations
 Once
@@ -12456,6 +12525,9 @@ nothing
 num
 noisy
 navigation
+newbies
+ncurses
+numerous
 yes
 yield
 your
@@ -12865,6 +12937,7 @@ Hat
 Have
 HIGHEST
 Historical
+Horrendously
 Not
 NOTHING
 No
@@ -13086,6 +13159,7 @@ Neurons
 Nonlinear
 Neuron
 Neighbors
+Newbies
 quality
 question
 quickly
@@ -13453,6 +13527,9 @@ Userspace
 Underfittin
 Uninformed
 UNIX
+UrbanCode
+Users
+Utility
 Breakout
 Because
 Backpropagation
@@ -13727,6 +13804,7 @@ Braille
 Books
 Biological
 Blue
+Bulk
 just
 jagged
 json
@@ -13874,6 +13952,7 @@ jii
 jYc
 join
 jiffy
+jars
 Vectors
 Vectorization
 Visualization
@@ -14425,6 +14504,7 @@ JNI
 JDBC
 Jiffies
 JVM
+Jenkins
 You
 Yw
 Ygy
@@ -14591,6 +14671,7 @@ Ysv
 YEE
 Your
 Yggdrasil
+Yiddish
 Xk
 Xt
 Xs
@@ -14732,6 +14813,7 @@ XYf
 XRR
 XAz
 XaT
+XEROX
 Qw
 QV
 QG
@@ -15231,6 +15313,7 @@ xONs
 xiW
 xZc
 xnew
+xml
 ßih
 ßG
 ßz
