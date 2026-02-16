@@ -33,3 +33,26 @@ clunky
 	– This pain point caused Linus Torvalds to create Git  
 ● Examples: CVS, Subversion
 
+**Distributed Version Control**
+● One or more version control servers work with multiple clients  
+● Requires network access for initial source tree clone  
+● Changes and commits can be done offline  
+● Synchronizing with the repo must be done online  
+● The git “server” isn’t special – each repo is functionally identical  
+● Better handling of code change requests from other developers  
+– “Pull requests”  
+● Examples: Mercurial, Git
+
+**Branching**
+● Source code management systems support branches  
+– This means that code can be split off into a separate area for work /  
+experimentation  
+– If/when it is complete, the branch can be merged back into the  
+mainline code  
+– This keeps dangerous or disruptive changes away from the main  
+codebase  
+– Git handles branching in an ideal manner  
+	● Other SCM systems have clunkier
+![[Pasted image 20260216182615.png]]
+
+**Brief Histor**
