@@ -48,4 +48,10 @@ and 1970’s
 	– Message backup
 Email is nice, but it isn't perfect. 
 What are some problems with Email? 
-- 
+- Spam / clutter
+- Accidentally sending emails to the wrong person 
+- Reply-all message wars 
+- Adding a missing recipient to a message chain 
+- Attachment sizes and backlevel versioning 
+
+
