@@ -54,4 +54,31 @@ What are some problems with Email?
 - Adding a missing recipient to a message chain 
 - Attachment sizes and backlevel versioning 
 
+**Instant Messaging**
+● Email is nice, but not real-time  
+● Chat networks fill a communication niche  
+● Internet Relay Chat (IRC) is the granddaddy  
+of them all  
+● Individual IM clients used to be popular in  
+the past (AIM, ICQ, Jabber)
+
+**Internet Relay Chat (IRC)**
+● Open standard (RFC 1459)  
+● Used by many open-source development projects  
+● Lightweight and efficient, but not perfect  
+● Any messages when logged out are missed!  
+● Sometimes channels can be "taken over" and the  
+admins kicked out  
+● Very mature chat clients, available for almost any OS  
+you can think of  
+● Channels have "ops", (or operators) who exist to  
+maintain order and discipline  
+● Members who misbehave can be kicked, and/or  
+banned.  
+	– Kicks are temporary, and bans are permanent  
+● Bot integration  
+	– Can write programs that sit in a channel and perform  
+	actions  
+	– User recognition, permission handling (ops), help  
+	requests, file transfers, announcements
 
