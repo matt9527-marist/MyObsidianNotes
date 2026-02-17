@@ -556,6 +556,7 @@ Leaves
 Linus
 Labs
 Latest
+LeNet
 Relevant
 Reading
 Research
@@ -1156,6 +1157,8 @@ logs
 logging
 losing
 lawsuit
+leftmost
+lifted
 Graphing
 Google
 Game
@@ -1809,6 +1812,7 @@ Complex
 CVS
 Concurrent
 Clients
+Convert
 Scikit
 Statistical
 Statistics
@@ -2242,6 +2246,7 @@ Subversion
 Synchronizing
 Stores
 SCMs
+Separating
 Keras
 Key
 Kirchhoffs
@@ -2706,6 +2711,7 @@ Transforming
 Travis
 Torvalds
 Tichy
+Translation
 ISLP
 Iris
 Instance
@@ -2979,6 +2985,7 @@ Interpretability
 Ignore
 Interfaces
 Improved
+Invariance
 and
 ability
 approximation
@@ -3458,6 +3465,8 @@ atomic
 attachments
 accomplished
 asynchronous
+alright
+anywhere
 Applications
 AI
 Analysis
@@ -3777,6 +3786,8 @@ Automation
 Ant
 Alto
 Anyone
+AlexNet
+Augmentation
 with
 without
 want
@@ -5000,6 +5011,7 @@ interrupted
 increments
 instantaneous
 inconvenient
+impacting
 Field
 For
 Find
@@ -6208,6 +6220,9 @@ stabilized
 sprawl
 silicon
 sink
+sliding
+skewed
+scratch
 giving
 good
 generalizable
@@ -7142,6 +7157,8 @@ clunky
 codebase
 clunkier
 corrupt
+cube
+categorize
 the
 to
 training
@@ -7568,6 +7585,7 @@ trend
 timestamps
 third
 terrible
+trucks
 being
 be
 by
@@ -7875,6 +7893,7 @@ backpropagation
 biologically
 bash
 borrowed
+borrow
 explicitly
 experience
 error
@@ -9150,6 +9169,8 @@ Doesn
 Driven
 DevOps
 Decoupling
+DNNs
+DNN
 regularities
 respect
 recognizing
@@ -9590,6 +9611,8 @@ renames
 reliability
 remote
 rise
+recognized
+rotate
 model
 mostly
 machine
@@ -10514,6 +10537,7 @@ Ensure
 Eta
 Etc
 Emailing
+Experiment
 using
 utility
 use
@@ -10787,6 +10811,7 @@ understandable
 umbrellas
 unlabeled
 uncommon
+usefulness
 data
 driven
 dataset
@@ -11594,6 +11619,7 @@ fnite
 fiddling
 functionally
 figuring
+flip
 Optimziation
 Operations
 Once
