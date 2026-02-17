@@ -107,3 +107,16 @@ development process?
 ● How do they compare with email, forums,  
 wikis, etc?  
 ● Discuss scaling of communication
+
+**Remote Work**
+● Software development lends itself to  
+remote work  
+● What are some reasons to work remotely?
+● Software development lends itself to remote  
+work  
+● What are some reasons to work remotely?  
+	– Inclement weather  
+	– Illness (self or family members)  
+	– Travel (business or personal)  
+	– Relocation  
+	– (Inter)National teaming
