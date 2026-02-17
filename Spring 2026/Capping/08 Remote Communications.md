@@ -28,3 +28,10 @@ unavailable
 paper flowing  
 ● “Didn’t you get the memo?”
 
+**Potential Problems**
+This is how business operated for decades  
+● Phones and typewriters were prevalent in  
+business through the 20th century  
+● The pace of business was just slower  
+● If someone was out of the office, you waited  
+for them to return
