@@ -35,3 +35,17 @@ business through the 20th century
 ● The pace of business was just slower  
 ● If someone was out of the office, you waited  
 for them to return
+
+**Introduction of Email**
+Electronic mail first appeared in the late 1960’s  
+and 1970’s  
+	– Customers of time-sharing systems and mainframes  
+	were first users  
+● What advantages did it bring to the table?  
+	– Instantaneous communication  
+	– Search / sort capabilities  
+	– Easy to forward messages  
+	– Message backup
+Email is nice, but it isn't perfect. 
+What are some problems with Email? 
+- 
