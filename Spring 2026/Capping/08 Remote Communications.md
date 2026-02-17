@@ -82,3 +82,20 @@ banned.
 	– User recognition, permission handling (ops), help  
 	requests, file transfers, announcements
 
+**Slack**
+● Based off IRC, but solves a lot of pain points  
+● Slack is a free/paid service  
+	– The free version is "good enough" for simple collaboration  
+	– The paid version has lots of hooks into interesting widgets  
+(Box, Trello, Github, etc)  
+	– Keeps unlimited message history  
+● File uploads / transfer  
+● Requires trust on the part of the customer in Slack as  
+a company  
+● Looks much prettier than IRC  
+	– Rich text formatting (bold, italic, code)  
+● Clients available for Windows/Mac/Linux  
+● Since it's proprietary, can offer unique add-ons, like video calls, and threaded discussions  
+● Anyone can create a channel, and they can be public or private  
+● There's lots of optional (paid) integration with corporate authentication systems (LDAP)  
+● Bot integration
