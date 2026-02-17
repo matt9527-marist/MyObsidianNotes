@@ -307,6 +307,7 @@ Movies
 Mainly
 Maven
 Macintosh
+Mercurial
 Learning
 Learn
 Let
@@ -552,6 +553,9 @@ LEAST
 Language
 Logging
 Leaves
+Linus
+Labs
+Latest
 Relevant
 Reading
 Research
@@ -821,6 +825,9 @@ Relatively
 Robot
 Registers
 Rename
+RCS
+Revision
+Repository
 libraries
 learn
 learning
@@ -1147,6 +1154,8 @@ lose
 logger
 logs
 logging
+losing
+lawsuit
 Graphing
 Google
 Game
@@ -1381,6 +1390,9 @@ Gentoo
 Gives
 Graphical
 GUIs
+Git
+GitHub
+GitLab
 Charting
 Control
 Common
@@ -1794,6 +1806,9 @@ Capturing
 Capture
 Computer
 Complex
+CVS
+Concurrent
+Clients
 Scikit
 Statistical
 Statistics
@@ -2222,6 +2237,11 @@ Scripted
 Scons
 Skill
 Sunburst
+SCCS
+Subversion
+Synchronizing
+Stores
+SCMs
 Keras
 Key
 Kirchhoffs
@@ -2684,6 +2704,8 @@ Transductive
 Trend
 Transforming
 Travis
+Torvalds
+Tichy
 ISLP
 Iris
 Instance
@@ -2956,6 +2978,7 @@ Informed
 Interpretability
 Ignore
 Interfaces
+Improved
 and
 ability
 approximation
@@ -3430,6 +3453,11 @@ automation
 audiences
 abilities
 automatable
+anonymous
+atomic
+attachments
+accomplished
+asynchronous
 Applications
 AI
 Analysis
@@ -3748,6 +3776,7 @@ Assembly
 Automation
 Ant
 Alto
+Anyone
 with
 without
 want
@@ -4007,6 +4036,9 @@ workplace
 went
 widgets
 window
+web
+workstation
+workflow
 Python
 Performance
 Principle
@@ -4345,6 +4377,9 @@ Predicting
 Pretty
 POM
 POSIX
+Pull
+Perdue
+Primary
 What
 We
 With
@@ -4548,6 +4583,7 @@ Walkman
 WHY
 Waterfall
 Warnings
+Walter
 is
 in
 if
@@ -4960,6 +4996,10 @@ ins
 integration
 interrupts
 interactive
+interrupted
+increments
+instantaneous
+inconvenient
 Field
 For
 Find
@@ -5531,6 +5571,7 @@ observable
 opponent
 observes
 origin
+offline
 study
 simplified
 something
@@ -6166,6 +6207,7 @@ screen
 stabilized
 sprawl
 silicon
+sink
 giving
 good
 generalizable
@@ -7092,6 +7134,14 @@ convention
 customization
 curses
 conventions
+collections
+cohesive
+clients
+checkins
+clunky
+codebase
+clunkier
+corrupt
 the
 to
 training
@@ -7517,6 +7567,7 @@ totally
 trend
 timestamps
 third
+terrible
 being
 be
 by
@@ -8253,6 +8304,9 @@ exceptions
 extensibility
 experienced
 editor
+excuse
+enterprise
+editing
 programmed
 patterns
 program
@@ -8771,6 +8825,11 @@ proactive
 prone
 pom
 plug
+period
+patch
+pain
+prove
+provenance
 Detecting
 Deepmind
 Dataset
@@ -9527,6 +9586,10 @@ rich
 rapid
 rendering
 rolling
+renames
+reliability
+remote
+rise
 model
 mostly
 machine
@@ -9901,6 +9964,8 @@ mess
 maddening
 mouse
 mechanics
+merged
+mainline
 hypothesis
 handwritten
 have
@@ -10166,6 +10231,8 @@ hardest
 helpers
 happening
 hood
+hold
+historically
 Execution
 Examples
 Economics
@@ -10446,6 +10513,7 @@ Executable
 Ensure
 Eta
 Etc
+Emailing
 using
 utility
 use
@@ -10718,6 +10786,7 @@ umbrella
 understandable
 umbrellas
 unlabeled
+uncommon
 data
 driven
 dataset
@@ -11185,6 +11254,7 @@ dizzying
 definitely
 dictated
 disruptive
+dangerous
 future
 from
 feed
@@ -11522,6 +11592,8 @@ fathers
 famous
 fnite
 fiddling
+functionally
+figuring
 Optimziation
 Operations
 Once
@@ -11780,6 +11852,7 @@ Others
 Optional
 Off
 Overall
+Offline
 kind
 know
 knowledge
@@ -11950,6 +12023,7 @@ keras
 kLC
 kYa
 kYc
+keeps
 value
 various
 variable
@@ -12202,6 +12276,7 @@ vKO
 vacation
 vendors
 vanishes
+versioned
 numerical
 no
 need
@@ -13530,6 +13605,7 @@ UNIX
 UrbanCode
 Users
 Utility
+University
 Breakout
 Because
 Backpropagation
@@ -13805,6 +13881,10 @@ Books
 Biological
 Blue
 Bulk
+Branching
+Brief
+Bell
+Bitkeeper
 just
 jagged
 json
