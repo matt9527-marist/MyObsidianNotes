@@ -99,3 +99,11 @@ a company
 ● Anyone can create a channel, and they can be public or private  
 ● There's lots of optional (paid) integration with corporate authentication systems (LDAP)  
 ● Bot integration
+
+**Benefits of Chat Systems**
+● Why use chat systems?  
+● What benefits do they bring to the  
+development process?  
+● How do they compare with email, forums,  
+wikis, etc?  
+● Discuss scaling of communication
