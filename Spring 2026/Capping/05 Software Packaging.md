@@ -1,6 +1,3 @@
----
-aliases:
----
 ● A way to assemble a collection of software  
 for distribution  
 	– Distribution can be physical or electronic  

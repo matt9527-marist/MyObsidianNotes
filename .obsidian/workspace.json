@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "562db64b10d45474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Convolutional Neural Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Convolutional Neural Networks"
-            }
-          },
-          {
             "id": "9f9720d6369dffbf",
             "type": "leaf",
             "state": {
@@ -59,6 +45,20 @@
               },
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "387a36dff68b95c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -212,26 +212,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f9720d6369dffbf",
+  "active": "387a36dff68b95c7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Spring 2026/Deep Learning/02 Convolutional Neural Networks.md",
+    "Spring 2026/Capping/08 Remote Communications.md",
+    "Spring 2026/Capping/07 Version Control.md",
+    "Spring 2026/Capping/06 Build Systems and Software Interfaces.md",
+    "Assets/Pasted image 20260216182615.png",
+    "Assets/Pasted image 20260209185435.png",
+    "Assets/Pasted image 20260209185237.png",
+    "Assets/Pasted image 20260209185159.png",
+    "Assets/Pasted image 20260209185108.png",
+    "Assets/Pasted image 20260209185045.png",
+    "Assets/Pasted image 20260209183103.png",
+    "Assets/Pasted image 20260209183007.png",
+    "Assets/Pasted image 20260209182758.png",
     "Assets/Pasted image 20260205195341.png",
-    "Assets/Pasted image 20260205195029.png",
-    "Assets/Pasted image 20260205195028.png",
-    "Assets/Pasted image 20260205194853.png",
-    "Assets/Pasted image 20260205194852.png",
-    "Assets/Pasted image 20260205194805.png",
-    "Assets/Pasted image 20260205194345.png",
-    "Assets/Pasted image 20260205194304.png",
     "Spring 2026/Deep Learning/01 Feedforward Neural Networks.md",
     "02 Convolutional Neural Networks.md",
     "Spring 2026/Deep Learning/00 Intro.md",
     "Fall 2025/Machine Learning/005 Regularization and Hyperparameter Tuning.md",
     "Untitled 1.md",
-    "Assets/Pasted image 20260205192936.png",
-    "Assets/Pasted image 20260205192751.png",
-    "Assets/Pasted image 20260205192435.png",
     "Untitled.md",
-    "conflict-files-obsidian-git.md",
     "Spring 2026/Capping/05 Software Packaging.md",
     "Spring 2026/Capping/04 Logging.md",
     "Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
@@ -260,9 +263,6 @@
     "Fall 2025/Security Protocols-Algorithms/Linux Overview.md",
     "Fall 2025/Security Protocols-Algorithms/Kerberos and RSA Walkthroughs.md",
     "Fall 2025/Security Protocols-Algorithms/008 Summary.md",
-    "Fall 2025/Security Protocols-Algorithms/007 PKI II.md",
-    "Fall 2025/Security Protocols-Algorithms/006 PKI.md",
-    "Fall 2025/Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
     "Fall 2025/Machine Learning/Midterm Review",
     "Fall 2025/Security Protocols-Algorithms",
     "Fall 2025/Parallel Processing",
