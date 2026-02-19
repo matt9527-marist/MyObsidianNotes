@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "02 Convolutional Neural Networks"
             }
+          },
+          {
+            "id": "9f9720d6369dffbf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "562db64b10d45474",
+  "active": "9f9720d6369dffbf",
   "lastOpenFiles": [
     "Assets/Pasted image 20260205195341.png",
     "Assets/Pasted image 20260205195029.png",
