@@ -535,6 +535,7 @@ Language
 Leaky
 LEAST
 Lack
+LeNet
 Relevant
 Reading
 Research
@@ -1099,6 +1100,8 @@ learnable
 linguistics
 lifting
 lose
+leftmost
+lifted
 Graphing
 Google
 Game
@@ -1717,6 +1720,7 @@ Capturing
 Criteria
 Concerns
 Centralizing
+Convert
 Scikit
 Statistical
 Statistics
@@ -2116,6 +2120,7 @@ Semi
 Strengths
 Samples
 Shuffle
+Separating
 Keras
 Key
 Kirchhoffs
@@ -2560,6 +2565,7 @@ Transductive
 Trend
 TanH
 Train
+Translation
 ISLP
 Iris
 Instance
@@ -2824,6 +2830,7 @@ Iterate
 Interpretability
 Increasing
 Iterations
+Invariance
 and
 ability
 approximation
@@ -3271,6 +3278,8 @@ acquiring
 avoiding
 approximately
 aggregating
+alright
+anywhere
 Applications
 AI
 Analysis
@@ -3566,6 +3575,8 @@ Artificial
 Abstract
 Arthur
 Attempt
+AlexNet
+Augmentation
 with
 without
 want
@@ -3817,6 +3828,7 @@ wXHs
 wle
 worsen
 worries
+window
 Python
 Performance
 Principle
@@ -4714,6 +4726,7 @@ idth
 inductive
 informs
 intend
+impacting
 Field
 For
 Find
@@ -5854,6 +5867,10 @@ seocnd
 stops
 slingshot
 slows
+started
+sliding
+skewed
+scratch
 giving
 good
 generalizable
@@ -6744,6 +6761,8 @@ ceil
 centralized
 centralization
 criteria
+cube
+categorize
 the
 to
 training
@@ -7139,6 +7158,7 @@ thinks
 totally
 trend
 tunable
+trucks
 being
 be
 by
@@ -7435,6 +7455,7 @@ boundary
 boils
 backpropagation
 batches
+borrow
 explicitly
 experience
 error
@@ -8632,6 +8653,8 @@ Dropout
 Delay
 Differential
 Decreasing
+DNNs
+DNN
 regularities
 respect
 recognizing
@@ -9035,6 +9058,8 @@ rough
 reported
 reaching
 remaining
+recognized
+rotate
 model
 mostly
 machine
@@ -9901,6 +9926,7 @@ Exponential
 Exchanging
 Embeddings
 Eta
+Experiment
 using
 utility
 use
@@ -10164,6 +10190,7 @@ unlabeled
 upwards
 updating
 unspecified
+usefulness
 data
 driven
 dataset
@@ -10920,6 +10947,7 @@ feasible
 formal
 fnite
 finished
+flip
 Optimziation
 Operations
 Once
