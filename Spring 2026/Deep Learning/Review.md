@@ -36,4 +36,7 @@
 - CNNs can assume that nearby pixels in an image are likely to be related or the same, which reduces the number of parameters needed in computation. 
 **How does depth affect bias and variance?**
 - Bias vs. variance: Consider Linear Regression and finding the line that best fits the problem. 
-- Bias Errors occur 
+- Bias Errors occur when the prediction made is incorrect, compared to the actual value.
+- Variance Errors occur when the prediction made is correct, but the actual values vary greatly. 
+- Consider precision vs. accuracy problem 
+- As we increase the depth, bias is reduced by finding the 
