@@ -19,4 +19,8 @@
   [x_(i-1), x_i, x_(i+1)]
 - First layer, R_1 = 3 
 - Second layer, R_2 = [i-2, i-1, i, i+1, i+2]
-- Continuing, R_5 will evaluate to 11. This 
+- Continuing, R_5 will evaluate to 11. There are formulae for this. 
+**Why are CNNs more efficient than MLPs for images?**
+- Consider the purpose of the shifting kernel that allows us to find features in an image by searching over it. This makes CNNs better for decentralized input. 
+- The space-invariance feature of the CNN allows for weight-sharing. CNNs also significantly reduce the number of parameters needed. 
+**Why does validation loss increase while training loss decreases**

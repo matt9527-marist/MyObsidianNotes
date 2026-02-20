@@ -783,6 +783,7 @@ Reducing
 Relatively
 Robot
 Robust
+Receptive
 libraries
 learn
 learning
@@ -1721,6 +1722,7 @@ Criteria
 Concerns
 Centralizing
 Convert
+Continuing
 Scikit
 Statistical
 Statistics
@@ -2121,6 +2123,7 @@ Strengths
 Samples
 Shuffle
 Separating
+Second
 Keras
 Key
 Kirchhoffs
@@ -4727,6 +4730,7 @@ inductive
 informs
 intend
 impacting
+invariance
 Field
 For
 Find
@@ -5871,6 +5875,8 @@ started
 sliding
 skewed
 scratch
+suggest
+summarized
 giving
 good
 generalizable
@@ -6763,6 +6769,7 @@ centralization
 criteria
 cube
 categorize
+consolidating
 the
 to
 training
@@ -7866,6 +7873,7 @@ entirely
 educated
 evaluation
 expedite
+equivariance
 programmed
 patterns
 program
@@ -9060,6 +9068,8 @@ reaching
 remaining
 recognized
 rotate
+resort
+receptive
 model
 mostly
 machine
@@ -9927,6 +9937,8 @@ Exchanging
 Embeddings
 Eta
 Experiment
+Explain
+Equivariance
 using
 utility
 use
@@ -10631,6 +10643,8 @@ diagnostics
 demands
 declaring
 diverges
+deeper
+die
 future
 from
 feed
@@ -12342,6 +12356,7 @@ HuggingFace
 Have
 Historical
 HIGHEST
+Hierarchical
 Not
 NOTHING
 No
@@ -13326,6 +13341,7 @@ jBI
 jii
 jYc
 join
+justify
 Vectors
 Vectorization
 Visualization
