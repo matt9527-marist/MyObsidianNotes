@@ -8,3 +8,5 @@
 **Why do neurons "die" in ReLU, suggest fixes**
 - Consider the shape of ReLU. If the output of the activation becomes negative, the update becomes 0. Those neurons will "die."
 - With Leaky ReLU, we keep movement possible by ensuring that the output will still give an effect. 
+**Compare parameters of a 256x256x3 image into (A) a 1000-unit fully-connected layer and (B) a 64 filters of 3x3 convolution**
+- For FC, we pass a
