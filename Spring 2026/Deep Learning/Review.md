@@ -25,5 +25,5 @@
 - The space-invariance feature of the CNN allows for weight-sharing. CNNs also significantly reduce the number of parameters needed. 
 **Why does validation loss increase while training loss decreases?**
 - Overfitting. 
-**Why can stopping by gradient norm fail?**
-- When we take the norm of the gradient, it can be 
+**Why can stopping by small gradient norm fail?**
+- When we take the norm of the gradient, the result can be near-zero, but not the global minimum. 
