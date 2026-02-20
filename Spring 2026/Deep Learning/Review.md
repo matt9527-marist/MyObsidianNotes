@@ -18,4 +18,5 @@
 - In each layer we add 2 pixels. In a one dimensional CNN, we have k = 3, for each pixel:
   [x_(i-1), x_i, x_(i+1)]
 - First layer, R_1 = 3 
-- Second layer, 
+- Second layer, R_2 = [i-2, i-1, i, i+1, i+2]
+- Continuing, R_5 will evaluate to 11. This 
