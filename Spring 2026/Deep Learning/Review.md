@@ -30,3 +30,9 @@
 - Small gradient norm is when the gradient may become 0, but is still not the global minimum. 
 **Define representation and measurement bias. Give mitigation strategies.**
 - Representation bias is when certain classes or labels are underrepresented, or not even present. 
+- Measurement bias is when those labels/classes are noisy or samples are not accurate. 
+- Mitigated by better or more expansive sampling or better instrumentation. 
+**Why does CNN induction bias help with vision tasks?**
+- CNNs can assume that nearby pixels in an image are likely to be related or the same, which reduces the number of parameters needed in computation. 
+**How does depth affect bias and variance?**
+- Bias vs. variance: Bias occurs 
