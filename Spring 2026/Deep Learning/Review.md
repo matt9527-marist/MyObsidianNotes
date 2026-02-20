@@ -46,4 +46,6 @@
 - Without more hidden layers, all nonlinear/complex patterns would need to be captured in the neurons of few layers. All of that information must be consolidated in that area. 
 **When is sigmoid appropriate in hidden layers?**
 - Note, most of the time we want to avoid Sigmoid functions because of the vanishing gradient problem that we have. 
-- We still would like to use it at times for outputs that are probabilistic
+- We still would like to use it at times for outputs that are probabilistic, measuring values between 0 and 1, for example in classification that requires gating. 
+**Why does Tanh converge faster than Sigmoid? When might it outperform ReLU?**
+- Tanh is zero-centered, bounded between -1 and 1. 
