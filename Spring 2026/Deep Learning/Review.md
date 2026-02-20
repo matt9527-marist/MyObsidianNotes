@@ -48,4 +48,8 @@
 - Note, most of the time we want to avoid Sigmoid functions because of the vanishing gradient problem that we have. 
 - We still would like to use it at times for outputs that are probabilistic, measuring values between 0 and 1, for example in classification that requires gating. 
 **Why does Tanh converge faster than Sigmoid? When might it outperform ReLU?**
-- Tanh is zero-centered, bounded between -1 and 1. 
+- Tanh is zero-centered, bounded between -1 and 1, allowing for more balanced gradients and weight updates, as opposed to Sigmoid which is bounded 0-1, which presents the problem of vanishing gradients. 
+- It may outperform ReLU in shallow networks. 
+**Why is softmax wrong for multi-label classification?**
+- It is unrealistic for scenarios where classes can be present simultaneously. 
+- Softmax has probabilities that sum to 1, but in multilabel problems, probabilities may sum to above 1 an input can have multiple labels
