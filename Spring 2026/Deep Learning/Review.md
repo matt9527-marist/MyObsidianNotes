@@ -9,4 +9,5 @@
 - Consider the shape of ReLU. If the output of the activation becomes negative, the update becomes 0. Those neurons will "die."
 - With Leaky ReLU, we keep movement possible by ensuring that the output will still give an effect. 
 **Compare parameters of a 256x256x3 image into (A) a 1000-unit fully-connected layer and (B) a 64 filters of 3x3 convolution**
-- For FC, we pass a
+- For FC, we pass all. This would result a huge number of parameters. 
+- For a CNN, this would 3 * 3 * 3 * 64 parameters, 3x3 kernels for 3 channels (RGB), which would result in far fewer parameters. 
