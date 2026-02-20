@@ -12,4 +12,6 @@
 - For FC, we pass all. This would result a huge number of parameters. 
 - For a CNN, this would 3 * 3 * 3 * 64 parameters, 3x3 kernels for 3 channels (RGB), which would result in far fewer parameters. 
 **Explain equivariance and how pooling provides approximate invariance**
-- 
+- Equivariance means a shift to the input will result in an equal shift to the output. Pooling reduces the sensitivity to this effect by consolidating features into singular, summarized values. 
+**Compute the receptive field of 5 convolutional layers (3x3, stride=1)**
+- First, what is the receptive field? Receptive field
