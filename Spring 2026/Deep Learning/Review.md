@@ -14,4 +14,5 @@
 **Explain equivariance and how pooling provides approximate invariance**
 - Equivariance means a shift to the input will result in an equal shift to the output. Pooling reduces the sensitivity to this effect by consolidating features into singular, summarized values. 
 **Compute the receptive field of 5 convolutional layers (3x3, stride=1)**
-- First, what is the receptive field? Receptive field
+- First, what is the receptive field? Receptive field is the size of the region in the input image that will affect the neuron? What amount of the input image will be considered by the neuron. Sometimes, it is the size of the image, sometimes not. 
+- 
