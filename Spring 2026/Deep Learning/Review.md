@@ -23,4 +23,7 @@
 **Why are CNNs more efficient than MLPs for images?**
 - Consider the purpose of the shifting kernel that allows us to find features in an image by searching over it. This makes CNNs better for decentralized input. 
 - The space-invariance feature of the CNN allows for weight-sharing. CNNs also significantly reduce the number of parameters needed. 
-**Why does validation loss increase while training loss decreases**
+**Why does validation loss increase while training loss decreases?**
+- Overfitting. 
+**Why can stopping by gradient norm fail?**
+- 
