@@ -52,4 +52,6 @@
 - It may outperform ReLU in shallow networks. 
 **Why is softmax wrong for multi-label classification?**
 - It is unrealistic for scenarios where classes can be present simultaneously. 
-- Softmax has probabilities that sum to 1, but in multilabel problems, probabilities may sum to above 1 an input can have multiple labels
+- Softmax has probabilities that sum to 1, but in multilabel problems, probabilities may sum to above 1 an input can have multiple labels, and the case is not mutually exclusive. It is wrong to have the classes compete with each other here. 
+**Why can Adam converge faster but generalize worse?**
+- Adam 
