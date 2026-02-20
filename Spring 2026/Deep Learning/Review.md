@@ -54,4 +54,7 @@
 - It is unrealistic for scenarios where classes can be present simultaneously. 
 - Softmax has probabilities that sum to 1, but in multilabel problems, probabilities may sum to above 1 an input can have multiple labels, and the case is not mutually exclusive. It is wrong to have the classes compete with each other here. 
 **Why can Adam converge faster but generalize worse?**
-- Adam 
+- Adam uses adaptive learning rate, which might be adapted too closely to memorizing the data. 
+**Why do LR schedules improve convergence?**
+- Avoid learning getting stuck in local minima, by changing the learning rate when stuck. We also do not want learning rate to be too slow or too fast. Start fast at the start, slow down at the end.
+- Intensify ()
