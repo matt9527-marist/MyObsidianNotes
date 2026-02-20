@@ -39,4 +39,8 @@
 - Bias Errors occur when the prediction made is incorrect, compared to the actual value.
 - Variance Errors occur when the prediction made is correct, but the actual values vary greatly. 
 - Consider precision vs. accuracy problem 
-- As we increase the depth, bias is reduced by finding the 
+- As we increase the depth, bias is reduced by finding the main pattern, but the variance will increase, without proper regularization. 
+**Why are deep networks efficient for compositional functions?**
+- Each layer of a deep neural network can represent a component of a given compositional function, like a hierarchical structure. 
+**Why might shallow networks require exponentially more neurons?**
+- Without more hidden layers, all nonlinear/cp
