@@ -57,4 +57,5 @@
 - Adam uses adaptive learning rate, which might be adapted too closely to memorizing the data. 
 **Why do LR schedules improve convergence?**
 - Avoid learning getting stuck in local minima, by changing the learning rate when stuck. We also do not want learning rate to be too slow or too fast. Start fast at the start, slow down at the end.
-- Intensify ()
+- Intensify (search where we are) at the beginning, diversify (search beyond where we are) after. 
+
