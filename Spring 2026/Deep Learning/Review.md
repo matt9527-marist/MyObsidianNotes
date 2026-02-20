@@ -26,4 +26,4 @@
 **Why does validation loss increase while training loss decreases?**
 - Overfitting. 
 **Why can stopping by gradient norm fail?**
-- When we take the norm of the gradient, it can 
+- When we take the norm of the gradient, it can be 
