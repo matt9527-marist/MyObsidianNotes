@@ -28,4 +28,5 @@
 **Why can stopping by small gradient norm fail?**
 - When we take the norm of the gradient, the result can be near-zero, but not the global minimum. The goal of gradient descent is to reach the global minimum to update the weights in a way that corresponds with reducing loss. 
 - Small gradient norm is when the gradient may become 0, but is still not the global minimum. 
-****
+**Define representation and measurement bias. Give mitigation strategies.**
+- Representation bias is when certain classes or labels are underrepresented, or not even present. 
