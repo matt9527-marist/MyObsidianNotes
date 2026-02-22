@@ -1,0 +1,61 @@
+**When might a deeper model generalize worse?**
+- When we have a small amount of data, with many layers, we have many parameters. Do we have enough data to justify tuning all of these parameters? Without enough data, we will resort to memorization, rather than generalization. 
+- The other condition is when we do not use the proper regularization.
+**Why are deeper networks preferred even if a single hidden layer network can approximate any function?**
+- Let us use the example of an input image. 
+- We want to have a hierarchical learning structure where we want to get from simpler features to more complex features. For instance, in layer 1, we might want to learn about edges, and in layer 2, we learn about corners, layer 3 parts, layer 4 objects, etc. 
+- Hierarchical representation 
+**Why do neurons "die" in ReLU, suggest fixes**
+- Consider the shape of ReLU. If the output of the activation becomes negative, the update becomes 0. Those neurons will "die."
+- With Leaky ReLU, we keep movement possible by ensuring that the output will still give an effect. 
+**Compare parameters of a 256x256x3 image into (A) a 1000-unit fully-connected layer and (B) a 64 filters of 3x3 convolution**
+- For FC, we pass all. This would result a huge number of parameters. 
+- For a CNN, this would 3 * 3 * 3 * 64 parameters, 3x3 kernels for 3 channels (RGB), which would result in far fewer parameters. 
+**Explain equivariance and how pooling provides approximate invariance**
+- Equivariance means a shift to the input will result in an equal shift to the output. Pooling reduces the sensitivity to this effect by consolidating features into singular, summarized values. 
+**Compute the receptive field of 5 convolutional layers (3x3, stride=1)**
+- First, what is the receptive field? Receptive field is the size of the region in the input image that will affect the neuron? What amount of the input image will be considered by the neuron. Sometimes, it is the size of the image, sometimes not. 
+- In each layer we add 2 pixels. In a one dimensional CNN, we have k = 3, for each pixel:
+  [x_(i-1), x_i, x_(i+1)]
+- First layer, R_1 = 3 
+- Second layer, R_2 = [i-2, i-1, i, i+1, i+2]
+- Continuing, R_5 will evaluate to 11. There are formulae for this. 
+**Why are CNNs more efficient than MLPs for images?**
+- Consider the purpose of the shifting kernel that allows us to find features in an image by searching over it. This makes CNNs better for decentralized input. 
+- The space-invariance feature of the CNN allows for weight-sharing. CNNs also significantly reduce the number of parameters needed. 
+**Why does validation loss increase while training loss decreases?**
+- Overfitting. 
+**Why can stopping by small gradient norm fail?**
+- When we take the norm of the gradient, the result can be near-zero, but not the global minimum. The goal of gradient descent is to reach the global minimum to update the weights in a way that corresponds with reducing loss. 
+- Small gradient norm is when the gradient may become 0, but is still not the global minimum. 
+**Define representation and measurement bias. Give mitigation strategies.**
+- Representation bias is when certain classes or labels are underrepresented, or not even present. 
+- Measurement bias is when those labels/classes are noisy or samples are not accurate. 
+- Mitigated by better or more expansive sampling or better instrumentation. 
+**Why does CNN induction bias help with vision tasks?**
+- CNNs can assume that nearby pixels in an image are likely to be related or the same, which reduces the number of parameters needed in computation. 
+**How does depth affect bias and variance?**
+- Bias vs. variance: Consider Linear Regression and finding the line that best fits the problem. 
+- Bias Errors occur when the prediction made is incorrect, compared to the actual value.
+- Variance Errors occur when the prediction made is correct, but the actual values vary greatly. 
+- Consider precision vs. accuracy problem 
+- As we increase the depth, bias is reduced by finding the main pattern, but the variance will increase, without proper regularization. 
+**Why are deep networks efficient for compositional functions?**
+- Each layer of a deep neural network can represent a component of a given compositional function, like a hierarchical structure. 
+**Why might shallow networks require exponentially more neurons?**
+- Without more hidden layers, all nonlinear/complex patterns would need to be captured in the neurons of few layers. All of that information must be consolidated in that area. 
+**When is sigmoid appropriate in hidden layers?**
+- Note, most of the time we want to avoid Sigmoid functions because of the vanishing gradient problem that we have. 
+- We still would like to use it at times for outputs that are probabilistic, measuring values between 0 and 1, for example in classification that requires gating. 
+**Why does Tanh converge faster than Sigmoid? When might it outperform ReLU?**
+- Tanh is zero-centered, bounded between -1 and 1, allowing for more balanced gradients and weight updates, as opposed to Sigmoid which is bounded 0-1, which presents the problem of vanishing gradients. 
+- It may outperform ReLU in shallow networks. 
+**Why is softmax wrong for multi-label classification?**
+- It is unrealistic for scenarios where classes can be present simultaneously. 
+- Softmax has probabilities that sum to 1, but in multilabel problems, probabilities may sum to above 1 an input can have multiple labels, and the case is not mutually exclusive. It is wrong to have the classes compete with each other here. 
+**Why can Adam converge faster but generalize worse?**
+- Adam uses adaptive learning rate, which might be adapted too closely to memorizing the data. 
+**Why do LR schedules improve convergence?**
+- Avoid learning getting stuck in local minima, by changing the learning rate when stuck. We also do not want learning rate to be too slow or too fast. Start fast at the start, slow down at the end.
+- Intensify (search where we are) at the beginning, diversify (search beyond where we are) after. 
+
