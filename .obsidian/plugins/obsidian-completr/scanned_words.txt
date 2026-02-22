@@ -308,6 +308,8 @@ Mainly
 Maven
 Macintosh
 Mercurial
+Messaging
+Members
 Learning
 Learn
 Let
@@ -557,6 +559,7 @@ Linus
 Labs
 Latest
 LeNet
+LDAP
 Relevant
 Reading
 Research
@@ -829,6 +832,11 @@ Rename
 RCS
 Revision
 Repository
+Reply
+Relay
+Rich
+Remote
+Relocation
 libraries
 learn
 learning
@@ -1159,6 +1167,9 @@ losing
 lawsuit
 leftmost
 lifted
+late
+logged
+lends
 Graphing
 Google
 Game
@@ -1396,6 +1407,7 @@ GUIs
 Git
 GitHub
 GitLab
+Github
 Charting
 Control
 Common
@@ -1813,6 +1825,10 @@ CVS
 Concurrent
 Clients
 Convert
+Cheapest
+Companies
+Customers
+Chat
 Scikit
 Statistical
 Statistics
@@ -2247,6 +2263,8 @@ Synchronizing
 Stores
 SCMs
 Separating
+Spam
+Slack
 Keras
 Key
 Kirchhoffs
@@ -2411,6 +2429,8 @@ KYi
 KudnvB
 Know
 Keyboarding
+Kicks
+Keeps
 TensorFlow
 Task
 Training
@@ -2712,6 +2732,9 @@ Travis
 Torvalds
 Tichy
 Translation
+Typed
+Trello
+Travel
 ISLP
 Iris
 Instance
@@ -2986,6 +3009,14 @@ Ignore
 Interfaces
 Improved
 Invariance
+Interoffice
+International
+Instant
+IRC
+ICQ
+Inclement
+Illness
+Inter
 and
 ability
 approximation
@@ -3467,6 +3498,10 @@ accomplished
 asynchronous
 alright
 anywhere
+answering
+advantages
+admins
+announcements
 Applications
 AI
 Analysis
@@ -3788,6 +3823,10 @@ Alto
 Anyone
 AlexNet
 Augmentation
+Accidentally
+Attachment
+AIM
+Any
 with
 without
 want
@@ -4050,6 +4089,9 @@ window
 web
 workstation
 workflow
+waited
+wars
+wikis
 Python
 Performance
 Principle
@@ -4391,6 +4433,8 @@ POSIX
 Pull
 Perdue
 Primary
+Phones
+Phone
 What
 We
 With
@@ -5012,6 +5056,7 @@ increments
 instantaneous
 inconvenient
 impacting
+italic
 Field
 For
 Find
@@ -5584,6 +5629,9 @@ opponent
 observes
 origin
 offline
+operated
+office
+ons
 study
 simplified
 something
@@ -6223,6 +6271,10 @@ sink
 sliding
 skewed
 scratch
+stepped
+secretary
+switchboard
+sit
 giving
 good
 generalizable
@@ -6504,6 +6556,7 @@ guesses
 generalizabiliyt
 game
 getopt
+granddaddy
 computers
 computer
 can
@@ -7159,6 +7212,13 @@ clunkier
 corrupt
 cube
 categorize
+charged
+callers
+copied
+century
+chat
+collaboration
+company
 the
 to
 training
@@ -7586,6 +7646,9 @@ timestamps
 third
 terrible
 trucks
+typewriters
+transfers
+teaming
 being
 be
 by
@@ -7894,6 +7957,10 @@ biologically
 bash
 borrowed
 borrow
+backup
+backlevel
+banned
+bans
 explicitly
 experience
 error
@@ -8849,6 +8916,14 @@ patch
 pain
 prove
 provenance
+postal
+phone
+prices
+paged
+paper
+prevalent
+pace
+prettier
 Detecting
 Deepmind
 Dataset
@@ -9171,6 +9246,8 @@ DevOps
 Decoupling
 DNNs
 DNN
+Didn
+Discuss
 regularities
 respect
 recognizing
@@ -9613,6 +9690,8 @@ remote
 rise
 recognized
 rotate
+rooms
+remotely
 model
 mostly
 machine
@@ -9989,6 +10068,11 @@ mouse
 mechanics
 merged
 mainline
+mail
+memo
+missed
+mature
+misbehave
 hypothesis
 handwritten
 have
@@ -10256,6 +10340,7 @@ happening
 hood
 hold
 historically
+hooks
 Execution
 Examples
 Economics
@@ -10538,6 +10623,7 @@ Eta
 Etc
 Emailing
 Experiment
+Email
 using
 utility
 use
@@ -10812,6 +10898,9 @@ umbrellas
 unlabeled
 uncommon
 usefulness
+unavailable
+unlimited
+uploads
 data
 driven
 dataset
@@ -11280,6 +11369,9 @@ definitely
 dictated
 disruptive
 dangerous
+desk
+discipline
+discussions
 future
 from
 feed
@@ -11620,6 +11712,9 @@ fiddling
 functionally
 figuring
 flip
+flowing
+fill
+forums
 Optimziation
 Operations
 Once
@@ -11879,6 +11974,7 @@ Optional
 Off
 Overall
 Offline
+Otherwise
 kind
 know
 knowledge
@@ -12050,6 +12146,7 @@ kLC
 kYa
 kYc
 keeps
+kicked
 value
 various
 variable
@@ -12303,6 +12400,8 @@ vacation
 vendors
 vanishes
 versioned
+voice
+versioning
 numerical
 no
 need
@@ -12629,6 +12728,7 @@ navigation
 newbies
 ncurses
 numerous
+niche
 yes
 yield
 your
@@ -13911,6 +14011,8 @@ Branching
 Brief
 Bell
 Bitkeeper
+Bot
+Box
 just
 jagged
 json
@@ -14611,6 +14713,7 @@ JDBC
 Jiffies
 JVM
 Jenkins
+Jabber
 You
 Yw
 Ygy
