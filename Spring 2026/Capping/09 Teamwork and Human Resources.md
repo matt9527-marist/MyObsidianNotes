@@ -10,6 +10,7 @@ assignments, personality conflicts, availability of
 specialized staff, etc.  
 
 **Project Manager's Responsibilities**
+*People are resources.*
 • Determine what resources are needed  
 • Negotiate with resource or functional managers for optimal  
 available resources  
@@ -57,3 +58,62 @@ stakeholders
 	– Time zone differences  
 	– English as a second language  
 	– Cultural differences
+
+**What Team Members Should Understand about the Team Charter**
+• Joining the team implies acceptance of:  
+	– Expectations for the success of the project  
+	– Broad performance objectives  
+	– Roles and responsibilities for project team members  
+	– Ground rules for the operation of the project team, including:  
+		• Administration guidelines  
+		• Conflict management  
+• Team performance objectives  
+	– Mutually agreed on  
+	– Signature of team member  
+• Expectations of team members  
+	– Behaviors  
+	– Timeliness  
+	– Respect  
+	– Commitment  
+	– Openness  
+• Rules of Engagement  
+	– Meeting protocols  
+	– Decision making  
+	– Support agreements  
+• Administrative procedures  
+	– Communication management  
+• Document control
+
+**Leadership and Management Styles**
+• Directing – telling others what to do  
+• Facilitating – coordinates input from others  
+• Coaching – helps others achieve their goals  
+• Supporting – provides assistance along the way  
+• Autocratic – top down approach  
+• Consultative – bottom-up approach uses influence to achieve results  
+• Consultative-autocratic – gets input from the team but makes final decision  
+• Consensus – problem solving and decision making in a group  
+• Delegating – creates goals and then gives team responsibility to keep out  
+• Bureaucratic – following the procedure directly  
+• Charismatic – energize and motivate the team  
+• Democratic or participative – team members “own” the decisions made by the group  
+• Laissez-faire – manages and consults when necessary  
+• Analytical – makes technical decisions  
+• Driver – gives directions so the competitive attitude drives the team to win  
+• Influencing – works with teams to influence project implementation
+
+**Conflict Management**
+![[Pasted image 20260223183300.png]]
+Conflict is INEVITABLE  
+	• Due to the number of stakeholders  
+	• Limited power of the project managers  
+	• Necessity of obtaining resources from functional managers  
+Caused by:  
+	• Schedules  
+	• Project priorities  
+	• Resources  
+	• Technical opinions  
+	• Administrative procedures  
+	• Costs  
+	• Personality
+
