@@ -232,3 +232,65 @@ it is just me and the team so make believe there are more.
 	– LOTS OF PEOPLE!!!
 ![[Pasted image 20260223183756.png]]
 
+![[Pasted image 20260223183806.png]]
+(Example for this course)
+
+**What Blocks Communications?**
+• Noisy surroundings  
+• Distance between those trying to communicate  
+(time zone, unable to see visual clues)  
+• Improper encoding of the messages  
+• Making negative statements  
+• Hostility  
+• Language  
+• Culture
+
+**Types of Reports**
+• Status report  
+• Progress report  
+• Trend report  
+• Forecasting report  
+• Variance report  
+• Earned value report  
+• Lessons learned documentation
+
+**Upward Communications Filtering and "good news"**
+• Strange form of distorting information  
+	– Spinning information or leaves out information so that the  
+	communication looks like nothing but good news  
+	– Withholding information  
+• Let the sponsor know what is going on as soon as possible!!  
+	– Communicate factually about the issue  
+	– This is the action being taken  
+	– This is the checkpoint date where we will communicate again  
+	– A good status report would say –  
+		• The machine we thought could we acquire is blocked by finance. I am now  
+		working with the team to understand the issue and the key contacts within  
+		finance. Once I understand the situation better; hopefully end of next week  
+		then I can report back to you the next steps. I might need your help to work  
+		with me and finance if we reach an impasse.
+
+**Escalations**
+• When unplanned events happen, we need to determine  
+who owns the problem, the extent of the problem, and  
+then take corrective actions  
+• Project Manager – based strategies  
+	– If the event is not on the critical path then the PM handles  
+	the situation  
+• Resource or Functional Manager – based strategies  
+	– Work with management to determine if there are additional  
+	resources or reprioritization; thus making “trade-offs”  
+• Client-Based Strategies  
+	– Work with the client to negotiate schedule or scope trade-  
+	offs of deliverables
+
+**Control Communications**
+• Can the PM control all communications?  
+	–No, That would be impossible  
+• Should the project manager try to control  
+communications?  
+	–Yes, otherwise changes, miscommunication, unclear  
+	directions, and scope creep can occur  
+• What percentage of the PM’s time is spent  
+communicating?  
+	–90%
