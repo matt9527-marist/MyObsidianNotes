@@ -117,3 +117,62 @@ Caused by:
 	• Costs  
 	• Personality
 
+*Have you dealt with conflict?*
+	• Within this class or others, how many of you  
+	have dealt with conflict?  
+	• Has conflict caused you to spend more hours  
+	on a task that you originally thought?  
+	• Is conflict causing your project to get behind  
+	schedule?
+
+**Ways to deal with conflict**
+• Collaborating (problem solving) - best option  
+	– Team openly discusses differences and work towards consensus  
+	– Creating a win-win  
+• Compromising (reconciling)  
+	– Finding solutions that bring some degree of satisfaction to both  
+	parties  
+	– Creates a lose-lose  
+• Withdrawal (avoidance)  
+	– Parties retreat or post-pone a decision  
+• Smoothing (accommodating)  
+	– Focuses on agreement rather than differences of opinion  
+• Forcing (directing)  
+	– Pushes one viewpoint at the expense of another  
+	– Win-lose situation
+
+**Management Styles**
+• Theory X – managers believe employees are incapable, avoid  
+responsibility, and avoid work; thus the employee needs to watched  
+every minute  
+• Theory Y – managers believe employees want to work without  
+supervision and want to achieve  
+• Herzberg’s Theory[1] – focuses on hygiene factors and motivating agents  
+	– Poor hygiene factors destroy motivation but improving them does not  
+	motivate  
+	– Necessary but insufficient  
+		• Hygiene factors:  
+			– Working conditions  
+			– Salary  
+			– Personal life  
+			– Relationships at work  
+			– Security  
+			– Status  
+		• Motivating factors:  
+			– Responsibility  
+			– Self actualization  
+			– Professional growth  
+			– Recognition
+
+**Communications Management**
+Identify project stakeholders  
+	Understand stakeholder requirements & expectations  
+	Understand stakeholder goals, objectives, and appropriate  
+	level of communication  
+For each identified project stakeholder  
+	Describe how the relationship between the project and the  
+	stakeholder will be managed  
+	Define what will be communicated to each stakeholder, when  
+	and how  
+		Information  
+		Performance Reports
