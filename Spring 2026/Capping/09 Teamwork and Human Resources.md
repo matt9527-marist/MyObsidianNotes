@@ -176,3 +176,59 @@ For each identified project stakeholder
 	and how  
 		Information  
 		Performance Reports
+![[Pasted image 20260223183555.png]]
+
+**Communication Methods**
+• Interactive Communication  
+	–Meetings, conversations, conference calls, etc...  
+• Push communication  
+	–One-way stream of information  
+	–Emails sent to the team  
+• Pull communication  
+	–PM places information in a central location and  
+	people download it (i.e. this class format)
+
+**Communication Channels**
+• It is good to add more people to the project  
+when we are in trouble, right?  
+• Well, communication channels then increase.  
+• The formula to know how many paths of  
+communication:  
+– ( N ( N – 1 ) ) / 2  
+ So a team of `5 * 4 = 20 / 2 = 10` communication  
+paths to ensure everyone is on track  
+• If we add 2 more people to the team `7 * 6 = 42 / 2 = 21`  
+– That makes communication more complex with just adding two  
+people.
+
+**Brooks' Law**
+> “Adding human resources to a late software  
+> project makes it later.”  
+
+• Why is that?  
+ It takes some time for the people added to a project to  
+become productive.  
+ Communication overheads increase as the number of  
+people increases.  
+ Some tasks are not divisible.  
+ "Nine women can't make a baby in one month."
+
+**Communications Management Plan**
+• In our project think about all the stakeholders involved – okay if  
+it is just me and the team so make believe there are more.  
+	– Resources come from line or functional managers  
+	– Team members have to give status  
+	– There are relationships with the business we are moving on-line  
+	– You have your own first line and higher management teams  
+	– Executives on both the client and internal side  
+	– Within in the business being migrated to on-line we have to consider  
+		• Ordering team  
+		• Sales team  
+		• Shipping team  
+		• IT support  
+		• Customer Service  
+		• Marketing team  
+		• Etc.  
+	– LOTS OF PEOPLE!!!
+![[Pasted image 20260223183756.png]]
+
