@@ -315,6 +315,8 @@ Meeting
 Motivating
 Meetings
 Marketing
+Measurement
+Mitigated
 Learning
 Learn
 Let
@@ -853,6 +855,7 @@ Respect
 Relationships
 Recognition
 Reports
+Receptive
 libraries
 learn
 learning
@@ -1862,6 +1865,7 @@ Creates
 Communications
 Customer
 Communicate
+Continuing
 Scikit
 Statistical
 Statistics
@@ -2306,6 +2310,7 @@ Status
 Shipping
 Strange
 Spinning
+Second
 Keras
 Key
 Kirchhoffs
@@ -2780,6 +2785,7 @@ Teaming
 Timeliness
 Technical
 Theory
+Tanh
 ISLP
 Iris
 Instance
@@ -3069,6 +3075,7 @@ Influencing
 INEVITABLE
 Interactive
 Improper
+Intensify
 and
 ability
 approximation
@@ -3568,6 +3575,7 @@ accommodating
 agreement
 actualization
 acquire
+adapted
 Applications
 AI
 Analysis
@@ -5148,6 +5156,8 @@ italic
 implies
 incapable
 impasse
+invariance
+instrumentation
 Field
 For
 Find
@@ -5732,6 +5742,7 @@ opinion
 overheads
 okay
 owns
+outperform
 study
 simplified
 something
@@ -6384,6 +6395,10 @@ satisfaction
 supervision
 surroundings
 soon
+suggest
+summarized
+sampling
+stuck
 giving
 good
 generalizable
@@ -6668,6 +6683,7 @@ getopt
 granddaddy
 guidelines
 growth
+gating
 computers
 computer
 can
@@ -7344,6 +7360,10 @@ conversations
 conference
 checkpoint
 contacts
+consolidating
+compositional
+consolidated
+compete
 the
 to
 training
@@ -8530,6 +8550,8 @@ energize
 expense
 employees
 employee
+equivariance
+expansive
 programmed
 patterns
 program
@@ -9849,6 +9871,8 @@ responsibilities
 reconciling
 retreat
 reprioritization
+resort
+receptive
 model
 mostly
 machine
@@ -10236,6 +10260,9 @@ motivating
 motivation
 migrated
 miscommunication
+measurement
+mitigation
+multilabel
 hypothesis
 handwritten
 have
@@ -10795,6 +10822,8 @@ Engagement
 Emails
 Earned
 Escalations
+Explain
+Equivariance
 using
 utility
 use
@@ -11075,6 +11104,7 @@ uploads
 unable
 unplanned
 unclear
+underrepresented
 data
 driven
 dataset
@@ -11555,6 +11585,10 @@ deal
 directing
 divisible
 deliverables
+deeper
+die
+decentralized
+diversify
 future
 from
 feed
@@ -12592,6 +12626,7 @@ versioned
 voice
 versioning
 viewpoint
+vision
 numerical
 no
 need
@@ -13332,6 +13367,7 @@ Horrendously
 Herzberg
 Hygiene
 Hostility
+Hierarchical
 Not
 NOTHING
 No
@@ -14363,6 +14399,7 @@ jYc
 join
 jiffy
 jars
+justify
 Vectors
 Vectorization
 Visualization
