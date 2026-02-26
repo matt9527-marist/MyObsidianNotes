@@ -293,6 +293,8 @@ Mitchell
 Movies
 Mathematical
 Monotonic
+Measurement
+Mitigated
 Learning
 Learn
 Let
@@ -2569,6 +2571,7 @@ Trend
 TanH
 Train
 Translation
+Tanh
 ISLP
 Iris
 Instance
@@ -2834,6 +2837,7 @@ Interpretability
 Increasing
 Iterations
 Invariance
+Intensify
 and
 ability
 approximation
@@ -3283,6 +3287,7 @@ approximately
 aggregating
 alright
 anywhere
+adapted
 Applications
 AI
 Analysis
@@ -4731,6 +4736,7 @@ informs
 intend
 impacting
 invariance
+instrumentation
 Field
 For
 Find
@@ -5283,6 +5289,7 @@ opponent
 observes
 oscillate
 oscillation
+outperform
 study
 simplified
 something
@@ -5877,6 +5884,9 @@ skewed
 scratch
 suggest
 summarized
+sampling
+scenarios
+stuck
 giving
 good
 generalizable
@@ -6155,6 +6165,7 @@ game
 guesses
 generalizabiliyt
 greatly
+gating
 computers
 computer
 can
@@ -6770,6 +6781,9 @@ criteria
 cube
 categorize
 consolidating
+compositional
+consolidated
+compete
 the
 to
 training
@@ -7874,6 +7888,7 @@ educated
 evaluation
 expedite
 equivariance
+expansive
 programmed
 patterns
 program
@@ -9422,6 +9437,9 @@ modifies
 merging
 million
 memorization
+measurement
+mitigation
+multilabel
 hypothesis
 handwritten
 have
@@ -10203,6 +10221,7 @@ upwards
 updating
 unspecified
 usefulness
+underrepresented
 data
 driven
 dataset
@@ -10645,6 +10664,8 @@ declaring
 diverges
 deeper
 die
+decentralized
+diversify
 future
 from
 feed
@@ -11632,6 +11653,7 @@ verifies
 visit
 vanishing
 vanishes
+vision
 numerical
 no
 need
