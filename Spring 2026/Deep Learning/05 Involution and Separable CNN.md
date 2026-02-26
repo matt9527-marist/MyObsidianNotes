@@ -10,4 +10,9 @@
 ![[Pasted image 20260226185420.png]]
 (1-dimensional CNN with 2x1 filter)
 - Consider now when we have a 2x1 filter. 
-- 
+
+![[Pasted image 20260226185538.png]]
+(1-dimensional CNN with 3x1 filter)
+- Notice how there is extra space on the output with this example. 
+- We need to do padding to fix this. 
+	- Why? Sometimes, our input size is not equivalent to the 
