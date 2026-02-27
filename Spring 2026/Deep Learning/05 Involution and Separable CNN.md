@@ -28,4 +28,12 @@ Formula: (W-F+2P) / S + 1
 ![[Pasted image 20260226190242.png]]
 (2-D CNN)
 - Works the same way, except this time we have a 2x2 kernel. 
-- This mechanism is a good choice for decreasing the size of our ima
+- This mechanism is a good choice for decreasing the size of our input (space invariance) and decreasing the size of the network with which we are working. 
+- Our outcome still is decreased. 
+
+![[Pasted image 20260226190422.png]]
+(2-D CNN with Padding)
+
+**2-D CNN in practice**
+![[Pasted image 20260226190552.png]]
+- This is the general structure of 
