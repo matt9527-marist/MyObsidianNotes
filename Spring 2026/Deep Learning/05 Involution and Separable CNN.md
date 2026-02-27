@@ -46,3 +46,10 @@ Formula: (W-F+2P) / S + 1
 **N-layer CNN**
 ![[Pasted image 20260226191103.png]]
 As you increase the number of convolutional layers and kernels, we will continuously obtain a smaller output. 
+![[Pasted image 20260226191211.png]]
+
+## Involutional Neural Networks 
+![[Pasted image 20260226191355.png]]
+Not only do we have one kernel to perform analysis. 
+- The input is applied to one kernel by itself and then applied to the 3x3 kernel. 
+- 
