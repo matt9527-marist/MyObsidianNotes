@@ -56,8 +56,10 @@ Based on these elements, we will end up with two types of gated RNNs:
 - LSTMs have the forget and output gate. Forgetting past errors is not always bad. 
 ![[Pasted image 20260226201437.png]]
 ![[Pasted image 20260226201444.png]]
+If we want to use these features for better predictions in time series problems, we should use GRUs or LSTMs. 
 
 **Gradient Clipping**
 *Another way to remedy the vanishing gradient problem in RNNs*:
 ![[Pasted image 20260226201601.png]]
-
+- We can use gated units to address the vanishing gradient from initial updates. 
+- *Exploding gradient*: This can occur when performing bacj
