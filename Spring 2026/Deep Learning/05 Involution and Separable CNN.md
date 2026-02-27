@@ -23,3 +23,9 @@
 
 ![[Pasted image 20260226190113.png]]
 (1-D CNN with shifting)
+Formula: (W-F+2P) / S + 1
+
+![[Pasted image 20260226190242.png]]
+(2-D CNN)
+- Works the same way, except this time we have a 2x2 kernel. 
+- This mechanism is a good choice for decreasing the size of our ima
