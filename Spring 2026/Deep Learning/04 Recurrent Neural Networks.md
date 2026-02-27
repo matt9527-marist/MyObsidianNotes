@@ -53,4 +53,11 @@ In theory, an RNN can remember the entire stream of input values. However, gradi
 Based on these elements, we will end up with two types of gated RNNs:
 1) GRU: Gated Recurrent Unit 
 2) LSTM: Long Short-Term Memory 
+- LSTMs have the forget and output gate. Forgetting past errors is not always bad. 
 ![[Pasted image 20260226201437.png]]
+![[Pasted image 20260226201444.png]]
+
+**Gradient Clipping**
+*Another way to remedy the vanishing gradient problem in RNNs*:
+![[Pasted image 20260226201601.png]]
+
