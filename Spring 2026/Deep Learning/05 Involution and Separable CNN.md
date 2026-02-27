@@ -38,3 +38,11 @@ Formula: (W-F+2P) / S + 1
 ![[Pasted image 20260226190552.png]]
 - This is the general structure of convolutional layers followed by pooling layers.
 - We can see that the size of the featues continuously go down.
+
+![[Pasted image 20260226191033.png]]
+(CNN with depth)
+- Consider the depth extending the CNN by colors (RGB)
+
+**N-layer CNN**
+![[Pasted image 20260226191103.png]]
+As you increase the number of convolutional layers and kernels, we will continuously obtain a smaller output. 
