@@ -11,6 +11,11 @@ Each comes with a host of optimization algorithms to be used to improve performa
 What is happening in the hidden layer?
 - This works based on time. 
 - On the first step, we have an input of x.
-- For subsequent new inputs, we take the value from the la
+- For subsequent new inputs, *we take the value from the last iteration/epoch and use it as an input in the next step.*
+- The loop that we see in the image is defined according to the time/iteration. We are using that previous output in the next step. 
 
 ![[Pasted image 20260226195233.png]]
+The implementation can be rather complex in practice. 
+- At the top of the image, these are the iterations.
+
+
