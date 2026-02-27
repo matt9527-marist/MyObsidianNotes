@@ -52,4 +52,15 @@ As you increase the number of convolutional layers and kernels, we will continuo
 ![[Pasted image 20260226191355.png]]
 Not only do we have one kernel to perform analysis. 
 - The input is applied to one kernel by itself and then applied to the 3x3 kernel. 
-- 
+	• The idea is to have an operation that is both *location-*  
+	*specific and channel-agnostic*. Trying to implement these  
+	specific properties poses a challenge. With a fixed number of  
+	involution kernels (for each spatial position) we will not be able  
+	to process variable-resolution input tensors.  
+	• To solve this problem, the authors have  
+	considered generating each kernel conditioned on specific spatial  
+	positions. With this method, we should be able to process  
+	variable-resolution input tensors with ease. The diagram below  
+	provides an intuition on this kernel generation method.
+Process tensors within multiple resolutions 
+- The CNN assumption is that the pixels that are nearby each other provide some information. Involutional neural networks assume that not only the pixel's neighbors, but also adjacent channels, affect the pixel.  
