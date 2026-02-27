@@ -78,4 +78,9 @@ https://keras.io/api/layers/recurrent_layers/conv_lstm2d/
 https://keras.io/api/layers/recurrent_layers/conv_lstm3d/
 
 ### Attention 
-"Attention is"
+"Attention is what you need."
+- Attention gives us the capability to identify important parts of an input. 
+![[Pasted image 20260226202225.png]]
+![[Pasted image 20260226202231.png]]
+Also can be implemented via Keras. 
+
