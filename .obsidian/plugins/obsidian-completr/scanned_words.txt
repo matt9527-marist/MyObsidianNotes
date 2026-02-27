@@ -295,6 +295,7 @@ Mathematical
 Monotonic
 Measurement
 Mitigated
+Mainly
 Learning
 Learn
 Let
@@ -1725,6 +1726,8 @@ Concerns
 Centralizing
 Convert
 Continuing
+Convolutions
+Convolution
 Scikit
 Statistical
 Statistics
@@ -2126,6 +2129,7 @@ Samples
 Shuffle
 Separating
 Second
+Spatially
 Keras
 Key
 Kirchhoffs
@@ -2572,6 +2576,7 @@ TanH
 Train
 Translation
 Tanh
+Trying
 ISLP
 Iris
 Instance
@@ -2838,6 +2843,7 @@ Increasing
 Iterations
 Invariance
 Intensify
+Involutional
 and
 ability
 approximation
@@ -4354,6 +4360,7 @@ WAR
 Watch
 Wipe
 Word
+Warning
 is
 in
 if
@@ -4737,6 +4744,8 @@ intend
 impacting
 invariance
 instrumentation
+involution
+immense
 Field
 For
 Find
@@ -6784,6 +6793,9 @@ consolidating
 compositional
 consolidated
 compete
+colors
+challenge
+convolutions
 the
 to
 training
@@ -7889,6 +7901,9 @@ evaluation
 expedite
 equivariance
 expansive
+extending
+ease
+explored
 programmed
 patterns
 program
@@ -8380,6 +8395,9 @@ perceptrons
 possessing
 phenomena
 pulls
+pictures
+properties
+poses
 Detecting
 Deepmind
 Dataset
@@ -9085,6 +9103,7 @@ recognized
 rotate
 resort
 receptive
+resolutions
 model
 mostly
 machine
@@ -9440,6 +9459,9 @@ memorization
 measurement
 mitigation
 multilabel
+multipled
+multiplications
+magnify
 hypothesis
 handwritten
 have
@@ -10983,6 +11005,7 @@ formal
 fnite
 finished
 flip
+featues
 Optimziation
 Operations
 Once
@@ -11237,6 +11260,7 @@ Optional
 Off
 Overall
 Optimizer
+Otherwise
 kind
 know
 knowledge
