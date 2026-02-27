@@ -17,6 +17,7 @@ What is happening in the hidden layer?
 ![[Pasted image 20260226195233.png]]
 The implementation can be rather complex in practice. 
 - At the top of the image, these are the iterations. How can we formulize this? 
+![[Pasted image 20260226195920.png]]
 - We have the activation function and outcome `y`. Notice that this is indexed by time `t`. Notice that the activation is the previous weights' output combined with the current iteration and bias. 
 
 
