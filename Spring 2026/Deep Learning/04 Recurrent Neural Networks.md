@@ -62,4 +62,20 @@ If we want to use these features for better predictions in time series problems,
 *Another way to remedy the vanishing gradient problem in RNNs*:
 ![[Pasted image 20260226201601.png]]
 - We can use gated units to address the vanishing gradient from initial updates. 
-- *Exploding gradient*: This can occur when performing bacj
+- *Exploding gradient*: This can occur when performing backpropagation if the gradient becomes too large. We can cap the max value of the gradient, effectively having the network forget the initial error. 
+
+![[Pasted image 20260226201941.png]]
+
+Keras RNN Layers Implementations:
+https://keras.io/api/layers/recurrent_layers/rnn/
+https://keras.io/api/layers/recurrent_layers/lstm/
+https://keras.io/api/layers/recurrent_layers/gru/
+https://keras.io/api/layers/recurrent_layers/simple_rnn/
+https://keras.io/api/layers/recurrent_layers/time_distributed/
+https://keras.io/api/layers/recurrent_layers/bidirectional/
+https://keras.io/api/layers/recurrent_layers/conv_lstm1d/
+https://keras.io/api/layers/recurrent_layers/conv_lstm2d/
+https://keras.io/api/layers/recurrent_layers/conv_lstm3d/
+
+### Attention 
+"Attention is"
