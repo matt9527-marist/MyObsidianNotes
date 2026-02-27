@@ -35,4 +35,9 @@ We have various structures of RNNs to choose from depending on the problem.
 - **one-to-one**: outcome just goes through one element. 
 - **one-to-many**: As we can see, one input is given to several outputs. The first element is the number of inputs and the second element is the number of outputs. 
 - **many-to-one**: Have several inputs but have one output. Useful for semantic analysis. Take in all of the input through the iterations and then give the output at the end. 
-- **Symmetric many-to-many**: Name entity recognition. We pass a sen
+- **Symmetric many-to-many**: Name entity recognition. We pass a sentence to an LLM and then ask for the names, adverbs, adjectives, etc. 
+- **Asymmetric many-to-many**: Machine translation, language translation. We know that the structure of a sentence can be different from one language to another, so we cannot go one by one. Get all of the input, absorb the concept, and then generate the outcome. 
+
+![[Pasted image 20260226200802.png]]
+How do we define our loss function in RNNs? 
+- The output is dependent on the time, so our loss function is also dependent on the time. 
