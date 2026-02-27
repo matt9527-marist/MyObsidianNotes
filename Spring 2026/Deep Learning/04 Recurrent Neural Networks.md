@@ -84,3 +84,6 @@ https://keras.io/api/layers/recurrent_layers/conv_lstm3d/
 ![[Pasted image 20260226202231.png]]
 Also can be implemented via Keras. 
 
+**Hands-on Experience with Keras**
+- Why would we use an RNN with a CNN?
+	- A video is a time sequence of frames, each frame is an image. 
