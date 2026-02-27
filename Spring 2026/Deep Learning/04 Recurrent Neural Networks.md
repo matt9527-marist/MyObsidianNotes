@@ -33,4 +33,6 @@ We also have many hyperparameters to define.
 ![[Pasted image 20260226200342.png]]
 We have various structures of RNNs to choose from depending on the problem. 
 - **one-to-one**: outcome just goes through one element. 
-- **one-to-man**
+- **one-to-many**: As we can see, one input is given to several outputs. The first element is the number of inputs and the second element is the number of outputs. 
+- **many-to-one**: Have several inputs but have one output. Useful for semantic analysis. Take in all of the input through the iterations and then give the output at the end. 
+- **Symmetric many-to-many**: Name entity recognition. We pass a sen
