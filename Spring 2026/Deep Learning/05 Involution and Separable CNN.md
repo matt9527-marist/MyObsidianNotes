@@ -63,4 +63,20 @@ Not only do we have one kernel to perform analysis.
 	variable-resolution input tensors with ease. The diagram below  
 	provides an intuition on this kernel generation method.
 Process tensors within multiple resolutions 
-- The CNN assumption is that the pixels that are nearby each other provide some information. Involutional neural networks assume that not only the pixel's neighbors, but also adjacent channels, affect the pixel.  
+- The CNN assumption is that the pixels that are nearby each other provide some information. Involutional neural networks assume that not only the pixel's neighbors, but also adjacent channels, affect the pixel. Channels can involve color or a variety of aspects like time. 
+
+**Separable Convolutions**
+![[Pasted image 20260226191716.png]]
+• A Separable Convolution is a process in which a single  
+convolution *can be divided into two or more convolutions to*  
+*produce the same output*. A single process is divided into two or  
+more sub-processes to achieve the same effect. Let’s understand  
+Separable Convolutions, their types in-depth with examples.  
+• Mainly there are two types of Separable Convolutions  
+	• Spatially Separable Convolutions.  
+	• Depth-wise Separable Convolutions.
+
+Using these can significantly reduce the computation needed. 
+![[Pasted image 20260226191744.png]]
+When we want to apply the multiplications, instead of applying a 3x3 kernel to have the next layer, if it is *separable*, I can first apply on a kernel of 3x1, and then we have an outcome that we can apply to a 1x3 kernel. 
+- Instead of multiplying 3x3 once, we do
