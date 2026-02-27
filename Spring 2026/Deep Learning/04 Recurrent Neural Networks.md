@@ -87,3 +87,6 @@ Also can be implemented via Keras.
 **Hands-on Experience with Keras**
 - Why would we use an RNN with a CNN?
 	- A video is a time sequence of frames, each frame is an image. 
+
+[Keras Example working with video RNN-CNN](https://keras.io/examples/vision/video_classification/)
+
