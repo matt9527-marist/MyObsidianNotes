@@ -88,4 +88,6 @@ When we want to apply the multiplications, instead of applying a 3x3 kernel to h
 When we want to magnify more, we can add more convolution. When we want to reduce the size, we can use pooling. 
 - There are many ways to approach this that can be explored on Keras, but the logic remains the same. 
 - Remember that the reason we want to use pooling is reduce the number of parameters in the network. Otherwise, without pooling, we have immense number of computations in the output. 
-When we want to improve performance, we should try to use an educated guess instead of adding and tuning everything. When we go by educated guesses, 
+- Also remember there are many other forms of pooling. 
+When we want to improve performance, we should try to use an educated guess instead of adding and tuning everything. When we go by educated guesses, taking fewer steps, we can reach optimizations and better performance faster. 
+
