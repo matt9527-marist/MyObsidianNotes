@@ -20,4 +20,6 @@ The implementation can be rather complex in practice.
 ![[Pasted image 20260226195920.png]]
 - We have the activation function and outcome `y`. Notice that this is indexed by time `t`. Notice that the activation is the previous weights' output combined with the current iteration and bias. 
 
-
+**Pros and Cons of Typical RNN**
+![[Pasted image 20260226200123.png]]
+- Useful whenever we have time series and what to make a prediction. 
