@@ -49,3 +49,8 @@ How do we define our backpropagation?
 In theory, an RNN can remember the entire stream of input values. However, gradient magnitude tends to decay as you move backwards from the loss signal. So earlier inputs may not contributed much to the RNN's final answer at the end. For a transducer, inputs may contribute little to the output for locations some distance away. This phenomena is called *vanishing problem*. "gated" versions of RNNs can handle this problem. These RNNs include separate vectors (the "gates") which control which parts of the unit's state will be updated at each timestep.
 - These gates will control how much we want to remember from the past. 
 
+![[Pasted image 20260226201248.png]]
+Based on these elements, we will end up with two types of gated RNNs:
+1) GRU: Gated Recurrent Unit 
+2) LSTM: Long Short-Term Memory 
+![[Pasted image 20260226201437.png]]
