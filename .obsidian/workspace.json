@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Deep Learning/05 Involution and Separable CNN.md",
+                "file": "Spring 2026/Deep Learning/04 Recurrent Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Involution and Separable CNN"
+              "title": "04 Recurrent Neural Networks"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "3514181bb0966339",
   "lastOpenFiles": [
-    "Spring 2026/Deep Learning/04 Recurrent Neural Networks.md",
+    "Assets/Pasted image 20260226194950.png",
     "Spring 2026/Deep Learning/05 Involution and Separable CNN.md",
+    "Spring 2026/Deep Learning/04 Recurrent Neural Networks.md",
     "Assets/Pasted image 20260226192045.png",
     "Assets/Pasted image 20260226191744.png",
     "Assets/Pasted image 20260226191716.png",
