@@ -84,3 +84,7 @@ When we want to apply the multiplications, instead of applying a 3x3 kernel to h
 	- Warning: all the kernels are not separable. It should be the case that we have a kernel like above that we can rewrite as the multiplication of column-wise and row-wise matrix. 
 
 ![[Pasted image 20260226192045.png]]
+
+When we want to magnify more, we can add more convolution. When we want to reduce the size, we can use pooling. 
+- There are many ways to approach this that can be explored on Keras, but the logic remains the same. 
+- Remember that the reason we want to use pooling is reduce the number of parameters in the network. Otherwise, without pooling, 
