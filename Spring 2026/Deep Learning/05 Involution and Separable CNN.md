@@ -10,7 +10,7 @@
 ![[Pasted image 20260226185420.png]]
 (1-dimensional CNN with 2x1 filter)
 - Consider now when we have a 2x1 filter. 
-- This filter s
+- This filter sums the multiplication of, in this case, (9x3) + (6x7) for the first cell, and subsequent cells follow. 
 
 ![[Pasted image 20260226185538.png]]
 (1-dimensional CNN with 3x1 filter)
@@ -20,3 +20,6 @@
 
 ![[Pasted image 20260226185801.png]]
 (1-D CNN 1x3 filter with padding)
+
+![[Pasted image 20260226190113.png]]
+(1-D CNN with shifting)
