@@ -41,3 +41,10 @@ We have various structures of RNNs to choose from depending on the problem.
 ![[Pasted image 20260226200802.png]]
 How do we define our loss function in RNNs? 
 - The output is dependent on the time, so our loss function is also dependent on the time. 
+How do we define our backpropagation? 
+- This is the same derivative, but with the difference that now, when we want to compute the chain of derivatives, we do it based on the weights. 
+
+**Deep RNN**
+![[Pasted image 20260226200924.png]]
+In theory, an RNN can remember the entire stream of input values. However, gradient magnitude tends to decay as you move backwards from the loss signal. So earlier inputs may not contributed much to the RNN's final answer at the end. For a transducer, inputs may contribute little to the output for locations some distance away. This phenomena is called *vanishing problem*. "gated" versions of RNNs can handle this problem. These RNNs include separate vectors (the "gates") which control which parts of the unit's state will be updated at each timestep.
+
