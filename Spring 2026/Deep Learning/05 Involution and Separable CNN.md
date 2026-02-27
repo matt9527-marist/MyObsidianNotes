@@ -82,3 +82,5 @@ When we want to apply the multiplications, instead of applying a 3x3 kernel to h
 - Instead of multiplying 3x3 once, we do two operations of 3x1 and 1x3. 
 - Instead of doing 9 multiplications with our input, we are just performing on 6. 
 	- Warning: all the kernels are not separable. It should be the case that we have a kernel like above that we can rewrite as the multiplication of column-wise and row-wise matrix. 
+
+![[Pasted image 20260226192045.png]]
