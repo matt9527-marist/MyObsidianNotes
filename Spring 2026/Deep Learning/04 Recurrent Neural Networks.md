@@ -23,3 +23,14 @@ The implementation can be rather complex in practice.
 **Pros and Cons of Typical RNN**
 ![[Pasted image 20260226200123.png]]
 - Useful whenever we have time series and what to make a prediction. 
+- Requires a lot of computation.
+- As we update the weights, we will lose the information of past iterations, and we cannot consider future input for the current state. 
+**Base RNN Layer**
+![[Pasted image 20260226200310.png]]
+We have the simple implementation given to us by Keras. 
+We also have many hyperparameters to define. 
+
+![[Pasted image 20260226200342.png]]
+We have various structures of RNNs to choose from depending on the problem. 
+- **one-to-one**: outcome just goes through one element. 
+- **one-to-man**
