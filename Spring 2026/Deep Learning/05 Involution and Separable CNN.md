@@ -79,4 +79,6 @@ Separable Convolutions, their types in-depth with examples.
 Using these can significantly reduce the computation needed. 
 ![[Pasted image 20260226191744.png]]
 When we want to apply the multiplications, instead of applying a 3x3 kernel to have the next layer, if it is *separable*, I can first apply on a kernel of 3x1, and then we have an outcome that we can apply to a 1x3 kernel. 
-- Instead of multiplying 3x3 once, we do
+- Instead of multiplying 3x3 once, we do two operations of 3x1 and 1x3. 
+- Instead of doing 9 multiplications with our input, we are just performing on 6. 
+	- Warning: all the kernels are not separable. It should be the case that we have a kernel like above that we can rewrite as the multiplication of column-wise and row-wise matrix. 
