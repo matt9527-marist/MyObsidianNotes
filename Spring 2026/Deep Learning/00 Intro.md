@@ -111,6 +111,6 @@ Deep Learning (green) vs. Classic Machine Learning (yellow)
 **High Accuracy vs. Interpretability**
 ![[Pasted image 20260129190528.png]]
 Accuracy - shows the error reducing
-But the seocnd image tells us that interpretability has an inverse relationship with accuracy. In the first layer, we can still make out the image, but in the last layer we cannot. 
+But the second image tells us that interpretability has an inverse relationship with accuracy. In the first layer, we can still make out the image, but in the last layer we cannot. 
 There are attempts to add the interpretability to AI (SHAP).
 
