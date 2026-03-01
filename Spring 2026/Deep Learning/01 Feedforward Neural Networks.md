@@ -197,7 +197,7 @@ Centralizing the original data is not limited to deep learning algorithms, many 
 ![[Pasted image 20260205192751.png]]
 Here, we are trying to shift data back to centralization. 
 
-**Underfittin vs. Overfitting**
+**Underfitting vs. Overfitting**
 ![[Pasted image 20260205192936.png]]
 Overall, we want to find a pattern in our data. The right pattern identified is in the middle image. Overfitting occurs when the model pulls itself to every data point, memorizing the data. 
 
