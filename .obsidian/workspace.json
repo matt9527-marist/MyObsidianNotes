@@ -35,7 +35,8 @@
               "title": "02 Convolutional Neural Networks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "724a6c619d47981a",
+  "active": "4831137c35fb6bf6",
   "lastOpenFiles": [
+    "Spring 2026/Capping/09 Teamwork and Human Resources.md",
     "Spring 2026/Capping/06 Build Systems and Software Interfaces.md",
     "Spring 2026/Deep Learning/02 Convolutional Neural Networks.md",
     "Spring 2026/Deep Learning/01 Feedforward Neural Networks.md",
@@ -206,7 +208,6 @@
     "Assets/Pasted image 20260226200924.png",
     "Assets/Pasted image 20260226200802.png",
     "Assets/Pasted image 20260226200342.png",
-    "Spring 2026/Capping/09 Teamwork and Human Resources.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Spring 2026/Deep Learning/04.md",
