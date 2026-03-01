@@ -573,6 +573,8 @@ Leadership
 Laissez
 LOTS
 Lessons
+LSTM
+LSTMs
 Relevant
 Reading
 Research
@@ -856,6 +858,9 @@ Relationships
 Recognition
 Reports
 Receptive
+RNN
+Recurrent
+RNNs
 libraries
 learn
 learning
@@ -1428,6 +1433,10 @@ GitHub
 GitLab
 Github
 Ground
+Get
+GRU
+Gated
+GRUs
 Charting
 Control
 Common
@@ -1866,6 +1875,9 @@ Communications
 Customer
 Communicate
 Continuing
+Clipping
+Convolutions
+Convolution
 Scikit
 Statistical
 Statistics
@@ -2311,6 +2323,8 @@ Shipping
 Strange
 Spinning
 Second
+Short
+Spatially
 Keras
 Key
 Kirchhoffs
@@ -2786,6 +2800,7 @@ Timeliness
 Technical
 Theory
 Tanh
+Trying
 ISLP
 Iris
 Instance
@@ -3076,6 +3091,8 @@ INEVITABLE
 Interactive
 Improper
 Intensify
+Implementations
+Involutional
 and
 ability
 approximation
@@ -3576,6 +3593,8 @@ agreement
 actualization
 acquire
 adapted
+adverbs
+adjectives
 Applications
 AI
 Analysis
@@ -3905,6 +3924,7 @@ Advantage
 Administration
 Administrative
 Autocratic
+Attention
 with
 without
 want
@@ -4174,6 +4194,7 @@ worked
 win
 watched
 women
+whenever
 Python
 Performance
 Principle
@@ -4735,6 +4756,7 @@ Win
 Working
 Well
 Withholding
+Warning
 is
 in
 if
@@ -5158,6 +5180,9 @@ incapable
 impasse
 invariance
 instrumentation
+indexed
+involution
+immense
 Field
 For
 Find
@@ -5421,6 +5446,7 @@ Facilitating
 Forcing
 Forecasting
 Filtering
+Forgetting
 of
 or
 optimize
@@ -6399,6 +6425,9 @@ suggest
 summarized
 sampling
 stuck
+stochastic
+semantic
+sentence
 giving
 good
 generalizable
@@ -6684,6 +6713,9 @@ granddaddy
 guidelines
 growth
 gating
+gated
+gates
+gate
 computers
 computer
 can
@@ -7364,6 +7396,11 @@ consolidating
 compositional
 consolidated
 compete
+convolutions
+contributed
+cap
+colors
+challenge
 the
 to
 training
@@ -7797,6 +7834,8 @@ teaming
 thought
 telling
 trouble
+transducer
+timestep
 being
 be
 by
@@ -8552,6 +8591,9 @@ employees
 employee
 equivariance
 expansive
+extending
+ease
+explored
 programmed
 patterns
 program
@@ -9092,6 +9134,9 @@ participative
 pone
 paths
 productive
+pictures
+properties
+poses
 Detecting
 Deepmind
 Dataset
@@ -9873,6 +9918,8 @@ retreat
 reprioritization
 resort
 receptive
+remedy
+resolutions
 model
 mostly
 machine
@@ -10263,6 +10310,9 @@ miscommunication
 measurement
 mitigation
 multilabel
+multipled
+multiplications
+magnify
 hypothesis
 handwritten
 have
@@ -10824,6 +10874,7 @@ Earned
 Escalations
 Explain
 Equivariance
+Exploding
 using
 utility
 use
@@ -11936,6 +11987,8 @@ faire
 focuses
 factually
 finance
+formulize
+featues
 Optimziation
 Operations
 Once
@@ -13594,6 +13647,7 @@ Negotiate
 Necessity
 Nine
 Noisy
+Name
 quality
 question
 quickly
@@ -14251,6 +14305,7 @@ Broad
 Behaviors
 Bureaucratic
 Brooks
+Base
 just
 jagged
 json
