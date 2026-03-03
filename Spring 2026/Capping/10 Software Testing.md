@@ -189,4 +189,93 @@ the output
 	appropriate return codes  
 	– Verify that API worked by calling other APIs,  
 	or checking external interfaces
+● Example: GUI testing  
+	– Use a test driver program to interact with the buttons and  
+	fields like a human would  
+	– i.e. Rational Function Tester  
+	– Create workflows that navigate through panels  
+	– Enter values in fields, press buttons, and verify behaviors  
+	– More complicated than verifying an API, but necessary to  
+	properly test a GUI  
+	– Very useful for regression test purposes  
+		● Can record and replay scripts to ensure the software still works!
 
+**JUnit**
+● Unit test framework for Java  
+● Developers write test cases in parallel with  
+code  
+● Junit runs one or all testcases  
+automatically, and gives a report  
+● Can be tied into build automation  
+	– Build fails if testcases don’t pass
+
+● Downsides  
+	– Double the code to write and maintain  
+	– Code changes require test changes  
+● Upsides  
+	– Immediately catches changes that break code  
+	– Gives confidence that interfaces work  
+	– Forces code to take rarely used paths
+
+**Test-Driven Development**
+● First you write a (failing) test case for new  
+function or a desired improvement  
+● Then you write the code to make the  
+testcase pass  
+● Finally, refactor the code so it meets  
+appropriate guidelines  
+● Repeat with the next function
+● This leads to smaller, simpler designs  
+● It’s the opposite of traditional software  
+development, which puts design and coding  
+ahead of testing  
+● By putting testing first, designers must  
+envision how customers will interact with the  
+software  
+	– This can eliminate some design problems
+
+**Case Study 1**
+● Consider a software debugger  
+● You will be testing some new features recently added  
+	– These are APIs which allow a “plugin” to read and write memory  
+	in the target process  
+	– They also give access to debug symbols and program control  
+	– This could be used to interpret a Java stack frame, for example  
+● The APIs provide calback methods into C code you write  
+● The plugin is a DLL that gets loaded by the debugger at  
+runtime
+● How will you test these new plugin APIs?  
+● What would your plugin do when it gets  
+control?
+
+**Case Study 2**
+● Consider a multi-tiered application  
+● The application runs on three different systems, all  
+connected via network.  
+● Some levels can run on different hardware architectures,  
+while others can run on different operating systems  
+● The bottom level is a customer accessible guest OS  
+image  
+● The middle level is in a locked-down firmware image  
+● The upper level has a customer accessible GUI
+● How can you test such a complicated application?  
+● How do you test a locked-down container?  
+	– How do you get logs and diagnostic information from the  
+container to the outside world?  
+● How do you test network links?  
+	– Simulate connection and configuration problems  
+	– What if the link drops or a cable is unplugged?  
+● How do you test application failures?  
+	– Need to inject errors into the applications to test recovery  
+	paths
+
+**Discussion**
+● Think about your project design  
+● How will you test it?  
+● What tooling will you use?  
+	– Programming languages? Scripts?  
+● How would you automate your testing?  
+● What will require human testing?  
+● Can anything not be tested without a real system?  
+● What are some possible weak points that need extra  
+attention?
