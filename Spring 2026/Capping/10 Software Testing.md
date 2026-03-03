@@ -125,3 +125,68 @@ difficult to test
 ● Broken test case  
 	– Successfully run
 
+![[Pasted image 20260302220217.png]]
+
+**Creative Testing**
+● It’s not enough to test mainline code  
+● You also need to test for boundary and edge  
+cases  
+● If there is concurrency, then test for race  
+conditions  
+● Try to get the code to go down unexpected  
+paths  
+● Also try to cause error situations
+
+**Fuzz Testing**
+● This is using tooling to automatically thrash  
+interfaces with garbage data  
+	– Can cause crashes, unexpected behavior, or worse  
+	– It can be a great way to ensure that code behaves  
+in a deterministic fashion  
+● Exercises code in ways that the developer didn’t  
+expect  
+	– If you only test your parser with 7-bit ASCII, a fuzzer  
+	will generate interesting results!
+
+**Regression Testing**
+Ensures that a product has not “regressed”  
+any functionality due to code changes  
+● Usually performed at least once per release  
+cycle  
+● Can be a large, involved bucket of tests  
+	– Tests are accrued over many releases  
+	– Passing this test gives you confidence that the  
+	product is at least as good at the prior version
+
+**Test Coverage**
+● Test coverage  
+	– How much of your code is covered by tests?  
+	– If your code is in an infrequently used path, how do you know it works?  
+	– Little-used error paths that are broken can cause problems when you  
+	least expect it  
+	– Test coverage is a percentage value of the amount of code that is  
+	executed by test statements  
+	– A static analyzer tool like FindBugs or SonarQube can calculate this  
+	value  
+		● FindBugs example for Java  
+			– List of bugs detected  
+		● Splint example for C
+
+**Test Automation**
+● Automating test cases frees up tester time to  
+pursue other work  
+	– Manual testing is tedious and error prone  
+	– This can be ideal work for a computer!  
+● Example: Command line interface  
+	– Have test cases that call commands, and parse  
+the output  
+	– If there is a direct relationship between input and  
+	output, this can be checked for programmatically
+
+● Example: API testing  
+	– Write a program that calls the API in question  
+	– Pass a variety of values, and check for  
+	appropriate return codes  
+	– Verify that API worked by calling other APIs,  
+	or checking external interfaces
+
