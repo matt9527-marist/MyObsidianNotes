@@ -83,7 +83,7 @@ expectation
 	– and how that testing will be accomplished  
 ● Should be reviewed by test team, as well as developers  
 	– A good developer can suggest fragile or suspect areas of  
-code to focus test efforts on  
+	code to focus test efforts on  
 ● Shows how to setup the test environment  
 	– How tests will be run  
 	– How test results will be recorded
