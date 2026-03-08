@@ -142,7 +142,7 @@ paths
 interfaces with garbage data  
 	– Can cause crashes, unexpected behavior, or worse  
 	– It can be a great way to ensure that code behaves  
-in a deterministic fashion  
+	in a deterministic fashion  
 ● Exercises code in ways that the developer didn’t  
 expect  
 	– If you only test your parser with 7-bit ASCII, a fuzzer  
