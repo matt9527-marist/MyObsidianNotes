@@ -341,3 +341,75 @@ personal computing
 	– Floppy disks would have non-standard layouts to fool  
 	disk copying software
 
+● CD-key checks for games would require that the  
+physical disk be in the drive in order to play  
+● Online connectivity that validates a user is  
+authorized in order to play  
+● Require a physical hardware dongle to be  
+plugged in in order for software to run  
+● Encrypt program code or data with a secret key,  
+and only decrypt it when the program is running  
+in memory
+
+**Sony-BMG Rootkit Scandal**
+● In the early 2000’s the record industry was concerned  
+about the rise of Napster and audio file trading  
+● Sony-BMG included software on audio CDs that would  
+prevent ripping applications from reading the audio data  
+● However, they installed this software without user  
+consent, and cloaked the files via a rootkit  
+● Sloppy coding practices cause the code to have  
+performance problems and security vulnerabilities  
+● Sony-BMG was sued by the state of Texas, and was the  
+target of multiple class action lawsuits
+
+**The Human Element**
+● Sometimes a company will have intentionally  
+weak anti-copying measures in their product.  
+● This means that the software can be easily  
+copied and installed on systems it is not  
+licensed for  
+● This increases market share of the program,  
+letting more people become familiar with it.  
+	– This can drive sales of the legitimate product as  
+	the software becomes a de facto standard.
+● If software has weak copy protection, a  
+company could simply install it on many  
+machines, in violation of the license  
+agreement  
+● A disgruntled employee could report this  
+violation to the Business Software Alliance,  
+which handles enforcement for many major  
+software vendors
+
+**Digital Millenium Copyright (DMCA)**
+● The DMCA was legislation passed by the US  
+Congress in 1998, that made significant  
+changes to the way intellectual property was  
+handled  
+● It criminalizes technology used to circumvent  
+access control measures in copyrighted works  
+● This means that breaking copy protection is a  
+crime, even if no copyright infringement has  
+occurred!
+
+**DeCSS**
+● One of the first major uses of the DMCA was  
+when the copy protection on DVD discs was  
+broken.  
+● DVDs can be encrypted via an algorithm known  
+as the Content Scrambling System.  
+● Once this algorithm figured out and broken, a  
+program known as DeCSS was created  
+● This was widely shared to facilitate the extraction  
+of video from DVDs
+
+● The result was many lawsuits from the Motion Picture  
+Association of America (MPAA), who tried to suppress  
+distribution of the software  
+● The internet reacted in the usual manner, ensuring that  
+the software was available in a wide variety of forms  
+	– T-shirts  
+	– Poetry  
+	– Music  
+	– A prime number (!)
