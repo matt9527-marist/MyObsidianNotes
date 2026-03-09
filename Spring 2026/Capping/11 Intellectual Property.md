@@ -196,3 +196,34 @@ up for decades as a result
 be from works published in 1923
 ● The original Disney cartoon Steamboat Willie is scheduled to enter the public  
 domain in 2024
+
+**License Agreements**
+● Since software is protected via copyright, the owner has the  
+ability to restrict its usage via license agreements.  
+● These can be as open or restrictive as the owner desires  
+● Traditional commercial software contains an End-User License  
+Agreement (EULA), which spells out all the restrictions on  
+where and how the software can be used  
+	– This can restrict the number of end users, or the number of times  
+	the software can be copied  
+	– It can require annual maintenance payments  
+	– It can restrict the industries the software can be used in  
+● Java could not be used in a nuclear power plant
+
+● All product code (GA, Beta, and Tech Preview) must be released under software license terms.  
+● All licenses must be translated. For some non-English speaking countries, a contract is not valid  
+if the license is not translated.  
+● The license must be accepted by the customer both at download and at install time  
+	– Because the person who downloads and the person who installs may not be the same, the license  
+	must be accepted at both times.  
+	– If a product is only delivered on the web, a copy of the license must also be included as part of the  
+downloaded code for future reference.  
+● Why do we need manager’s signatures?  
+	– We do this to prevent contamination of the developers.  
+	– If a developer is going to write compression software for a salable product and the organization does  
+	not want to use an open source library like zlib, then the developer should not look at the zlib source  
+	code.  
+	– Once a developer looks at the open source code, they are contaminated because they might include  
+	or reuse lines of code.  
+	– Management ensures that you can look at open source code not pertinent to the employees’ job.
+
