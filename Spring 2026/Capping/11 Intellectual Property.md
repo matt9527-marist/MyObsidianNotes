@@ -282,3 +282,62 @@ Windows infringed on their copyright
 ● The court decided that infringement would  
 require the works to be “virtually identical”
 
+**Trade Secrets**
+● The canonical example here is the formula  
+for Coca-Cola  
+● It’s not published anywhere, so it is  
+considered a trade secret
+
+**Piracy**
+● Piracy is a term used when describing the  
+unauthorized copying or distribution of a copyrighted  
+work  
+	– Legally, this is considered copyright infringement  
+● This can be related to software, images, music,  
+videos, etc.  
+● If you share music files with a friend, you are  
+violating the copyright of the recording company  
+	– Technically, this is punishable via fines or imprisonment
+
+● Due to the digital nature of software, it is  
+quite vulnerable to unauthorized duplication  
+● This situation can make it more difficult for  
+commercial software to earn revenue  
+● If a developer creates a piece of software,  
+and most customers pirate it, then how  
+does the developer stay in business?  
+● Don’t Copy That Floppy!
+
+**Software Piracy**
+● Some customers pirate software because they can’t afford it  
+	– This is a pricing problem, since different markets have  
+	different concepts of a “reasonable” cost  
+● Some customers can’t purchase the software, because it’s  
+not sold in their country  
+	– This is a distribution problem  
+● Some customers want to try it out before committing to a  
+purchase  
+	– Demos, trialware, shareware, or other approaches can convert  
+	these customers
+● Some customers feel the pirated version is more  
+compelling or convenient  
+	– Perhaps it doesn’t include a CD check, isn’t region  
+locked, doesn’t phone home, or require a dongle  
+	– This is a failure to address a customer need  
+● Some customers simply won’t buy the software,  
+at any price  
+	– There is no point trying to convert these  
+	customers, as there is no revenue to earn!
+
+**Anti-Circumvention**
+● One possibility is for an author to use technical  
+measures to prevent “unauthorized” use of their  
+software  
+● There are many possibilities here, with varying  
+amounts of inconvenience for the end user, and with  
+varied success rates.  
+● These measures date back to the early days of  
+personal computing  
+	– Floppy disks would have non-standard layouts to fool  
+	disk copying software
+
