@@ -98,3 +98,31 @@ disclosure
 revenue for the company. It is important that a  
 patent application be filed early so that both US and  
 international patent rights are preserved.
+
+**Timeline for Patents**
+● Time is of the essence! Due to the time constraints involved with the evaluation,  
+review, search and filing process, it is important to submit invention disclosures  
+as early as possible in order to protect your invention. Here are several reasons  
+invention disclosures should be submitted to Legal as early as possible:  
+● Time for Review  
+	– The review process takes time.  
+● Loss of International Patent Rights  
+	– All international patent rights are lost as soon as the technology is made available to  
+	the public. The international community does not grant any grace period for late  
+	patent filings.  
+	– If not filed prior to "availability to the public“, international patent rights are irrevocably  
+	lost. Thus, extreme care must be taken when disclosing confidential information to  
+	customers. A single disclosure to a single customer can cause patent rights to be  
+	lost.
+● Statute of Limitations for Filing in the US:  
+	– Unlike other governments, the US government grants  
+	inventors a one-year "grace" period after the "commercial  
+	availability" of the product or "publication of the invention" in  
+	which to file a patent application.  
+	– Commercial activity may consist of a product announcement,  
+	beta test, early marketing activity or publication of the  
+	invention, as well as disclosure to even one customer. Any of  
+	these can trigger the start of the one-year "grace" period.  
+● Notice some products say patent pending  
+	– The goal is filing the patent to protect your idea
+
