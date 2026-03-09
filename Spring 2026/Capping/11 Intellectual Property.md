@@ -126,3 +126,41 @@ invention disclosures should be submitted to Legal as early as possible:
 ● Notice some products say patent pending  
 	– The goal is filing the patent to protect your idea
 
+**How does this Affect Software?**
+● If you create a novel idea in a program, it can be  
+possible to patent it.  
+● This gives you the ability to restrict what others can do  
+with the invention, even if they come up with an  
+independent implementation  
+	– This means you could demand license payments, or  
+prevent others from using it entirely  
+● Software patents are not recognized in the European  
+Union, so this is a quirk of US law  
+	– This is why VLC is developed by a French company!
+
+**Patent Trolls**
+● Note that there has been a number of changes in this  
+area of patent law recently.  
+● The USPTO was very lenient in granting software patents  
+for many years, leading to a flood of dubious patents  
+● This means that just about any non-trivial software  
+program infringes some sort of patent!  
+● This lead to a situation where small companies  
+would buy up a defunct company for its patent  
+portfolio, and use those patents to extort  
+license fees from other companies  
+	– Since these companies did not actually produce  
+	anything, and instead just demanded payments  
+	from others, they were dubbed “patent trolls”
+
+**Invalidating a Patent**
+● If a patent troll claims you are infringing a patent, one  
+avenue of defense is to have the patent invalidated.  
+● This means that you convince a court that the patent  
+should not have been granted in the first place  
+● This could be because the invention was not novel, or that  
+there was prior art existing that was not considered  
+● All of this is very expensive, and the onus is on the  
+defendant to prove their claims  
+● That’s why many defendants just settle lawsuits with patent  
+trolls, as it’s cheaper then fighting a protracted legal battle.
