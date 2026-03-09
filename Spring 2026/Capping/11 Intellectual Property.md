@@ -49,3 +49,30 @@ mark to a specific geographic region
 means the owner has registered the mark with the USPTO,  
 and can enforce exclusivity of the mark through the US.
 
+**Geographic Restrictions**
+● A trademark can be for a product in a certain geographic region.  
+● For example, the original Burger King restaurant was located in  
+Matoon, IL.  
+● They filed a state trademark on the restaurant name in 1959.  
+● The national chain Burger King began operations in Illinois in 1961.  
+● In 1967, the original restaurant owners filed suit over the trademark  
+● The judge decided that the federal trademark superseded the state  
+one, except for a 20 mile radius around Matoon where there was  
+prior, actual use.  
+● This was an important decision regarding the federal Lanham Act.
+
+**Defense of Trademarks**
+● There is a requirement upon the owner of a trademark to defend it  
+against infringement.  
+● This means that an owner must send cease and desist notices to  
+those violating the trademark  
+● Failure to properly defend a trademark can result in it being  
+genericized  
+	– If the use of the trademark is so widespread that it becomes a common  
+	name, the owner can lose the ability to enforce it.  
+	– Some examples of this are aspirin, cellophane, dry ice, heroin, &  
+	thermos  
+● Xerox and Nintendo expended significant effort in order to prevent  
+their trademark from becoming genericized. They took out ads  
+asking the public to respect their trademarks
+
