@@ -164,3 +164,35 @@ there was prior art existing that was not considered
 defendant to prove their claims  
 ● That’s why many defendants just settle lawsuits with patent  
 trolls, as it’s cheaper then fighting a protracted legal battle.
+
+**Copyrights**
+● A copyright is a monopoly granted by a government for the ability to use and  
+distribute a work  
+● This is applicable to a variety of works in different mediums  
+	– Books, photographs, images, sound recordings, video recordings, software  
+	programs  
+● Copyright is automatic in the US when a work is created, although this was  
+not always the case  
+	– You used to have to send the work to the Library of Congress in order to get a  
+	copyright  
+● A copyright holder can license the work to others, sell the copyright, or restrict  
+the use entirely.  
+● In the US, a copyright expires 70 years after the death of the author, at which  
+the work enters the public domain  
+	– This means that anyone can use it for any purpose
+
+**Copyright Terms**
+● Copyright in the US was originally 14 years, with an optional 14 year extension  
+● It was considered a compromise to allow authors to monetize their works, but  
+allowing society to benefit in the future  
+● If authors cannot prevent others from taking their work, would they continue to  
+create?  
+● In the 20th century, US copyright lengths were repeatedly extended until they  
+became some of the longest in the world (mostly due to Disney and the music  
+industry)  
+● Many works that should have entered the public domain by now have been locked  
+up for decades as a result  
+● In 2019 the first set of works will begin entering the public domain again. These will  
+be from works published in 1923
+● The original Disney cartoon Steamboat Willie is scheduled to enter the public  
+domain in 2024
