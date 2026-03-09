@@ -227,3 +227,58 @@ downloaded code for future reference.
 	or reuse lines of code.  
 	– Management ensures that you can look at open source code not pertinent to the employees’ job.
 
+**Open Source vs. Free Software**
+● Open Source software is a loose collection of  
+licenses that give a user the ability to redistribute  
+the software  
+	– This can be in source or object code format  
+	– The BSD or Mozilla Public License are examples  
+● Free Software is more restrictive  
+	– It requires that users that redistribute the software  
+	also provide the source code for all modifications  
+	– The GNU Public License (GPL) is an example
+
+**How does this affect Software?**
+● In all sorts of interesting ways!  
+● Oracle sued Google over the use of the Java API in the Dalvik runtime in  
+Android  
+	– Their claim was that the API was copyrighted, and Google violated that copyright  
+	– This ran counter to decades of case law, where the copyright only protected the  
+	specific implementation of an interface, and not the actual interface itself.  
+● The appeals court decided that the API was copyrightable, which throws a  
+wrench into the whole concept of API programming.  
+● The US Supreme Court has agreed to hear the case, and a ruling is  
+expected in June 2020  
+	– This has the potential to drastically change how software copyright works in the  
+	US.
+
+**Export**
+● The transfer of anything to a "Foreign Person" by any means, anywhere, anytime, or the  
+knowledge that what you are transferring to a "US Person," will be further transferred to a  
+"Foreign Person“  
+	– A “US Person” is a US citizen or permanent resident  
+	– A “foreign person” (or foreign national) is a non-US citizen who is not a permanent resident of the  
+US  
+● The definition is broad. It includes both tangibles and intangibles:  
+	– Shipments of goods from one country to another  
+	– The transfer of goods and technology within the US to a foreign national  
+	– Transmission or communication via any means of software or technology from one country to  
+	another  
+
+> Technology = specific Information necessary for the development, production or use of a product; can take the form of technical assistance or technical data.  
+
+– Release or delivery of products and technology within a country outside the United States  
+– The release, transmission, or exposure of software source code to or in the presence of a non-US
+person, in the United States or elsewhere.  
+– The local, in-country design and delivery of customer solutions and technical services to  
+customers outside the United States
+
+**Industrial Design**
+● Apple famously sued Microsoft for  
+infringement of the Macintosh OS by the  
+Windows interface  
+● Apple claimed that the “look and feel” of  
+Windows infringed on their copyright  
+● The court decided that infringement would  
+require the works to be “virtually identical”
+
