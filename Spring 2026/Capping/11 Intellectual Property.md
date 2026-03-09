@@ -76,3 +76,25 @@ genericized
 their trademark from becoming genericized. They took out ads  
 asking the public to respect their trademarks
 
+**Patents**
+● A patent is a monopoly granted by the  
+government on the exclusive use of an  
+invention  
+● This is in exchange for a detailed public  
+disclosure of the invention  
+● The patent has a limited lifespan, and cannot  
+be extended  
+	– Currently in the US, the patent expiration date is  
+	20 years after the first filing
+
+**Patent Eligibility**
+● If you think your idea is something that someone  
+else would want, need, or pay money for  
+● If your idea is useful, novel, and non-obvious to a  
+person of ordinary knowledge and skill in the  
+relevant field, then you should submit an invention  
+disclosure  
+● Patents are commercially important and can earn  
+revenue for the company. It is important that a  
+patent application be filed early so that both US and  
+international patent rights are preserved.
