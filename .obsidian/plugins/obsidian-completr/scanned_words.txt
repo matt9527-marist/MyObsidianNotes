@@ -539,6 +539,8 @@ Leaky
 LEAST
 Lack
 LeNet
+LSTM
+LSTMs
 Relevant
 Reading
 Research
@@ -787,6 +789,9 @@ Relatively
 Robot
 Robust
 Receptive
+RNN
+Recurrent
+RNNs
 libraries
 learn
 learning
@@ -1333,6 +1338,10 @@ Generalization
 Generalize
 Growing
 Gives
+Get
+GRU
+Gated
+GRUs
 Charting
 Control
 Common
@@ -1728,6 +1737,7 @@ Convert
 Continuing
 Convolutions
 Convolution
+Clipping
 Scikit
 Statistical
 Statistics
@@ -2130,6 +2140,7 @@ Shuffle
 Separating
 Second
 Spatially
+Short
 Keras
 Key
 Kirchhoffs
@@ -2844,6 +2855,7 @@ Iterations
 Invariance
 Intensify
 Involutional
+Implementations
 and
 ability
 approximation
@@ -3294,6 +3306,8 @@ aggregating
 alright
 anywhere
 adapted
+adverbs
+adjectives
 Applications
 AI
 Analysis
@@ -3591,6 +3605,7 @@ Arthur
 Attempt
 AlexNet
 Augmentation
+Attention
 with
 without
 want
@@ -3843,6 +3858,7 @@ wle
 worsen
 worries
 window
+whenever
 Python
 Performance
 Principle
@@ -4746,6 +4762,8 @@ invariance
 instrumentation
 involution
 immense
+indexed
+implemented
 Field
 For
 Find
@@ -4994,6 +5012,7 @@ Formulation
 Forward
 Fold
 Folds
+Forgetting
 of
 or
 optimize
@@ -5896,6 +5915,9 @@ summarized
 sampling
 scenarios
 stuck
+stochastic
+semantic
+sentence
 giving
 good
 generalizable
@@ -6175,6 +6197,9 @@ guesses
 generalizabiliyt
 greatly
 gating
+gated
+gates
+gate
 computers
 computer
 can
@@ -6796,6 +6821,9 @@ compete
 colors
 challenge
 convolutions
+contributed
+cap
+capability
 the
 to
 training
@@ -7192,6 +7220,9 @@ totally
 trend
 tunable
 trucks
+translation
+transducer
+timestep
 being
 be
 by
@@ -9104,6 +9135,7 @@ rotate
 resort
 receptive
 resolutions
+remedy
 model
 mostly
 machine
@@ -9713,6 +9745,7 @@ hints
 hazards
 hardest
 helpers
+happening
 Execution
 Examples
 Economics
@@ -9979,6 +10012,7 @@ Eta
 Experiment
 Explain
 Equivariance
+Exploding
 using
 utility
 use
@@ -11006,6 +11040,7 @@ fnite
 finished
 flip
 featues
+formulize
 Optimziation
 Operations
 Once
@@ -12615,6 +12650,7 @@ Neuron
 Neighbors
 Nonlinear
 Neurons
+Name
 quality
 question
 quickly
@@ -13241,6 +13277,7 @@ Batches
 Blocking
 Biological
 Blue
+Base
 just
 jagged
 json
