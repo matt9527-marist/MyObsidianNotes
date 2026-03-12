@@ -27,10 +27,10 @@ AI definitions: (by the "fathers of AI")
 - IBM's Deep Blue chess-playing system defeated world champions in 1997. 
 - Relatively sterile and formal environment- nothing they did not expect, a controlled environment. 
 - Have to sought hard-code knowledge about the world in formal languages. 
-	- A formal language is a set of strings of symbols drawn from a fnite alphabet in automata theory. 
+	- A formal language is a set of strings of symbols drawn from a finite alphabet in automata theory. 
 	- Easier for a computer to understand, hard for a human to understand 
 	- *Formal Language* is the understandable in-between, usually math and logic. 
-	- *Hard-coding* means embedding data directly into the source code of the program as opposed to obtaining he data from external sources or generating it at runtime. If our chess opponent plays a certain position C11, for example, the system will play D11, placing action and effect together. 
+	- *Hard-coding* means embedding data directly into the source code of the program as opposed to obtaining the data from external sources or generating it at runtime. If our chess opponent plays a certain position C11, for example, the system will play D11, placing action and effect together. 
 - Abstract and formal tasks are among the hardest for humans to solve, but the among the easiest for computers to solve. 
 
 ![[Pasted image 20260122195918.png]]
@@ -111,6 +111,6 @@ Deep Learning (green) vs. Classic Machine Learning (yellow)
 **High Accuracy vs. Interpretability**
 ![[Pasted image 20260129190528.png]]
 Accuracy - shows the error reducing
-But the seocnd image tells us that interpretability has an inverse relationship with accuracy. In the first layer, we can still make out the image, but in the last layer we cannot. 
+But the second image tells us that interpretability has an inverse relationship with accuracy. In the first layer, we can still make out the image, but in the last layer we cannot. 
 There are attempts to add the interpretability to AI (SHAP).
 

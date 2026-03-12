@@ -281,7 +281,7 @@ then take corrective actions
 	– Work with management to determine if there are additional  
 	resources or reprioritization; thus making “trade-offs”  
 • Client-Based Strategies  
-	– Work with the client to negotiate schedule or scope trade-  
+	– Work with the client to negotiatae schedule or scope trade-  
 	offs of deliverables
 
 **Control Communications**

@@ -37,7 +37,7 @@ Formula: (W-F+2P) / S + 1
 **2-D CNN in practice**
 ![[Pasted image 20260226190552.png]]
 - This is the general structure of convolutional layers followed by pooling layers.
-- We can see that the size of the featues continuously go down.
+- We can see that the size of the features continuously go down.
 
 ![[Pasted image 20260226191033.png]]
 (CNN with depth)
