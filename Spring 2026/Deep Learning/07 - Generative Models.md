@@ -27,4 +27,9 @@ We want to extend what we have in autoencoders.
 **What is a Latent Variable?**
 *Latent variables mean that we do not see the actual result, but based on the effect, we should still be able to infer what is going on*
 - We want to learn from examples the actual distributions. The actual distributions we cannot actually see, but we can see their "shadows" or their effects/structure. 
-- Autoencoding is the unsupervised approach for learning a lower-
+- Autoencoding is the unsupervised approach for learning a lower-dimensional feature representation for unlabeled training data. 
+![[Pasted image 20260312205117.png]]
+![[Pasted image 20260312205125.png]]
+- We have the input, and we can try to reconstruct it to get the output. 
+- We compare the input vs. output to obtain the loss function. 
+- The loss function does not use any labels, but we want to minimize this as much as possible to enable the model to absorb all of the features.
