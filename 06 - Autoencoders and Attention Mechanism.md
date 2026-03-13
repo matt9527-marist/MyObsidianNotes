@@ -23,4 +23,32 @@ Today two interesting practical applications of autoencoders are
 ![[Pasted image 20260312203811.png]]
 
 ![[Pasted image 20260312203824.png]]
-- Have a hidden layer tha
+- Have a hidden layer that is a size much smaller than inputs and outputs, and we enforce it to approximate the original input. 
+- It is trying to learn an approximation to the identity function, so as to output x^ that is similar to x. The identity function seems a particularly trivial function to be trying to learn; but by placing constraints on the network, such as by limiting the number of hidden units, we can discover interesting structure about the data.
+
+**Sequence-to-sequence autoencoder**
+• If your inputs are sequences, rather than vectors or 2D images, then  
+you may want to use as encoder and decoder a type of model that can  
+capture temporal structure, such as a LSTM.  
+
+• To build a LSTM-based autoencoder, first use a LSTM encoder to turn  
+your input sequences into a single vector that contains information  
+about the entire sequence, then repeat this vector n times (where n is  
+the number of timesteps in the output sequence), and run a LSTM  
+decoder to turn this constant sequence into the target sequence.
+
+**Steps for Encoding**
+*Main Idea*
+1) Encode the input sequence into state vectors.  
+2) Start with a target sequence of size 1 (just the start-of-sequence character).  
+3) Feed the state vectors and 1-char target sequence to the decoder to produce predictions for the next character.  
+4) Sample the next character using these predictions (we simply use argmax).  
+5) Append the sampled character to the target sequence  
+6) Repeat until we generate the end-of-sequence character or we hit the character limit.
+
+![[Pasted image 20260312204006.png]]
+
+**Attention**
+![[Pasted image 20260312204018.png]]
+Attention is proposed as a solution to the limitation of the Encoder-Decoder model encoding the input  
+sequence to one fixed length vector from which to decode each output time step. This issue is believed to be more of a problem when decoding long sequences.
