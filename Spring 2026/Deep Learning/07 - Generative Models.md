@@ -33,3 +33,12 @@ We want to extend what we have in autoencoders.
 - We have the input, and we can try to reconstruct it to get the output. 
 - We compare the input vs. output to obtain the loss function. 
 - The loss function does not use any labels, but we want to minimize this as much as possible to enable the model to absorb all of the features.
+The only *bottleneck* is the size of the latent space: 
+![[Pasted image 20260312205322.png]]
+![[Pasted image 20260312205333.png]]
+
+**Where are we?**
+![[Pasted image 20260312205401.png]]
+Here, we have a normal autoencoder that is learning the input, but not the distribution. We want to learn the distribution so tht
+**Variational Autoencoders (VAE)**
+![[Pasted image 20260312205426.png]]
