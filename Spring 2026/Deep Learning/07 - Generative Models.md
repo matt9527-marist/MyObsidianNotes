@@ -46,5 +46,12 @@ Variational encoders sample from the mean and standard deviation to learn the pa
 ![[Pasted image 20260312205626.png]]
 
 **Reconstruction Loss**
-![[Pasted image 20260312205644.png]]
 This is simply measured by the log likelihood between input and output. 
+
+**Regularization Term**
+![[Pasted image 20260312205748.png]]
+
+**Priors on the Latent Distribution**
+![[Pasted image 20260312205758.png]]Why? We want to make sure that we follow the regularization. 
+![[Pasted image 20260312205853.png]]
+
