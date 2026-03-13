@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 -.md",
+                "file": "06 - Autoencoders and Attention Mechanism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 -"
+              "title": "06 - Autoencoders and Attention Mechanism"
             }
           }
         ],
@@ -258,8 +258,9 @@
   },
   "active": "968c8ce2072f0c2a",
   "lastOpenFiles": [
+    "Assets/Pasted image 20260312203303.png",
     "Spring 2026/Deep Learning/05 Involution and Separable CNN.md",
-    "06 -.md",
+    "06 - Autoencoders and Attention Mechanism.md",
     "conflict-files-obsidian-git.md",
     "Spring 2026/Deep Learning/04 Recurrent Neural Networks.md",
     "Spring 2026/Capping/11 Intellectual Property.md",
@@ -305,7 +306,6 @@
     "Fall 2025/Machine Learning/Midterm Review/Linear Algebra.canvas",
     "Fall 2025/Machine Learning/Midterm Review/Data Preprocessing.canvas",
     "Fall 2025/Machine Learning/Midterm Review/Exam Scratch.md",
-    "Fall 2025/Machine Learning/Midterm Review/Colab Collection.md",
     "Fall 2025/Machine Learning/Midterm Review/Calculus.canvas",
     "Fall 2025/Machine Learning/Midterm Review",
     "Fall 2025/Security Protocols-Algorithms",
