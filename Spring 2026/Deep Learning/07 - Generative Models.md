@@ -55,3 +55,4 @@ This is simply measured by the log likelihood between input and output.
 ![[Pasted image 20260312205758.png]]Why? We want to make sure that we follow the regularization. 
 ![[Pasted image 20260312205853.png]]
 
+![[Pasted image 20260312210106.png]]
