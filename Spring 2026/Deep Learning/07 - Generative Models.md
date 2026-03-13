@@ -39,6 +39,12 @@ The only *bottleneck* is the size of the latent space:
 
 **Where are we?**
 ![[Pasted image 20260312205401.png]]
-Here, we have a normal autoencoder that is learning the input, but not the distribution. We want to learn the distribution so tht
+Here, we have a normal autoencoder that is learning the input, but not the distribution. We want to learn the distribution so that it can be capable of generation. 
 **Variational Autoencoders (VAE)**
 ![[Pasted image 20260312205426.png]]
+Variational encoders sample from the mean and standard deviation to learn the parameters of the input. Now, our formula is changed:
+![[Pasted image 20260312205626.png]]
+
+**Reconstruction Loss**
+![[Pasted image 20260312205644.png]]
+This is simply measured by the log likelihood between input and output. 
