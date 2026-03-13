@@ -50,5 +50,14 @@ decoder to turn this constant sequence into the target sequence.
 
 **Attention**
 ![[Pasted image 20260312204018.png]]
-Attention is proposed as a solution to the limitation of the Encoder-Decoder model encoding the input  
-sequence to one fixed length vector from which to decode each output time step. This issue is believed to be more of a problem when decoding long sequences.
+Attention is proposed as a solution to the limitation of the Encoder-Decoder model encoding the input sequence to one fixed length vector from which to decode each output time step. This issue is believed to be more of a problem when decoding long sequences.
+
+*Implementable in Keras - explore the following*
+![[Pasted image 20260312204044.png]]
+
+**Hands-on Experience with Keras**
+![[Pasted image 20260312204132.png]]
+Convolutional autoencoders can be built for the purpose of denoising images. 
+
+Summary:
+- Take the input, compress it, and reproduce it in the output using the learned main ideas and pa
