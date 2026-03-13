@@ -60,4 +60,6 @@ Attention is proposed as a solution to the limitation of the Encoder-Decoder mod
 Convolutional autoencoders can be built for the purpose of denoising images. 
 
 Summary:
-- Take the input, compress it, and reproduce it in the output using the learned main ideas and pa
+- Take the input, compress it, and reproduce it in the output using the learned main ideas and patterns in the input. 
+- This is an important part of why generative AI is able to attach textual concepts to generating images or videos. 
+
