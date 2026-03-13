@@ -21,4 +21,10 @@ If through the generative models, we could learn about the "usual" distributions
 The disadvantage is that it is difficult for a model to determine what is real or fake (think the danger of self-driving calls)
 
 **Latent Variable Models**
-We want to extend what we have in autoencoders. We want to talk about variation on autoencoders. 
+We want to extend what we have in autoencoders. 
+![[Pasted image 20260312204903.png]]
+
+**What is a Latent Variable?**
+*Latent variables mean that we do not see the actual result, but based on the effect, we should still be able to infer what is going on*
+- We want to learn from examples the actual distributions. The actual distributions we cannot actually see, but we can see their "shadows" or their effects/structure. 
+- Autoencoding is the unsupervised approach for learning a lower-
