@@ -10,3 +10,15 @@ We want to create a fake image, video, or text that looks real. How can we tell?
 
 **Why Generative Models?**
 ![[Pasted image 20260312204649.png]]
+Why do we want to create fake data? 
+- Remember, this data is difficult for us to distinguish as fake from real. 
+- We can use this as synthetic data to help in finding the underlying patterns in the real data. 
+
+**Outlier Detection**
+Both advantage and disadvantage. 
+If through the generative models, we could learn about the "usual" distributions, they can help us catch the examples that are unusual or unpredictable. 
+![[Pasted image 20260312204808.png]]
+The disadvantage is that it is difficult for a model to determine what is real or fake (think the danger of self-driving calls)
+
+**Latent Variable Models**
+We want to extend what we have in autoencoders. We want to talk about variation on autoencoders. 
