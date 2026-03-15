@@ -321,6 +321,10 @@ Meets
 Monkey
 Matoon
 Mozilla
+Millenium
+Motion
+MPAA
+Music
 Learning
 Learn
 Let
@@ -584,6 +588,7 @@ Little
 Lanham
 Legal
 License
+Legally
 Relevant
 Reading
 Research
@@ -874,6 +879,8 @@ Responds
 Rational
 Restrictions
 Rights
+Require
+Rootkit
 libraries
 learn
 learning
@@ -1218,6 +1225,7 @@ lawsuits
 lengths
 longest
 loose
+licensed
 Graphing
 Google
 Game
@@ -1913,6 +1921,9 @@ Commercial
 Copyrights
 Congress
 Court
+Coca
+Cola
+Circumvention
 Scikit
 Statistical
 Statistics
@@ -2370,6 +2381,9 @@ Steamboat
 Supreme
 Shipments
 States
+Scandal
+Sloppy
+Scrambling
 Keras
 Key
 Kirchhoffs
@@ -2855,6 +2869,8 @@ Trolls
 Tech
 Their
 Transmission
+Technically
+Texas
 ISLP
 Iris
 Instance
@@ -3669,6 +3685,9 @@ annual
 accepted
 appeals
 anytime
+afford
+audio
+anti
 Applications
 AI
 Analysis
@@ -4005,6 +4024,9 @@ Act
 Affect
 Agreements
 Agreement
+Alliance
+Association
+America
 with
 without
 want
@@ -4635,6 +4657,9 @@ Patents
 Patent
 Preview
 Person
+Piracy
+Picture
+Poetry
 What
 We
 With
@@ -5292,6 +5317,12 @@ infringing
 invalidated
 installs
 intangibles
+infringed
+imprisonment
+inconvenience
+intentionally
+intellectual
+internet
 Field
 For
 Find
@@ -6570,6 +6601,9 @@ society
 spells
 salable
 sued
+shareware
+suppress
+shirts
 giving
 good
 generalizable
@@ -7582,6 +7616,13 @@ copyrighted
 copyrightable
 citizen
 country
+claimed
+canonical
+compelling
+consent
+cloaked
+criminalizes
+crime
 the
 to
 training
@@ -8035,6 +8076,9 @@ transferring
 transferred
 tangibles
 transmission
+trialware
+trading
+tried
 being
 be
 by
@@ -8817,6 +8861,7 @@ entered
 entering
 enter
 exposure
+enforcement
 programmed
 patterns
 program
@@ -9387,6 +9432,14 @@ protected
 plant
 pertinent
 presence
+punishable
+pirate
+pricing
+purchase
+pirated
+possibilities
+plugged
+protection
 Detecting
 Deepmind
 Dataset
@@ -9723,6 +9776,12 @@ DLL
 Designs
 Disney
 Dalvik
+Demos
+Digital
+DMCA
+DeCSS
+DVD
+DVDs
 regularities
 respect
 recognizing
@@ -10193,6 +10252,10 @@ released
 redistribute
 ruling
 resident
+recording
+rates
+ripping
+rootkit
 model
 mostly
 machine
@@ -10595,6 +10658,7 @@ marketing
 mediums
 monetize
 maintenance
+markets
 hypothesis
 handwritten
 have
@@ -10869,6 +10933,7 @@ hitting
 heroin
 holder
 hear
+home
 Execution
 Examples
 Economics
@@ -11166,6 +11231,7 @@ Enter
 Eligibility
 EULA
 Export
+Element
 using
 utility
 use
@@ -11962,6 +12028,10 @@ death
 desires
 delivered
 downloaded
+duplication
+dongle
+disgruntled
+discs
 future
 from
 feed
@@ -12325,6 +12395,13 @@ flood
 fees
 fighting
 foreign
+famously
+feel
+friend
+fines
+fool
+facto
+facilitate
 Optimziation
 Operations
 Once
@@ -13021,6 +13098,10 @@ viewpoint
 vision
 violating
 violated
+virtually
+videos
+varying
+violation
 numerical
 no
 need
@@ -13998,6 +14079,7 @@ Noisy
 Name
 Netflix
 Nintendo
+Napster
 quality
 question
 quickly
@@ -14666,6 +14748,7 @@ Blocked
 Broken
 Burger
 Beta
+BMG
 just
 jagged
 json
