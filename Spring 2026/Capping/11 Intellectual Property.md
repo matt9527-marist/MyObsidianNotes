@@ -133,7 +133,7 @@ possible to patent it.
 with the invention, even if they come up with an  
 independent implementation  
 	– This means you could demand license payments, or  
-prevent others from using it entirely  
+	prevent others from using it entirely  
 ● Software patents are not recognized in the European  
 Union, so this is a quirk of US law  
 	– This is why VLC is developed by a French company!
