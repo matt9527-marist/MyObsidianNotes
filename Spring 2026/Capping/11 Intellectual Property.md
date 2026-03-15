@@ -214,8 +214,7 @@ where and how the software can be used
 ● All licenses must be translated. For some non-English speaking countries, a contract is not valid  
 if the license is not translated.  
 ● The license must be accepted by the customer both at download and at install time  
-	– Because the person who downloads and the person who installs may not be the same, the license  
-	must be accepted at both times.  
+	– Because the person who downloads and the person who installs may not be the same, the license must be accepted at both times.  
 	– If a product is only delivered on the web, a copy of the license must also be included as part of the  
 downloaded code for future reference.  
 ● Why do we need manager’s signatures?  
