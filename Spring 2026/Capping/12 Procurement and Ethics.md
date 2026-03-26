@@ -41,3 +41,19 @@ Proposals (RFPs), Tender Notices, etc.
 	– T’s & C’s
 	– Change Requests
 
+**Contracts**
+• Five Elements of a Contract  
+	– Offer  
+	– Acceptance  
+	– Consideration (Exchange)  
+	– Capacity  
+	– Legality  
+• Three Phases:  
+	– Pre-acquisition  
+	– Acquisition  
+	– Post Acquisition  
+• Types of Contract  
+– Fixed Price  
+– Cost-Reimbursable (Cost Plus)  
+– Time and Material (T&M)  
+• Governed by the Uniform Commercial Code (UCC)
