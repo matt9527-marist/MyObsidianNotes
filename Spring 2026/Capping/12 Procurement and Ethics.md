@@ -137,17 +137,54 @@ Contract Management and Ethics 11
 **Values and Ethical Behavior**
 Values: Enduring beliefs that a specific mode of conduct is preferred  
 Ethical Behavior: Acting in ways consistent with values  
- Personal values  
- Group values  
- Organizational values  
- Societal values  
+	 Personal values  
+	 Group values  
+	 Organizational values  
+	 Societal values  
 Ethics Management  
- The best way to manage ethical dilemmas, like negative project risks, is to  
-avoid their occurrence in the first place.  
- Make ethics decisions in teams, and make decisions public, as appropriate.  
- Value forgiveness. Help project personnel recognize and address their  
+	 The best way to manage ethical dilemmas, like negative project risks, is to  
+	avoid their occurrence in the first place.  
+	 Make ethics decisions in teams, and make decisions public, as appropriate.  
+	 Value forgiveness. Help project personnel recognize and address their  
 mistakes and then support them to continue to try to operate ethically.  
+
 Project Manager  
- Stakeholder Accountability  
- Professional Accountability  
- Personal Accountability
+	 Stakeholder Accountability  
+	 Professional Accountability  
+	 Personal Accountability
+
+**Professional and Social Responsibility**
+• Ownership of Decisions and Actions  
+	– Make decisions based on the best interest of the company and team, as well as society, rather than your own best  
+	interest  
+	– Only accept assignments you are qualified to complete  
+	– If you are managing something beyond your qualifications then ensure the sponsors knows any gaps before  
+	accepting the assignment  
+	– Do what you say you will do  
+	– Acknowledge your own errors  
+	– Respect confidentiality requirements and protect proprietary information  
+	– Uphold laws  
+	– If you are aware of unethical behavior report it to management  
+• Appropriate treatment of people and resources  
+	– Maintain an attitude of mutual cooperation  
+	– Respect cultural differences  
+	– Do not gossip or say things that could damage another person’s reputation  
+	– Engage in good faith negotiations  
+	– Respect others  
+	– Be direct in dealing with conflict  
+	– Do not use your power or position to influence others for your own benefit
+
+**Professional and Social Responsibility**
+• Being Objective and Making Impartial Decisions  
+	– Act impartially without favoritism, nepotism, bribery or prejudice, and self  
+	examine yourself  
+	– Look for conflicts of interest and disclose them  
+	– Do not discriminate against others  
+	– Honor duty of loyalty to those companies and organizations with who you  
+	are affiliated  
+	– Do not use your position for personal or business gain  
+• Understand the Trust and take action based on truth  
+	– Try to understand the truth  
+	– Be truthful in all communications  
+	– Work to create an environment where others tell the truth  
+	– Do not deceive others
