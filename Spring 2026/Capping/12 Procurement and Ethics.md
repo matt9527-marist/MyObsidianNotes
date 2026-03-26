@@ -57,3 +57,15 @@ Proposals (RFPs), Tender Notices, etc.
 	– Cost-Reimbursable (Cost Plus)  
 	– Time and Material (T&M)  
 • Governed by the Uniform Commercial Code (UCC)
+
+**Fixed Price Contracts**
+![[Pasted image 20260325223435.png]]
+Fixed price contracts are typically used when you know what you are asking for – i.e.  
+your car oil change.
+
+**Time and Material Contracts - Pros & Cons**
+![[Pasted image 20260325223555.png]]
+
+
+
+
