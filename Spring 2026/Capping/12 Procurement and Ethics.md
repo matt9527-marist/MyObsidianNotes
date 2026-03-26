@@ -53,7 +53,7 @@ Proposals (RFPs), Tender Notices, etc.
 	– Acquisition  
 	– Post Acquisition  
 • Types of Contract  
-– Fixed Price  
-– Cost-Reimbursable (Cost Plus)  
-– Time and Material (T&M)  
+	– Fixed Price  
+	– Cost-Reimbursable (Cost Plus)  
+	– Time and Material (T&M)  
 • Governed by the Uniform Commercial Code (UCC)
