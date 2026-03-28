@@ -15,7 +15,7 @@ a plumber). Also known as Make or Buy decision
 • Stakeholder register  
 	– Who are we talking to and their roles; you would not want to negotiate a contract with a non-decision maker  
 • Any procurements already in place on the project  
-	– How many interfaces are already in pace  
+	– How many interfaces are already in place  
 • The project schedule  
 	– Provides schedule constraints, required completion dates, and time estimates  
 • Initial cost estimates for the work to be procured  
