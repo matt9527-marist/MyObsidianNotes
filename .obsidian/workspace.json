@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "12 Procurement and Ethics"
             }
+          },
+          {
+            "id": "2bba323d007748dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5d01b6419627bf0",
+  "active": "2bba323d007748dd",
   "lastOpenFiles": [
     "Assets/Pasted image 20260325223645.png",
     "Assets/Pasted image 20260325223555.png",
