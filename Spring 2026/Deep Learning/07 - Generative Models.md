@@ -49,6 +49,8 @@ Here, we have a normal autoencoder that is learning the input, but not the distr
 ![[Pasted image 20260312205426.png]]
 Variational encoders sample from the mean and standard deviation to learn the parameters of the input. Now, our formula is changed:
 ![[Pasted image 20260312205626.png]]
+**Difference between A**
+
 
 **Reconstruction Loss**
 This is simply measured by the log likelihood between input and output. 
