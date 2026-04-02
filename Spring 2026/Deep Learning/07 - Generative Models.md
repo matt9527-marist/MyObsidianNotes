@@ -49,7 +49,8 @@ Here, we have a normal autoencoder that is learning the input, but not the distr
 ![[Pasted image 20260312205426.png]]
 Variational encoders sample from the mean and standard deviation to learn the parameters of the input. Now, our formula is changed:
 ![[Pasted image 20260312205626.png]]
-**Difference between A**
+**Difference between Normal Autoencoder and VAE**
+A normal autoencoder learns a single compressed input, while a VAE 
 
 
 **Reconstruction Loss**
