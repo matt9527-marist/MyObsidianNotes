@@ -82,3 +82,11 @@ Consider the sampled latent vector `z` as a sum of:
 We want to backpropagate the error. 
 (Determinstic => the value stays the same)
 We can backpropagate the error using the chain of derivatives when `z` is deterministic. 
+
+**Latent Perturbation**
+Slowly increase or decrease the a *single latent variable*, and keep all other variables fixed. 
+Different dimensions of `z` encodes different interpretable latent features. 
+![[Pasted image 20260402193454.png]]
+**Disentanglement**
+Ideally, we want latent variables that are uncorrelated with each other. 
+Enforce diagonal prior on the latent 
