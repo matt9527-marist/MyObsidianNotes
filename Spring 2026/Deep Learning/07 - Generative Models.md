@@ -24,7 +24,8 @@ The disadvantage is that it is difficult for a model to determine what is real o
 
 **Latent Variable Models**
 We want to extend what we have in autoencoders. 
-![[Pasted image 20260312204903.png]]
+![[Pasted image 20260312204903.png|602]]
+What's the main difference between an autoencoder anda
 
 **What is a Latent Variable?**
 *Latent variables mean that we do not see the actual result, but based on the effect, we should still be able to infer what is going on*
