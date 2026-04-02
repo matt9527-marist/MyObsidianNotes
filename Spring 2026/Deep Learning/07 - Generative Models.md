@@ -105,4 +105,11 @@ the *generator* (originally the decoding component of the autoencoder) uses `z` 
 - GANs should force the generator to create fakes as accurately as possible to the reality. 
 - The discriminator should also become better and better at separating the fakes from reality. 
 
-![[Pasted image 20260402194342.png]]
+**Intuition behind GANs**
+![[Pasted image 20260402194342.png|463]]
+![[Pasted image 20260402194350.png|462]]
+![[Pasted image 20260402194430.png|464]]
+![[Pasted image 20260402194454.png|465]]
+
+**Training GANs**
+![[Pasted image 20260402194548.png]]
