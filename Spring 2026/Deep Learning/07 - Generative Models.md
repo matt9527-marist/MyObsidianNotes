@@ -89,4 +89,9 @@ Different dimensions of `z` encodes different interpretable latent features.
 ![[Pasted image 20260402193454.png]]
 **Disentanglement**
 Ideally, we want latent variables that are uncorrelated with each other. 
-Enforce diagonal prior on the latent 
+Enforce diagonal prior on the latent variables to encourage independence
+![[Pasted image 20260402193551.png]]
+
+**Latent Disentanglement with B-VAEs**
+![[Pasted image 20260402193620.png]]
+
