@@ -50,8 +50,10 @@ Here, we have a normal autoencoder that is learning the input, but not the distr
 Variational encoders sample from the mean and standard deviation to learn the parameters of the input. Now, our formula is changed:
 ![[Pasted image 20260312205626.png]]
 **Difference between Normal Autoencoder and VAE**
-A normal autoencoder learns a single compressed input, while a VAE 
+A normal autoencoder learns a single compressed input, while a VAE learns a probability distribution over the latent space 
+Instead of outputting a single `z`, the encoder outputs the mean and standard deviation to define the distribution, so each input maps to a region in latent space, not single point. 
 
+The following are optimizations we can perform with a VAE:
 
 **Reconstruction Loss**
 This is simply measured by the log likelihood between input and output. 
