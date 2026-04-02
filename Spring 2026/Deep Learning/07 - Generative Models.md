@@ -68,7 +68,10 @@ Encourages encodings to distribute evenly around the center, learning an overall
 
 Why? We want to make sure that we follow the regularization. 
 ![[Pasted image 20260312205853.png|608]]
-![[Pasted image 20260402192912.png]]
+![[Pasted image 20260402192912.png|609]]
+![[Pasted image 20260402192933.png|611]]
+![[Pasted image 20260402193017.png|609]]
 
-
+**VAE Computation Graph**
 ![[Pasted image 20260312210106.png]]
+**Reparameterizing the Sampling Layer**
