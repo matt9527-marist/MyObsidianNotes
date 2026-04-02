@@ -95,3 +95,10 @@ Enforce diagonal prior on the latent variables to encourage independence
 **Latent Disentanglement with B-VAEs**
 ![[Pasted image 20260402193620.png]]
 
+**What if we just want to sample?**
+![[Pasted image 20260402193939.png|697]]
+
+## Generative Adversarial Networks (**GANs**)
+We will generate samples, but it will fight with itself. 
+![[Pasted image 20260402194053.png]]
+the *generator* (originally the decoding component of the autoencoder) uses `z` to create an imitation of the data to try and trick the *discriminator*, which tries to identify real data from false data created b
