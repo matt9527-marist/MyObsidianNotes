@@ -118,4 +118,11 @@ What is our **loss function?** for GANs?
 Why is this written in this way? 
 - Consider the log function. 
 - The goal is not to detect the reality, but to detect that the data `D(G(z))` is fake.
-- 
+- The job is the prediction of the fake, not the prediction of the real. 
+
+![[Pasted image 20260402195253.png]]
+**Loss function**: Minimize `D`, Maximize `G`.
+This is why the objectives are adversarial. 
+
+**GANs are Distribution Transformers**
+![[Pasted image 20260402195356.png]]
