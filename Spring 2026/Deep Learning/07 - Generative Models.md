@@ -126,3 +126,12 @@ This is why the objectives are adversarial.
 
 **GANs are Distribution Transformers**
 ![[Pasted image 20260402195356.png]]
+We want to transform the way that a specific element is represented, converting what we have learned to what would be the same behavior. 
+
+How can we extend what we have to different objects?
+
+**Conditional GAN(s)**
+![[Pasted image 20260402195523.png|505]]
+How much data from the fake should be the same as the r
+CGANs example in pictures:
+![[Pasted image 20260402195550.png|506]]
