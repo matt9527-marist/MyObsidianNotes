@@ -36,7 +36,7 @@ What's the main difference between an autoencoder and a GAN?
 ![[Pasted image 20260312205117.png]]
 ![[Pasted image 20260312205125.png]]
 - We have the input, and we can try to reconstruct it to get the output. 
-- We compare the input vs. output to obtain the loss function, which is the difference between the input and reconstruction. 
+- We compare the input vs. output to obtain the loss function, which is the *difference between the input and reconstruction*. 
 - The loss function does not use any labels, but we want to minimize this as much as possible to enable the model to absorb all of the features.
 The only *bottleneck* is the size of the latent space: 
 ![[Pasted image 20260312205322.png]]
