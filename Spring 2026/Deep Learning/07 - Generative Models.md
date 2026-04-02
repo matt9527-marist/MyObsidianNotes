@@ -132,6 +132,6 @@ How can we extend what we have to different objects?
 
 **Conditional GAN(s)**
 ![[Pasted image 20260402195523.png|505]]
-How much data from the fake should be the same as the r
+How much data from the fake should be the same as the real data it is being compared to?
 CGANs example in pictures:
 ![[Pasted image 20260402195550.png|506]]
