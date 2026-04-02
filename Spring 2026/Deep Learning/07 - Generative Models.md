@@ -17,7 +17,8 @@ Why do we want to create fake data?
 
 **Outlier Detection**
 Both advantage and disadvantage. 
-If through the generative models, we could learn about the "usual" distributions, they can help us catch the examples that are unusual or unpredictable. They have the advantage of being abe
+If through the generative models, we could learn about the "usual" distributions, they can help us catch the examples that are unusual or unpredictable. 
+GANs have the advantage of being able to run tests with these edge cases, but there is still not enough data to process what to do with the edge case. 
 ![[Pasted image 20260312204808.png]]
 The disadvantage is that it is difficult for a model to determine what is real or fake (think the danger of self-driving calls)
 
