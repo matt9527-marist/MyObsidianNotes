@@ -75,3 +75,10 @@ Why? We want to make sure that we follow the regularization.
 **VAE Computation Graph**
 ![[Pasted image 20260312210106.png]]
 **Reparameterizing the Sampling Layer**
+Consider the sampled latent vector `z` as a sum of:
+- a fixed mean vector
+- and a fixed standard deviation vector, scaled by random constants drawn from the prior distribution. 
+![[Pasted image 20260402193214.png]]
+We want to backpropagate the error. 
+(Determinstic => the value stays the same)
+We can backpropagate the error using the chain of derivatives when `z` is deterministic. 
