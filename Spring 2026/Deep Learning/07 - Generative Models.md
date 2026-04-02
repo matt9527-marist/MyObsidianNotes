@@ -101,4 +101,8 @@ Enforce diagonal prior on the latent variables to encourage independence
 ## Generative Adversarial Networks (**GANs**)
 We will generate samples, but it will fight with itself. 
 ![[Pasted image 20260402194053.png]]
-the *generator* (originally the decoding component of the autoencoder) uses `z` to create an imitation of the data to try and trick the *discriminator*, which tries to identify real data from false data created b
+the *generator* (originally the decoding component of the autoencoder) uses `z` to create an imitation of the data to try and trick the *discriminator*, which tries to identify real data from false data created by the generator. The goal is to have the generator create samples that are as real as possile to address the issue of completeness. 
+- GANs should force the generator to create fakes as accurately as possible to the reality. 
+- The discriminator should also become better and better at separating the fakes from reality. 
+
+![[Pasted image 20260402194342.png]]
