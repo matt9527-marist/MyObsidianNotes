@@ -301,6 +301,7 @@ MLMj
 MExs
 MHHHHH
 Modeling
+MPEG
 Learning
 Learn
 Let
@@ -552,6 +553,8 @@ LKg
 LxW
 LKf
 Latent
+Lossy
+Learned
 Relevant
 Reading
 Research
@@ -1132,6 +1135,9 @@ lhV
 lcR
 lmM
 latent
+lossy
+lossless
+limitation
 Graphing
 Google
 Game
@@ -2176,6 +2182,7 @@ SUF
 SNyA
 SEeq
 Sdu
+Somewhat
 Keras
 Key
 Kirchhoffs
@@ -2629,6 +2636,7 @@ Tanh
 Trying
 TZT
 TCI
+Today
 ISLP
 Iris
 Instance
@@ -2898,6 +2906,8 @@ Intensify
 Involutional
 Implementations
 Iaw
+III
+Implementable
 and
 ability
 approximation
@@ -3356,6 +3366,7 @@ ald
 axC
 autoencoders
 autoencoder
+attach
 Applications
 AI
 Analysis
@@ -3660,6 +3671,8 @@ AYI
 AjE
 Autoencoding
 Autoencoders
+Audio
+Append
 with
 without
 want
@@ -6003,6 +6016,10 @@ sVnl
 scstd
 synthetic
 shadows
+simplification
+sounds
+specialized
+sampled
 giving
 good
 generalizable
@@ -6917,6 +6934,8 @@ cap
 capability
 csUM
 ctH
+compressing
+char
 the
 to
 training
@@ -7319,6 +7338,10 @@ timestep
 txGK
 tgne
 ttmA
+trivial
+turn
+timesteps
+textual
 being
 be
 by
@@ -7622,6 +7645,7 @@ bLp
 beu
 beuU
 bXa
+believed
 explicitly
 experience
 error
@@ -8047,6 +8071,9 @@ eiJ
 eIm
 evb
 encoders
+engineered
+enforce
+encoder
 programmed
 patterns
 program
@@ -8542,6 +8569,8 @@ pictures
 properties
 poses
 pRq
+practical
+projections
 Detecting
 Deepmind
 Dataset
@@ -8843,6 +8872,7 @@ DNN
 DdD
 DZg
 Distribution
+Decoder
 regularities
 respect
 recognizing
@@ -9259,6 +9289,9 @@ raA
 rBd
 rKfT
 reconstruct
+regenerate
+recreation
+reproduce
 model
 mostly
 machine
@@ -9882,6 +9915,7 @@ hFa
 hwz
 hhh
 hni
+hit
 Execution
 Examples
 Economics
@@ -10152,6 +10186,8 @@ Exploding
 Ebvm
 EDI
 EwC
+Encode
+Encoder
 using
 utility
 use
@@ -10878,6 +10914,15 @@ dKX
 dKz
 disadvantage
 danger
+deocmpression
+decompression
+decompressed
+degraded
+differs
+denoising
+decoder
+decode
+decoding
 future
 from
 feed
@@ -11888,6 +11933,7 @@ vwfz
 vvX
 vqy
 vHF
+videos
 numerical
 no
 need
@@ -14186,6 +14232,7 @@ Jga
 Jfy
 JoY
 Jkzn
+JPEG
 You
 Yw
 Ygy
