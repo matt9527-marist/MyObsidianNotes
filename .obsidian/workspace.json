@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "07 - Generative Models"
             }
+          },
+          {
+            "id": "4ec409e1e986a7fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -270,7 +282,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10a49470c52d883e",
+  "active": "4ec409e1e986a7fc",
   "lastOpenFiles": [
     "Assets/Pasted image 20260312210106.png",
     "Assets/Pasted image 20260312205853.png",
