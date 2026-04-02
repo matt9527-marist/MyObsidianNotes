@@ -27,7 +27,7 @@ We want to extend what we have in autoencoders.
 ![[Pasted image 20260312204903.png|602]]
 What's the main difference between an autoencoder and a GAN?
 *Autoencoder*: Compress input, then reconstruct it. [x --> z --> x], minimizing the difference between the original input and the reconstructed input. 
-*GAN*: Generate 
+*GAN*: Generate new samples from the distribution [z --> G(z)], maximizing how real or true the new samples appear. 
 
 **What is a Latent Variable?**
 *Latent variables mean that we do not see the actual result, but based on the effect, we should still be able to infer what is going on*
