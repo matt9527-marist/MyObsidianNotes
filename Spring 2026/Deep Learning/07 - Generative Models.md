@@ -117,3 +117,5 @@ What is our **loss function?** for GANs?
 ![[Pasted image 20260402194632.png|421]]
 Why is this written in this way? 
 - Consider the log function. 
+- The goal is not to detect the reality, but to detect that the data `D(G(z))` is fake.
+- 
