@@ -113,3 +113,7 @@ the *generator* (originally the decoding component of the autoencoder) uses `z` 
 
 **Training GANs**
 ![[Pasted image 20260402194548.png]]
+What is our **loss function?** for GANs?
+![[Pasted image 20260402194632.png|421]]
+Why is this written in this way? 
+- Consider the log function. 

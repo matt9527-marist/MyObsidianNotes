@@ -7,3 +7,5 @@ simply
 handling
 \Delta
 \varDelta
+\log
+log
