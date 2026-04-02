@@ -7,6 +7,7 @@
 ![[Pasted image 20260312204628.png]]
 We want to create a fake image, video, or text that looks real. How can we tell?
 - It should follow the distribution of real data.
+- We must find the distribution and find the valid sample that fits the distribution as closely as possible (nearest to reality)
 
 **Why Generative Models?**
 ![[Pasted image 20260312204649.png]]
