@@ -144,5 +144,8 @@ CGANs example in pictures:
 We have a scope/noise, and from it, we generate samples. The discriminator is then required to decide whether the samples are real or fake. There is no way for the generator to know the completeness of its samples (how close they are to reality).
 *Why is the dual input of real and fake data given to the discriminator?*
 Because we need both to learn about the distribution. Providing just one will not give understanding about the other.
-*If the generator becom*
+*If the generator becomes perfect, what will the discriminator output, and what does this imply about learning?*
+If the generator becomes perfect, the discriminator should output 0.5. Why? Because it cannot tell whether it is real or fake. This directly means that the fake samples are similar to the real data. 
+*Why is the GAN training described as a minimax game rather than a standard optimization problem?*
+The generator
 
