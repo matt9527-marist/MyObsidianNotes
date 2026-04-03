@@ -149,5 +149,7 @@ If the generator becomes perfect, the discriminator should output 0.5. Why? Beca
 *Why is the GAN training described as a minimax game rather than a standard optimization problem?*
 The generator and discriminator are opposing components. A standard optimization problem focuses on a singular minimization, whereas with GANs, the generator tries to minimizes the successes of the discriminator, and the discriminator tries to maximize its classification accuracy. This is the first case we have seen where is this dual-goal. 
 *Suppose a GAN only learned a certain variety of images? What does this imply about the learned distribution?*
-This indicates that the model has not learned the full distribution, or the distribution is not complete (has )
+This indicates that the model has not learned the full distribution, or the distribution is not complete (has a bias or is missing patterns)
+*Why does the generator use upsampling while the discriminator uses downsampling?*
+The generator takes an already compressed latent representation to generate a much larger size image. The discriminator has merely a binary choice, and therefore, it takes a large amount of data t
 
