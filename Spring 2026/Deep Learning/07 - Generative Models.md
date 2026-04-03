@@ -151,5 +151,7 @@ The generator and discriminator are opposing components. A standard optimization
 *Suppose a GAN only learned a certain variety of images? What does this imply about the learned distribution?*
 This indicates that the model has not learned the full distribution, or the distribution is not complete (has a bias or is missing patterns)
 *Why does the generator use upsampling while the discriminator uses downsampling?*
-The generator takes an already compressed latent representation to generate a much larger size image. The discriminator has merely a binary choice, and therefore, it takes a large amount of data t
+The generator takes an already compressed latent representation to generate a much larger size image. The discriminator has merely a binary choice, and therefore, it takes a large amount of data to make a smaller decision. 
+*Why is the generator often compared to a decoder in autoencoders and what is the key difference?*
+The difference is that it is a deterministic prolem with autoencoders. The input is directly compared with the output?
 
