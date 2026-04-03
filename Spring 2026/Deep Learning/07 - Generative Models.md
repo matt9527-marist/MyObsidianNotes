@@ -163,5 +163,5 @@ Without the discriminator, it would lose the power of determining completeness. 
 *Why is randomness (noise input) essential for creativity and diversity in GAN outputs?*
 The generator gets more variety to produce diverse samples against the discriminator. Difference adds creativity. 
 *If a GAN is trained on biased data, what happens and why?*
-If a GAN only sees one type or one pattern of data, then the 
+If a GAN only sees one type or one pattern of data, then the GAN will only know how to produce samples with that same bias. 
 
