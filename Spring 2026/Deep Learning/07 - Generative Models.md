@@ -74,6 +74,9 @@ Why? We want to make sure that we follow the regularization.
 
 **VAE Computation Graph**
 ![[Pasted image 20260312210106.png]]
+Cannot do backpropagation because random sampling breaks the gradient flow needed for backpropagation. It needs to be deterministic. 
+Because of the sampling function being stochastic (random), `z` is not a smooth differentiable function of the encoder parameters, and as such, we cannot compute the derivative of the loss w.r.t. the encoder parameters. 
+
 **Reparameterizing the Sampling Layer**
 Consider the sampled latent vector `z` as a sum of:
 - a fixed mean vector
