@@ -147,5 +147,7 @@ Because we need both to learn about the distribution. Providing just one will no
 *If the generator becomes perfect, what will the discriminator output, and what does this imply about learning?*
 If the generator becomes perfect, the discriminator should output 0.5. Why? Because it cannot tell whether it is real or fake. This directly means that the fake samples are similar to the real data. 
 *Why is the GAN training described as a minimax game rather than a standard optimization problem?*
-The generator
+The generator and discriminator are opposing components. A standard optimization problem focuses on a singular minimization, whereas with GANs, the generator tries to minimizes the successes of the discriminator, and the discriminator tries to maximize its classification accuracy. This is the first case we have seen where is this dual-goal. 
+*Suppose a GAN only learned a certain variety of images? What does this imply about the learned distribution?*
+This indicates that the model has not learned the full distribution, or the distribution is not complete (has )
 
