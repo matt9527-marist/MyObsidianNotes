@@ -139,3 +139,7 @@ How much data from the fake should be the same as the real data it is being comp
 CGANs example in pictures:
 ![[Pasted image 20260402195550.png|506]]
 
+**Review**
+*Why does the generator need the discriminator?*
+We have a scope/noise, and from it, we generate samples. The discriminator is then required to decide whether the samples are real or fake. There is no way for the generator to know the completeness of its samples (how close they are to real)
+
