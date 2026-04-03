@@ -158,5 +158,10 @@ The generator is compared to the decoder because it similarly takes the latent v
 The competition between the generator and the discriminator forces realistic data to eventually be generated. In the generator's attempts to fool the discriminator, it gradually learns to map the noise into outputs that mimic structures and patterns in reality. 
 *Why are GAN-generated images generally sharper than VAE-generated images?*
 Generative models have adversarial loss than pushes the generator to produce outputs that look indistinguishable from real images. VAE-generation uses reconstruction loss, which tends to average over many plausible inputs. 
-*What would happen if we remove the*
+*What would happen if we remove the discriminator?*
+Without the discriminator, it would lose the power of determining completeness. It will generate data that is not real / does not look real. 
+*Why is randomness (noise input) essential for creativity and diversity in GAN outputs?*
+The generator gets more variety to produce diverse samples against the discriminator. Difference adds creativity. 
+*If a GAN is trained on biased data, what happens and why?*
+If a GAN only sees one type or one pattern of data, then the 
 
