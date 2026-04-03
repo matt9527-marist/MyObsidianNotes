@@ -135,3 +135,4 @@ How can we extend what we have to different objects?
 How much data from the fake should be the same as the real data it is being compared to?
 CGANs example in pictures:
 ![[Pasted image 20260402195550.png|506]]
+
