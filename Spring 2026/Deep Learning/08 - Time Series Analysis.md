@@ -69,3 +69,8 @@ Correlation between lags are 0. Lags are simply, how far do we look back? We exp
 **Auto Regressive Moving Average Model**
 Auto Regressive Moving Average model (ARMA) represented as the past values and error term models: `ARMA(p,q)`
 $$Y_{t} = B_{0} + B_{1}Y_{t} - 1 + \dots + B_{p}Y_{t} - p + et + \Phi*et-1 + \dots + \Phi*et - q$$
+
+ • Strictly stationary:
+ • Marginal distribution of Y at time t[p(Yt)] is the same at any other point in time
+ • Time invariant => mean and variances
+ • Differencing vanishing help us convert non-stationary to stationary to a stationary
