@@ -14,12 +14,15 @@ Time series applications and context:
 
 ![[Pasted image 20260409185341.png]]
 What patterns can we notice about this time series?
-- It is increasing over time. Perhaps air travel and tech
+- It is increasing over time. Perhaps air travel and technology is improving so there is more air travel?
+- If each spike is occurring within a year, that spike can indicate holiday periods or frequent vacation periods where people are traveling a lot. 
 
 **Time Series Components**
 A given time series is thought to consist of three systematic components including level, trend, seasonality, and one non-systematic component called noise. These components can semantically defined as follows: 
-• Level: The average value in the series. 
-• Trend: The increasing or decreasing value in the series. 
-• Seasonality: The repeating short-term cycle in the series. 
-• Noise: The random variation in the series.
+	• Level: The average value in the series. 
+	• Trend: The increasing or decreasing value in the series. 
+	• Seasonality: The repeating short-term cycle in the series. 
+	• Noise: The random variation in the series.
+![[Pasted image 20260409185552.png|371]]
+
 
