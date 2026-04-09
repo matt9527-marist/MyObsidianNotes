@@ -44,5 +44,5 @@ How do we find `b` the coefficients, how do we find the effective weights?
 **Variable Types**
 • covariate: A covariate is a variable that is possibly predictive of the outcome under study. A covariate may be of direct interest or it may be a confounding or interacting variable. The alternative terms explanatory variable, independent variable, or predictor, are used in a regression analysis. (Source: https://educalingo.com/en/dic-en/covariate) 
 • confounder: confounding variable (hidden variable) is a variable that influences both the dependent variable and independent variable, causing a spurious association. (Source: https://en.wikipedia.org/wiki/Confounding 
-	- Parameter that we don't measure, but it has effect in our outcome. Recall the *Hidden Markov Model*
+	- Parameter that we don't measure, but it has effect in our outcome. Recall the *Hidden Markov Model*: we might need contextual information beyond what is strictly observed. For example, a person might take with them an umbrella when they decide to wear a coat, but the pattern is not there. The pattern is that it is raining. 
 • Prognostic factors vs Risk factors (Souce: https://www.healthknowledge.org.uk/public-health textbook/research-methods/1a-epidemiology/sudies-disease-prognosis)
