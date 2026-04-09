@@ -112,3 +112,13 @@ When we have such a plot, we will see a jump followed by a decline. This decides
 
 **Deep Learning Time Series possible objectives**
 ![[Pasted image 20260409194217.png]]
+
+**Time Series Classification**
+![[Pasted image 20260409194953.png]]
+Example: binary classifier (YES | NO) for determining credit card fraud:
+We can use a 
+
+**Time Series via LSTMs**
+We want to make a prediction with weather:
+![[Pasted image 20260409194828.png|288]]
+We can very clearly see the effect of the *seasonality*. Long-Short Term Memory is great for capturing this distribution over time. 
