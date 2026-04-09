@@ -64,4 +64,8 @@ $$AR(2) = B_{0} + B_{1}Y_{t}-1 + B_{2}Y_{t} - 2 + et$$
 *White Noise*
 `E(et) = 0`
 `Var(et) = sigma^2`
-Correlation between lags are 0. Lags are simply, how far do we look back? We can say that the 
+Correlation between lags are 0. Lags are simply, how far do we look back? We expect that there are no patterns in the white noise between lags. This is also why we call it residual, as this will indicate if our model is missing an important pattern. 
+
+**Auto Regressive Moving Average Model**
+Auto Regressive Moving Average model (ARMA) represented as the past values and error term models: `ARMA(p,q)`
+$$Y_{t} = B_{0} + B_{1}Y_{t} - 1 + \dots B_{p}Y_{t} - p + et + \Phi*et$$
