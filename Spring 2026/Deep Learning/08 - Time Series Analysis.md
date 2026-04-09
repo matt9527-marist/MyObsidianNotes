@@ -86,7 +86,7 @@ It is very important form theoretical point of view since most standards methods
 ![[Pasted image 20260409193450.png|474]]
 
 **Box-Jenkins Methodology**
-Trying a different technique to make predi
+Trying a different technique to make predictions:
 • It is a forecasting methodology based on:
 	 • Identification
 	 • Estimation
@@ -95,3 +95,6 @@ Trying a different technique to make predi
  2. Stationary => do time-series analysis
  3. Non-stationary => do differentiation, return to 2
 
+**Autocorrelation Function (ACF)**
+![[Pasted image 20260409193729.png]]
+Computes the difference between the lags. With `p` we are making a prediction 
