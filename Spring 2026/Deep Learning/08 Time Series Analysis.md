@@ -9,4 +9,17 @@ Time series applications and context:
 
 **Terminology**
 *Systematic* vs. *Non-Systematic*:
-- Systematic: components of the time series that have consistency or recurrence and cna be described and modele
+- Systematic: components of the time series that have consistency or recurrence and cna be described and modeled. These elements can be extracted from the time series that help us to capture the general pattern. 
+- Non-Systematic: Components of the time series that cannot be directly modeled.
+
+![[Pasted image 20260409185341.png]]
+What patterns can we notice about this time series?
+- It is increasing over time. Perhaps air travel and tech
+
+**Time Series Components**
+A given time series is thought to consist of three systematic components including level, trend, seasonality, and one non-systematic component called noise. These components can semantically defined as follows: 
+• Level: The average value in the series. 
+• Trend: The increasing or decreasing value in the series. 
+• Seasonality: The repeating short-term cycle in the series. 
+• Noise: The random variation in the series.
+
