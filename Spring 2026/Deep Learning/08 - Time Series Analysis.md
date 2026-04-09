@@ -134,4 +134,20 @@ Why did we not go with the LSTM or another model here?
 2) Objective:
 	- Find specific events. 
 	- Our goal is not to find the pattern, since we are not trying to make a prediction using the seasonality or trend. 
-	- When we want to find a specific event that is deviating from the rest, we just want to pick up that object. 
+	- When we want to find a specific event that is deviating from the rest, we just want to pick up that object. This model will magnify that event, using convolutional layers. The data can still be viewed as a picture. 
+
+ • Model usage:
+	 We will build a convolutional reconstruction autoencoder model. The model will 
+	take input of shape (batch_size, sequence_length, num_features) and return output 
+	of the same shape. In this case, sequence_length is 288 and num_features is 1.
+
+ • Detecting anomalies stage:
+	 We will detect anomalies by determining how well our model can reconstruct the 
+	input data.
+
+ 1. Find MAE loss on training samples.
+ 2. Find max MAE loss value. This is the worst our model has performed trying to reconstruct a 
+sample. We will make this the threshold for anomaly detection.
+ 3. If the reconstruction loss for a sample is greater than this threshold value then we can infer 
+that the model is seeing a pattern that it isn't familiar with. We will label this sample as an 
+anomaly
