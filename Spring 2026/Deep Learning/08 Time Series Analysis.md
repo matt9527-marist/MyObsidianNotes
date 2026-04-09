@@ -48,7 +48,7 @@ How do we find `b` the coefficients, how do we find the effective weights?
 • Prognostic factors vs Risk factors (Souce: https://www.healthknowledge.org.uk/public-health textbook/research-methods/1a-epidemiology/sudies-disease-prognosis)
 
 **The Problem of Multivariate Forecasting, like regression**
-the di
+The difference between single variable and multivariate OLS is simply the presence of multiple inputs and multiple coefficients. 
 • Covariates may not available all the time 
 • There is a restriction 
 • You do not know which covariates make y
