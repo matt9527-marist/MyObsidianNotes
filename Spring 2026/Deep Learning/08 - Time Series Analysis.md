@@ -77,3 +77,4 @@ $$Y_{t} = B_{0} + B_{1}Y_{t} - 1 + \dots + B_{p}Y_{t} - p + et + \Phi*et-1 + \do
 $$d(f(Y_{1})) / d(y_{1})$$
 ![[Pasted image 20260409193024.png|585]]
 
+$$ARIMA(p=3(Y_{t}? \leq Y_{t}-1,Y))$$
