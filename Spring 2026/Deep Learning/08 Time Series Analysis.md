@@ -7,3 +7,6 @@ Time series applications and context:
 
 ![[Pasted image 20260409184548.png|527]]
 
+**Terminology**
+*Systematic* vs. *Non-Systematic*:
+- Systematic: components of the time series that have consistency or recurrence and cna be described and modele
