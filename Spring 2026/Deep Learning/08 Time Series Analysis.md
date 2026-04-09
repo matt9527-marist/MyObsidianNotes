@@ -35,3 +35,6 @@ We should not see any patterns in the residual.
 In statistics, ordinary least squares (OLS) is a type of linear least squares method for estimating the unknown parameters in a linear regression model.
 Simplest model we can use for this purpose:
 
+$$Y = \beta_{0} + \beta_{1}X_{1} + \beta_{2}X_{2} + \dots + B_{k}X_{k} + \epsilon$$
+**Simple Regression**
+![[Pasted image 20260409190337.png]]
