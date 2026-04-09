@@ -24,5 +24,7 @@ A given time series is thought to consist of three systematic components includi
 	• Seasonality: The repeating short-term cycle in the series. 
 	• Noise: The random variation in the series.
 ![[Pasted image 20260409185552.png|371]]
+*Goal*: We want to extract a pattern from the data. A successful model here is indicated by the lack of any pattern in the residual.
+We should not see any patterns in the residual.
 
 
