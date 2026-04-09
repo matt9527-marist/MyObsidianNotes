@@ -116,9 +116,18 @@ When we have such a plot, we will see a jump followed by a decline. This decides
 **Time Series Classification**
 ![[Pasted image 20260409194953.png]]
 Example: binary classifier (YES | NO) for determining credit card fraud:
-We can use a 
+We can use a standard Keras model with a dense layer output of 1. 
 
 **Time Series via LSTMs**
 We want to make a prediction with weather:
 ![[Pasted image 20260409194828.png|288]]
 We can very clearly see the effect of the *seasonality*. Long-Short Term Memory is great for capturing this distribution over time. 
+
+**Time Series Anomaly Detection**
+![[Pasted image 20260409195037.png|602]]
+Why did we not go with the LSTM or another model here? 
+- Remember the purpose of using an autoencoder. 
+1) Cost:
+	- What was the cost of the different layers that we have? 
+	- 
+2) Objective:
