@@ -39,5 +39,5 @@ $$Y = \beta_{0} + \beta_{1}X_{1} + \beta_{2}X_{2} + \dots + B_{k}X_{k} + \epsilo
 **Simple Regression**
 ![[Pasted image 20260409190337.png]]
 How do we find `b` the coefficients, how do we find the effective weights? 
-- SGD 
+- SGD - Stochastic Gradient Descent 
 - 
