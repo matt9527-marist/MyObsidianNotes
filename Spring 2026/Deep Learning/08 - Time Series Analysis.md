@@ -106,3 +106,6 @@ When we have such a plot, we will see a jump followed by a decline. This decides
  • Hidden Markov Model (HMM)
  • Deep Neural Networks
  • Fast Fourier Transform
+
+**Performance Summary**
+![[Pasted image 20260409194038.png|649]]
