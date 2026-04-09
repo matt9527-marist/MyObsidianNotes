@@ -27,4 +27,11 @@ A given time series is thought to consist of three systematic components includi
 *Goal*: We want to extract a pattern from the data. A successful model here is indicated by the lack of any pattern in the residual.
 We should not see any patterns in the residual.
 
+![[Pasted image 20260409190055.png|575]]
+- Cross-sectional analysis: measuring the data at once time step. 
+- Longitudinal data: measuring the data across several time steps. 
+
+**Ordinary Regression Models**
+In statistics, ordinary least squares (OLS) is a type of linear least squares method for estimating the unknown parameters in a linear regression model.
+Simplest model we can use for this purpose:
 
