@@ -109,3 +109,6 @@ When we have such a plot, we will see a jump followed by a decline. This decides
 
 **Performance Summary**
 ![[Pasted image 20260409194038.png|649]]
+
+**Deep Learning Time Series possible objectives**
+![[Pasted image 20260409194217.png]]
