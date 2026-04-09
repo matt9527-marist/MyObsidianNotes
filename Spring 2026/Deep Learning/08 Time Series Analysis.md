@@ -4,3 +4,6 @@ Time series applications and context:
 - Making predictions 
 - Anomaly detection 
 - Counterfactual prediction (if we do something, how will it affect the future?)
+
+![[Pasted image 20260409184548.png|527]]
+
