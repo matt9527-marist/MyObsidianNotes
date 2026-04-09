@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mark",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,8 +285,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb591b961291a489",
+  "active": "420ad5a11d73016d",
   "lastOpenFiles": [
+    "Assets/Pasted image 20260409191336.png",
     "Assets/Pasted image 20260409190337.png",
     "Assets/Pasted image 20260409190055.png",
     "Assets/Pasted image 20260409185552.png",
@@ -300,7 +301,6 @@
     "Spring 2026/Deep Learning/Review.md",
     "Assets/Pasted image 20260402195550.png",
     "Assets/Pasted image 20260402195523.png",
-    "Assets/Pasted image 20260402195516.png",
     "Spring 2026/Deep Learning/06 - Autoencoders and Attention Mechanism.md",
     "conflict-files-obsidian-git.md",
     "Spring 2026/Capping/12 Procurement and Ethics.md",

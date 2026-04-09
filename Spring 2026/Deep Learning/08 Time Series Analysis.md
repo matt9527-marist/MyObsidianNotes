@@ -46,3 +46,11 @@ How do we find `b` the coefficients, how do we find the effective weights?
 • confounder: confounding variable (hidden variable) is a variable that influences both the dependent variable and independent variable, causing a spurious association. (Source: https://en.wikipedia.org/wiki/Confounding 
 	- Parameter that we don't measure, but it has effect in our outcome. Recall the *Hidden Markov Model*: we might need contextual information beyond what is strictly observed. For example, a person might take with them an umbrella when they decide to wear a coat, but the pattern is not there. The pattern is that it is raining. 
 • Prognostic factors vs Risk factors (Souce: https://www.healthknowledge.org.uk/public-health textbook/research-methods/1a-epidemiology/sudies-disease-prognosis)
+
+**The Problem of Multivariate Forecasting, like regression**
+the di
+• Covariates may not available all the time 
+• There is a restriction 
+• You do not know which covariates make y
+![[Pasted image 20260409191336.png|487]]
+
