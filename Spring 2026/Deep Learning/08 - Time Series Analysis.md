@@ -97,4 +97,12 @@ Trying a different technique to make predictions:
 
 **Autocorrelation Function (ACF)**
 ![[Pasted image 20260409193729.png]]
-Computes the difference between the lags. With `p` we are making a prediction 
+Computes the difference between the lags. With `p` we are making a prediction some number of steps before. How many lags do we consider to make this prediction?
+When we have such a plot, we will see a jump followed by a decline. This decides`p` for us based on the value that we have after the highest jump. 
+
+**Advanced Time Series Predictions**
+• Time Series Clustering
+ • Time Series Classification
+ • Hidden Markov Model (HMM)
+ • Deep Neural Networks
+ • Fast Fourier Transform
