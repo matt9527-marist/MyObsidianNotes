@@ -888,7 +888,6 @@ looking
 little
 logarithm
 logarithms
-log
 logisticregression
 lack
 limits
@@ -4265,6 +4264,7 @@ PBi
 PFf
 Priors
 Perturbation
+Providing
 What
 We
 With
@@ -4866,6 +4866,8 @@ iAZ
 iaDs
 isolated
 imitation
+imply
+indistinguishable
 Field
 For
 Find
@@ -5426,6 +5428,7 @@ oscillation
 outperform
 oaWT
 outputting
+opposing
 study
 simplified
 something
@@ -6038,6 +6041,8 @@ specialized
 sampled
 smooth
 stays
+successes
+sharper
 giving
 good
 generalizable
@@ -6326,6 +6331,7 @@ gfM
 ggC
 gKe
 gwu
+gradually
 computers
 computer
 can
@@ -6955,6 +6961,8 @@ ctH
 compressing
 char
 completeness
+competition
+creativity
 the
 to
 training
@@ -8596,6 +8604,9 @@ pRq
 practical
 projections
 possile
+prolem
+pushes
+plausible
 Detecting
 Deepmind
 Dataset
@@ -9322,6 +9333,7 @@ recreation
 reproduce
 reconstructed
 reconstruction
+remove
 model
 mostly
 machine
@@ -9689,6 +9701,9 @@ mwZ
 mmI
 meP
 mrt
+minimax
+minimization
+mimic
 hypothesis
 handwritten
 have
@@ -10490,6 +10505,7 @@ usM
 ukW
 unusual
 unsupervised
+upsampling
 data
 driven
 dataset
@@ -10957,6 +10973,8 @@ decode
 decoding
 deterministic
 discriminator
+downsampling
+diversity
 future
 from
 feed
@@ -11285,6 +11303,9 @@ fgC
 fake
 fight
 fakes
+focuses
+forces
+fool
 Optimziation
 Operations
 Once

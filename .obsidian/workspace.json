@@ -118,21 +118,9 @@
               "icon": "lucide-file",
               "title": "07 - Generative Models"
             }
-          },
-          {
-            "id": "010fed0dc62c6ac4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -282,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "010fed0dc62c6ac4",
+  "active": "10a49470c52d883e",
   "lastOpenFiles": [
     "Spring 2026/Deep Learning/Review.md",
     "Spring 2026/Deep Learning/07 - Generative Models.md",
