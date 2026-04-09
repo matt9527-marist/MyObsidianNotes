@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -284,7 +285,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "420ad5a11d73016d",
+  "active": "bb591b961291a489",
   "lastOpenFiles": [
     "Assets/Pasted image 20260409190337.png",
     "Assets/Pasted image 20260409190055.png",

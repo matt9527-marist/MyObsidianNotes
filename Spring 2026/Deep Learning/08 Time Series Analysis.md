@@ -40,4 +40,9 @@ $$Y = \beta_{0} + \beta_{1}X_{1} + \beta_{2}X_{2} + \dots + B_{k}X_{k} + \epsilo
 ![[Pasted image 20260409190337.png]]
 How do we find `b` the coefficients, how do we find the effective weights? 
 - SGD - Stochastic Gradient Descent 
-- 
+
+**Variable Types**
+• covariate: A covariate is a variable that is possibly predictive of the outcome under study. A covariate may be of direct interest or it may be a confounding or interacting variable. The alternative terms explanatory variable, independent variable, or predictor, are used in a regression analysis. (Source: https://educalingo.com/en/dic-en/covariate) 
+• confounder: confounding variable (hidden variable) is a variable that influences both the dependent variable and independent variable, causing a spurious association. (Source: https://en.wikipedia.org/wiki/Confounding 
+	- Parameter that we don't measure, but it has effect in our outcome. Recall the *Hidden Markov Model*
+• Prognostic factors vs Risk factors (Souce: https://www.healthknowledge.org.uk/public-health textbook/research-methods/1a-epidemiology/sudies-disease-prognosis)
