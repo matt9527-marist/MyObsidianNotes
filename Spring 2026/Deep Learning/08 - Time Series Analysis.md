@@ -57,4 +57,7 @@ The difference between single variable and multivariate OLS is simply the presen
 **Autoregressive Models**
 An AR model is one that `Yt` depends only on its own past values: `Yt-1, Yt-2, ...`
 The model assumes that we have enough data to predict right now, without considering external factors. 
-How many past v
+How many past values => `AR(P)`
+$$AR(2) = B_{0} + B_{1}Y_{t}-1 + B_{2}Y_{t} - 2 + et$$
+`et` is just white noise, which does not change over time. 
+
