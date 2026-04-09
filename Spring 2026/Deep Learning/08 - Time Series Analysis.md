@@ -61,3 +61,7 @@ How many past values => `AR(P)`
 $$AR(2) = B_{0} + B_{1}Y_{t}-1 + B_{2}Y_{t} - 2 + et$$
 `et` is just white noise, which does not change over time. 
 
+*White Noise*
+`E(et) = 0`
+`Var(et) = sigma^2`
+Correlation between lags are 0. Lags are simply, how far do we look back? We can say that the 
