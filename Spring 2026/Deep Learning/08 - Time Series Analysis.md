@@ -77,4 +77,21 @@ $$Y_{t} = B_{0} + B_{1}Y_{t} - 1 + \dots + B_{p}Y_{t} - p + et + \Phi*et-1 + \do
 $$d(f(Y_{1})) / d(y_{1})$$
 ![[Pasted image 20260409193024.png|585]]
 
-$$ARIMA(p=3(Y_{t}? \leq Y_{t}-1,Y))$$
+$$ARIMA(p=3(Y_{t}? \leq Y_{t}-1,Y_{t}-2,Y_{t}-3), d, q)$$
+I => Integrated 
+In general a series which is stationary after being differentiated `d` times is said to be integrated of order `d`, denoted `I(d)`.
+
+**Stationary Assumption**
+It is very important form theoretical point of view since most standards methods are valid in stationary condition. Also, sometime OLS provide specious significant correlation.
+![[Pasted image 20260409193450.png|474]]
+
+**Box-Jenkins Methodology**
+Trying a different technique to make predi
+• It is a forecasting methodology based on:
+	 • Identification
+	 • Estimation
+	 • Diagnostic checking
+ 1. Is it white noise => stop
+ 2. Stationary => do time-series analysis
+ 3. Non-stationary => do differentiation, return to 2
+
