@@ -129,5 +129,9 @@ Why did we not go with the LSTM or another model here?
 - Remember the purpose of using an autoencoder. 
 1) Cost:
 	- What was the cost of the different layers that we have? 
-	- 
+	- RNN > MLP > CNN
+	- CNN here is better.
 2) Objective:
+	- Find specific events. 
+	- Our goal is not to find the pattern, since we are not trying to make a prediction using the seasonality or trend. 
+	- When we want to find a specific event that is deviating from the rest, we just want to pick up that object. 
