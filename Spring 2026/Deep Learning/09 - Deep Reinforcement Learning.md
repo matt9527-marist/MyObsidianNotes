@@ -22,6 +22,9 @@ The game Go might appear simple, but considering all of the possible decision tr
 ![[Pasted image 20260416193304.png|418]]
 *State* - current situation or observation of the environment 
 *Action* - decision taken by the agent based on the state
-*Observation* - what the a
+*Observation* - what the agent observes from the environment to inform the next action 
+*Reward* - what the agent receives from acting upon the environment (correctly), which the agent wants to maximize
 
 **Introductory Example to RL**
+![[Pasted image 20260416193523.png]]
+
