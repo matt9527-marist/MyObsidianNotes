@@ -78,4 +78,12 @@ A policy `pi` is a function from S to A that specifies what action to take in ea
 Objective: Find policy `pi` that maximizes cumulative discount reward: `sum(t>0) gamma^(t)r_t`
 
 Through this problem, we have our Q-table telling us what actions are available for each state, and what rewards will result from those actions, and we have the Bellman equation telling us the best policy to have. 
-One question: If we have such a small environment that we have only 5 stages with only 2 actions, as in the case with the recycling probl
+One question: If we have such a small environment that we have only 5 stages with only 2 actions, as in the case with the recycling problem, we end up with Q-table that is 10 different states each time. Consider what happens when we have more states and more actions. This Q-table can expontentially explode. 
+
+**Deep Q-Learning**
+We want to find a Q-function to replace the Q-table.
+![[Pasted image 20260416195415.png|549]]
+Use a network to determine what the best action is. Have it learn the action that gives the most reward through backpropagation.
+But how do we compute the loss?
+
+![[Pasted image 20260416195517.png|605]]
