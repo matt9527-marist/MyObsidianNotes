@@ -170,3 +170,6 @@ Confounding - hidden variables that, when not considered, can lead us to miscalc
 Dependent variable - what we're trying to predict 
 Explanatory variable - the data in input X that we are using to predict the dependent variable
 **What is the advantage of ARIMA to AR and ARMA models?**
+ARIMA can handle non-stationary data, whereas AR and ARMA models need stationary data. 
+**Spurious Correlation**
+When two variables move together but actually are not correlated at all. This might be some hidden variable
