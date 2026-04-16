@@ -176,4 +176,6 @@ When two variables move together but actually are not correlated at all. This mi
 **How autocorrelation function (ACF) relates to auto-regressive model (AR)?**
 ACFs measure how a time series relates to its own past values, which an AR is trying to model mathematically. 
 **What deep architecture do we want to use for payment fraud and why?**
-We would want to use an MLP, consisting of multiple dense layers to explore all of the fea
+We would want to use an MLP, consisting of multiple dense layers to explore all of the features and Sigmoid activation to clamp between 0 and 1. 
+**What deep architecture do we want to use for weather prediction and why?**
+We would want to use an LSTM. This 
