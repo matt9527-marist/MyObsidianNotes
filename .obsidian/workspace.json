@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Deep Learning/08 - Time Series Analysis.md",
+                "file": "Spring 2026/Deep Learning/09 - Deep Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - Time Series Analysis"
+              "title": "09 - Deep Reinforcement Learning"
             }
           }
         ],
@@ -286,8 +286,10 @@
   },
   "active": "9d431b3c7afa302c",
   "lastOpenFiles": [
-    "Spring 2026/Deep Learning/Review.md",
+    "Assets/Pasted image 20260416192547.png",
+    "Assets/Pasted image 20260416192537.png",
     "Spring 2026/Deep Learning/08 - Time Series Analysis.md",
+    "Spring 2026/Deep Learning/Review.md",
     "Spring 2026/Deep Learning/09 - Deep Reinforcement Learning.md",
     "Assets/Pasted image 20260409195037.png",
     "Assets/Pasted image 20260409194953.png",
@@ -299,7 +301,6 @@
     "Assets/Pasted image 20260409193024.png",
     "Spring 2026/Deep Learning/07 - Generative Models.md",
     "Assets/Pasted image 20260409191336.png",
-    "Assets/Pasted image 20260409190337.png",
     "Spring 2026/Deep Learning/06 - Autoencoders and Attention Mechanism.md",
     "conflict-files-obsidian-git.md",
     "Spring 2026/Capping/12 Procurement and Ethics.md",
@@ -322,7 +323,6 @@
     "Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
     "Spring 2026/Capping/02 Project Components and Design Documents.md",
     "Spring 2026/Deep Learning",
-    "Spring 2026/Capping/01 History of Project Management.md",
     "Spring 2026/Capping",
     "Spring 2026",
     "Fall 2025/Machine Learning/Midterm Review/Classification.canvas",
