@@ -178,4 +178,6 @@ ACFs measure how a time series relates to its own past values, which an AR is tr
 **What deep architecture do we want to use for payment fraud and why?**
 We would want to use an MLP, consisting of multiple dense layers to explore all of the features and Sigmoid activation to clamp between 0 and 1. 
 **What deep architecture do we want to use for weather prediction and why?**
-We would want to use an LSTM. This 
+We would want to use an LSTM. LSTMs use gates to help with memorization, forgetting, and focusing, which is great for pattern absorption over periods of time. In weather data, we have seasonality, temperature, cyclical patterns that must be retained to make an accurate prediction. 
+**What deep architecture do we want to use for anomay detection and why?**
+We would want to use a CNN. 
