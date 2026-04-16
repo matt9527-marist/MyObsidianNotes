@@ -68,3 +68,10 @@ Bellman equation satisfied by the optimal Q-Table.
 - *Markov Property*: current state completely characterizes the state of the world. 
 ![[Pasted image 20260416194856.png|584]]
 
+- At time step 0, the environment samples initial state `s0 ~ p(s0)` (we are not certain where we are)
+- For `t=0` until done:
+	- Agent selections action `a_t`
+	- Environment samples reward `r_t ~ R(.|s_t, a_t)`
+	- Environment samples next state `s_t+1 ~ P (.|s_t, a_t)`
+	- Agent receives reward `r_t` and next state `s_t+1`
+A policy `pi`
