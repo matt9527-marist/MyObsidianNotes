@@ -90,3 +90,6 @@ But how do we compute the loss?
 ![[Pasted image 20260416195701.png|605]]
 How should we do the backpropagation? We can use simple SGD, but there are many options. 
 
+**Initial Pseudocode**
+![[Pasted image 20260416195802.png|560]]
+
