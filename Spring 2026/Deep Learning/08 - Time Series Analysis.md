@@ -159,4 +159,9 @@ anomaly
 - Bayesian AR Models
 - General machine learning (feature extraction)
 - Deep Learning 
-**Systematic vs. Non-systematic Comp**
+**Systematic vs. Non-systematic Components?**
+Systematic- structured changes like seasonality and trend 
+Non-systematic - unstructured, cannot be modeled
+**Cross-sectional vs. Longitudinal Analysis?**
+Cross-sectional - look at many inputs and compare them between each other. 
+Longitudinal - look at one input and compare it with itself across time. 
