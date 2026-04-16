@@ -50,3 +50,21 @@ Now we have this Q-Table of possible actions to perform, but how do we choose th
 Variables:
 - environment
 - agent
+- state 
+- action 
+- reward
+- total return 
+- discount factor 
+Q-Table:
+- matrix of entries 
+- representing how good it is to take a certain action at a state `s`
+Policy:
+- Function that tells us what is the best strategy to adapt 
+Bellman equation satisfied by the optimal Q-Table. 
+(Why is Bellman the most optimal? Independent research question)
+
+**Markov Decision Process**
+- mathematical formulation of the RL problem 
+- *Markov Property*: current state completely characterizes the state of the world. 
+![[Pasted image 20260416194856.png|584]]
+
