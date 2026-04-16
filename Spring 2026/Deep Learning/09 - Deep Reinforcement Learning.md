@@ -33,4 +33,9 @@ Many ways to think about it:
 $$R = \sum^{\inf}_{t = 0} \gamma^tr_{t} = r_{0} + \gamma r_{1} + \gamma^2r_{2}$$
 - We must first understand the name of the space. 
 - We do this in operational analysis through a **Q-Table**
-
+![[Pasted image 20260416193848.png]]
+What is a **Q-Table?**
+- We have actions and the states. 
+- Computes all of the situations. 
+- "I am in x state and I have y possible actions. What's the best action to take from y?"
+What is the optimal Q value with 
