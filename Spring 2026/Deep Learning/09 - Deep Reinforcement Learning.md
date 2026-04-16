@@ -41,3 +41,12 @@ What is a **Q-Table?**
 How do we select `gamma`?
 What is the optimal Q value with consideration of discount return?
 ![[Pasted image 20260416194054.png]]
+
+Now we have this Q-Table of possible actions to perform, but how do we choose the action? 
+- Use the *Bellman Equation*. 
+- If we go with this action, we will have the highest reward outcome. 
+
+**Review So Far**
+Variables:
+- environment
+- agent
