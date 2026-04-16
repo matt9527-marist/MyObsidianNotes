@@ -165,3 +165,8 @@ Non-systematic - unstructured, cannot be modeled
 **Cross-sectional vs. Longitudinal Analysis?**
 Cross-sectional - look at many inputs and compare them between each other. 
 Longitudinal - look at one input and compare it with itself across time. 
+**Confounding, Explanatory, and Dependent Variables**
+Confounding - hidden variables that, when not considered, can lead us to miscalculation or making incorrect assumptions about correlation. They are hidden, but affect the dependent variable and independent variables. 
+Dependent variable - what we're trying to predict 
+Explanatory variable - the data in input X that we are using to predict the dependent variable
+**What is the advantage of ARIMA to AR and ARMA models?**
