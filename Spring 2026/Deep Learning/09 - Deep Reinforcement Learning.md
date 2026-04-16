@@ -27,4 +27,10 @@ The game Go might appear simple, but considering all of the possible decision tr
 
 **Introductory Example to RL**
 ![[Pasted image 20260416193523.png]]
+By what policy do we make a decision? 
+Many ways to think about it:
+- One way is called *Discounted Return*, which is one policy we can follow:
+$$R = \sum^{\inf}_{t = 0} \gamma^tr_{t} = r_{0} + \gamma r_{1} + \gamma^2r_{2}$$
+- We must first understand the name of the space. 
+- We do this in operational analysis through a **Q-Table**
 
