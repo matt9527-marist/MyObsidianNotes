@@ -17,4 +17,11 @@ The game Go might appear simple, but considering all of the possible decision tr
 
 ![[Pasted image 20260416193149.png|403]]
 ![[Pasted image 20260416193158.png|407]]![[Pasted image 20260416193213.png|414]]
-![[Pasted image 20260416193225.png]]
+![[Pasted image 20260416193225.png|414]]
+![[Pasted image 20260416193248.png|416]]
+![[Pasted image 20260416193304.png|418]]
+*State* - current situation or observation of the environment 
+*Action* - decision taken by the agent based on the state
+*Observation* - what the a
+
+**Introductory Example to RL**
