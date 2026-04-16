@@ -153,3 +153,10 @@ sample. We will make this the threshold for anomaly detection.
 that the model is seeing a pattern that it isn't familiar with. We will label this sample as an 
 anomaly
 
+### Review 
+**What are the 4 time series prediction methods?**
+- Classic Auto-regressive (AR) models 
+- Bayesian AR Models
+- General machine learning (feature extraction)
+- Deep Learning 
+**Systematic vs. Non-systematic Comp**
