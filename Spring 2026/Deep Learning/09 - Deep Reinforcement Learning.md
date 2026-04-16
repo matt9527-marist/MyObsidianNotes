@@ -87,3 +87,6 @@ Use a network to determine what the best action is. Have it learn the action tha
 But how do we compute the loss?
 
 ![[Pasted image 20260416195517.png|605]]
+![[Pasted image 20260416195701.png|605]]
+How should we do the backpropagation? We can use simple SGD, but there are many options. 
+
