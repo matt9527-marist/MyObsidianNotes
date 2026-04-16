@@ -7,4 +7,7 @@ What is *reinforcement learning*?
 - Examples: 
 ![[Pasted image 20260416192739.png]]
 The game Go might appear simple, but considering all of the possible decision trees for a single game, it can be a massive task. 
-- Rin
+- Reinforcement learning: when do we use it? *When we know the solution, but the decision space is very large*. We call this decision space a namespace. 
+- It is not like supervised learning where a set of actions can be performed correctly and then the job is complete. This is a continuing sequence of actions, done in this case to win a game. 
+- We also need reinforcement learning for games, robotics, and marketing. 
+
