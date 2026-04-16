@@ -74,4 +74,8 @@ Bellman equation satisfied by the optimal Q-Table.
 	- Environment samples reward `r_t ~ R(.|s_t, a_t)`
 	- Environment samples next state `s_t+1 ~ P (.|s_t, a_t)`
 	- Agent receives reward `r_t` and next state `s_t+1`
-A policy `pi`
+A policy `pi` is a function from S to A that specifies what action to take in each state. 
+Objective: Find policy `pi` that maximizes cumulative discount reward: `sum(t>0) gamma^(t)r_t`
+
+Through this problem, we have our Q-table telling us what actions are available for each state, and what rewards will result from those actions, and we have the Bellman equation telling us the best policy to have. 
+One question: If we have such a small environment that we have only 5 stages with only 2 actions, as in the case with the recycling probl
