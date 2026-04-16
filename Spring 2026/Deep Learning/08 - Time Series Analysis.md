@@ -174,4 +174,6 @@ ARIMA can handle non-stationary data, whereas AR and ARMA models need stationary
 **Spurious Correlation**
 When two variables move together but actually are not correlated at all. This might be some confounding variable affecting both. 
 **How autocorrelation function (ACF) relates to auto-regressive model (AR)?**
-ACFs measure how a time series relates to its own past values, which an AR is trying to model mathematically. 
+ACFs measure how a time series relates to its own past values, which an AR is trying to model mathematically. The ARIMA(p, d, q) describe the following:
+- `p` the number of lag observations used for AR model 
+- `d` the number of times that the raw observations 
