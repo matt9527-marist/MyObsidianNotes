@@ -11,3 +11,10 @@ The game Go might appear simple, but considering all of the possible decision tr
 - It is not like supervised learning where a set of actions can be performed correctly and then the job is complete. This is a continuing sequence of actions, done in this case to win a game. 
 - We also need reinforcement learning for games, robotics, and marketing. 
 
+## Reinforcement Learning 
+#ReinforcementLearning 
+![[Pasted image 20260416193120.png]]
+
+![[Pasted image 20260416193149.png|403]]
+![[Pasted image 20260416193158.png|407]]![[Pasted image 20260416193213.png|414]]
+![[Pasted image 20260416193225.png]]
