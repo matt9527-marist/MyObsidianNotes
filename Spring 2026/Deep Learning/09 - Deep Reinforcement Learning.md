@@ -15,8 +15,8 @@ The game Go might appear simple, but considering all of the possible decision tr
 #ReinforcementLearning 
 ![[Pasted image 20260416193120.png]]
 
-![[Pasted image 20260416193149.png|403]]
-![[Pasted image 20260416193158.png|407]]![[Pasted image 20260416193213.png|414]]
+![[Pasted image 20260416193149.png|415]]
+![[Pasted image 20260416193158.png|415]]![[Pasted image 20260416193213.png|414]]
 ![[Pasted image 20260416193225.png|414]]
 ![[Pasted image 20260416193248.png|416]]
 ![[Pasted image 20260416193304.png|418]]
@@ -38,4 +38,6 @@ What is a **Q-Table?**
 - We have actions and the states. 
 - Computes all of the situations. 
 - "I am in x state and I have y possible actions. What's the best action to take from y?"
-What is the optimal Q value with 
+How do we select `gamma`?
+What is the optimal Q value with consideration of discount return?
+![[Pasted image 20260416194054.png]]
