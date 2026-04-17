@@ -6321,6 +6321,7 @@ srF
 sppP
 satisfied
 selections
+successfully
 giving
 good
 generalizable
@@ -7694,6 +7695,7 @@ tgBf
 tIwBu
 tAm
 telling
+timeframes
 being
 be
 by
@@ -8015,6 +8017,8 @@ bcS
 bSLHMMe
 bJELt
 bqUR
+bracket
+bounce
 explicitly
 experience
 error
@@ -8460,6 +8464,7 @@ eOTT
 eii
 eVR
 explode
+encounter
 programmed
 patterns
 program
@@ -10679,6 +10684,8 @@ Elz
 Eqg
 Etl
 Environment
+Exploration
+Exploitation
 using
 utility
 use

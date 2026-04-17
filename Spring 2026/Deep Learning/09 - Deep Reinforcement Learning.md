@@ -115,3 +115,6 @@ Consider *Dynamic Programming*:
 - We need to keep a memory of actions stored because these actions can affect each other sequentially (Consider chess).
 - Dynamic programming stores computations made to make it more efficient, so that if we encounter the same problem again in the code, we already have the solution. 
 
+**Exploration vs. Exploitation**
+*Exploration*: When we are simply searching 
+*Exploitation*:
