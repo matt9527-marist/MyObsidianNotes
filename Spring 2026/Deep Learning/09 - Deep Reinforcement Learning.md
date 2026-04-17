@@ -97,4 +97,9 @@ How should we do the backpropagation? We can use simple SGD, but there are many 
 ![[Pasted image 20260416200043.png|576]]
 How will our network work? 
 - Instead of giving one state, we will give several states based on several timeframes. Why?
-	- For preprocessing, we need a eq
+	- For preprocessing, we need a sequence of pictures because for the game, we need to know which way to move the bracket to know where to bounce the ball. The direction that the ball is going is critical information to observe. With just one input it will fail. 
+![[Pasted image 20260416200241.png|581]]
+We also do preprocessing to improve the input that we have. Instead of needing a 3D CNN, we can just use 1D. 
+![[Pasted image 20260416200322.png|583]]
+Implementation:
+![[Pasted image 20260416200344.png]]
