@@ -130,4 +130,8 @@ Consider the Discounted Reward function: the value of gamma increases as the tim
 
 ```Pseudocode
 Init replay memory and Q-network
+Play M episodes (full games)
+	Initialize state (starting game pixels) at beginning of each stage
+	At each timestep t of the game... 
+		
 ```
