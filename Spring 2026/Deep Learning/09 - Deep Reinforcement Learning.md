@@ -122,3 +122,4 @@ Recall adaptive learning: At the beginning, we set the learning parameter to be 
 
 Consider the Discounted Reward function: the value of gamma increases as the time passes. It is a similar idea as adaptive learning, where the reward changes depending on our position. 
 
+*Problem*: Q is just an estimate. We want to explore and exploit because the environment is probabilistic, and we cannot always be certain. 
