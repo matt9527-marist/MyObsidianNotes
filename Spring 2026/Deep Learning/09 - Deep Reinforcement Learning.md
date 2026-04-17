@@ -93,3 +93,8 @@ How should we do the backpropagation? We can use simple SGD, but there are many 
 **Initial Pseudocode**
 ![[Pasted image 20260416195802.png|560]]
 
+**Deep Q-Learning Application: Atari Breakout**
+![[Pasted image 20260416200043.png|576]]
+How will our network work? 
+- Instead of giving one state, we will give several states based on several timeframes. Why?
+	- For preprocessing, we need a eq
