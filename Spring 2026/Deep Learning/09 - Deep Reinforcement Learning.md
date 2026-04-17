@@ -133,5 +133,13 @@ Init replay memory and Q-network
 Play M episodes (full games)
 	Initialize state (starting game pixels) at beginning of each stage
 	At each timestep t of the game... 
+		Explore at random, select a random action
+		otherwise select greedy action from policy 
 		
+		Take the action a_t, and observe reward r_t and states s_t+1
+		
+		Store the transition in replay memory 
+		
+		Sample a random minibatch of transitions from replay memory
+		and perform a gradient descent step ()
 ```
