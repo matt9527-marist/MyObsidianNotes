@@ -130,8 +130,10 @@ Consider the Discounted Reward function: the value of gamma increases as the tim
 
 ```Pseudocode
 Init replay memory and Q-network
+
 Play M episodes (full games)
 	Initialize state (starting game pixels) at beginning of each stage
+	
 	At each timestep t of the game... 
 		Explore at random, select a random action
 		otherwise select greedy action from policy 
@@ -141,5 +143,6 @@ Play M episodes (full games)
 		Store the transition in replay memory 
 		
 		Sample a random minibatch of transitions from replay memory
-		and perform a gradient descent step ()
+		and perform a gradient descent step (experience replays)
 ```
+
