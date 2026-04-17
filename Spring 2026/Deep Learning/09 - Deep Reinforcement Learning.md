@@ -102,4 +102,6 @@ How will our network work?
 We also do preprocessing to improve the input that we have. Instead of needing a 3D CNN, we can just use 1D. 
 ![[Pasted image 20260416200322.png|583]]
 Implementation:
-![[Pasted image 20260416200344.png]]
+![[Pasted image 20260416200344.png|583]]
+We most add a check in this implementation to check if we are at the last action.
+- In 
