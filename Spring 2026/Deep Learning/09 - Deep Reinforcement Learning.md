@@ -110,4 +110,8 @@ We most add a check in this implementation to check if we are at the last action
 **Training Challenges**
 ![[Pasted image 20260416200639.png|524]]
 Consider *Dynamic Programming*:
-- If we pr
+- For a specific state, we perform a specific action, we get a specific reward, and then we continue. 
+- The decisions we make in the game, however, are not isolated from each other. 
+- We need to keep a memory of actions stored because these actions can affect each other sequentially (Consider chess).
+- Dynamic programming stores computations made to make it more efficient, so that if we encounter the same problem again in the code, we already have the solution. 
+
