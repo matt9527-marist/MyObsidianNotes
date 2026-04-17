@@ -116,5 +116,8 @@ Consider *Dynamic Programming*:
 - Dynamic programming stores computations made to make it more efficient, so that if we encounter the same problem again in the code, we already have the solution. 
 
 **Exploration vs. Exploitation**
-*Exploration*: When we are simply searching 
-*Exploitation*:
+*Exploration*: When we are simply searching or trying new actions to find better rewards
+*Exploitation*: When we know a certain action and want to maximize rewards with it
+Recall adaptive learning: At the beginning, we set the learning parameter to be high, which let the weights in our network change a lot. As we progress, we want the learning rate to become smaller, which means that the future adjustment and weights that we have already learned to become weaker. This means that at the start, we want to explore for new values, and then once we find good values, we want to exploit them and maximize the benefit. 
+
+Consider the Discounted Reward function: the value of gamma increases as the time passes. It is a similar i
