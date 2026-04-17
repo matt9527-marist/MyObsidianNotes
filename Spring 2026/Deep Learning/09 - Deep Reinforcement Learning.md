@@ -104,4 +104,10 @@ We also do preprocessing to improve the input that we have. Instead of needing a
 Implementation:
 ![[Pasted image 20260416200344.png|583]]
 We most add a check in this implementation to check if we are at the last action.
-- In 
+- In Atari Breakout, that's when we have successfully cleared the last block. 
+![[Pasted image 20260416200628.png]]
+
+**Training Challenges**
+![[Pasted image 20260416200639.png|524]]
+Consider *Dynamic Programming*:
+- If we pr
