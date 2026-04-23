@@ -146,3 +146,7 @@ Play M episodes (full games)
 		and perform a gradient descent step (experience replays)
 ```
 
+### Review 
+**What is the state space of Go?**
+The possible legal configurations of a game of Go. State space is how many possible options can happen in this environment. For Go, it is 10^170. The board of Go is 19x19, and for each of the cells, we have 3 options. This is 3^(19x19).
+**What are the elements of **
