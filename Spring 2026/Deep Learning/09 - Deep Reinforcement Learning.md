@@ -149,4 +149,11 @@ Play M episodes (full games)
 ### Review 
 **What is the state space of Go?**
 The possible legal configurations of a game of Go. State space is how many possible options can happen in this environment. For Go, it is 10^170. The board of Go is 19x19, and for each of the cells, we have 3 options. This is 3^(19x19).
-**What are the elements of **
+**What are the elements of RL?**
+Agent, state, action, reward, environment, policy, discount factor, and t
+**What is discounted return? What happens when we adjust gamma, the discounted return parameter?**
+
+**What is the Q-Table**
+**When do we need depe learning to assist in RL programming?**
+**What is the Bellman Equation?**
+**What is the number of output and input layers in a perceptron of deep reinforcement learning?**

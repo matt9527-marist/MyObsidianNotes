@@ -1184,6 +1184,7 @@ ltQ
 lWtN
 lgg
 lxc
+legal
 Graphing
 Google
 Game
@@ -1847,6 +1848,7 @@ Clustering
 Cü
 Cyj
 Completed
+Confounding
 Scikit
 Statistical
 Statistics
@@ -2283,6 +2285,7 @@ Strictly
 Stationary
 SFs
 Sir
+Spurious
 Keras
 Key
 Kirchhoffs
@@ -3536,6 +3539,10 @@ aSuq
 aCP
 acting
 adjustment
+affecting
+autocorrelation
+absorption
+anomay
 Applications
 AI
 Analysis
@@ -3866,6 +3873,9 @@ ACF
 AyV
 Action
 Agent
+ARIMA
+ACFs
+Anomalies
 with
 without
 want
@@ -5687,6 +5697,7 @@ orQ
 oLG
 oLi
 operational
+obvious
 study
 simplified
 something
@@ -7277,6 +7288,8 @@ cea
 cCL
 continuing
 characterizes
+clamp
+cyclical
 the
 to
 training
@@ -8022,6 +8035,7 @@ bJELt
 bqUR
 bracket
 bounce
+board
 explicitly
 experience
 error
@@ -8978,6 +8992,8 @@ pfqi
 picture
 pQR
 progress
+payment
+pretty
 Detecting
 Deepmind
 Dataset
@@ -9733,6 +9749,9 @@ rLDY
 robotics
 receives
 recycling
+regressive
+relates
+retained
 model
 mostly
 machine
@@ -10120,6 +10139,7 @@ mkt
 mEbR
 mSG
 marketing
+miscalculation
 hypothesis
 handwritten
 have
@@ -10690,6 +10710,7 @@ Etl
 Environment
 Exploration
 Exploitation
+Explanatory
 using
 utility
 use
