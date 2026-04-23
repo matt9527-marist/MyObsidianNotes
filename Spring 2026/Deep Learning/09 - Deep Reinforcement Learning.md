@@ -160,4 +160,8 @@ The Q-table stores in a matrix Q-values mapped according to the state and availa
 **What is the Bellman Equation?**
 **What is the number of output and input layers in a perceptron of deep reinforcement learning?**
 **What are the inputs for Breakout (Atari) RL model?**
-**What happens if we only use one image as the input for Atari Breakout R**
+**What happens if we only use one image as the input for Atari Breakout RL?**
+**What deep learning architecture is used for Atari Breakout RL?**
+**What is the role of experience replay in a deep reinforcement learning network?**
+**Why do we need exploration in deep reinforcement learning?**
+**What is the main difference of loss function between deep reinforcement learning compared to regular deep learning methods?**
