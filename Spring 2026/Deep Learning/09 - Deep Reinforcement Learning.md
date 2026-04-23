@@ -152,9 +152,12 @@ The possible legal configurations of a game of Go. State space is how many possi
 **What are the elements of RL?**
 State, action, distribution of rewards, trasition probability (policy), and discount factor. 
 **What is discounted return? What happens when we adjust gamma, the discounted return parameter?**
-Discounted return evaluates actions by the immediate reward received at a given state against the reward that has already been received earlier. Adjusting the parameter allows for the control of how much the reward is diminished over time, letting the agent focus on short vs. long-term rewards. The parameter is bounded between 0 and 1. If it is 0, this means that the past is not considered as much, but if it is 1, the past is considered always. 
+Discounted return evaluates actions by the immediate reward received at a given state against the reward that has already been received earlier. Adjusting the parameter allows for the control of how much the reward is diminished over time, letting the agent focus on short vs. long-term rewards. The parameter is bounded between 0 and 1. If it is 0, this means that the past is not considered at all and only the immediate reward is evaluated, but if it is 1, all of the past rewards are considered. 
 **What is the Q-Table**
-
+The Q-table stores in a matrix Q-values mapped according to the state and available actions. 
 **When do we need depe learning to assist in RL programming?**
+
 **What is the Bellman Equation?**
 **What is the number of output and input layers in a perceptron of deep reinforcement learning?**
+**What are the inputs for Breakout (Atari) RL model?**
+**What happens if we only use one image as the input for Atari Breakout R**
