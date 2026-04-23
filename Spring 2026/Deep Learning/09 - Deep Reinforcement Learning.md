@@ -172,4 +172,4 @@ It can reduce the density of past instances by allowing the model to sample from
 **Why do we need exploration in deep reinforcement learning?**
 Exploration is needed so that the network can gain experience and find the most optimal action to take. Consider that we have a Q-table of decisions, but we do not know initially the best action to take because it is only an estimation of the rewards. As we progress, we try to exploit once we do know the best decision. 
 **What is the main difference of loss function between deep reinforcement learning compared to regular deep learning methods?**
-Regular deep learning methods calculate loss according to a known target label, which does not change over time. Deep reinforcement learning, however, computes loss using a target that does change over ti
+Regular deep learning methods calculate loss according to a known target label, which does not change over time. Deep reinforcement learning, however, computes loss using a target that does change over time because it is only the agent's current estimate according to the state of what gives the best reward. 
