@@ -162,9 +162,13 @@ The Bellman equation selects the best possible action Q from a given state-actio
 **What is the number of output and input layers in a perceptron of deep reinforcement learning?**
 We have as input, the state, given to the network to try to approximate Q. The output will be the result S (states) of A (actions), the number of possible combinations of action and state. 
 **What are the inputs for Breakout (Atari) RL model?**
-
+We use as input for Atari Breakout grayscale images containing the game's pixel data.
 **What happens if we only use one image as the input for Atari Breakout RL?**
+It will fail to capture the positional changes in the player's paddle and other moving components of the g
 **What deep learning architecture is used for Atari Breakout RL?**
+
 **What is the role of experience replay in a deep reinforcement learning network?**
+
 **Why do we need exploration in deep reinforcement learning?**
+
 **What is the main difference of loss function between deep reinforcement learning compared to regular deep learning methods?**
