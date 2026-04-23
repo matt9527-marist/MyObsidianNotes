@@ -170,5 +170,5 @@ We want to use a CNN because the input consists of images.
 **What is the role of experience replay in a deep reinforcement learning network?**
 It can reduce the density of past instances by allowing the model to sample from past interactions for state, action, and reward instead of needing to learn off of only the newest step. 
 **Why do we need exploration in deep reinforcement learning?**
-Exploration is needed so that the network can gain experience and find the most optimal action to take. 
+Exploration is needed so that the network can gain experience and find the most optimal action to take. Consider that we have a Q-table of decisions, but we do not know initially the best action to take. As we progress, we try to exploit once we know the best decision. 
 **What is the main difference of loss function between deep reinforcement learning compared to regular deep learning methods?**
