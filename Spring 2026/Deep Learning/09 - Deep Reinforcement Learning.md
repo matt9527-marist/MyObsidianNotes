@@ -150,9 +150,9 @@ Play M episodes (full games)
 **What is the state space of Go?**
 The possible legal configurations of a game of Go. State space is how many possible options can happen in this environment. For Go, it is 10^170. The board of Go is 19x19, and for each of the cells, we have 3 options. This is 3^(19x19).
 **What are the elements of RL?**
-Agent, state, action, reward, environment, policy, discount factor, and t
+State, action, distribution of rewards, trasition probability (policy), and discount factor. 
 **What is discounted return? What happens when we adjust gamma, the discounted return parameter?**
-
+Discounted return evaluates actions by future reward received for a given state. Adjusting the parameter allows for the control of how much the reward is diminished over time. 
 **What is the Q-Table**
 **When do we need depe learning to assist in RL programming?**
 **What is the Bellman Equation?**
