@@ -158,8 +158,9 @@ The Q-table stores in a matrix Q-values mapped according to the state and availa
 **When do we need deep learning to assist in RL programming?**
 When we have a large state space, we will have a very large Q-table. We instead want to use a deep learning network to learn a function for Q. Secondly, if we are not certain about the result, we want to use deep learning. 
 **What is the Bellman Equation?**
-
+The Bellman equation selects the best possible action Q from a given state-action pair in the Q-table. 
 **What is the number of output and input layers in a perceptron of deep reinforcement learning?**
+We have one output layer 
 **What are the inputs for Breakout (Atari) RL model?**
 **What happens if we only use one image as the input for Atari Breakout RL?**
 **What deep learning architecture is used for Atari Breakout RL?**
