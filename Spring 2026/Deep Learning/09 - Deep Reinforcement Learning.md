@@ -164,11 +164,11 @@ We have as input, the state, given to the network to try to approximate Q. The o
 **What are the inputs for Breakout (Atari) RL model?**
 We use as input for Atari Breakout grayscale images containing the game's pixel data.
 **What happens if we only use one image as the input for Atari Breakout RL?**
-It will fail to capture the positional changes in the player's paddle and other moving components of the g
+It will fail to capture the positional changes in the player's paddle and other moving components of the game like the ball. 
 **What deep learning architecture is used for Atari Breakout RL?**
-
+We want to use a CNN because the input consists of images. 
 **What is the role of experience replay in a deep reinforcement learning network?**
-
+It can reduce the density of past instances by allowing the model to sample from past interactions for state, action, and reward instead of needing to learn off of only the newest step. 
 **Why do we need exploration in deep reinforcement learning?**
-
+Exploration is needed so that the network can gain experience and find the most optimal action to take. 
 **What is the main difference of loss function between deep reinforcement learning compared to regular deep learning methods?**
