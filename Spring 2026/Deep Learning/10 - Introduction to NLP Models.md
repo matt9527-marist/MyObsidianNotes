@@ -74,3 +74,16 @@ Remember, we are trying to predict the outsiders `o` based on the center word `c
 Gradually adjust parameters to minimize a loss:
 - Recall: `theta` represents all the model parmeters, in one long vector. 
 - In our case, with d-dimensional vectors and V-many words, we have --> 
+![[Pasted image 20260423202726.png]]
+- Remember every word has two vectors. 
+
+We optimize these parameters by walking down the gradient (see right figure)
+We compute all vector gradients. 
+
+**Optimization: Gradient Descent**
+- We have a cost function J(`theta`) we want to minimize. 
+- **Gradient Descent** is an algorithm to minimize J(`theta`)
+- Idea: for current value of `theta`, calculate gradient of J(`theta`), then take small step in function of negative gradient.
+- Repeat. 
+![[Pasted image 20260423202925.png]]
+
