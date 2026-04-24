@@ -35,4 +35,9 @@ But, the two vectors above are orthogonal. There is no natural notion of similar
 **Representing words by their context**
 **Distributional Semantics** - a word's meaning is given by the words that frequently appear close-by. "You shall know a word by the company it keeps." One of the most successful ideas of modern statistical NLP.
 
-When a word `w` appears in a text, its context is the set of words that appear nearby (within a fixed-size window)
+When a word `w` appears in a text, its context is the set of words that appear nearby (within a fixed-size window).
+We use the contexts of `w` to build up a representation of `w`. 
+![[Pasted image 20260423200650.png]]
+
+**Word Vectors**
+We build a dense vector for each word, chosen so that it is similar to vectors of words that appear in similar contexts, measuring similarity as the vector *dot* (scalar) product. 
