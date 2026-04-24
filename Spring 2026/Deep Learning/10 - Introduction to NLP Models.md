@@ -51,4 +51,12 @@ Framework for learning word vectors.
 Idea:
 - We have a large corpus ()"body") of text: long list of words. 
 - Every word in a fixed vocabulary is represented by a vector. 
-- Go through each position `t` in the text, which has a center word `c` and contextv 
+- Go through each position `t` in the text, which has a center word `c` and context ("outside") words `o`. 
+- Use the *similarity of the word vectors* for `c` and`o` to calculate the probability of `o` given `c` (or vice versa)
+- Keep adjusting the word vectors to maximize this probability.
+
+**Word2Vec: Overview**
+Why do we think this process is recursive? 
+A word can repeat in our corpus. 
+![[Pasted image 20260423201436.png|553]]
+
