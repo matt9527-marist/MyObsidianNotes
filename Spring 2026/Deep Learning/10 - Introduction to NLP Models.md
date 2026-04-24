@@ -93,4 +93,6 @@ This is very expensive to compute, so instead we want to use **Stochastic Gradie
 - Start with random word vectors
 - Iterate through each word position in the whole corpus. 
 - Try to predict surrounding words using word vectors
-- **Learning**: update vectors so they can predxic
+- **Learning**: update vectors so they can predict actual surrounding words better. 
+- Doing no more than this, this algorithm learns word vectors that capture well word similarity and meaningful directions in a word space. 
+
