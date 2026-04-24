@@ -26,4 +26,7 @@ It cannot capture the complexity of meanings.
 - WordNet is missing the context, only going word by word. 
 - A word by itself can have a different meaning even without context! We cannot just connect one word to another singular word. 
 
-**r**
+**Representing words as discrete symbols**
+![[Pasted image 20260423200235.png]]
+How do we represent a word in a computer when the computer can only understand binary numbers? 
+**Problem**: what if we wanted to search a document 
