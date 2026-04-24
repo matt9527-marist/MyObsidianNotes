@@ -41,3 +41,6 @@ We use the contexts of `w` to build up a representation of `w`.
 
 **Word Vectors**
 We build a dense vector for each word, chosen so that it is similar to vectors of words that appear in similar contexts, measuring similarity as the vector *dot* (scalar) product. 
+![[Pasted image 20260423200846.png]]
+Note: word vectors are also called (word) embeddings or (neural) word representations. They are a distributed representation. 
+
