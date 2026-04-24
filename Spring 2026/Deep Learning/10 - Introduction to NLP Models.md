@@ -65,5 +65,9 @@ A word can repeat in our corpus. ****
 For each position `t= 1, ... T`, predict context words within a window of fixed size `m`, given center word `w_t`. Data likelihood:
 ![[Pasted image 20260423201724.png|641]]
 ![[Pasted image 20260423202046.png|642]]
+Remember, we are trying to predict the outsiders `o` based on the center word `c`. This representation can be confusing, but this is the comon practice within NLP. 
 
 **Word2Vec: Prediction Function**
+![[Pasted image 20260423202121.png]]
+
+**To train the model, Optimize values of parameters to minimize loss**
