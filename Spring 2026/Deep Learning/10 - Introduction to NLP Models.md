@@ -70,5 +70,7 @@ Remember, we are trying to predict the outsiders `o` based on the center word `c
 **Word2Vec: Prediction Function**
 ![[Pasted image 20260423202121.png]]
 
-
 **To train the model, Optimize values of parameters to minimize loss**
+Gradually adjust parameters to minimize a loss:
+- Recall: `theta` represents all the model parmeters, in one long vector. 
+- In our case, with d-dimensional vectors and V-many words, we have --> 
