@@ -29,4 +29,10 @@ It cannot capture the complexity of meanings.
 **Representing words as discrete symbols**
 ![[Pasted image 20260423200235.png]]
 How do we represent a word in a computer when the computer can only understand binary numbers? 
-**Problem**: what if we wanted to search a document 
+**Problem**: what if we wanted to search documents containing "hotel" and "motel"?
+But, the two vectors above are orthogonal. There is no natural notion of similarity for one-hot-encoded vectors!
+
+**Representing words by their context**
+**Distributional Semantics** - a word's meaning is given by the words that frequently appear close-by. "You shall know a word by the company it keeps." One of the most successful ideas of modern statistical NLP.
+
+When a word `w` appears in a text, its context is the set of words that appear nearby (within a fixed-size window)
