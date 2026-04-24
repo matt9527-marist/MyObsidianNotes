@@ -62,4 +62,7 @@ A word can repeat in our corpus. ****
 ![[Pasted image 20260423201541.png|533]]
 
 **Word2Vec: Objective Function**
-For each position `t= 1, ... T`, predict context words within a window 
+For each position `t= 1, ... T`, predict context words within a window of fixed size `m`, given center word `w_t`. Data likelihood:
+![[Pasted image 20260423201724.png|641]]
+
+
