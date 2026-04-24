@@ -115,3 +115,5 @@ Building a co-occurrence matrix of `X`.
 - Window: Similar to word2vec, use windows around each word --> captures some syntactic and semantic information (word space)
 - Word-document co-occurrence matrix will give general topics (all sports terms will have similar entries), leading to *Latent Semantic Analysis* (document space)
 
+**Example: Window-based co-occurrence matrix**
+![[Pasted image 20260423204659.png]]
