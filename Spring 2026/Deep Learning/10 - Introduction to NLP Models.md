@@ -106,3 +106,8 @@ Why two vectors? Easier optimization, average both at the end.
 As we see in the denominator, we are not using everything in the corpus, but we are bounded by the windows. 
 ![[Pasted image 20260423203949.png]]
 
+Why is it that when we make computations, we only go with the probability? Why do we not just accumulate all the statistics of what words appear near each other? 
+Building a co-occurrence matrix of `X`.
+- 2 options: windows vs. full document
+- Window: Similar to word2vec, use windows around each word --> captures some syntactic and semantic information (word space)
+- Word-document co-occurrence matrix will give general topics (all sports terms will have similar entries), leading to *Latent Semantic Analysis* (document space)
