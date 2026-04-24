@@ -44,3 +44,11 @@ We build a dense vector for each word, chosen so that it is similar to vectors o
 ![[Pasted image 20260423200846.png]]
 Note: word vectors are also called (word) embeddings or (neural) word representations. They are a distributed representation. 
 
+![[Pasted image 20260423201044.png|298]]
+
+## Word2Vec Overview 
+Framework for learning word vectors. 
+Idea:
+- We have a large corpus ()"body") of text: long list of words. 
+- Every word in a fixed vocabulary is represented by a vector. 
+- Go through each position `t` in the text, which has a center word `c` and contextv 
