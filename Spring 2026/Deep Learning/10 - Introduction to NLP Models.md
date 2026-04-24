@@ -20,3 +20,10 @@ Linguistic way of thinking of meaning:
 	Signifier(symbol) <=> signified (idea or thing)
 ![[Pasted image 20260423200003.png]]
 
+**Problems with WordNet**
+It cannot capture the complexity of meanings. 
+- Eg. the meaning of "proficient" is often listed as a synonym for "good," which is not always suitable for some contexts.
+- WordNet is missing the context, only going word by word. 
+- A word by itself can have a different meaning even without context! We cannot just connect one word to another singular word. 
+
+**r**
