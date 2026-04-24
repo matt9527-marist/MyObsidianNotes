@@ -99,3 +99,10 @@ This is very expensive to compute, so instead we want to use **Stochastic Gradie
 **Word2Vec Algorithm Family**
 Why two vectors? Easier optimization, average both at the end. 
 	- But can implement the algorithm with just one vector per word... and it helps a bit. 
+![[Pasted image 20260423203828.png|581]]
+
+**Skip-gram model with negative sampling**
+![[Pasted image 20260423203900.png]]
+As we see in the denominator, we are not using everything in the corpus, but we are bounded by the windows. 
+![[Pasted image 20260423203949.png]]
+
