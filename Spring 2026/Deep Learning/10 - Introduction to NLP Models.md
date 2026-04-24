@@ -70,4 +70,5 @@ Remember, we are trying to predict the outsiders `o` based on the center word `c
 **Word2Vec: Prediction Function**
 ![[Pasted image 20260423202121.png]]
 
+
 **To train the model, Optimize values of parameters to minimize loss**
