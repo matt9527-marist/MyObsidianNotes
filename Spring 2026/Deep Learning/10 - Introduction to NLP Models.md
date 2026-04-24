@@ -86,4 +86,11 @@ We compute all vector gradients.
 - Idea: for current value of `theta`, calculate gradient of J(`theta`), then take small step in function of negative gradient.
 - Repeat. 
 ![[Pasted image 20260423202925.png]]
+Problem: J(`theta`) is the function of all windows in the corpus (potentially billions)
+This is very expensive to compute, so instead we want to use **Stochastic Gradient Descent**, so we can repeatedly sample batches of windows, and update after each one. 
 
+**Review: Main Idea of Word2Vec**
+- Start with random word vectors
+- Iterate through each word position in the whole corpus. 
+- Try to predict surrounding words using word vectors
+- **Learning**: update vectors so they can predxic
