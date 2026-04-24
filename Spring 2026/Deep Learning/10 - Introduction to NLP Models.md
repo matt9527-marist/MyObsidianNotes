@@ -18,3 +18,5 @@
 - idea that is expressed in work of writing, art, etc.
 Linguistic way of thinking of meaning:
 	Signifier(symbol) <=> signified (idea or thing)
+![[Pasted image 20260423200003.png]]
+
