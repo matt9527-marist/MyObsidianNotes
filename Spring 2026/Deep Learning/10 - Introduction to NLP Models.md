@@ -57,6 +57,9 @@ Idea:
 
 **Word2Vec: Overview**
 Why do we think this process is recursive? 
-A word can repeat in our corpus. 
-![[Pasted image 20260423201436.png|553]]
+A word can repeat in our corpus. ****
+![[Pasted image 20260423201518.png|533]]
+![[Pasted image 20260423201541.png|533]]
 
+**Word2Vec: Objective Function**
+For each position `t= 1, ... T`, predict context words within a window 
