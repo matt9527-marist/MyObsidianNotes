@@ -96,4 +96,6 @@ This is very expensive to compute, so instead we want to use **Stochastic Gradie
 - **Learning**: update vectors so they can predict actual surrounding words better. 
 - Doing no more than this, this algorithm learns word vectors that capture well word similarity and meaningful directions in a word space. 
 
-**Word2Vec Al**
+**Word2Vec Algorithm Family**
+Why two vectors? Easier optimization, average both at the end. 
+	- But can implement the algorithm with just one vector per word... and it helps a bit. 
