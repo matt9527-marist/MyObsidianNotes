@@ -153,16 +153,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Deep Learning/11 Final Review.md",
+                "file": "Spring 2026/Deep Learning/00 Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 Final Review"
+              "title": "00 Intro"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,10 +311,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3d4fa5d6139a3c0",
+  "active": "b340482461b01bc3",
   "lastOpenFiles": [
-    "Spring 2026/Deep Learning/Review.md",
     "Spring 2026/Deep Learning/11 Final Review.md",
+    "Spring 2026/Deep Learning/Review.md",
     "Spring 2026/Deep Learning/10 - Introduction to NLP Models.md",
     "Assets/Pasted image 20260423204659.png",
     "Assets/Pasted image 20260423203949.png",

@@ -16,4 +16,5 @@ Starting from sterile environments (Chess or simple games) absorbing the state s
 - Learn the knowledge from the raw data. 
 - Giving the computers the ability to learn without being explicitly programmed. 
 - *A computer program is said to learn from Experience E with respect to some class of tasks T and performance measure P if its performance in tasks T, as measured by P, improves with experience E.*
-	- If we change the task pr ep
+	- If we change the task or performance measure rapidly, it means that the system is not designed to be successful, but it specifically will be hard-coded to work for a certain matter. 
+
