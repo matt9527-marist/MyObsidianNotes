@@ -27,3 +27,7 @@ Starting from sterile environments (Chess or simple games) absorbing the state s
 *Rule-based Systems*
 - Input --> Hand-Designed Features --> Output 
 *Classic Machine Learning*
+- Input --> Hand-Designed Features --> Mapping from Features --> Output 
+*Representation Learning*
+- Input --> Features --> Mapping from Features --> Output 
+- Input --> Simple Features --> Additional layer of more abstract features --> Mapping from features --> Output 
