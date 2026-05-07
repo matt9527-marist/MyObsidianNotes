@@ -55,5 +55,12 @@ Uses nonlinear activation functions. A combination of linear activation function
 	- Sigmoid has a clear decision boundary bounded between 0 and 1 (good for binary classification or probability), but suffers from vanishing gradient problems.
 	- ReLU reduces the problem of vanishing, but it has the problem of steadily increasing the error, which is why we want to use Leaky ReLU, to sustain negative updates.
 
-*The most efficient network* is the one thtat r
+*The most efficient network* is the one that demands the least computational time and power while providing the highest accuracy.
+
+**Data Splitting**
+- Training is the data we are directly using to train the model. 
+- Validation is the data used to measure the bias of the fitted model to the training dataset, giving an estimate of overfitting. 
+- Testing is the data we use to evaluate the performance of the model.
+
+
 
