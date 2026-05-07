@@ -31,3 +31,5 @@ Starting from sterile environments (Chess or simple games) absorbing the state s
 *Representation Learning*
 - Input --> Features --> Mapping from Features --> Output 
 - Input --> Simple Features --> Additional layer of more abstract features --> Mapping from features --> Output 
+(Hand-Designed Features: we are the ones computing the features)
+
