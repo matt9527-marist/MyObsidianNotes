@@ -81,4 +81,10 @@ BN() reduces the chance for an internal covariate shift, which slows learning by
 Consider why we use Early Stopping:
 After a certain point in training, if we see the validation error going up, it means we are no longer learning the general pattern, but we are memorizing the data. This causes overfitting, so we want to stop training right as we reach this point. 
 
-*For each different problem*, we will need a different 
+*For each different problem*, we may need a different activation function, proper loss function, or suitable optimizer. 
+
+### CNNs
+
+Instead of a multi-layer perceptron, we just connect each perceptron to only a WINOW of layer parents and children. CNNs have LESS complexity than MLPs. 
+- Gives us the ability to find the pattern wherever it is located in an input. 
+- For an image, the object of interest does not need to be centered. 
