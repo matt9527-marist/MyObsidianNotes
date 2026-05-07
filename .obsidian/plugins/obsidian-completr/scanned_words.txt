@@ -1447,6 +1447,7 @@ GMk
 GRYY
 Grj
 GPT
+Gradually
 Charting
 Control
 Common
@@ -2311,6 +2312,7 @@ SHNJ
 SKX
 Signifier
 Semantics
+Semantic
 Keras
 Key
 Kirchhoffs
@@ -3587,6 +3589,8 @@ abl
 answering
 acros
 art
+adjust
+accumulate
 Applications
 AI
 Analysis
@@ -4202,6 +4206,8 @@ wNL
 wOm
 wcB
 wjT
+walking
+windows
 Python
 Performance
 Principle
@@ -4767,6 +4773,7 @@ Wbr
 WCi
 WaX
 WordNet
+Window
 is
 in
 if
@@ -5449,6 +5456,7 @@ FxYo
 FIW
 FmZ
 Framework
+Family
 of
 or
 optimize
@@ -5768,6 +5776,7 @@ operational
 obvious
 oxZ
 omk
+outsiders
 study
 simplified
 something
@@ -6416,6 +6425,8 @@ signified
 synonym
 suitable
 shall
+syntactic
+sports
 giving
 good
 generalizable
@@ -6718,6 +6729,7 @@ gOA
 gpOm
 gHlO
 gnDG
+gram
 computers
 computer
 can
@@ -7379,6 +7391,9 @@ cEt
 csPA
 connect
 company
+confusing
+comon
+captures
 the
 to
 training
@@ -7803,6 +7818,7 @@ telling
 timeframes
 tZY
 thinking
+topics
 being
 be
 by
@@ -9102,6 +9118,7 @@ pCo
 pgcSx
 phrase
 proficient
+parmeters
 Detecting
 Deepmind
 Dataset
