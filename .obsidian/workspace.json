@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "10 - Introduction to NLP Models"
             }
+          },
+          {
+            "id": "f3d4fa5d6139a3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,8 +312,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1a1715ec5a263a4",
+  "active": "f3d4fa5d6139a3c0",
   "lastOpenFiles": [
+    "Spring 2026/Deep Learning/10 - Introduction to NLP Models.md",
+    "Untitled 1.md",
     "Assets/Pasted image 20260423204659.png",
     "Assets/Pasted image 20260423203949.png",
     "Assets/Pasted image 20260423203900.png",
@@ -310,8 +326,6 @@
     "Assets/Pasted image 20260423202046.png",
     "Assets/Pasted image 20260423201724.png",
     "Assets/Pasted image 20260423201541.png",
-    "Assets/Pasted image 20260423201518.png",
-    "Spring 2026/Deep Learning/10 - Introduction to NLP Models.md",
     "Spring 2026/Deep Learning/09 - Deep Reinforcement Learning.md",
     "Spring 2026/Deep Learning/08 - Time Series Analysis.md",
     "Spring 2026/Deep Learning/Review.md",
