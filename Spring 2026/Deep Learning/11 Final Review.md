@@ -75,4 +75,10 @@ Without properly scaling, we may end up in a zig-zag learning pattern, since the
 **Batch Normalization**
 Feature scaling is good, but we may still see the shifting in the dsitribution of data as we move between the layers. 
 It's good to put BN() after fully connected or convolutional layers, but before nonlinearity. 
-BN() reduces 
+BN() reduces the chance for an internal covariate shift, which slows learning by forcing the hidden layers to learn to adapt to the new distribution. 
+
+**Underfitting vs. Overfitting**
+Consider why we use Early Stopping:
+After a certain point in training, if we see the validation error going up, it means we are no longer learning the general pattern, but we are memorizing the data. This causes overfitting, so we want to stop training right as we reach this point. 
+
+*For each different problem*, we will need a different 
