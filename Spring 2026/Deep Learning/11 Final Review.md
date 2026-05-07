@@ -143,8 +143,27 @@ Consider that the rotation of the head must also match with the face smiling.
 Generative Adversarial Networks: 
 ![[Pasted image 20260507193323.png]]
 Have a generator competing against the discriminator. 
+We would like the discriminator's accuracy to be around 50%, indicating that it cannot differentiate the real data from the fake, generated data. 
 
 **Conditional GANs**
 Add a conditioning factor that controls the nature of the output. 
 Changing the environment. 
+
+**CycleGANs**
+Move our input into another domain with unpaired data. 
+
+### Time Series Analysis 
+A useful abstraction for selecting forecasting methods is to break a time
+series down into systematic and unsystematic components.
+	• Systematic: Components of the time series that have consistency
+	or recurrence and can be described and modeled.
+	• Non-Systematic: Components of the time series that cannot be
+	directly modeled.
+
+These components can semantically defined as follows:
+• Level: The average value in the series.
+• Trend: The increasing or decreasing value in the series.
+• Seasonality: The repeating short-term cycle in the series.
+• Noise: The random variation in the series.
+
 
