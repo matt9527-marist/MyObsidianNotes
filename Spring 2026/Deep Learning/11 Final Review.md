@@ -47,4 +47,10 @@ Each layer is FULLY CONNECTED to all perceptrons in adjacent layers.
 
 **Forward Propagation**
 Pass the input and make a prediction. 
-Uses nonlinear activation functions. A combination of linear 
+Uses nonlinear activation functions. A combination of linear activation functions would still be a linear decision boundary. Nonlinearity is REQUIRED to model complex patterns. 
+- Each activation function has major characteristics:
+	- differentiable
+	- 0-centered 
+- Each has its own advantages and disadvantages:
+	- Sigmoid has a clear decision boundary bounded between 0 and 1 (good for binary classification or probability), but suffers from vanishing gradient problems.
+

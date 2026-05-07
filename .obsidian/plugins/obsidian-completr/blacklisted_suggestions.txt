@@ -10,3 +10,10 @@ handling
 \log
 log
 connected
+require
+required
+requires
+Requires
+requirement
+requirements
+Requirements
