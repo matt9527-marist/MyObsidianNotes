@@ -1,3 +1,5 @@
+### Intro 
+
 **AI Definitions**
 There is the ideal/rationl approach and the human approach:
 - Ideal Approach:
@@ -33,3 +35,8 @@ Starting from sterile environments (Chess or simple games) absorbing the state s
 - Input --> Simple Features --> Additional layer of more abstract features --> Mapping from features --> Output 
 (Hand-Designed Features: we are the ones computing the features)
 
+**When to apply deep learning techniques**
+When we have unstructured data, nonlinear relationships, with a need for high accuracy. 
+
+### Multi-Layer Perceptron (MLP)
+Each layer is FULLY CONNECTED to all perceptrons in adjacent layers. 
