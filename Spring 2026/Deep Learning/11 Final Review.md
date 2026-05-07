@@ -97,4 +97,16 @@ We have different RNN types:
 ![[Pasted image 20260507192304.png|539]]
 
 Two specific versions of RNN:
+GRU and LSTM:
+- These are **Gated RNNs** which use a set of gates on information flow to control how much information is remembered from the past or added to memory/discarded from memory.
 
+**Bidirectional RNN**
+- Each layer is not limited to pass data only to the next layer. It can also pass layer to the second or third layer. 
+- Can be connected to different layers. 
+
+**Attention Mechanism**
+Allow us to focus on a specific part of the data or image. 
+
+### Involutional CNNs
+
+We can 
