@@ -89,3 +89,12 @@ Instead of a multi-layer perceptron, we just connect each perceptron to only a W
 - Gives us the ability to find the pattern wherever it is located in an input. 
 - For an image, the object of interest does not need to be centered, whereas with an MLP, it needs to be in the same consistent position. CNNs can magnify and find that object because they have *translational* or *spatial invariance*. 
 
+### RNNs 
+
+Our most complex form of MLP, it keeps a history of itself. 
+
+We have different RNN types:
+![[Pasted image 20260507192304.png|539]]
+
+Two specific versions of RNN:
+

@@ -588,6 +588,7 @@ Lanl
 Lpvv
 Ltl
 Linguistic
+LESS
 Relevant
 Reading
 Research
@@ -860,6 +861,7 @@ ReinforcementLearning
 Reward
 RKG
 Representing
+REQUIRED
 libraries
 learn
 learning
@@ -1197,6 +1199,7 @@ legal
 lXt
 lJT
 lateral
+lowest
 Graphing
 Google
 Game
@@ -1873,6 +1876,7 @@ CCC
 CCCa
 CXH
 Chess
+CONNECTED
 Scikit
 Statistical
 Statistics
@@ -3596,6 +3600,8 @@ adjust
 accumulate
 absorbing
 assist
+abstract
+advantages
 Applications
 AI
 Analysis
@@ -4214,6 +4220,7 @@ wcB
 wjT
 walking
 windows
+wherever
 Python
 Performance
 Principle
@@ -4780,6 +4787,7 @@ WCi
 WaX
 WordNet
 Window
+WINOW
 is
 in
 if
@@ -5464,6 +5472,8 @@ FIW
 FmZ
 Framework
 Family
+Features
+FULLY
 of
 or
 optimize
@@ -6434,6 +6444,9 @@ suitable
 shall
 syntactic
 sports
+steadily
+sustain
+samping
 giving
 good
 generalizable
@@ -7402,6 +7415,8 @@ confusing
 comon
 captures
 consists
+causes
+children
 the
 to
 training
@@ -7828,6 +7843,7 @@ tZY
 thinking
 topics
 trasition
+translational
 being
 be
 by
@@ -10294,6 +10310,7 @@ multitasking
 meanings
 motel
 meta
+minimizer
 hypothesis
 handwritten
 have
@@ -11648,6 +11665,8 @@ dqW
 dhKHHHHHHHHH
 discounted
 diminished
+disadvantages
+dsitribution
 future
 from
 feed
@@ -11996,6 +12015,7 @@ fLl
 fhFZr
 fkHP
 finitely
+facing
 Optimziation
 Operations
 Once
@@ -13515,6 +13535,7 @@ HDDDDD
 HpM
 HGY
 Hzy
+Hand
 Not
 NOTHING
 No
