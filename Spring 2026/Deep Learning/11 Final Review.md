@@ -185,4 +185,17 @@ Elements of an RL problem:
 For a given problem, we may define a **Q-Table** of different action and state mappings. 
 Define a *Q-Function* that can determine what the best action is at a given state. 
 
+**Experience Replay**
+When we observe a similar state with the same action that we have already seen, we want to sample from replay memory to reuse the same solution instead of computing it again.
 
+### NLP 
+
+Complex problem that depends on the meaning and context of words and phrases. 
+
+**WordNet**
+- provides one singular meaning for a word
+- But words can have several different mearnings 
+We move to the algorithm **Vectorization**
+
+**Word2Vec**
+- Capture the meaning of the words, where words with similar meaning have similar vectors.
