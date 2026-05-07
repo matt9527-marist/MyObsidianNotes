@@ -135,3 +135,16 @@ We describe the loss and regularization terms:
 Encoding a distribution does not preserve these properties! 
 
 **Latent Space Disentanglement with B-VAEs**
+Enforce that we are learning the pattern:
+![[Pasted image 20260507193213.png]]
+Consider that the rotation of the head must also match with the face smiling. 
+
+**GANs**
+Generative Adversarial Networks: 
+![[Pasted image 20260507193323.png]]
+Have a generator competing against the discriminator. 
+
+**Conditional GANs**
+Add a conditioning factor that controls the nature of the output. 
+Changing the environment. 
+
