@@ -66,5 +66,8 @@ Uses nonlinear activation functions. A combination of linear activation function
 Find the network weights to achieve the lowest loss. 
 - Stochastic gradient descent allows for the samping of batches of data points to compute the gradient loss. 
 
+**Batch Size**
+As our batch size becomes larger, we will converge to a sharp minimizer, so we will have weaker predictions. We want something that is smoother. There is also higher computational cost. 
 
-
+**Feature Scaling**
+Without properly scaling, we may end up in a zig-zag learning pattern, 
