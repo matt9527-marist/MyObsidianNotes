@@ -109,4 +109,18 @@ Allow us to focus on a specific part of the data or image.
 
 ### Involutional CNNs
 
-We can 
+We can have different dimensions of CNNs. 
+- Time series of single input (1D)
+- Pictures with a singular channel (2D)
+- Colorful image (3D) 
+
+**Involutional CNNs**
+These CNNs try to not only consider the elements that are besides each other, but also consider what is happening through each block, thereby seeing more context. 
+
+**Separable Convolutional Network**
+Separate the kernels to have faster computation. 
+
+### Autoencoders 
+Mapping an input to itself:
+- Create a **latent space**
+- Compress the 
