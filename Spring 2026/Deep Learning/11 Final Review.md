@@ -40,3 +40,11 @@ When we have unstructured data, nonlinear relationships, with a need for high ac
 
 ### Multi-Layer Perceptron (MLP)
 Each layer is FULLY CONNECTED to all perceptrons in adjacent layers. 
+- We start with a specific input X.
+- Different perceptrons are connected together with randomly initialized weights. X is passed through those perceptrons to obtain a prediction. 
+- Our loss function is used to define the error / score between the target value (true) and the prediction Y.
+- Use an optimizer (Adam) to perform a weight update using the loss score. 
+
+**Forward Propagation**
+Pass the input and make a prediction. 
+Uses nonlinear activation functions. A combination of linear 
