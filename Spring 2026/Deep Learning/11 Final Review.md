@@ -24,3 +24,6 @@ Starting from sterile environments (Chess or simple games) absorbing the state s
 - When facing a new environment where we have no knowledge of the outcome. 
 - Where, in games, we have a wide variety of actions and states, where the computation of it is very costly.  We know the goal, but we need to explore the environment to reach it. 
 
+*Rule-based Systems*
+- Input --> Hand-Designed Features --> Output 
+*Classic Machine Learning*
