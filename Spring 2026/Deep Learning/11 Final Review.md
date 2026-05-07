@@ -87,4 +87,5 @@ After a certain point in training, if we see the validation error going up, it m
 
 Instead of a multi-layer perceptron, we just connect each perceptron to only a WINOW of layer parents and children. CNNs have LESS complexity than MLPs. 
 - Gives us the ability to find the pattern wherever it is located in an input. 
-- For an image, the object of interest does not need to be centered. 
+- For an image, the object of interest does not need to be centered, whereas with an MLP, it needs to be in the same consistent position. CNNs can magnify and find that object because they have *translational* or *spatial invariance*. 
+

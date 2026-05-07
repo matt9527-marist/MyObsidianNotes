@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Deep Learning/11 Final Review.md",
+                "file": "Spring 2026/Deep Learning/09 - Deep Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 Final Review"
+              "title": "09 - Deep Reinforcement Learning"
             }
           }
         ]
@@ -173,9 +173,14 @@
   },
   "active": "196c37d922fcea99",
   "lastOpenFiles": [
+    "Spring 2026/Deep Learning/08 - Time Series Analysis.md",
+    "Spring 2026/Deep Learning/04 Recurrent Neural Networks.md",
+    "Spring 2026/Deep Learning/05 Involution and Separable CNN.md",
+    "Spring 2026/Deep Learning/06 - Autoencoders and Attention Mechanism.md",
+    "Spring 2026/Deep Learning/07 - Generative Models.md",
+    "Spring 2026/Deep Learning/11 Final Review.md",
     "Assets/Pasted image 20260507184837.png",
     "Spring 2026/Deep Learning/Review.md",
-    "Spring 2026/Deep Learning/11 Final Review.md",
     "Spring 2026/Deep Learning/00 Intro.md",
     "Spring 2026/Deep Learning/10 - Introduction to NLP Models.md",
     "Assets/Pasted image 20260423204659.png",
@@ -187,17 +192,11 @@
     "Assets/Pasted image 20260423202121.png",
     "Assets/Pasted image 20260423202046.png",
     "Assets/Pasted image 20260423201724.png",
-    "Assets/Pasted image 20260423201541.png",
     "Spring 2026/Deep Learning/09 - Deep Reinforcement Learning.md",
-    "Spring 2026/Deep Learning/08 - Time Series Analysis.md",
     "Spring 2026/Deep Learning/01 Feedforward Neural Networks.md",
-    "Spring 2026/Deep Learning/04 Recurrent Neural Networks.md",
     "Spring 2026/Deep Learning/02 Convolutional Neural Networks.md",
-    "Spring 2026/Deep Learning/07 - Generative Models.md",
-    "Spring 2026/Deep Learning/06 - Autoencoders and Attention Mechanism.md",
     "conflict-files-obsidian-git.md",
     "Spring 2026/Capping/12 Procurement and Ethics.md",
-    "Spring 2026/Deep Learning/05 Involution and Separable CNN.md",
     "Spring 2026/Capping/11 Intellectual Property.md",
     "Spring 2026/Capping/10 Software Testing.md",
     "Spring 2026/Capping/09 Teamwork and Human Resources.md",
