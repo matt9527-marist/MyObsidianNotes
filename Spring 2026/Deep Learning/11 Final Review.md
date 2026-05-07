@@ -198,4 +198,10 @@ Complex problem that depends on the meaning and context of words and phrases.
 We move to the algorithm **Vectorization**
 
 **Word2Vec**
-- Capture the meaning of the words, where words with similar meaning have similar vectors.
+- Capture the meaning of the words, where words with similar meaning have similar vectors. 
+- Word2Vec defines a window for finding the context of a word by looking at its neighbors. 
+*"How likely is this word to appear given its neighbors?"*
+
+**GloVe** algorithm improves Word2Vec by considering both the likelihood of the word with its neighbors, but also how likely the word is throughout the entire corpus/dataset. 
+
+
