@@ -18,3 +18,9 @@ Starting from sterile environments (Chess or simple games) absorbing the state s
 - *A computer program is said to learn from Experience E with respect to some class of tasks T and performance measure P if its performance in tasks T, as measured by P, improves with experience E.*
 	- If we change the task or performance measure rapidly, it means that the system is not designed to be successful, but it specifically will be hard-coded to work for a certain matter. 
 
+![[Pasted image 20260507184837.png|433]]
+
+**When to use Reinforcement Learning**
+- When facing a new environment where we have no knowledge of the outcome. 
+- Where, in games, we have a wide variety of actions and states, where the computation of it is very costly.  We know the goal, but we need to explore the environment to reach it. 
+

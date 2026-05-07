@@ -1448,6 +1448,7 @@ GRYY
 Grj
 GPT
 Gradually
+Giving
 Charting
 Control
 Common
@@ -1871,6 +1872,7 @@ Confounding
 CCC
 CCCa
 CXH
+Chess
 Scikit
 Statistical
 Statistics
@@ -3591,6 +3593,7 @@ acros
 art
 adjust
 accumulate
+absorbing
 Applications
 AI
 Analysis
@@ -8146,6 +8149,7 @@ board
 bUC
 bON
 body
+beat
 explicitly
 experience
 error
@@ -9441,6 +9445,7 @@ Discounted
 Dpo
 Developments
 Distributional
+Definitions
 regularities
 respect
 recognizing
@@ -9881,6 +9886,9 @@ regressive
 relates
 retained
 recurrent
+rationl
+repository
+rapidly
 model
 mostly
 machine
@@ -10275,6 +10283,7 @@ mFbH
 multitasking
 meanings
 motel
+meta
 hypothesis
 handwritten
 have
@@ -11974,6 +11983,7 @@ fJhh
 fLl
 fhFZr
 fkHP
+finitely
 Optimziation
 Operations
 Once
