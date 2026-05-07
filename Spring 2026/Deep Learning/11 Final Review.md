@@ -171,4 +171,18 @@ These components can semantically defined as follows:
 *Weather Prediction*: Use an LSTM to track long-term dependencies like seasonality. 
 *Anomaly Detection*: Use a CNN to detect the object of the anomaly, seeing the input data as an image. 
 
+### Deep Reinforcement Learning 
+
+Elements of an RL problem:
+- agent
+- environment 
+- state 
+- action 
+- reward
+- total return 
+- discount factor 
+
+For a given problem, we may define a **Q-Table** of different action and state mappings. 
+Define a *Q-Function* that can determine what the best action is at a given state. 
+
 
