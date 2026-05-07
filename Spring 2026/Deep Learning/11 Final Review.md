@@ -166,4 +166,9 @@ These components can semantically defined as follows:
 • Seasonality: The repeating short-term cycle in the series.
 • Noise: The random variation in the series.
 
+**Different Applications for Time Series Analysis**
+*Payment Card Fraud*: Use a standard dense Keras model that performs a classification (fraud or no fraud)
+*Weather Prediction*: Use an LSTM to track long-term dependencies like seasonality. 
+*Anomaly Detection*: Use a CNN to detect the object of the anomaly, seeing the input data as an image. 
+
 
