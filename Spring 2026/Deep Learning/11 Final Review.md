@@ -53,4 +53,7 @@ Uses nonlinear activation functions. A combination of linear activation function
 	- 0-centered 
 - Each has its own advantages and disadvantages:
 	- Sigmoid has a clear decision boundary bounded between 0 and 1 (good for binary classification or probability), but suffers from vanishing gradient problems.
+	- ReLU reduces the problem of vanishing, but it has the problem of steadily increasing the error, which is why we want to use Leaky ReLU, to sustain negative updates.
+
+*The most efficient network* is the one thtat r
 
