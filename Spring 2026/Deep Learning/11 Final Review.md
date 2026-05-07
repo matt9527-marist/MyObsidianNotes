@@ -131,4 +131,7 @@ Through variational autoencoders, instead of simply finding or creating the late
 
 We describe the loss and regularization terms:
 1) *Continuity*: Points that are close in latent space map to similar content after decoding 
-2) *Completeness*: If we 
+2) *Completeness*: If we choose any random value in our latent space, we want it to be meaningful content after decoding. 
+Encoding a distribution does not preserve these properties! 
+
+**Latent Space Disentanglement with B-VAEs**
