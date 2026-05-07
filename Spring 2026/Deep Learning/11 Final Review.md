@@ -62,5 +62,5 @@ Uses nonlinear activation functions. A combination of linear activation function
 - Validation is the data used to measure the bias of the fitted model to the training dataset, giving an estimate of overfitting. 
 - Testing is the data we use to evaluate the performance of the model.
 
-
+**Stochastic Gradient Descent SDG**
 
