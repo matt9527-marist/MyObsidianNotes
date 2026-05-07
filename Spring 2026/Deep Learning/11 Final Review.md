@@ -70,4 +70,9 @@ Find the network weights to achieve the lowest loss.
 As our batch size becomes larger, we will converge to a sharp minimizer, so we will have weaker predictions. We want something that is smoother. There is also higher computational cost. 
 
 **Feature Scaling**
-Without properly scaling, we may end up in a zig-zag learning pattern, 
+Without properly scaling, we may end up in a zig-zag learning pattern, since the data might not be normalized around 0. 
+
+**Batch Normalization**
+Feature scaling is good, but we may still see the shifting in the dsitribution of data as we move between the layers. 
+It's good to put BN() after fully connected or convolutional layers, but before nonlinearity. 
+BN() reduces 
