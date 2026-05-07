@@ -123,4 +123,12 @@ Separate the kernels to have faster computation.
 ### Autoencoders 
 Mapping an input to itself:
 - Create a **latent space**
-- Compress the 
+- Compress the data and also find the concept/meaning of the data. 
+
+### Generative Models 
+Generate some outcome by extending *autoencoders* to *variational autoencoders*.
+Through variational autoencoders, instead of simply finding or creating the latent space, we find the **distribution** behind that latent spacec (standard deviation and mean).
+
+We describe the loss and regularization terms:
+1) *Continuity*: Points that are close in latent space map to similar content after decoding 
+2) *Completeness*: If we 
