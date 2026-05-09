@@ -146,3 +146,30 @@ Play M episodes (full games)
 		and perform a gradient descent step (experience replays)
 ```
 
+### Review 
+**What is the state space of Go?**
+The possible legal configurations of a game of Go. State space is how many possible options can happen in this environment. For Go, it is 10^170. The board of Go is 19x19, and for each of the cells, we have 3 options. This is 3^(19x19).
+**What are the elements of RL?**
+State, action, distribution of rewards, trasition probability (policy), and discount factor. 
+**What is discounted return? What happens when we adjust gamma, the discounted return parameter?**
+Discounted return evaluates actions by the immediate reward received at a given state against the reward that has already been received earlier. Adjusting the parameter allows for the control of how much the reward is diminished over time, letting the agent focus on short vs. long-term rewards. The parameter is bounded between 0 and 1. If it is 0, this means that the past is not considered at all and only the immediate reward is evaluated, but if it is 1, all of the past rewards are considered. 
+**What is the Q-Table**
+The Q-table stores in a matrix Q-values mapped according to the state and available actions. 
+**When do we need deep learning to assist in RL programming?**
+When we have a large state space, we will have a very large Q-table. We instead want to use a deep learning network to learn a function for Q. Secondly, if we are not certain about the result, we want to use deep learning. 
+**What is the Bellman Equation?**
+The Bellman equation selects the best possible action Q from a given state-action pair in the Q-table. 
+**What is the number of output and input layers in a perceptron of deep reinforcement learning?**
+We have as input, the state, given to the network to try to approximate Q. The output will be the result S (states) of A (actions), the number of possible combinations of action and state. 
+**What are the inputs for Breakout (Atari) RL model?**
+We use as input for Atari Breakout grayscale images containing the game's pixel data.
+**What happens if we only use one image as the input for Atari Breakout RL?**
+It will fail to capture the positional changes in the player's paddle and other moving components of the game like the ball. 
+**What deep learning architecture is used for Atari Breakout RL?**
+We want to use a CNN because the input consists of images. 
+**What is the role of experience replay in a deep reinforcement learning network?**
+It can reduce the density of past instances by allowing the model to sample from past interactions for state, action, and reward instead of needing to learn off of only the newest step. 
+**Why do we need exploration in deep reinforcement learning?**
+Exploration is needed so that the network can gain experience and find the most optimal action to take. Consider that we have a Q-table of decisions, but we do not know initially the best action to take because it is only an estimation of the rewards. As we progress, we try to exploit once we do know the best decision. 
+**What is the main difference of loss function between deep reinforcement learning compared to regular deep learning methods?**
+Regular deep learning methods calculate loss according to a known target label, which does not change over time. Deep reinforcement learning, however, computes loss using a target that does change over time because it is only the agent's current estimate according to the state of what gives the best reward. 

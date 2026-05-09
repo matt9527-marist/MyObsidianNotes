@@ -2422,6 +2422,7 @@ SOWs
 Skills
 Specialist
 Societal
+Secondly
 Keras
 Key
 Kirchhoffs
@@ -3742,6 +3743,7 @@ aware
 affiliated
 acting
 adjustment
+assist
 Applications
 AI
 Analysis
@@ -4096,6 +4098,7 @@ Acknowledge
 Appropriate
 Action
 Agent
+Adjusting
 with
 without
 want
@@ -7728,6 +7731,7 @@ conduct
 cooperation
 continuing
 characterizes
+consists
 the
 to
 training
@@ -8188,6 +8192,7 @@ talking
 treatment
 truthful
 timeframes
+trasition
 being
 be
 by
@@ -8513,6 +8518,7 @@ battle
 bribery
 bracket
 bounce
+board
 explicitly
 experience
 error
@@ -8979,6 +8985,7 @@ ethics
 ethically
 explode
 encounter
+exploration
 programmed
 patterns
 program
@@ -9569,6 +9576,9 @@ prepare
 proposals
 payment
 prejudice
+positional
+player
+paddle
 Detecting
 Deepmind
 Dataset
@@ -12188,6 +12198,8 @@ disclose
 discriminate
 deceive
 discount
+discounted
+diminished
 future
 from
 feed
@@ -13603,6 +13615,7 @@ nuclear
 negotiations
 nepotism
 namespace
+newest
 yes
 yield
 your
