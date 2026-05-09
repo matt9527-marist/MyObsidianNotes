@@ -591,6 +591,8 @@ Legal
 License
 Legally
 Legality
+Linguistic
+Latent
 Relevant
 Reading
 Research
@@ -892,6 +894,7 @@ RFP
 Relationship
 ReinforcementLearning
 Reward
+Representing
 libraries
 learn
 learning
@@ -1238,6 +1241,7 @@ loose
 licensed
 laws
 loyalty
+lateral
 Graphing
 Google
 Game
@@ -1485,6 +1489,8 @@ Geographic
 GPL
 Governed
 Group
+GPT
+Gradually
 Charting
 Control
 Common
@@ -2423,6 +2429,9 @@ Skills
 Specialist
 Societal
 Secondly
+Signifier
+Semantics
+Semantic
 Keras
 Key
 Kirchhoffs
@@ -3744,6 +3753,8 @@ affiliated
 acting
 adjustment
 assist
+acros
+accumulate
 Applications
 AI
 Analysis
@@ -4373,6 +4384,8 @@ wisely
 widespread
 wrench
 weaker
+walking
+windows
 Python
 Performance
 Principle
@@ -4956,6 +4969,8 @@ Withholding
 Warning
 Written
 Willie
+WordNet
+Window
 is
 in
 if
@@ -5682,6 +5697,8 @@ French
 Foreign
 Failing
 Far
+Framework
+Family
 of
 or
 optimize
@@ -6013,6 +6030,7 @@ ordinary
 onus
 oil
 operational
+outsiders
 study
 simplified
 something
@@ -6704,6 +6722,14 @@ subcontractor
 sponsors
 satisfied
 selections
+stepping
+seq
+signified
+synonym
+suitable
+shall
+syntactic
+sports
 giving
 good
 generalizable
@@ -7004,6 +7030,7 @@ grace
 governments
 goods
 gossip
+gram
 computers
 computer
 can
@@ -7732,6 +7759,9 @@ cooperation
 continuing
 characterizes
 consists
+confusing
+comon
+captures
 the
 to
 training
@@ -8193,6 +8223,8 @@ treatment
 truthful
 timeframes
 trasition
+thinking
+topics
 being
 be
 by
@@ -8519,6 +8551,7 @@ bribery
 bracket
 bounce
 board
+body
 explicitly
 experience
 error
@@ -8986,6 +9019,9 @@ ethically
 explode
 encounter
 exploration
+encoder
+erorr
+embeddings
 programmed
 patterns
 program
@@ -9579,6 +9615,8 @@ prejudice
 positional
 player
 paddle
+proficient
+parmeters
 Detecting
 Deepmind
 Dataset
@@ -9924,6 +9962,8 @@ DVDs
 Delegation
 Decisions
 Discounted
+Developments
+Distributional
 regularities
 respect
 recognizing
@@ -10403,6 +10443,7 @@ reputation
 robotics
 receives
 recycling
+recurrent
 model
 mostly
 machine
@@ -10809,6 +10850,9 @@ markets
 maker
 mechanic
 mutual
+multitasking
+meanings
+motel
 hypothesis
 handwritten
 have
@@ -11085,6 +11129,7 @@ holder
 hear
 home
 hire
+hotel
 Execution
 Examples
 Economics
@@ -12200,6 +12245,7 @@ deceive
 discount
 discounted
 diminished
+decoder
 future
 from
 feed
@@ -12841,6 +12887,7 @@ Organizational
 Occur
 Ownership
 Observation
+Original
 kind
 know
 knowledge
@@ -13616,6 +13663,7 @@ negotiations
 nepotism
 namespace
 newest
+notion
 yes
 yield
 your
@@ -14456,6 +14504,7 @@ quirk
 qualification
 qualified
 qualifications
+questio
 Unsupervised
 UNION
 User
@@ -14944,6 +14993,7 @@ Bidder
 Behavior
 Being
 Bellman
+BERT
 just
 jagged
 json
