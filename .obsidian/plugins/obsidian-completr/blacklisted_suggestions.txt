@@ -9,3 +9,12 @@ handling
 \varDelta
 \log
 log
+connected
+require
+required
+requires
+Requires
+requirement
+requirements
+Requirements
+win
