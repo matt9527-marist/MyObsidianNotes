@@ -35,8 +35,7 @@
               "title": "11 Final Review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,11 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8311795c4e299f36",
+  "active": "c5d01b6419627bf0",
   "lastOpenFiles": [
+    "Spring 2026/Deep Learning/11 Final Review.md",
     "Spring 2026/Deep Learning/07 - Generative Models.md",
     "Spring 2026/Deep Learning/06 - Autoencoders and Attention Mechanism.md",
-    "Spring 2026/Deep Learning/11 Final Review.md",
     "Spring 2026/Deep Learning/Review.md",
     "conflict-files-obsidian-git.md",
     "Assets/Pasted image 20260507193323.png",
