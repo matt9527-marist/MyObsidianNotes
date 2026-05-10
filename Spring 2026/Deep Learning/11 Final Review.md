@@ -1,4 +1,4 @@
-### Intro 
+	### Intro 
 
 **AI Definitions**
 There is the ideal/rationl approach and the human approach:
