@@ -327,6 +327,9 @@ MPAA
 Music
 Markov
 Mechanism
+MPEG
+Modeling
+Maximize
 Learning
 Learn
 Let
@@ -595,6 +598,8 @@ Legality
 Linguistic
 Latent
 LESS
+Lossy
+Learned
 Relevant
 Reading
 Research
@@ -897,6 +902,8 @@ Reward
 Representing
 REQUIRED
 Replay
+Reconstruction
+Reparameterizing
 libraries
 learn
 learning
@@ -1246,6 +1253,9 @@ loyalty
 lateral
 lowest
 latent
+lossy
+lossless
+limitation
 Graphing
 Google
 Game
@@ -1499,6 +1509,7 @@ Giving
 Generative
 GANs
 GloVe
+GAN
 Charting
 Control
 Common
@@ -1975,6 +1986,7 @@ Changing
 CycleGANs
 Components
 Card
+CGANs
 Scikit
 Statistical
 Statistics
@@ -2452,6 +2464,9 @@ Semantics
 Semantic
 Systematic
 Seasonality
+Somewhat
+Sampling
+Slowly
 Keras
 Key
 Kirchhoffs
@@ -3246,6 +3261,8 @@ IFBs
 Increases
 Inadequate
 Impartial
+III
+Implementable
 and
 ability
 approximation
@@ -3780,6 +3797,9 @@ abstract
 autoencoders
 abstraction
 anomaly
+autoencoder
+attach
+adversarial
 Applications
 AI
 Analysis
@@ -4139,6 +4159,10 @@ Allow
 Autoencoders
 Adversarial
 Anomaly
+Autoencoding
+Audio
+Append
+Autoencoder
 with
 without
 want
@@ -4788,6 +4812,9 @@ Pseudocode
 Pictures
 Points
 Payment
+Priors
+Perturbation
+Providing
 What
 We
 With
@@ -5459,6 +5486,9 @@ invoices
 impartially
 isolated
 indicating
+imitation
+imply
+indistinguishable
 Field
 For
 Find
@@ -5736,6 +5766,7 @@ Family
 Features
 FULLY
 Fraud
+Following
 of
 or
 optimize
@@ -6068,6 +6099,8 @@ onus
 oil
 operational
 outsiders
+outputting
+opposing
 study
 simplified
 something
@@ -6774,6 +6807,14 @@ spacec
 smiling
 semantically
 seasonality
+simplification
+sounds
+sampled
+shadows
+smooth
+stays
+successes
+sharper
 giving
 good
 generalizable
@@ -7075,6 +7116,7 @@ governments
 goods
 gossip
 gram
+gradually
 computers
 computer
 can
@@ -7810,6 +7852,11 @@ children
 content
 conditioning
 consistency
+compressing
+char
+completeness
+competition
+creativity
 the
 to
 training
@@ -8274,6 +8321,9 @@ trasition
 thinking
 topics
 translational
+timesteps
+textual
+trick
 being
 be
 by
@@ -8603,6 +8653,7 @@ board
 body
 beat
 besides
+believed
 explicitly
 experience
 error
@@ -9073,6 +9124,11 @@ exploration
 encoder
 erorr
 embeddings
+engineered
+encoders
+encodings
+encodes
+encourage
 programmed
 patterns
 program
@@ -9668,6 +9724,12 @@ player
 paddle
 proficient
 parmeters
+practical
+projections
+possile
+prolem
+pushes
+plausible
 Detecting
 Deepmind
 Dataset
@@ -10017,6 +10079,9 @@ Developments
 Distributional
 Definitions
 Disentanglement
+Decoder
+Difference
+Determinstic
 regularities
 respect
 recognizing
@@ -10497,6 +10562,12 @@ rapidly
 remembered
 recurrence
 repeating
+regenerate
+recreation
+reconstruct
+reconstructed
+reconstruction
+remove
 model
 mostly
 machine
@@ -10911,6 +10982,9 @@ minimizer
 modeled
 mappings
 mearnings
+minimax
+minimization
+mimic
 hypothesis
 handwritten
 have
@@ -11495,6 +11569,9 @@ Engage
 Exploration
 Exploitation
 Enforce
+Encode
+Encoder
+Encourages
 using
 utility
 use
@@ -11784,6 +11861,9 @@ unregistered
 unethical
 unpaired
 unsystematic
+unusual
+unsupervised
+upsampling
 data
 driven
 dataset
@@ -12312,6 +12392,15 @@ dsitribution
 discarded
 decoding
 discriminator
+deocmpression
+decompression
+decompressed
+degraded
+denoising
+decode
+danger
+downsampling
+diversity
 future
 from
 feed
@@ -12688,6 +12777,9 @@ favoritism
 finitely
 facing
 fake
+fight
+fakes
+forces
 Optimziation
 Operations
 Once
@@ -12957,6 +13049,7 @@ Occur
 Ownership
 Observation
 Original
+Outlier
 kind
 know
 knowledge
@@ -14384,6 +14477,7 @@ Napster
 Notices
 Negotiation
 Noise
+Normal
 quality
 question
 quickly
@@ -15422,6 +15516,8 @@ Validate
 VLC
 Vendor
 VAEs
+Variational
+VAE
 zero
 zu
 zj
@@ -15779,6 +15875,7 @@ Joining
 JUnit
 Junit
 June
+JPEG
 You
 Yw
 Ygy
