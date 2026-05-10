@@ -330,6 +330,9 @@ Mechanism
 MPEG
 Modeling
 Maximize
+Multivariate
+Marginal
+Methodology
 Learning
 Learn
 Let
@@ -600,6 +603,8 @@ Latent
 LESS
 Lossy
 Learned
+Longitudinal
+Lags
 Relevant
 Reading
 Research
@@ -904,6 +909,7 @@ REQUIRED
 Replay
 Reconstruction
 Reparameterizing
+Regressive
 libraries
 learn
 learning
@@ -1987,6 +1993,11 @@ CycleGANs
 Components
 Card
 CGANs
+Counterfactual
+Covariates
+Correlation
+Clustering
+Confounding
 Scikit
 Statistical
 Statistics
@@ -2467,6 +2478,11 @@ Seasonality
 Somewhat
 Sampling
 Slowly
+Souce
+Starionary
+Strictly
+Stationary
+Spurious
 Keras
 Key
 Kirchhoffs
@@ -3263,6 +3279,7 @@ Inadequate
 Impartial
 III
 Implementable
+Identification
 and
 ability
 approximation
@@ -3800,6 +3817,12 @@ anomaly
 autoencoder
 attach
 adversarial
+air
+association
+affecting
+autocorrelation
+absorption
+anomay
 Applications
 AI
 Analysis
@@ -4163,6 +4186,14 @@ Autoencoding
 Audio
 Append
 Autoencoder
+Autoregressive
+ARMA
+Assumption
+Autocorrelation
+ACF
+ARIMA
+ACFs
+Anomalies
 with
 without
 want
@@ -4439,6 +4470,7 @@ weaker
 walking
 windows
 wherever
+wear
 Python
 Performance
 Principle
@@ -4815,6 +4847,8 @@ Payment
 Priors
 Perturbation
 Providing
+Parameter
+Prognostic
 What
 We
 With
@@ -5031,6 +5065,7 @@ Willie
 WordNet
 Window
 WINOW
+White
 is
 in
 if
@@ -5489,6 +5524,9 @@ indicating
 imitation
 imply
 indistinguishable
+influences
+invariant
+integrated
 Field
 For
 Find
@@ -6815,6 +6853,14 @@ smooth
 stays
 successes
 sharper
+spike
+sectional
+spurious
+strictly
+sudies
+stationary
+sometime
+specious
 giving
 good
 generalizable
@@ -7857,6 +7903,16 @@ char
 completeness
 competition
 creativity
+cna
+confounding
+confounder
+contextual
+coat
+covariates
+credit
+capturing
+clamp
+cyclical
 the
 to
 training
@@ -8324,6 +8380,9 @@ translational
 timesteps
 textual
 trick
+travel
+traveling
+textbook
 being
 be
 by
@@ -9129,6 +9188,8 @@ encoders
 encodings
 encodes
 encourage
+explanatory
+epidemiology
 programmed
 patterns
 program
@@ -9730,6 +9791,7 @@ possile
 prolem
 pushes
 plausible
+prognosis
 Detecting
 Deepmind
 Dataset
@@ -10082,6 +10144,8 @@ Disentanglement
 Decoder
 Difference
 Determinstic
+Differencing
+Diagnostic
 regularities
 respect
 recognizing
@@ -10568,6 +10632,11 @@ reconstruct
 reconstructed
 reconstruction
 remove
+raining
+restriction
+regressive
+relates
+retained
 model
 mostly
 machine
@@ -10985,6 +11054,8 @@ mearnings
 minimax
 minimization
 mimic
+methodology
+miscalculation
 hypothesis
 handwritten
 have
@@ -11262,6 +11333,7 @@ hear
 home
 hire
 hotel
+holiday
 Execution
 Examples
 Economics
@@ -11572,6 +11644,8 @@ Enforce
 Encode
 Encoder
 Encourages
+Estimation
+Explanatory
 using
 utility
 use
@@ -12401,6 +12475,8 @@ decode
 danger
 downsampling
 diversity
+differentiated
+deviating
 future
 from
 feed
@@ -13050,6 +13126,8 @@ Ownership
 Observation
 Original
 Outlier
+Ordinary
+OLS
 kind
 know
 knowledge
@@ -13488,6 +13566,7 @@ varying
 violation
 vague
 variational
+variances
 numerical
 no
 need
@@ -14244,6 +14323,7 @@ Hierarchical
 Help
 Honor
 Hand
+HMM
 Not
 NOTHING
 No
