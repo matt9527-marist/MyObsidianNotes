@@ -35,7 +35,8 @@
               "title": "11 Final Review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5d01b6419627bf0",
+  "active": "8311795c4e299f36",
   "lastOpenFiles": [
-    "Spring 2026/Deep Learning/11 Final Review.md",
     "Spring 2026/Deep Learning/10 - Introduction to NLP Models.md",
+    "Spring 2026/Deep Learning/11 Final Review.md",
     "Spring 2026/Capping/10 Software Testing.md",
     "Spring 2026/Capping/12 Procurement and Ethics.md",
     "Spring 2026/Capping/09 Teamwork and Human Resources.md",
