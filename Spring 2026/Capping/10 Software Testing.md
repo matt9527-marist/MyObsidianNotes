@@ -179,7 +179,7 @@ pursue other work
 	– This can be ideal work for a computer!  
 ● Example: Command line interface  
 	– Have test cases that call commands, and parse  
-the output  
+	the output  
 	– If there is a direct relationship between input and  
 	output, this can be checked for programmatically
 
