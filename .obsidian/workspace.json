@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 2026/Deep Learning/07 - Generative Models.md",
+                "file": "Spring 2026/Deep Learning/08 - Time Series Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Generative Models"
+              "title": "08 - Time Series Analysis"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "8311795c4e299f36",
   "lastOpenFiles": [
-    "Spring 2026/Deep Learning/06 - Autoencoders and Attention Mechanism.md",
     "Spring 2026/Deep Learning/07 - Generative Models.md",
+    "Spring 2026/Deep Learning/06 - Autoencoders and Attention Mechanism.md",
     "Spring 2026/Deep Learning/Review.md",
     "Untitled.md",
     "Spring 2026/Deep Learning/11 Final Review.md",
