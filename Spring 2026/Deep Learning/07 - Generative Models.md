@@ -153,7 +153,7 @@ This indicates that the model has not learned the full distribution, or the dist
 *Why does the generator use upsampling while the discriminator uses downsampling?*
 The generator takes an already compressed latent representation to generate a much larger size image. The discriminator has merely a binary choice, and therefore, it takes a large amount of data to make a smaller decision. 
 *Why is the generator often compared to a decoder in autoencoders and what is the key difference?*
-The generator is compared to the decoder because it similarly takes the latent variable to produce output samples. The difference is that it is a deterministic prolem with autoencoders. The input is directly compared with the output?
+The generator is compared to the decoder because it similarly takes the latent variable to produce output samples. The difference is that it is a deterministic prolem with autoencoders. The input is directly compared with the output.
 *If GANs do not explicitly model probability distributions, how do they still generate realistic data?*
 The competition between the generator and the discriminator forces realistic data to eventually be generated. In the generator's attempts to fool the discriminator, it gradually learns to map the noise into outputs that mimic structures and patterns in reality. 
 *Why are GAN-generated images generally sharper than VAE-generated images?*

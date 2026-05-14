@@ -1,4 +1,4 @@
-### Intro 
+	### Intro 
 
 **AI Definitions**
 There is the ideal/rationl approach and the human approach:
@@ -127,7 +127,7 @@ Mapping an input to itself:
 
 ### Generative Models 
 Generate some outcome by extending *autoencoders* to *variational autoencoders*.
-Through variational autoencoders, instead of simply finding or creating the latent space, we find the **distribution** behind that latent spacec (standard deviation and mean).
+Through variational autoencoders, instead of simply finding or creating the latent space, we find the **distribution** behind that latent space (standard deviation and mean).
 
 We describe the loss and regularization terms:
 1) *Continuity*: Points that are close in latent space map to similar content after decoding 
