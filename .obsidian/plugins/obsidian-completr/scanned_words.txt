@@ -319,6 +319,7 @@ MYq
 Mnxt
 MHx
 Maa
+Mechanism
 Learning
 Learn
 Let
@@ -644,7 +645,6 @@ Ratio
 Repeated
 Rule
 Recipe
-Requires
 Replicated
 Real
 Reduces
@@ -819,7 +819,6 @@ Reuses
 Reordering
 Remaining
 Raspberry
-Requirements
 Revocation
 Reliability
 Rosenblatt
@@ -862,6 +861,7 @@ Reward
 RKG
 Representing
 REQUIRED
+Replay
 libraries
 learn
 learning
@@ -1452,6 +1452,7 @@ Grj
 GPT
 Gradually
 Giving
+GloVe
 Charting
 Control
 Common
@@ -1877,6 +1878,14 @@ CCCa
 CXH
 Chess
 CONNECTED
+Colorful
+Continuity
+Completeness
+Changing
+CycleGANs
+Card
+Complex
+Capture
 Scikit
 Statistical
 Statistics
@@ -3602,6 +3611,7 @@ absorbing
 assist
 abstract
 advantages
+abstraction
 Applications
 AI
 Analysis
@@ -3940,6 +3950,7 @@ AAAB
 Aä
 AHJ
 Adjusting
+Allow
 with
 without
 want
@@ -4212,7 +4223,6 @@ wSp
 wFDA
 wrR
 wva
-win
 weaker
 wNL
 wOm
@@ -4560,6 +4570,9 @@ Pul
 PeCTo
 PEs
 PSU
+Pictures
+Points
+Payment
 What
 We
 With
@@ -5199,6 +5212,7 @@ iFHaDA
 iig
 ijB
 interactions
+indicating
 Field
 For
 Find
@@ -5474,6 +5488,7 @@ Framework
 Family
 Features
 FULLY
+Fraud
 of
 or
 optimize
@@ -6447,6 +6462,8 @@ sports
 steadily
 sustain
 samping
+spacec
+smiling
 giving
 good
 generalizable
@@ -6974,7 +6991,6 @@ computations
 communicated
 channels
 cluster
-connected
 costly
 contention
 cycles
@@ -7417,6 +7433,8 @@ captures
 consists
 causes
 children
+content
+conditioning
 the
 to
 training
@@ -7844,6 +7862,7 @@ thinking
 topics
 trasition
 translational
+third
 being
 be
 by
@@ -8172,6 +8191,7 @@ bUC
 bON
 body
 beat
+besides
 explicitly
 experience
 error
@@ -9546,7 +9566,6 @@ referred
 reference
 rely
 reduces
-require
 releases
 restrict
 reason
@@ -9582,7 +9601,6 @@ referencing
 running
 requests
 refresher
-required
 returned
 raw
 reducing
@@ -9604,7 +9622,6 @@ rising
 runtime
 red
 rarely
-requires
 road
 regions
 ranks
@@ -9820,7 +9837,6 @@ representations
 restart
 reading
 removing
-requirement
 retrieves
 ransomware
 ransom
@@ -9860,7 +9876,6 @@ reality
 recent
 relying
 resides
-requirements
 randomize
 respawning
 recv
@@ -9915,6 +9930,7 @@ recurrent
 rationl
 repository
 rapidly
+remembered
 model
 mostly
 machine
@@ -10311,6 +10327,8 @@ meanings
 motel
 meta
 minimizer
+mappings
+mearnings
 hypothesis
 handwritten
 have
@@ -10594,6 +10612,7 @@ hPR
 hFDDDDD
 hfBj
 hotel
+history
 Execution
 Examples
 Economics
@@ -11174,6 +11193,8 @@ ujEFF
 usP
 uWX
 uPJ
+unpaired
+unsystematic
 data
 driven
 dataset
@@ -11667,6 +11688,7 @@ discounted
 diminished
 disadvantages
 dsitribution
+discarded
 future
 from
 feed
@@ -12746,6 +12768,7 @@ variances
 vLE
 vbz
 vTK
+variational
 numerical
 no
 need
@@ -14444,6 +14467,7 @@ Bellman
 Bqd
 BNU
 BERT
+Bidirectional
 just
 jagged
 json
