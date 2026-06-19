@@ -11,10 +11,14 @@
             "id": "89d87f3e6a6c44bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "College/Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "005 Diffie Hellman and RSA"
             }
           }
         ]
@@ -169,6 +173,8 @@
   },
   "active": "89d87f3e6a6c44bc",
   "lastOpenFiles": [
+    "College/Security Protocols-Algorithms/007 PKI II.md",
+    "College/Security Protocols-Algorithms/006 PKI.md",
     "College/Deep Learning/09 - Deep Reinforcement Learning.md",
     "College",
     "College/Deep Learning/11 Final Review.md",
@@ -204,7 +210,6 @@
     "Spring 2026/Deep Learning/04.md",
     "College/Spring 2026/Capping/04 Logging.md",
     "College/Spring 2026/Capping/05 Software Packaging.md",
-    "College/Spring 2026/Capping/03 Metrics Database and Metrics Collection.md",
     "College/Spring 2026/Capping",
     "College/Deep Learning",
     "Fall 2025",
