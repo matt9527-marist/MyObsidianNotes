@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Security Protocols-Algorithms/008 Summary.md",
+                "file": "College/Security Protocols-Algorithms/003 Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008 Summary"
+              "title": "003 Hashing"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "89d87f3e6a6c44bc",
   "lastOpenFiles": [
+    "College/Security Protocols-Algorithms/008 Summary.md",
     "College/Security Protocols-Algorithms/007 PKI II.md",
     "College/Security Protocols-Algorithms/006 PKI.md",
     "College/Security Protocols-Algorithms/005 Diffie Hellman and RSA.md",
@@ -209,7 +210,6 @@
     "College/Spring 2026/Capping/08 Remote Communications.md",
     "College/Spring 2026/Capping/07 Version Control.md",
     "Spring 2026/Deep Learning/04.md",
-    "College/Spring 2026/Capping/04 Logging.md",
     "College/Spring 2026/Capping",
     "College/Deep Learning",
     "Fall 2025",
